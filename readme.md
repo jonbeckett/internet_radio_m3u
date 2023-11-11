@@ -7,6 +7,6 @@ http://de1.api.radio-browser.info/json/stations
 
 The script creates a CSV of country codes, and a file for each country code with the MP3 radio stations in that country.
 
-The included M3U files were generated on 2023-11-11.
+The included JSON and M3U files (zipped) were generated on 2023-11-11.
 
 Feel free to modify!
