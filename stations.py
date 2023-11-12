@@ -1,9 +1,12 @@
+# This script extracts and transforms data from the JSON output of the radio browser project (see the readme)
+# All of it's output is written to the output subdirectory
+
 import json
 
-print("Reading Stations File")
 
 def clean_url(url):
   return url.replace(";","")
+
 
 def encodeXMLText(text):
     text = text.replace("&", "&amp;")
@@ -13,10 +16,12 @@ def encodeXMLText(text):
     text = text.replace(">", "&gt;")
     return text
 
+
 def get_countries(stations):
   countries = ([(s['countrycode'].upper(), s['country']) for s in stations])
   countries = sorted(list(set(countries)))
   return countries
+
 
 def create_countries_csv_file(countries):
   print("Creating Countries CSV file")
@@ -24,11 +29,13 @@ def create_countries_csv_file(countries):
     for country in countries:
       countries_file.write("\"" + country[0] + "\",\"" + country[1] + "\"\n")
 
+
 def create_countries_txt_file(countries):
   print("Creating Countries TXT file")
   with open('output/countries.txt', 'w', encoding='utf-8') as countries_file:
     for country in countries:
       countries_file.write(country[0] + " " + country[1] + "\n")
+
 
 def create_m3u_file(countrycode, stations):
   print("Creating M3U file for " + countrycode)
@@ -135,6 +142,7 @@ def create_html_file(countries, stations):
 
 
 with open('input/stations.json', encoding='utf-8') as stations_file:
+
   stations = json.load(stations_file)
 
   countries = get_countries(stations)
