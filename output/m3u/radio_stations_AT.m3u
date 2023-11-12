@@ -1,7 +1,5 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations
-#EXTINF:-1 . Islam call 
-https://n0c.radiojar.com/59096z743d0uv?rj-ttl=5&rj-tok=AAABhd07tHIAJ2GRl2KNynaKow
 #EXTINF:-1 1000 ELECTRONIC DANCE MUSIC
 http://stream.laut.fm/1000-electronic-dance-music
 #EXTINF:-1 1000-ELECTRONIC-DANCE-MUSIC
@@ -60,12 +58,6 @@ http://stream.laut.fm/austria-kultradio
 https://stream.zeno.fm/c6e7ttwg0aqtv
 #EXTINF:-1 Austrian Rock Radio
 http://live.antenne.at/arr
-#EXTINF:-1 Austrian Rock Radio
-http://live.antenne.at/arr
-#EXTINF:-1 Austrian Rock Radio
-http://live.antenne.at/arr
-#EXTINF:-1 Austrian Rock Radio
-http://live.antenne.at/arr
 #EXTINF:-1 AustrianKultRadio
 https://stream.zeno.fm/c6e7ttwg0aqtv
 #EXTINF:-1 AustrianPub-Radio
@@ -90,8 +82,6 @@ http://stream.laut.fm/chromatique-sky
 http://live.radiomax.technology/city23
 #EXTINF:-1 Darksynth Radio
 http://stream.laut.fm/darksynthradio
-#EXTINF:-1 Dein Salzkammergutradio
-http://rs2.myradio24.de:8410/stream
 #EXTINF:-1 Dein Salzkammergutradio
 http://rs2.myradio24.de:8410/stream
 #EXTINF:-1 DrumandBass.FM
@@ -138,28 +128,14 @@ http://jazz.w3.at:8000/w3jazz.mp3
 http://s8.iqstreaming.com:8060/;stream.nsv
 #EXTINF:-1 Kronehit
 http://onair.krone.at/kronehit.mp3
-#EXTINF:-1 Kronehit
-http://onair.krone.at/kronehit.mp3
-#EXTINF:-1 Kronehit
-http://onair.krone.at/kronehit.mp3
-#EXTINF:-1 Kronehit
-http://onair.krone.at/kronehit.mp3
-#EXTINF:-1 Kronehit
-http://onair.krone.at/kronehit.mp3
 #EXTINF:-1 KroneHit - Hardstyle
 https://secureonair.krone.at/kronehit16.mp3
-#EXTINF:-1 Kronehit 90s Dance
-https://secureonair.krone.at/kronehit21.mp3
 #EXTINF:-1 Kronehit AustroPOP
 https://secureonair.krone.at/kronehit17.mp3
-#EXTINF:-1 Kronehit Dance
-https://secureonair.krone.at/kronehit23.mp3
 #EXTINF:-1 KroneHit Digital
 http://onair-ha1.krone.at/kronehit1058.mp3
 #EXTINF:-1 Kronehit Disco
 http://secureonair.krone.at/kronehit03.mp3
-#EXTINF:-1 Kronehit Greatesthits
-https://secureonair.krone.at/kronehit13.mp3
 #EXTINF:-1 Kronehit Greatesthits
 https://secureonair.krone.at/kronehit13.mp3
 #EXTINF:-1 Kronehit Love
@@ -174,8 +150,6 @@ https://streaming.radio.co/sba5c95896/listen
 https://stream8.liferadio.at/
 #EXTINF:-1 Life Radio Classic Rock 
 https://stream11.liferadio.at/
-#EXTINF:-1 Life Radio Tirol
-https://stream.liferadio.tirol/live/mp3-192/link
 #EXTINF:-1 Lounge.FM - 100% Austria
 https://s35.derstream.net/100austria.mp3
 #EXTINF:-1 LoungeFM 100% Austria
@@ -192,12 +166,6 @@ http://www.mojradio.net/play/playlist.pls
 https://mountainreggaeradio.stream.laut.fm/mountainreggaeradio
 #EXTINF:-1 museumsradio
 https://museum.streamserver24.com:8080/stream
-#EXTINF:-1 museumsradio
-https://museum.streamserver24.com:8080/stream
-#EXTINF:-1 museumsradio
-https://museum.streamserver24.com:8080/stream
-#EXTINF:-1 museumsradio
-https://museum.streamserver24.com:8080/stream
 #EXTINF:-1 Museumsradio AM 1476
 https://museum.streamserver24.com:8080/stream
 #EXTINF:-1 NJoy Radio 88.2 Steiermark
@@ -206,16 +174,10 @@ http://live.njoyradio.at/njoy
 http://stream.erf.at:8000/nowradio_128
 #EXTINF:-1 Now Radio 192k
 http://stream.erf.at:8000/nowradio_192
-#EXTINF:-1 Now Radio 192k
-http://stream.erf.at/nowradio_192
 #EXTINF:-1 Now Radio 320k
 http://stream.erf.at:8000/nowradio_320
 #EXTINF:-1 Now Radio 96k
 http://stream.erf.at:8000/nowradio_96
-#EXTINF:-1 Now Radio 96k
-http://stream.erf.at/nowradio_96
-#EXTINF:-1 Ö3
-https://ors-sn03.ors-shoutcast.at/wie-q1a
 #EXTINF:-1 Ö3
 https://ors-sn03.ors-shoutcast.at/wie-q1a
 #EXTINF:-1 oe3
@@ -226,26 +188,10 @@ http://streams.norawebstreams.de/oldieparty/mp3-192/vtuner/
 https://securestream.o94.at/live.mp3
 #EXTINF:-1 ORF Hitradio Ö3
 http://orf-live.ors-shoutcast.at/oe3-q1a
-#EXTINF:-1 ORF Hitradio Ö3
-https://orf-live.ors-shoutcast.at/oe3-q1a
-#EXTINF:-1 ORF Hitradio Ö3
-https://orf-live.ors-shoutcast.at/oe3-q2a.m3u
-#EXTINF:-1 ORF Ö1
-https://orf-live.ors-shoutcast.at/oe1-q1a
-#EXTINF:-1 ORF Ö1
-https://orf-live.ors-shoutcast.at/oe1-q2a
 #EXTINF:-1 ORF Ö1 Campus
 https://orf-live.ors-shoutcast.at/campus-q1a
-#EXTINF:-1 ORF Ö1 Campus
-https://orf-live.ors-shoutcast.at/campus-q2a
-#EXTINF:-1 ORF Radio Kärnten
-http://ors-sn02.ors-shoutcast.at/ktn-q1a
-#EXTINF:-1 ORF Radio Oberösterreich
-https://orf-live.ors-shoutcast.at/ooe-q2a.m3u
 #EXTINF:-1 ORF Radio Salzburg neu http
 http://orf-live.ors-shoutcast.at/sbg-q2a
-#EXTINF:-1 ORF Radio Wien
-http://orf-live.ors-shoutcast.at/wie-q2a.m3u
 #EXTINF:-1 ORF Radio Wien
 http://orf-live.ors-shoutcast.at/wie-q2a.m3u
 #EXTINF:-1 ORF Tirol http
@@ -352,8 +298,6 @@ https://live.u1-radio.at/
 https://radiovm1.fluidstream.eu/radiovm1.mp3
 #EXTINF:-1 Radio Vorarlberg
 https://orf-live.ors-shoutcast.at/vbg-q1a
-#EXTINF:-1 Radio Vorarlberg
-https://orf-live.ors-shoutcast.at/vbg-q2a
 #EXTINF:-1 Radio Vorarlberg neu
 http://orf-live.ors-shoutcast.at/vbg-q2a
 #EXTINF:-1 Radio Wien neu
@@ -392,8 +336,6 @@ http://musikwelle.com:8000/stream.mp3
 https://simba.streampanel.cloud:5280/stream
 #EXTINF:-1 Styrialounge
 http://styrialounge.out.airtime.pro:8000/styrialounge_a
-#EXTINF:-1 Styrialounge
-https://styrialounge.out.airtime.pro/styrialounge_a
 #EXTINF:-1 Superfly FM
 http://stream01.superfly.fm:8080/live128
 #EXTINF:-1 T-Rock

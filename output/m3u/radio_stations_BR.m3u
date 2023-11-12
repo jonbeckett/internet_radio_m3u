@@ -4,18 +4,12 @@
 https://backup.qurango.net/radio/ahmad_khader_altarabulsi
 #EXTINF:-1 .Quran
 https://backup.qurango.net/radio/ahmad_khader_altarabulsi
-#EXTINF:-1 .Quran
-https://backup.qurango.net/radio/ahmad_khader_altarabulsi
 #EXTINF:-1 101.9 Radio Educativa - Campinas
 http://streaming.ima.sp.gov.br:8000/educativa.mp3
 #EXTINF:-1 104 (Porto Alegre)
 http://cast4.audiostream.com.br:8651/mp3
 #EXTINF:-1 104 FM Natal
 http://radios.braviahost.com.br:8000/radio.mp3
-#EXTINF:-1 104 FM Natal
-https://radios.braviahost.com.br:2020/tunein/radio104fm/radio.mp3/pls
-#EXTINF:-1 104 FM Natal
-https://radios.braviahost.com.br:2020/tunein/radio104fm/radio.mp3/pls
 #EXTINF:-1 104.7 Universitária - UFES
 https://everest.radionanet.com:8990/stream
 #EXTINF:-1 105 FM - É só alegria!
@@ -24,16 +18,12 @@ https://appradio.app:8010//live
 http://www.appradio.app:8010//live
 #EXTINF:-1 107.5 Educadora FM
 https://streaming.educadora.irdeb.ba.gov.br/stream-01
-#EXTINF:-1 107.5 Educadora FM
-https://streaming.educadora.irdeb.ba.gov.br/stream-01
 #EXTINF:-1 91 Rock - Curitiba (web)
 http://servidor40.brlogic.com:8044/live
 #EXTINF:-1 94 FM CORDEIRO-RJ
 http://s17.hstbr.net:8040/live?1601949995965
 #EXTINF:-1 96 Fm - Arapiraca Alagoas
 http://23.92.209.210:9300/stream
-#EXTINF:-1 96 Fm - Arapiraca Alagoas
-https://www.appradio.app:8182/live
 #EXTINF:-1 96 Fm Arapiraca
 http://96fmarapiraca.com.br:9300/;
 #EXTINF:-1 97 Rock Web Radio
@@ -46,8 +36,6 @@ https://ssl.hdradios.net:15652/;
 http://stream.zeno.fm/588dt1kykd0uv
 #EXTINF:-1 Amazon Gospel
 http://directradios.net:8197/;
-#EXTINF:-1 América Dance 90's
-http://stm8.srvstm.com:8212/;
 #EXTINF:-1 Amor FM
 https://r10.ciclano.io:15067/stream
 #EXTINF:-1 Antena 1 Rio de Janeiro, RJ (ZYD 463, 103,7 MHz FM)
@@ -64,10 +52,6 @@ https://ec2.yesstreaming.net:3925/stream
 http://streaming31.hstbr.net:8230/live
 #EXTINF:-1 Atos FM
 https://s.bul.tec.br:8020/128
-#EXTINF:-1 Aurora Sertaneja 
-https://s1.bycast.com.br:8036/live
-#EXTINF:-1 Aurora Sertaneja 
-https://s1.bycast.com.br:8036/live
 #EXTINF:-1 Aurora Sertaneja 
 https://s1.bycast.com.br:8036/live
 #EXTINF:-1 Band FM 102.7
@@ -172,8 +156,6 @@ https://centova.svdns.com.br:19373/stream/2/
 http://148.72.158.239:8161/live
 #EXTINF:-1 Groove Wave Lounge
 https://stm1.srvif.com:7576/;
-#EXTINF:-1 Hitz FM
-https://stream-162.zeno.fm/lfdwdj7xfantv?zs=iBTZO1K7RAKR0AXO34sf0g
 #EXTINF:-1 Hitz FM - 80s
 https://stream-157.zeno.fm/a9lb3jrylnjtv?zs=3UtyIXYJS0-5CEQIzGhSqg
 #EXTINF:-1 Hunter FM - 80s
@@ -244,8 +226,6 @@ https://www.radios.com.br/play/playlist/13694/listen-radio.pls
 https://21933.live.streamtheworld.com/MIXFM_BRASILIA.mp3
 #EXTINF:-1 Mix Fm Teresina
 https://webradio.amsolution.com.br/radio/8080/mix
-#EXTINF:-1 Mix Fm Teresina
-https://webradio.amsolution.com.br/radio/8080/mix
 #EXTINF:-1 mkkweb radio
 https://servidor34-1.brlogic.com:8096/live?source=site
 #EXTINF:-1 MNS FM - WebRadio From S
@@ -258,8 +238,6 @@ http://192.99.14.210:8339/stream
 https://servidor28-3.brlogic.com:8124/live?source=website
 #EXTINF:-1 Mundial (Ijuí)
 https://centova4.transmissaodigital.com:20071/;
-#EXTINF:-1 Mundial Rock
-https://azura.mundialmusic.net/radio/8010/radio.mp3
 #EXTINF:-1 Mundial Rock
 https://azura.mundialmusic.net/radio/8010/radio.mp3
 #EXTINF:-1 Mundo Livre FM Londrina 93,1
@@ -338,8 +316,6 @@ https://hts04.kshost.com.br:11198/live
 https://stm.smghosting.com.br:15150/stream/stream;?1658967282374
 #EXTINF:-1 Radio Ativa Bom Despacho
 http://148.72.158.239:8036/live
-#EXTINF:-1 Radio Ativa Bom Despacho
-http://148.72.158.239:8036/live
 #EXTINF:-1 Radio Aurora FM
 http://radios.digital:8042/stream
 #EXTINF:-1 Rádio AZS
@@ -362,8 +338,6 @@ https://webradio.amsolution.com.br/radio/8290/boa
 https://stream2.svrdedicado.org/8064/stream
 #EXTINF:-1 Rádio Bossa Nova Brazil
 http://54.38.43.201:8009/stream-128kmp3-BossaNovaBrazil
-#EXTINF:-1 Rádio Bossa Nova Brazil
-http://54.38.43.201:8009/stream-128kmp3-BossaNovaBrazil
 #EXTINF:-1 Rádio Brasil Campinas
 http://streaming04.hstbr.net:8190/live
 #EXTINF:-1 Rádio Brasileiríssima
@@ -374,27 +348,17 @@ https://stm6.xcast.com.br:9328/;?1685284162874
 https://s01.transmissaodigital.com:7096/stream
 #EXTINF:-1 Rádio Carioca 710 AM
 http://centova11.ipstm.net:13008/stream?1665102437059
-#EXTINF:-1 Rádio Carioca 710 AM
-http://centova11.ipstm.net:13008/stream?1665102437059
 #EXTINF:-1 Radio Castelo Forte
 http://03.stmip.net:8076/;
 #EXTINF:-1 Rádio Caverá FM 87.9
 https://s05.maxcast.com.br:8012/live?id=692006007223
 #EXTINF:-1 Rádio CBN Vitória 92.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_VITORIA.mp3?dist=web
-#EXTINF:-1 Rádio CBN Vitória 92.5 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_VITORIA.mp3
 #EXTINF:-1 rádio ccr fm
 http://179.127.4.122:8324/stream
 #EXTINF:-1 Rádio Cidade - Jundiaí
 http://r18.ciclano.io:9693/stream?1653871323495
 #EXTINF:-1 Rádio Claretiana FM
-http://148.72.158.239:8021/live
-#EXTINF:-1 Rádio Claretiana FM Batatais
-http://148.72.158.239:8021/live
-#EXTINF:-1 Rádio Claretiana FM Batatais
-http://148.72.158.239:8021/live
-#EXTINF:-1 Rádio Claretiana FM Batatais
 http://148.72.158.239:8021/live
 #EXTINF:-1 Rádio Claretiana FM Batatais
 http://148.72.158.239:8021/live
@@ -412,8 +376,6 @@ https://stream.zeno.fm/q0rg3c5zsmzuv
 http://stream.ouveai.com.br:10720/live
 #EXTINF:-1 Rádio Criatividade FM
 https://s04.maxcast.com.br:8148/live
-#EXTINF:-1 Rádio Cristã Online
-https://servidor40.brlogic.com:8004/live
 #EXTINF:-1 Rádio cristã Online
 https://servidor40.brlogic.com:8004/live
 #EXTINF:-1 Radio Cristo em Casa
@@ -454,8 +416,6 @@ http://stream.zeno.fm/hwuwmm0dvp8uv
 http://stream.zeno.fm/vmd4znn8hg8uv
 #EXTINF:-1 Rádio Geografia Rock 
 https://servidor20.brlogic.com:7354/live
-#EXTINF:-1 Rádio Geografia Rock 
-https://servidor20.brlogic.com:7354/live
 #EXTINF:-1 Radio Germanica
 https://s18.maxcast.com.br:8983/live
 #EXTINF:-1 Rádio Girassol Belo Horizonte
@@ -490,10 +450,6 @@ https://servidor40-3.brlogic.com:8004/live
 https://stream.zeno.fm/3hgez706e3quv?zs
 #EXTINF:-1 Rádio Joli MPB
 https://www.radios.com.br/play/playlist/112934/listen-radio.m3u
-#EXTINF:-1 Rádio Joli MPB
-https://stream-163.zeno.fm/mrutsyhkc3quv
-#EXTINF:-1 Rádio Joli MPB
-http://stream.zeno.fm/mrutsyhkc3quv
 #EXTINF:-1 Rádio Jornal da Manhã Uberaba
 https://www.appradio.app:8107/live
 #EXTINF:-1 Rádio LAM
@@ -530,18 +486,10 @@ https://usa11.fastcast4u.com/proxy/radiomotel?mp=/stream3#.mp3
 http://stream.zeno.fm/qytqk36wm8quv
 #EXTINF:-1 Rádio Nação Vitoriosa
 http://stream.zeno.fm/2rsloyfvsy9tv
-#EXTINF:-1 Rádio Nação Vitoriosa
-http://stream.zeno.fm/2rsloyfvsy9tv
-#EXTINF:-1 Rádio Nação Vitoriosa
-http://stream.zeno.fm/2rsloyfvsy9tv
 #EXTINF:-1 Rádio Nacional Gospel 920 AM
 https://stream.redenacionalgospel.com.br:10996/;
 #EXTINF:-1 Radio Nostalgia FM
 http://svrstream1.svreua.com:8236/stream
-#EXTINF:-1 Rádio Nova Geração 87.9 FM Jataizinho PR 
-https://stream.zeno.fm/ma76bamgzs8uv?1666373036651
-#EXTINF:-1 Rádio Nova Geração 87.9 FM Jataizinho PR 
-https://stream.zeno.fm/ma76bamgzs8uv?1666373036651
 #EXTINF:-1 Rádio Nova Geração 87.9 FM Jataizinho PR 
 https://stream.zeno.fm/ma76bamgzs8uv?1666373036651
 #EXTINF:-1 Rádio Novo Nordeste
@@ -630,8 +578,6 @@ https://stream-156.zeno.fm/wablfblem4ntv?zs=eZd518ZGRHOVU6HwlgdzeA
 https://stream-160.zeno.fm/oinv7ydpduiuv?zs=sKxVhC9sSsi8Y3GCNoToXw
 #EXTINF:-1 Rádio Sound FM - Hits Brasil
 https://stream-159.zeno.fm/rvp1vi7cfpvuv?zs=X-I31vPgT36w8byI26-6cg
-#EXTINF:-1 Rádio Sound FM - Hits Brasil
-https://stream-162.zeno.fm/me7yzxbonizvv?zs=IOFpiupySOymsCsuotg2Gw
 #EXTINF:-1 Rádio Sound FM - Latin
 https://stream-158.zeno.fm/wedbxumjpizvv?zs=QwniACGzQ6K4P1lmfDRwXg
 #EXTINF:-1 Rádio Sound FM - Pagode 
@@ -692,8 +638,6 @@ https://s06.maxcast.com.br:8090/live
 https://stream.zeno.fm/309e0b84p48uv
 #EXTINF:-1 RadioCom - 104.5 FM
 http://www.radiocom.org.br:8000/aovivo.m3u
-#EXTINF:-1 Rede 3.16
-https://servidor21.brlogic.com:7976/live?1661877997950
 #EXTINF:-1 Reggae Maranhão
 https://stream.zeno.fm/kqq6hh3a7nhvv
 #EXTINF:-1 Route 66 - Soundtrack
@@ -712,8 +656,6 @@ https://sc4s.cdn.upx.com:8176/stream
 https://radio4.vip-radios.fm:18060/stream-128kmp3-SmoothJazzLounge
 #EXTINF:-1 Só Cacarecos - Classic Rock
 http://sokakarecos.ddns.net:9030/rock128
-#EXTINF:-1 Só Se For Dance 
-http://stream.zeno.fm/u0vqwmqxcf9uv
 #EXTINF:-1 Só Se For Dance 
 http://stream.zeno.fm/u0vqwmqxcf9uv
 #EXTINF:-1 SP RIO+
@@ -768,12 +710,8 @@ https://servidor33-4.brlogic.com:8306/live?source=website
 https://stm4.srvstm.com:9716/stream
 #EXTINF:-1 Web rádio Sandro CD.s 
 http://stream.zeno.fm/n6pcbk423rhvv
-#EXTINF:-1 Web rádio Sandro CD.s 
-http://stream.zeno.fm/n6pcbk423rhvv
 #EXTINF:-1 Web Soul Radio
 https://ic142561.radioca.st/listen.pls
-#EXTINF:-1 WebRadio Cantares
-http://stream.zeno.fm/rb6mtkwrcq8uv
 #EXTINF:-1 WebRadio Cantares
 http://stream.zeno.fm/rb6mtkwrcq8uv
 #EXTINF:-1 WebRadio Rama

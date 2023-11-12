@@ -16,8 +16,6 @@ https://radio.jump.bg:7049/live
 https://play-radio0.jump.bg:7489/live
 #EXTINF:-1 BadRock Hard & Heavy
 https://www.badrockradio.net/radio/BadRock%20Hard%20&%20Heavy.pls
-#EXTINF:-1 BadRock Hard & Heavy
-https://play-radio0.jump.bg:7049/live
 #EXTINF:-1 BadRock National
 https://www.badrockradio.net/radio/BadRock%20Radio%20National.pls
 #EXTINF:-1 BadRock Radio
@@ -26,8 +24,6 @@ https://radio.jump.bg:7028/live
 http://79.98.108.170:8278/autodj
 #EXTINF:-1 BG Radio
 http://stream.radioreklama.bg/bgradio128
-#EXTINF:-1 BG Radio
-http://stream.metacast.eu/bgradio128
 #EXTINF:-1 BG Radio Estrada
 http://149.13.0.81/bgestrada
 #EXTINF:-1 BNR Stara Zagora
@@ -50,8 +46,6 @@ https://stream-64.zeno.fm/80qzq207rm0uv?zs=_xFVUn2nS3qDiPZ-lCCmIQ
 http://31.13.223.148:8000/city.mp3
 #EXTINF:-1 Classic FM
 http://live.btvradio.bg/classic-fm.mp3.m3u
-#EXTINF:-1 Classic FM
-http://live.btvradio.bg/classic-fm.mp3
 #EXTINF:-1 Classic Fm 1
 http://live.btvradio.bg/classic-fm.mp3
 #EXTINF:-1 Classic FM 88.0
@@ -63,10 +57,6 @@ https://server.danpenradio.net/listen/danpen_radio/radio.mp3
 #EXTINF:-1 Dance With Me
 http://g5.turbohost.eu:8002/stream320
 #EXTINF:-1 DARIK
-https://darikradio.by.host.bg:8000/S2-128
-#EXTINF:-1 DARIK
-https://darikradio.by.host.bg:8000/S2-128
-#EXTINF:-1 Darik Radio
 https://darikradio.by.host.bg:8000/S2-128
 #EXTINF:-1 Darik Radio
 https://darikradio.by.host.bg:8000/S2-128
@@ -106,8 +96,6 @@ http://live.btvradio.bg/jazz-fm.mp3
 http://www.katrafm.com:8000/live
 #EXTINF:-1 Lele Male
 http://79.98.108.170:8332/;
-#EXTINF:-1 Lele Male
-http://79.98.108.170:8332/;stream.mp3
 #EXTINF:-1 Luxor Web Radio
 http://79.98.108.170:8078/autodj
 #EXTINF:-1 Maya Burgas
@@ -128,8 +116,6 @@ https://eu1.reliastream.com/proxy/service?mp=/service
 http://46.10.150.243/njoy.mp3
 #EXTINF:-1 NJOY Summer Mood
 https://bravo.btv.bg/radio/njoy-radio-proxy/index.php
-#EXTINF:-1 NJS Radio - New Jack Swing
-http://162.244.80.106:11198/
 #EXTINF:-1 Nova Bulgaria
 http://31.13.223.148:8000/nova.mp3
 #EXTINF:-1 Online DJ Radio 64
@@ -196,8 +182,6 @@ http://79.98.108.170:8039/autodj
 http://79.98.108.170:8202/listen.pls
 #EXTINF:-1 Radio Fresh!
 http://193.108.24.21:8000/fresh.m3u
-#EXTINF:-1 Radio Gamma
-http://g5.turbohost.eu:8003/gama128
 #EXTINF:-1 Radio Globe
 http://79.98.108.170:8019/autodj
 #EXTINF:-1 Radio Helikon
@@ -214,8 +198,6 @@ http://g5.turbohost.eu:8004/stream
 http://g5.turbohost.eu:8004/stream
 #EXTINF:-1 Radio Jugomania
 https://s8.yesstreaming.net:17051/autodj
-#EXTINF:-1 Radio Kesarevo
-https://ssl22.radyotelekom.com/8136/stream
 #EXTINF:-1 Radio Kesarevo
 https://ssl22.radyotelekom.com/8136/stream
 #EXTINF:-1 Radio Lagoshevtsi
@@ -244,8 +226,6 @@ http://46.10.150.243/njoy.mp3
 https://stream-052.zeno.fm/bfkspxrh4zhvv?zs=DxlxAK1xRm6qEQq5Npp9Aw
 #EXTINF:-1 Radio Nova Zagora
 http://80.253.48.162:8090/nova.mp3
-#EXTINF:-1 Radio ORV
-http://radio.orvmedia.com:8005/stream
 #EXTINF:-1 Radio ORV
 http://radio.orvmedia.com:8005/stream
 #EXTINF:-1 Radio Presi Love
@@ -358,10 +338,6 @@ http://www.rnmediagroup.com:9000/listen.pls
 http://188.126.1.25:8000/razgrad
 #EXTINF:-1 Радио „Епархийски глас“
 https://radio.mitropolia-sofia.org:7610/stream
-#EXTINF:-1 Радио „Епархийски глас“
-https://radio.mitropolia-sofia.org:7610/stream
-#EXTINF:-1 Радио CITY
-http://31.13.223.148:8000/city.mp3
 #EXTINF:-1 Радио CITY
 http://31.13.223.148:8000/city.mp3
 #EXTINF:-1 Радио FM+
@@ -374,8 +350,6 @@ http://broadcast.masters.bg:8000/live
 http://g5.turbohost.eu:8004/stream96
 #EXTINF:-1 Радио Канон - Radio Kanon
 http://79.98.108.170:8059/stream
-#EXTINF:-1 Радио Пайнер
-http://87.120.6.86:8000/hq
 #EXTINF:-1 Радио Пайнер
 http://87.120.6.86:8000/hq
 #EXTINF:-1 Радио Пауър ФМ - Radio Power FM

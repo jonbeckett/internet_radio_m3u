@@ -24,8 +24,6 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/2CA.mp3
 http://playerservices.streamtheworld.com/api/livestream-redirect/2CA.mp3
 #EXTINF:-1 2CHR - Cessnock - 96.5 FM (MP3)
 http://playerservices.streamtheworld.com/api/livestream-redirect/2CHR.mp3
-#EXTINF:-1 2CHR - Cessnock - 96.5 FM (MP3)
-http://playerservices.streamtheworld.com/api/livestream-redirect/2CHR.mp3
 #EXTINF:-1 2CR澳洲中文广播电台
 http://s6.voscast.com:8016/stream1479405503139/1
 #EXTINF:-1 2EAR FM
@@ -33,10 +31,6 @@ http://198.74.51.37:9986/
 #EXTINF:-1 2FBI "FBi Radio" 94.5 FM Sydney, NSW
 https://streamer.fbiradio.com/stream
 #EXTINF:-1 2GB - Sydney - 873 AM (MP3)
-http://playerservices.streamtheworld.com/api/livestream-redirect/2GB.mp3
-#EXTINF:-1 2GB - Sydney - 873 AM (MP3)
-http://playerservices.streamtheworld.com/api/livestream-redirect/2GB.mp3
-#EXTINF:-1 2GB Sydney
 http://playerservices.streamtheworld.com/api/livestream-redirect/2GB.mp3
 #EXTINF:-1 2GLF 89.3 - Liverpool - 89.3 FM (MP3)
 http://playerservices.streamtheworld.com/api/livestream-redirect/2GLF.mp3
@@ -80,8 +74,6 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/ACE_2UE.mp3
 https://23153.live.streamtheworld.com/2WCR.mp3
 #EXTINF:-1 2XX - Canberra - 98.3 FM (MP3)
 http://playerservices.streamtheworld.com/api/livestream-redirect/2XX.mp3
-#EXTINF:-1 3AW - Melbourne - 693 AM (MP3)
-http://playerservices.streamtheworld.com/api/livestream-redirect/3AW.mp3
 #EXTINF:-1 3AW - Melbourne - 693 AM (MP3)
 http://playerservices.streamtheworld.com/api/livestream-redirect/3AW.mp3
 #EXTINF:-1 3CR
@@ -136,8 +128,6 @@ http://live-radio01.mediahubaustralia.com/2FMW/mp3/;*.mp3
 http://live-radio01.mediahubaustralia.com/CTRW/mp3/;
 #EXTINF:-1 ABC Country (MP3)
 http://live-radio01.mediahubaustralia.com/CTRW/mp3/;*.mp3
-#EXTINF:-1 ABC Country (MP3)
-http://live-radio01.mediahubaustralia.com/CTRW/mp3/;*.mp3
 #EXTINF:-1 ABC Double J (MP3)
 http://live-radio01.mediahubaustralia.com/DJDW/mp3/
 #EXTINF:-1 ABC Extra (MP3)
@@ -148,8 +138,6 @@ http://live-radio02.mediahubaustralia.com/GSDW/mp3/;
 http://live-radio01.mediahubaustralia.com/JAZW/mp3/
 #EXTINF:-1 ABC Kids Listen
 http://www.abc.net.au/res/streaming/audio/mp3/extra.pls
-#EXTINF:-1 ABC Kids Listen
-http://www.abc.net.au/res/streaming/audio-live/shout-mp3/abcextra.pls
 #EXTINF:-1 ABC Local Radio 100.7  Gippsland, VIC (MP3)
 http://live-radio02.mediahubaustralia.com/3SALE/mp3/;
 #EXTINF:-1 ABC Local Radio 105.7 Darwin, NT (MP3)
@@ -206,12 +194,8 @@ http://www.abc.net.au/res/streaming/audio/mp3/news_radio.pls
 http://live-radio01.mediahubaustralia.com/RAEW/mp3/
 #EXTINF:-1 ABC Radio Hobart
 http://www.abc.net.au/res/streaming/audio/mp3/local_hobart.pls
-#EXTINF:-1 ABC Radio Hobart
-http://www.abc.net.au/res/streaming/audio/mp3/local_hobart.pls
 #EXTINF:-1 ABC Radio National MP3
 http://live-radio01.mediahubaustralia.com/2RNW/mp3/
-#EXTINF:-1 ABC Radio Perth
-http://www.abc.net.au/res/streaming/audio/mp3/local_perth.pls
 #EXTINF:-1 ABC Radio South East NSW
 http://abc.net.au/res/streaming/audio-live/shout-mp3/local_southeastnsw.pls
 #EXTINF:-1 ABC Radio South West WA
@@ -268,8 +252,6 @@ https://s4.radio.co/scf2280c01/listen
 http://c13.radioboss.fm:18190/stream
 #EXTINF:-1 CMS Radio FM
 https://c13.radioboss.fm:18190/stream
-#EXTINF:-1 Coast FM
-http://streaming1.coastfm.com.au:8000/broadwavehigh.mp3
 #EXTINF:-1 CroRadio
 http://stream.swifthosting.com.au:8080/listen.pls
 #EXTINF:-1 Darwin FM 91.5 FM
@@ -334,8 +316,6 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/ACE_MAGIC1278.m
 http://s1.communitybroadcastnetwork.com.au:8000/MAINFM/stream
 #EXTINF:-1 Massive Dance Radio
 https://kathy.torontocast.com:4405/stream
-#EXTINF:-1 Massive Dance Radio
-https://kathy.torontocast.com:4405/stream
 #EXTINF:-1 Mix 102.3 - Adelaide - 102.3 FM (MP3)
 http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1023.mp3
 #EXTINF:-1 Mix 104.9 - Darwin - 104.9 FM (MP3)
@@ -370,8 +350,6 @@ https://s2.radio.co/sdff54b89f/listen
 http://stream10.as.amplifystreaming.com/radio/8000/amm_128.mp3
 #EXTINF:-1 QBN FM - 96.7 FM
 http://streaming.qbn967.com.au:8000/stream/
-#EXTINF:-1 QBN FM - 96.7 FM
-http://streaming.qbn967.com.au:8000/stream/
 #EXTINF:-1 QBN FM - Queanbeyan - 96.7 FM
 http://streaming.qbn967.com.au:8000/stream/
 #EXTINF:-1 Radio 1RPH - Canberra - 1125 AM (MP3)
@@ -390,8 +368,6 @@ https://servidor40.brlogic.com:8004/live
 http://s3.myradiostream.com:10968/
 #EXTINF:-1 Radio Five-O-Plus
 http://61.69.112.50:88/broadwave.mp3
-#EXTINF:-1 Radio Five-O-Plus
-http://61.69.112.50:88/broadwave.mp3
 #EXTINF:-1 Radio Great Southern - AM 1422 Wagin WA
 http://procyon.shoutca.st:8377/stream
 #EXTINF:-1 Radio Italian Music
@@ -402,14 +378,10 @@ http://5rti.igateway.com.au:8000/stream
 http://stream.radiolarrakia.org:8000/radiolarrakia
 #EXTINF:-1 Radio Maria Australia
 http://onair18.xdevel.com:7960/;
-#EXTINF:-1 Radio Maria Australia
-https://onair7.xdevel.com/proxy/xautocloud_91gp_840?mp=/;stream/;
 #EXTINF:-1 Radio Melodia Adelaide
 http://s18.myradiostream.com:4476/
 #EXTINF:-1 RAMfm - Goulburn - 103.3 FM (MP3)
 https://streamer5.rightclickitservices.com:19800/stream
-#EXTINF:-1 RAW FM (MP3)
-http://frontend.stream.rawfm.net.au/i/syd-stream-192k.mp3
 #EXTINF:-1 RAW FM (MP3)
 http://frontend.stream.rawfm.net.au/i/syd-stream-192k.mp3
 #EXTINF:-1 Rhema FM - Newcastle - 99.7 FM (MP3)
@@ -422,12 +394,6 @@ https://livestream.whooshkaa.com/icecast/rsn/rsn
 https://sarock.radioca.st/stream
 #EXTINF:-1 Sawt Sydney كل الفرق
 https://usa10.fastcast4u.com/nada22
-#EXTINF:-1 Sawt Sydney كل الفرق
-https://usa10.fastcast4u.com/nada22
-#EXTINF:-1 Sawt Sydney كل الفرق
-https://usa10.fastcast4u.com/nada22
-#EXTINF:-1 Skylab Radio
-http://stream.skylab-radio.com:8000/live
 #EXTINF:-1 Smooth 80s
 https://23203.live.streamtheworld.com/SMOOTH_80S_SC
 #EXTINF:-1 SMOOTH Relax
@@ -452,8 +418,6 @@ http://falcon.shoutca.st:8124/stream
 https://onlineradiobox.com/json/au/971sweet/play?platform=web%22%20streamType=%22mp3
 #EXTINF:-1 SWR 99.9 FM - Blacktown - 99.9 FM (MP3)
 http://playerservices.streamtheworld.com/api/livestream-redirect/SWRFM.mp3
-#EXTINF:-1 Systrum Sistum - SSR1
-https://systrum.net/SSR1.m3u
 #EXTINF:-1 Systrum Sistum - SSR1
 https://systrum.net/SSR1.m3u
 #EXTINF:-1 Systrum Sistum - SSR2

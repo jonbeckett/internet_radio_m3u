@@ -23,10 +23,6 @@ http://a1.radioheart.ru:8001/RH58197
 https://radio.gtrklnr.ru:8443/your.fm
 #EXTINF:-1 «Открытое Слово»
 https://rs.radioslovo.net:4395/radio?1619347398976
-#EXTINF:-1 «Открытое Слово»
-https://rs.radioslovo.net:4395/radio?1619347398976
-#EXTINF:-1 [RockTime-Radio]
-http://a9.radioheart.ru:8049/rocktime
 #EXTINF:-1 [RockTime-Radio]
 http://a9.radioheart.ru:8049/rocktime
 #EXTINF:-1 101 ru enigmatic 
@@ -71,8 +67,6 @@ https://myradio24.org/absolutrad
 http://mixcult.net/assets/files/spitzer_mixcult_ambient_320_kbps.m3u
 #EXTINF:-1 Alex
 https://myradio24.org/walcon
-#EXTINF:-1 Alex
-https://myradio24.org/walcon
 #EXTINF:-1 AlexFM Lets Rock
 http://myradio24.org/2411
 #EXTINF:-1 Alyaxen Radiostation
@@ -103,8 +97,6 @@ http://77.73.90.46:1055/avtoradio
 http://misato.ru-hoster.com:8061/badbeatradio
 #EXTINF:-1 Baltiyskiy Bereg
 http://91.203.171.138:8080/stream
-#EXTINF:-1 Best FM
-http://nashe.streamr.ru/best-128.mp3
 #EXTINF:-1 BFM.ru
 https://bfm.hostingradio.ru:9075/fm
 #EXTINF:-1 Big Room
@@ -123,8 +115,6 @@ https://radio.mosco.win/play
 http://radio.mosco.win:2082/play
 #EXTINF:-1 Business FM
 https://bfm.hostingradio.ru:9075/fm
-#EXTINF:-1 Business FM
-http://m1.bfm.ru:8000/fm64
 #EXTINF:-1 Capital FM Moscow
 http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3
 #EXTINF:-1 Cassiopeia Station (Наука)
@@ -141,8 +131,6 @@ http://media-the.musicradio.com/ChillMP3
 https://listen2.myradio24.com/8795?f8f9356c
 #EXTINF:-1 Christian Radio City of Eden
 https://myradio24.org/cityeden.m3u
-#EXTINF:-1 Christian Radio City of Eden
-https://myradio24.org/cityeden
 #EXTINF:-1 Church
 http://c16.radioboss.fm:8238/stream
 #EXTINF:-1 Comfort FM
@@ -167,8 +155,6 @@ https://icecast-sibinformburo.cdnvideo.ru/dipolfm
 http://www.discovertrance.com/DiscoverTrance-high.m3u
 #EXTINF:-1 DNB FM
 https://air.dnbfm.ru/listen/player/qplay
-#EXTINF:-1 DNB FM
-https://air.dnbfm.ru/listen/player/play
 #EXTINF:-1 Donat FM - European hits
 http://c6.radioboss.fm:8089/autodj
 #EXTINF:-1 Donat FM - Russian Rock
@@ -211,8 +197,6 @@ http://listen2.myradio24.com:9000/8226
 https://www.radioenjoy.org/128?_=1690196031720
 #EXTINF:-1 Europa Plus
 http://europaplus.hostingradio.ru:8014/europaplus320f.mp3
-#EXTINF:-1 Europa Plus
-http://ep256.hostingradio.ru:8052/europaplus256.mp3
 #EXTINF:-1 Europa Plus (128 kbps)
 http://ep128.streamr.ru/
 #EXTINF:-1 Europa Plus 102.9 FM Serpukhov
@@ -245,24 +229,14 @@ http://fantasyradioru.no-ip.biz:8002/live
 http://31.173.143.103:8000/russian_dub.mp3
 #EXTINF:-1 Gachi Radio
 http://gachiradio.fun:8000/radio
-#EXTINF:-1 Gachi Radio
-http://gachiradio.fun:8000/radio
 #EXTINF:-1 Garage FM Online
 http://music.garagefm.ru:8005/Garagefm128
-#EXTINF:-1 Garage FM Online
-http://213.189.208.146:8005/Garagefm192
-#EXTINF:-1 Garage FM Online
-http://213.189.208.146:8005/Garagefm192
-#EXTINF:-1 Gold Radio msk
-https://c6.radioboss.fm/stream/304
 #EXTINF:-1 Gold Radio msk
 https://c6.radioboss.fm/stream/304
 #EXTINF:-1 Graal Future
 http://graalradio.com:8123/future
 #EXTINF:-1 Graal Radio Club
 https://graalradio.com/playclub
-#EXTINF:-1 Graal Radio Club
-https://graalradio.com:8128/club160
 #EXTINF:-1 Graal Radio Highway
 http://graalradio.com:8123/highway
 #EXTINF:-1 Graal Radio Sensual
@@ -295,8 +269,6 @@ http://194.28.241.171:8000/khs.mp3
 https://myradio24.org/kidshits
 #EXTINF:-1 Kinozal.TV
 https://listen4.myradio24.com/kinozaltv
-#EXTINF:-1 Kinozal.TV
-https://listen4.myradio24.com/kinozaltv
 #EXTINF:-1 KISS FM
 https://a7.radioheart.ru:9015/RH73674
 #EXTINF:-1 Kitap Radiosy
@@ -321,8 +293,6 @@ http://188.40.109.122:8000/ices3
 http://188.40.109.122:8000/ices
 #EXTINF:-1 M.Deep Radio
 https://deephousex.ru/live
-#EXTINF:-1 M.Deep Radio
-https://deephousex.ru/live
 #EXTINF:-1 Made In Russia Dance Radio
 https://listen7.myradio24.com/9083
 #EXTINF:-1 Master FM Kachkanar
@@ -345,8 +315,6 @@ http://s0.radioheart.ru:8000/RH23554
 http://listen5.myradio24.com:9000/meganight
 #EXTINF:-1 Megapolis Samara
 https://online.radio-megapolis.ru/megapolis_mp3
-#EXTINF:-1 MegapolisNight
-https://a4.radioheart.ru:9042/MegaNightRadio
 #EXTINF:-1 MegapolisNight
 https://a4.radioheart.ru:9042/MegaNightRadio
 #EXTINF:-1 Melon Radio Soulful
@@ -393,30 +361,16 @@ http://radiotower.netstalking.ru/lonesome_town_320.m3u
 http://a7.radioheart.ru:8044/newageradio?_ga=2.255684622.769977034.1646991967-126118534.1646991967
 #EXTINF:-1 Noise FM - It's Your Lifestyle!
 http://play.sas-media.ru/play_256
-#EXTINF:-1 Noise FM - It's Your Lifestyle!
-http://play.sas-media.ru/play_256
-#EXTINF:-1 Noise FM - It's Your Lifestyle!
-http://play.sas-media.ru/play_256
-#EXTINF:-1 Noise FM - It's Your Lifestyle!
-http://play.sas-media.ru/play_256
 #EXTINF:-1 Nui Radio
 https://a2.radioheart.ru:9003/nuiradio
 #EXTINF:-1 Omsk FM
 http://www.omskfm.ru:8000/881-128.mp3
 #EXTINF:-1 Orgasma
 https://str.pcradio.ru/orgasma_main-hi
-#EXTINF:-1 Orgasma
-https://a10.radioheart.ru:9001/nonstop
 #EXTINF:-1 Orgasma Black
 https://str.pcradio.ru/orgasma_black-hi
-#EXTINF:-1 Orgasma Black
-https://a10.radioheart.ru:9002/nonstop
-#EXTINF:-1 Orgasma Black
-https://a10.radioheart.ru:9002/nonstop
 #EXTINF:-1 Orgasma Late
 https://str.pcradio.ru/orgasma_late-hi
-#EXTINF:-1 Orgasma Late
-https://a10.radioheart.ru:9003/nonstop
 #EXTINF:-1 Orgasma New
 https://a10.radioheart.ru:9007/nonstop
 #EXTINF:-1 Orgasma Red
@@ -487,14 +441,10 @@ http://listen.42fm.ru:8000/stealkill
 http://84.242.241.66:8000/;
 #EXTINF:-1 Radio 61
 https://radio61.ru/live
-#EXTINF:-1 Radio 7
-http://europaplus.hostingradio.ru:8014/radiosept320.mp3
 #EXTINF:-1 Radio 7 Moscow
 https://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
 #EXTINF:-1 Radio 80 Russia
 http://radio80.ru:7777/;?1506192616425
-#EXTINF:-1 Radio 80 Russia
-http://radio80.ru:7777/
 #EXTINF:-1 Radio 80 Volgograd
 http://radio80.ru:7777/;
 #EXTINF:-1 Radio AnimKLATU
@@ -507,8 +457,6 @@ https://misato.ru-hoster.com:8067/stream
 http://sat.radio-betelgeuse.com:8000/live
 #EXTINF:-1 Radio Blago
 http://live.radioblago.ru/live-1.mp3
-#EXTINF:-1 Radio Caprice - Chicago Blues
-https://nationalanthems.info/ao.mp3?PANGEAhttps://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3https://nationalanthems.info/ao.mp3
 #EXTINF:-1 Radio Caprice - Classical Guitar
 https://nationalanthems.info/al.mp3?PANGEAhttps://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3
 #EXTINF:-1 Radio Caprice - Club Dance
@@ -543,8 +491,6 @@ http://92.50.177.134:8000/dfm_ufa
 http://62.109.3.230/dom_druzhby.mp3
 #EXTINF:-1 Radio Express
 http://159.253.18.97:8000/128kbit.mp3
-#EXTINF:-1 Radio Fantastika
-http://fantasyradioru.no-ip.biz:8002/live
 #EXTINF:-1 Radio Fantastika
 http://fantasyradioru.no-ip.biz:8002/live
 #EXTINF:-1 Radio Fish
@@ -593,8 +539,6 @@ http://c22.radioboss.fm/playlist/291/stream.m3u
 http://radio.lovecity3d.com:4010/stream
 #EXTINF:-1 Radio Maximum
 https://maximum.hostingradio.ru/maximum128.mp3
-#EXTINF:-1 Radio Maximum
-https://maximum.hostingradio.ru/maximum128.mp3
 #EXTINF:-1 Radio Mayak Nizhny Novgorod
 http://icecast.vgtrk.cdnvideo.ru/mayak_nn
 #EXTINF:-1 Radio Minor
@@ -639,8 +583,6 @@ http://radio-srv1.11one.ru/record192k.mp3
 https://air.unmixed.ru/record320
 #EXTINF:-1 Radio RiperAM
 http://radio.oldxit.ru:8030/radio?11765309886134812
-#EXTINF:-1 Radio RiperAM
-http://radio.oldxit.ru:8030/radio?11765309886134812
 #EXTINF:-1 Radio Rocks
 http://icecast.radiorocks.cdnvideo.ru/roks.stream
 #EXTINF:-1 Radio Roks
@@ -669,8 +611,6 @@ https://a1.radioheart.ru:9001/RH58197
 http://stream.radiojar.com/av2rrf6547zuv
 #EXTINF:-1 Radio Ultra
 https://nashe1.hostingradio.ru/ultra-256
-#EXTINF:-1 Radio Ultra
-http://nashe1.hostingradio.ru/ultra-192.mp3
 #EXTINF:-1 Radio Vanya
 https://omskfm.ru:8443/881-128.mp3
 #EXTINF:-1 Radio Voice of Burma
@@ -719,8 +659,6 @@ http://radio-tochka.com:6445/;
 http://live.radio7.su:9000/deti256
 #EXTINF:-1 Record 192
 http://radio-srv1.11one.ru/record192k.mp3
-#EXTINF:-1 Relax FM 90,8 Moscow
-http://pub0302.101.ru:8000/stream/trust/mp3/128/264
 #EXTINF:-1 Relax FM Latino
 https://pub0302.101.ru:8443/stream/trust/mp3/128/265
 #EXTINF:-1 Relax FM Nature
@@ -729,8 +667,6 @@ https://pub0101.101.ru/stream/trust/mp3/128/263
 http://relaxfm72.ru:8000/stream
 #EXTINF:-1 Relax Life
 https://pub0101.101.ru/stream/trust/mp3/128/267?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiJmZGEzNTE4Nzk2MTRmYjkxZmJjZWUwZjBkN2NiMDEwMSIsIklQIjoiMTU2LjIxOC4xNTEuMTYyIiwiVUEiOiJNb3ppbGxhXC81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXRcLzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZVwvMTA0LjAuMC4wIFNhZmFyaVwvNTM3LjM2IiwiUmVmIjoiaHR0cHM6XC9cLzEwMS5ydVwvIiwidWlkX2NoYW5uZWwiOiIyNjciLCJ0eXBlX2NoYW5uZWwiOiJjaGFubmVsIiwidHlwZURldmljZSI6IlBDIiwiQnJvd3NlciI6IkNocm9tZSIsIkJyb3dzZXJWZXJzaW9uIjoiMTA0LjAuMC4wIiwiU3lzdGVtIjoiV2luZG93cyAxMCIsImV4cCI6MTY2MDk2NzE4OH0.cEjEybJ8rYlV8kiv_su7cSgAc9qgQS5XyS7UsWqRelY
-#EXTINF:-1 Retro FM
-http://retroserver.streamr.ru:8043/retro256.mp3
 #EXTINF:-1 Retro FM 105.0 Serpukhov
 http://188.164.138.46:8010/retrofm.m3u
 #EXTINF:-1 Retro LAN Radio
@@ -741,8 +677,6 @@ https://live.one-tv.co.uk/listen/risefm/mpegtree.mp3
 http://nashe.streamr.ru/rock-128.mp3
 #EXTINF:-1 ROCK FM
 http://nashe1.hostingradio.ru/rock-128.mp3
-#EXTINF:-1 Rock FM
-http://nashe2.hostingradio.ru/rock-128.mp3
 #EXTINF:-1 ROCK FM
 https://nashe1.hostingradio.ru:80/rock-128.mp3
 #EXTINF:-1 ROCK FM, 00s
@@ -799,8 +733,6 @@ https://choco.hostingradio.ru:10010/fm
 http://silverrain.hostingradio.ru/silver128.mp3
 #EXTINF:-1 SK-RADIO
 https://a8.radioheart.ru:9003/sk-radio?ab4c
-#EXTINF:-1 SK-RADIO
-https://a8.radioheart.ru:9003/sk-radio?ab4c
 #EXTINF:-1 smooth
 http://jfm1.hostingradio.ru:14536/sjstream.mp3
 #EXTINF:-1 Solikamsk FM
@@ -845,8 +777,6 @@ http://176.65.38.3:8000/blagovest
 http://online.truecolorsradio.com:9000/45329
 #EXTINF:-1 TrueColorsRadio
 https://myradio24.org/45329
-#EXTINF:-1 TrueColorsRadio
-https://myradio24.org/45329
 #EXTINF:-1 uezdnoe
 http://62.192.226.178:8001/stream.ogg
 #EXTINF:-1 ULTRA
@@ -865,8 +795,6 @@ http://verdure.net/verdure.pls
 http://icecast.vgtrk.cdnvideo.ru/vestifm_nn
 #EXTINF:-1 VIBEdaPLANET
 https://vibedaplanet.radioca.st/stream
-#EXTINF:-1 VIBEdaPLANET
-http://vibedaplanet.com/radio-stream/VIBEdaPLANET.m3u
 #EXTINF:-1 vigilante 2084
 http://radiotower.netstalking.ru/vigilante_2084_320.m3u
 #EXTINF:-1 Vladimir-Novaya Volna
@@ -963,32 +891,12 @@ http://185.20.226.222:8000/brezhnev
 http://listen.vedaradio.fm:8000/high.m3u
 #EXTINF:-1 Веда Радио
 http://listen.vedaradio.fm:8000/veryhigh.m3u
-#EXTINF:-1 Веда Радио
-http://listen.vedaradio.fm:8000/veryhigh
 #EXTINF:-1 Вера
 http://77.39.8.49:8000/vera_air_96
 #EXTINF:-1 Вера / Рязанское епархиальное радио
 http://212.26.239.32:8000/live
-#EXTINF:-1 Вести FM
-https://icecast-vgtrk.cdnvideo.ru/vestifm
-#EXTINF:-1 Вести FM
-https://icecast-vgtrk.cdnvideo.ru/vestifm
-#EXTINF:-1 Вести FM
-https://icecast-vgtrk.cdnvideo.ru/vestifm
-#EXTINF:-1 Вести FM
-https://icecast-vgtrk.cdnvideo.ru/vestifm
-#EXTINF:-1 Вести FM
-https://icecast-vgtrk.cdnvideo.ru/vestifm
-#EXTINF:-1 Вести FM
-https://icecast-vgtrk.cdnvideo.ru/vestifm
-#EXTINF:-1 Вести FM
-https://icecast-vgtrk.cdnvideo.ru/vestifm
-#EXTINF:-1 Вести FM
-http://icecast.vgtrk.cdnvideo.ru/vestifm
 #EXTINF:-1 Вести ДОСААФ
 http://radio.mospravda.ru:8010/radio
-#EXTINF:-1 Вести ФМ
-https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
 #EXTINF:-1 вести фм (Vesti FM)
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
 #EXTINF:-1 Вести ФМ (Vesti FM)
@@ -1005,12 +913,6 @@ https://stream.n340.com:8443/18_vostok_28?type=.aac&UID=11A3846BF93ADC0825E11936
 https://voicemaikop.hostingradio.ru:8003/voicemaikop128.mp3
 #EXTINF:-1 Говорит Москва
 https://media.govoritmoskva.ru/radio/ru64.mp3
-#EXTINF:-1 Говорит Москва
-http://media.govoritmoskva.ru:8880/ru64.mp3
-#EXTINF:-1 Говорит Москва
-http://media.govoritmoskva.ru:8880/ru32.mp3
-#EXTINF:-1 Говорит Москва
-http://media.govoritmoskva.ru:8880/rufm_m.mp3
 #EXTINF:-1 Говорит Москва - Govorit Moskva
 https://media.govoritmoskva.ru/radio/rufm.mp3
 #EXTINF:-1 Голос Бирмы
@@ -1057,8 +959,6 @@ https://zaycevfm.cdnvideo.ru/ZaycevFM_rnb_256.mp3
 https://zaycevfm.cdnvideo.ru/ZaycevFM_rus_256.mp3
 #EXTINF:-1 Зайцев.FM Шансон
 https://zaycevfm.cdnvideo.ru/ZaycevFM_shanson_256.mp3
-#EXTINF:-1 Звезда
-https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128
 #EXTINF:-1 иван
 http://falcon.shoutca.st:8166/stream
 #EXTINF:-1 Искатель
@@ -1079,8 +979,6 @@ http://kommersant77.hostingradio.ru:8016/kommersant128.mp3
 https://kommersant77.hostingradio.ru:8085/kommersant128.mp3
 #EXTINF:-1 КомпромиС ФМ
 https://listen5.myradio24.com/kfm
-#EXTINF:-1 КомпромиС ФМ
-https://listen5.myradio24.com/kfm
 #EXTINF:-1 Комсомольская правда
 https://kpradio.hostingradio.ru:8000/64
 #EXTINF:-1 Красное радио
@@ -1093,8 +991,6 @@ http://av.bimradio.ru:8066/kurai_mp3
 http://live.kunelradio.ru:8000/128.mp3
 #EXTINF:-1 Литературное радио
 http://79.137.234.183:8005/;stream.mp3
-#EXTINF:-1 Литературное радио
-http://79.137.234.183:8000/;stream.mp3
 #EXTINF:-1 Любимые хиты
 https://online.lyubimyehity.ru:8005/stream
 #EXTINF:-1 Макс FM
@@ -1107,16 +1003,12 @@ http://radio.matur-tv.ru/radio/radio-mp3-128k
 http://212.75.194.94:8000/KemMayakFM
 #EXTINF:-1 МДС
 http://stream.kazancity.net:8000/27-mds
-#EXTINF:-1 МДС
-http://stream.kazancity.net:8000/27-mds
 #EXTINF:-1 Межзвёздное радио
 https://myradio24.org/97557
 #EXTINF:-1 Милицейская волна НН
 https://radiomv.hostingradio.ru:80/radiomv128.mp3
 #EXTINF:-1 Мир Белогорья
 http://mirbelogorya.ru:8008/nonstop2
-#EXTINF:-1 Модель для сборки
-http://mds-station.com:8000/mds
 #EXTINF:-1 Модель для сборки
 http://mds-station.com:8000/mds
 #EXTINF:-1 МЭТР GOLDEN HITS
@@ -1129,8 +1021,6 @@ https://slavradio.org:8443/nsr/3
 http://icecast.ntrk21.ru:8000/nacradio
 #EXTINF:-1 Наше Радио
 http://nashe.streamr.ru/nashe-128.mp3
-#EXTINF:-1 Наше Радио
-http://nashe1.hostingradio.ru/nashe-256
 #EXTINF:-1 Наше радио
 https://nashe1.hostingradio.ru:80/nashe-128.mp3
 #EXTINF:-1 Наше Радио 2.0
@@ -1163,10 +1053,6 @@ http://nashe1.hostingradio.ru/nashepunks.mp3
 https://nvkfm.ru/online
 #EXTINF:-1 Неслучайное Радио
 http://aska.ru-hoster.com:8006/stream
-#EXTINF:-1 Неслучайное Радио
-http://aska.ru-hoster.com:8006/stream
-#EXTINF:-1 Неусыпаемая Псалтирь
-https://radio.azbyka.ru/psaltir-rus
 #EXTINF:-1 Неусыпаемая Псалтирь
 https://radio.azbyka.ru/psaltir-rus
 #EXTINF:-1 Неусыпаемая Псалтирь (рус. муз.)
@@ -1175,18 +1061,6 @@ https://radio.azbyka.ru/psaltir-rus-muz
 https://radio.azbyka.ru/psaltir
 #EXTINF:-1 Ника FM Калуга
 https://radio.nikatv.ru/;.mp4
-#EXTINF:-1 Новая волна
-http://volgograd.sv-veter.ru:8008/nv_online
-#EXTINF:-1 Новая волна
-http://volgograd.sv-veter.ru:8008/nv_online
-#EXTINF:-1 Новая волна
-http://volgograd.sv-veter.ru:8008/nv_online
-#EXTINF:-1 Новая волна
-http://volgograd.sv-veter.ru:8008/nv_online
-#EXTINF:-1 Новая волна
-http://volgograd.sv-veter.ru:8008/nv_online
-#EXTINF:-1 Новая волна
-http://volgograd.sv-veter.ru:8008/nv_online
 #EXTINF:-1 Новая волна
 http://volgograd.sv-veter.ru:8008/nv_online
 #EXTINF:-1 Новая волна Волгоград
@@ -1207,8 +1081,6 @@ http://213.177.106.78:8006/
 http://segenswelle.de:8000/BG-Omsk
 #EXTINF:-1 Открытое Слово
 https://rs.radioslovo.net:4145/stream?1619440063877
-#EXTINF:-1 Открытое Слово
-https://rs.radioslovo.net:4275/stream?1619440624532
 #EXTINF:-1 Отличное 105.6 FM
 http://l29.no-ip.org:8003/listen.pls
 #EXTINF:-1 ПГТРК Радио 1 плюс/Радио Приднестровья
@@ -1283,8 +1155,6 @@ http://stream01.radiocon.ru:8000/bobjazz
 http://chilloutfm.ru:8000/play
 #EXTINF:-1 Радио Jazz
 http://nashe1.hostingradio.ru/jazz-128.mp3
-#EXTINF:-1 Радио Jazz
-http://nashe1.hostingradio.ru/jazz-256
 #EXTINF:-1 Радио JAZZ 89.1 256kbps
 https://nashe1.hostingradio.ru/jazz-256
 #EXTINF:-1 Радио Jazz Classic
@@ -1329,8 +1199,6 @@ https://radio.gtrklnr.ru:8443/lead.fm
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 #EXTINF:-1 Радио ВОС
 http://radiovos.ru:9000/radiovos-128
-#EXTINF:-1 Радио ВОС
-http://radiovos.ru:9000/radiovos-128
 #EXTINF:-1 Радио Восток России
 http://138.201.190.251:8000/;stream.nsv
 #EXTINF:-1 Радио Гусь
@@ -1341,8 +1209,6 @@ http://listen13.vdfm.ru:8000/dacha
 http://listen13.vdfm.ru:8000/dacha
 #EXTINF:-1 Радио Дача 
 http://217.19.211.252:8022/RadioDacha
-#EXTINF:-1 радио Дача Новосибирск
-https://stream2.n340.com/12_dacha_28_reg_316?type=.aac&UID=0E7ACB8332B0F838199083C383FB7F40
 #EXTINF:-1 радио Дача Новосибирск
 https://stream2.n340.com/12_dacha_28_reg_316?type=.aac&UID=0E7ACB8332B0F838199083C383FB7F40
 #EXTINF:-1 РАДИО ДВИЖЕНИЕ
@@ -1401,12 +1267,8 @@ http://icecast.mediaalliance.cdnvideo.ru/mediaalliance
 http://stream.radiometro.ru:8230/
 #EXTINF:-1 Радио Монте Карло
 https://montecarlo.hostingradio.ru/montecarlo128.mp3
-#EXTINF:-1 Радио Монте Карло
-https://montecarlo.hostingradio.ru/montecarlo128.mp3
 #EXTINF:-1 Радио Монте-Карло омск
 https://radio.mediacdn.ru/shanson_omsk.mp3
-#EXTINF:-1 Радио Москвы 
-https://icecast-vgtrk.cdnvideo.ru/moscowtalk128?v=1640610887877
 #EXTINF:-1 Радио Москвы 
 https://icecast-vgtrk.cdnvideo.ru/moscowtalk128?v=1640610887877
 #EXTINF:-1 Радио Мята
@@ -1481,14 +1343,8 @@ http://radiorecord.hostingradio.ru/rr_spb
 http://212.66.37.40:8000/radiorepublic
 #EXTINF:-1 радио ретро сан ремо
 http://retroserver.streamr.ru:8043/retro256.mp3
-#EXTINF:-1 радио ретро сан ремо
-http://retroserver.streamr.ru:8043/retro256.mp3
-#EXTINF:-1 Радио России
-http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 #EXTINF:-1 Радио России (Radio Russia)
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
-#EXTINF:-1 Радио России (Radio Russia)
-http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps
 #EXTINF:-1 Радио России Карелия
 https://radio.tv-karelia.ru/radiokarelia.mp3
 #EXTINF:-1 Радио России Нижний Новгород
@@ -1503,16 +1359,12 @@ http://188.93.129.110:8085/vestikhv
 http://radio.jingles.ru/radiorostova_all.m3u
 #EXTINF:-1 Радио Рояль
 https://c22.radioboss.fm:18186/stream
-#EXTINF:-1 Радио Русские Песни
-http://listen.rusongs.ru/ru-mp3-128
 #EXTINF:-1 Радио Самара-Максимум
 http://85.236.172.22:8000/maximum
 #EXTINF:-1 Радио Сахаров
 https://icecast.correctiv.net/sacharow
 #EXTINF:-1 Радио СИ
 http://188.128.117.99:8000/radioc
-#EXTINF:-1 Радио Сибирь
-https://stream.radiosibir.ru:8093/HQ
 #EXTINF:-1 Радио Сибирь
 https://stream.radiosibir.ru:8093/HQ
 #EXTINF:-1 Радио Сибирь Хакасия
@@ -1529,12 +1381,8 @@ https://www.sputnik107.ru/online/sputnik107.m3u
 https://icecast-tvoyavolna.cdnvideo.ru/tvoyavolna
 #EXTINF:-1 Радио Тема 
 https://listen1.myradio24.com/trollbro5
-#EXTINF:-1 Радио Тема 
-https://listen1.myradio24.com/trollbro5
 #EXTINF:-1 Радио Томский Благовест
 http://176.65.38.3:8000/blagovest
-#EXTINF:-1 Радио ТОРНАДО
-https://myradio24.org/torrnado.m3u
 #EXTINF:-1 Радио ТОРНАДО
 https://myradio24.org/torrnado.m3u
 #EXTINF:-1 Радио Трансмит
@@ -1565,8 +1413,6 @@ http://retroserver.streamr.ru:8043/retro256.mp3
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 #EXTINF:-1 Ретро FM 70e
 http://retro70.hostingradio.ru:8025/retro70-128.mp3
-#EXTINF:-1 Ретро FM 70e
-http://retro70.hostingradio.ru:8025/retro70-128.mp3
 #EXTINF:-1 Ретро FM 90e
 http://retro90.hostingradio.ru:8025/retro90-128.mp3
 #EXTINF:-1 Ретро FM Санкт-Петербург (128 kbps, mp3)
@@ -1589,16 +1435,12 @@ https://c22.radioboss.fm:18186/stream
 https://radioarctika.hostingradio.ru:80/radioarctika128.mp3
 #EXTINF:-1 Русская волна
 https://ppr90.status-media.ru/ru-wave.mp3
-#EXTINF:-1 Русское Радио
-https://rusradio.hostingradio.ru/rusradio128.mp3
 #EXTINF:-1 Русское радио Волгоград
 http://volgograd.sv-veter.ru:8008/russkoe_vlg
 #EXTINF:-1 Сapital fm
 https://icecast-vgtrk.cdnvideo.ru/capitalfmmp3
 #EXTINF:-1 Саба дулкыннары
 http://radio.tatmedia.com:8800/Saba
-#EXTINF:-1 Самара Максимум
-http://85.236.172.22:8000/maximum
 #EXTINF:-1 Самара Максимум
 http://85.236.172.22:8000/maximum
 #EXTINF:-1 Свободное радио 
@@ -1611,8 +1453,6 @@ http://213.59.4.27:8000/silver128.mp3
 https://silverrainreg.hostingradio.ru/stavropol.silver128.mp3
 #EXTINF:-1 Советская эстрада 
 https://evcast.mediacp.eu:2075/stream
-#EXTINF:-1 Спокойное радио
-https://listen1.myradio24.com/6262
 #EXTINF:-1 Спокойное радио
 https://listen1.myradio24.com/6262
 #EXTINF:-1 СПРАВЕДЛИВАЯ РОССИЯ
@@ -1647,24 +1487,6 @@ https://radio.mediacdn.ru/fm_na_donu.mp3
 https://hitfm.hostingradio.ru/hitfm128.mp3?48c22b78
 #EXTINF:-1 ХИТ FM Пермь 
 https://hitfm.hostingradio.ru/hitfm128.mp3?88b9f1
-#EXTINF:-1 ХИТ FM Пермь 
-https://hitfm.hostingradio.ru/hitfm128.mp3?88b9f1
-#EXTINF:-1 ХИТ FM Пермь 
-https://hitfm.hostingradio.ru/hitfm128.mp3?88b9f1
-#EXTINF:-1 ХИТ FM Пермь 
-https://hitfm.hostingradio.ru/hitfm128.mp3?88b9f1
-#EXTINF:-1 ХИТ FM Пермь 
-https://hitfm.hostingradio.ru/hitfm128.mp3?88b9f1
-#EXTINF:-1 ХИТ FM Пермь 
-https://hitfm.hostingradio.ru/hitfm128.mp3?88b9f1
-#EXTINF:-1 ХИТ FM Пермь 
-https://hitfm.hostingradio.ru/hitfm128.mp3?88b9f1
-#EXTINF:-1 ХИТ FM Пермь 
-https://hitfm.hostingradio.ru/hitfm128.mp3?88b9f1
-#EXTINF:-1 ХИТ FM Пермь 
-https://hitfm.hostingradio.ru/hitfm128.mp3?88b9f1
-#EXTINF:-1 ХИТ FM Пермь 
-https://hitfm.hostingradio.ru/hitfm128.mp3?88b9f1
 #EXTINF:-1 Чипльдук
 http://radio.4duk.ru/4duk128.mp3
 #EXTINF:-1 Чистая Волна
@@ -1683,8 +1505,6 @@ http://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3
 http://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3
 #EXTINF:-1 Шансон Плюс
 http://radio.radioshansonplus.com:8000/radio
-#EXTINF:-1 Шансон Радио
-http://chanson.hostingradio.ru:8041/chanson128.mp3
 #EXTINF:-1 Экспресс Радио Орёл
 http://159.253.18.97:8000/128kbit.mp3
 #EXTINF:-1 эльдорадио (Eldo Radio) 101.4 St. Petersburg
@@ -1703,8 +1523,6 @@ http://radio.mediacdn.ru/uldash.mp3
 http://stream.laut.fm/animklatu
 #EXTINF:-1 ЯН-ФМ Trance
 https://stream.laut.fm/anilibria
-#EXTINF:-1 ЯН.ФМ Диско 90х РФ
-https://stream.laut.fm/radio90s
 #EXTINF:-1 ЯН.ФМ Диско 90х РФ
 https://stream.laut.fm/radio90s
 #EXTINF:-1 ЯсенБит 128k

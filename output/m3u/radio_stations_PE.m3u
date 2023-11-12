@@ -32,8 +32,6 @@ http://185.213.27.145:8000/radio.mp3
 https://sonic-us.streaming-chile.com:7039/;
 #EXTINF:-1 Filarmonía (OCR-4V, 102.7 MHz FM, Lima) (IRTP)
 http://c22.radioboss.fm:8100/stream
-#EXTINF:-1 Filarmonía (OCR-4V, 102.7 MHz FM, Lima) (IRTP)
-https://c22.radioboss.fm:18100/live
 #EXTINF:-1 FMLima
 https://stream.zeno.fm/qotg58sxvehvv
 #EXTINF:-1 herenciarumbera
@@ -52,8 +50,6 @@ https://stream.zenolive.com/59947b1wfuquv
 https://stream.zeno.fm/vkhw2yc0mfhvv
 #EXTINF:-1 La Ñ (FMLima)
 https://stream.zeno.fm/tk4wmqvnnnruv
-#EXTINF:-1 La Radio de Cushta Galiano
-http://stream.zeno.fm/z27q1ywrt98uv
 #EXTINF:-1 La Radio de Cushta Galiano
 http://stream.zeno.fm/z27q1ywrt98uv
 #EXTINF:-1 La Salsa Maestra
@@ -86,8 +82,6 @@ https://stream.zeno.fm/hf2gsfm1mp8uv
 https://turadio.accesopanel.com/8486/stream
 #EXTINF:-1 Radio Cielo 1010 AM
 http://167.114.118.120:7342/
-#EXTINF:-1 Radio Cielo 1010 AM
-http://167.114.118.120:7342/;
 #EXTINF:-1 Radio Clasica Rock&Pop
 https://sonicpanel.globalstream.pro/8042/stream
 #EXTINF:-1 Radio Concierto - FM 95.1
@@ -124,8 +118,6 @@ https://24943.live.streamtheworld.com/CRP_LI_SC?
 https://serverssl.innovatestream.pe:8080/167.114.118.120:7248/stream
 #EXTINF:-1 Radio La Voz del Nor Oriente - Utcubamba
 https://sp.onliveperu.com:7038/;
-#EXTINF:-1 RADIO LA VOZ DEL PERU
-https://servermax.azuracast.com.es/listen/lavozdelpueblo/SANISIDRO
 #EXTINF:-1 Radio Los Angeles - Chepen
 http://94.23.159.187:9950/;
 #EXTINF:-1 RADIO MAGICA 88.3 FM (PERU)
@@ -140,8 +132,6 @@ https://servermax.azuracast.com.es/listen/radio_silencio_fm/MAXIMAFMINTERNACIONA
 https://servermax.azuracast.com.es/listen/radio_silencio_fm/radio.mp3
 #EXTINF:-1 RADIO MEGATRON MIX
 https://servermax.azuracast.com.es/listen/megatronmixfm/MEGATRONMIX20022
-#EXTINF:-1 RADIO MEGATRON MIX
-http://stream.zeno.fm/rw67aty148quv.m3u
 #EXTINF:-1 Radio Milenium - Bagua Grande
 https://sp.onliveperu.com/8102/stream
 #EXTINF:-1 Radio Miraflores TV

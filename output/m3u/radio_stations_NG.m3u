@@ -1,11 +1,7 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations
-#EXTINF:-1 #Radio Quran
-https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
 #EXTINF:-1 9jastar
 http://eu4.fastcast4u.com:5026/stream
-#EXTINF:-1 Albarka Radio
-https://eu8.fastcast4u.com/proxy/albarkafm?mp=/1
 #EXTINF:-1 Albarka Radio
 https://eu8.fastcast4u.com/proxy/albarkafm?mp=/1
 #EXTINF:-1 Awoko Radio
@@ -24,18 +20,12 @@ https://stream.zeno.fm/9reuhyz8up8uv
 https://radio.gotright.net/radio/8000/radio.mp3
 #EXTINF:-1 HOD RADIO
 https://servidor21.brlogic.com:7766/live
-#EXTINF:-1 HOD RADIO
-https://servidor21.brlogic.com:7766/live
 #EXTINF:-1 Inform Me Radio
 http://stream.zeno.fm/ta1fke6sz1zuv
 #EXTINF:-1 MajorFM
 http://stream.zeno.fm/pkza99xshkhvv
 #EXTINF:-1 METRO FM LAGOS
 https://go.webgateready.com/metrofm/radio.mp3
-#EXTINF:-1 Nagari Radio
-http://stream.zeno.fm/287z97ksdg8uv
-#EXTINF:-1 Nagari Radio
-http://stream.zeno.fm/287z97ksdg8uv
 #EXTINF:-1 Nagari Radio
 http://stream.zeno.fm/287z97ksdg8uv
 #EXTINF:-1 Panache Fm 
@@ -48,8 +38,6 @@ http://stream.zeno.fm/7f4w4us5wp8uv
 https://radionghq.radioca.st/;/'
 #EXTINF:-1 RadioTiwa
 https://stream.zeno.fm/tvqvamkwe5zuv.m3u
-#EXTINF:-1 RadioTiwa
-https://stream.zeno.fm/tvqvamkwe5zuv
 #EXTINF:-1 RFI Haoussa
 http://live02.rfi.fr/rfihaoussa-96k.mp3
 #EXTINF:-1 Smooth FM Live

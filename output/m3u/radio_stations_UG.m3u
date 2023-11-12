@@ -2,12 +2,8 @@
 #PLAYLIST:Internet Radio Stations
 #EXTINF:-1 100.2 Galaxy FM Zzina
 https://sc.galaxyfm.co.ug/
-#EXTINF:-1 100.2 Galaxy FM Zzina
-https://sc.galaxyfm.co.ug/
 #EXTINF:-1 100.5 Bukedde Fm
 https://stream.hydeinnovations.com:2020/stream/bukeddefm/stream
-#EXTINF:-1 101.4 Elgon Fm
-https://stream-42.zeno.fm/wquzawmuhrhvv
 #EXTINF:-1 101.4 Elgon Fm
 https://stream-42.zeno.fm/wquzawmuhrhvv
 #EXTINF:-1 101.4 Elgon3
@@ -18,8 +14,6 @@ http://dreamsiteradiocp.com:8052/stream
 http://65.108.120.179:9097/stream
 #EXTINF:-1 103.2 Open gate Fm 
 http://stream.ykbcloud.com:8208/stream
-#EXTINF:-1 103.3 Radio 4
-http://falcon.shoutca.st:8088/stream
 #EXTINF:-1 103.3 Radio 4
 http://falcon.shoutca.st:8088/stream
 #EXTINF:-1 103.3 Radio 4 
@@ -42,8 +36,6 @@ http://65.108.120.179:7141/stream
 http://cast3.my-control-panel.com:8336/stream
 #EXTINF:-1 105.7 UBC West
 http://cast3.my-control-panel.com:8336/stream
-#EXTINF:-1 105.7 UBC West
-http://cast3.my-control-panel.com:8336/stream
 #EXTINF:-1 106.1 Next Radio 
 https://stream-154.zeno.fm/lbca7zintcnuv?zs=P9UBEqoSSr69riqZniMYMw
 #EXTINF:-1 106.7 Glory Fm
@@ -52,8 +44,6 @@ https://stream-25.zeno.fm/5remmcqkpd0uv
 http://65.108.120.179:9097/stream
 #EXTINF:-1 107.0 Salt Fm 
 http://65.108.120.179:9097/stream
-#EXTINF:-1 107.3 BBC Radio Uganda 
-https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa
 #EXTINF:-1 107.3 BBC Radio Uganda 
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa
 #EXTINF:-1 107.9 Pearl Fm 
@@ -74,8 +64,6 @@ http://162.244.80.52:8732/stream.mp3
 http://162.244.80.52:8732/stream.mp3
 #EXTINF:-1 88.1 Centenary Fm
 https://c24.radioboss.fm:18185/stream
-#EXTINF:-1 88.1 Centenary Fm
-https://stream.zeno.fm/lnmf4ymggmovv
 #EXTINF:-1 88.2 Sanyu FM - 88.2 FM (MP3)
 http://s44.myradiostream.com/8138/listen.mp3
 #EXTINF:-1 88.2 Sanyu FM - Kampala - 88.2 FM (MP3)
@@ -96,8 +84,6 @@ https://stream-11.zeno.fm/rmtdek37zxhvv
 http://s5.voscast.com:9904/EMMANDUSO
 #EXTINF:-1 89.4 NBS Fm
 http://khodeyo.radioca.st/stream
-#EXTINF:-1 89.4 NBS Fm
-http://khodeyo.radioca.st/stream
 #EXTINF:-1 89.6 Top Radio 
 http://ca10.rcast.net:8054/;&name=TOP+RADIO
 #EXTINF:-1 89.8 Mukono Fm
@@ -107,10 +93,6 @@ https://s19.myradiostream.com/:18784/
 #EXTINF:-1 90.1 Discovery fm Jamaica 
 http://usa14.fastcast4u.com:5192/;
 #EXTINF:-1 90.4 Dembe Fm 
-http://41.190.132.68:8000/stream
-#EXTINF:-1 90.4 Dembe Fm
-http://41.190.132.68:8000/stream
-#EXTINF:-1 90.4 Dembe Fm
 http://41.190.132.68:8000/stream
 #EXTINF:-1 90.4 Dembe Fm
 http://41.190.132.68:8000/stream
@@ -138,8 +120,6 @@ https://stream.zenolive.com/d5mn12bchkeuv
 https://dc4.serverse.com/proxy/ccmxrgub/stream
 #EXTINF:-1 96.3 Beat fm
 http://5230.cloudrad.io:8354/
-#EXTINF:-1 96.3 Beat fm
-http://5230.cloudrad.io:8354/
 #EXTINF:-1 96.3 Beat Fm Ekintabuli 
 http://5230.cloudrad.io:8354/
 #EXTINF:-1 97. 0 Radio City Fm
@@ -154,8 +134,6 @@ http://eu1.reliastream.com/proxy/recordfm977?mp=/stream.mp3
 http://162.244.80.106:10853/stream
 #EXTINF:-1 98.1 Smooth Fm Nigeria 
 http://smoothlive.smooth981.fm:8000/smoothlivefm128
-#EXTINF:-1 98.7 Mutundwe Christian Fellowship 
-https://streams.radio.co/s79fbbb432/listen
 #EXTINF:-1 98.7 Mutundwe Christian Fellowship 
 https://streams.radio.co/s79fbbb432/listen
 #EXTINF:-1 98.8 Buddu Fm
@@ -176,14 +154,8 @@ http://162.244.80.52:8732/stream.mp3
 https://stream-60.zeno.fm/ns28rp24dkhvv
 #EXTINF:-1 BBC AFRICA UG
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa
-#EXTINF:-1 BBC AFRICA UG
-https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa
 #EXTINF:-1 BBC UGANDA 
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa
-#EXTINF:-1 BEAT FM
-http://5230.cloudrad.io:8354/
-#EXTINF:-1 BEAT FM
-http://5230.cloudrad.io:8354/
 #EXTINF:-1 BEAT FM
 http://5230.cloudrad.io:8354/
 #EXTINF:-1 Beat FM - Kampala - 96.3 FM (MP3)
@@ -200,8 +172,6 @@ https://bmiradio.out.airtime.pro/bmiradio_b
 http://hoth.alonhosting.com:1100/;
 #EXTINF:-1 Boona FM 91.8 - Rukungiri - 91.8 FM (MP3)
 http://stream.zeno.fm/ndi9k9r4lp9uv
-#EXTINF:-1 Boona FM 91.8 - Rukungiri - 91.8 FM (MP3)
-http://stream.zeno.fm/ndi9k9r4lp9uv
 #EXTINF:-1 BUSOGA ONE
 https://stream.zeno.fm/xna2aad7gc9uv
 #EXTINF:-1 Buyinza Fm
@@ -210,13 +180,7 @@ http://stream.zeno.fm/wcancipcbrevv
 http://stream.zeno.fm/wcancipcbrevv
 #EXTINF:-1 CAPITAL FM
 http://5229.cloudrad.io:8316/;
-#EXTINF:-1 CAPITAL FM
-http://5229.cloudrad.io:8316/;
-#EXTINF:-1 CAPITAL FM
-http://5229.cloudrad.io:8316/;
 #EXTINF:-1 Capital FM
-http://5229.cloudrad.io:8316/;
-#EXTINF:-1 CAPITAL FM
 http://5229.cloudrad.io:8316/;
 #EXTINF:-1 CAPITAL FM
 http://5229.cloudrad.io:8316/;
@@ -230,10 +194,6 @@ http://media-ice.musicradio.com/CapitalLiverpoolMP3
 https://streams.cbnradio.com/christmas-128K?%20Title1=CBN%20Christmas
 #EXTINF:-1 CBS 88.8
 http://s5.voscast.com:9908/EYOBUJJAJJA
-#EXTINF:-1 CBS 88.8
-http://s5.voscast.com:9908/EYOBUJJAJJA
-#EXTINF:-1 CBS EMANDUSO
-http://s5.voscast.com:9904/EMMANDUSO
 #EXTINF:-1 CBS EMANDUSO
 http://s5.voscast.com:9904/EMMANDUSO
 #EXTINF:-1 CBS EYO'BUJAJJA
@@ -292,11 +252,7 @@ http://stream.zeno.fm/k2zma0qewtjvv
 http://stream.zeno.fm/k2zma0qewtjvv
 #EXTINF:-1 FAITH CITY
 https://stream-57.zeno.fm/tkgy9wuq208uv
-#EXTINF:-1 Faith Radio
-https://nwm.streamguys1.com/ktis-am
 #EXTINF:-1 FOX NEWS 
-http://tunein.streamguys1.com/foxnews
-#EXTINF:-1 Fox News Channel 
 http://tunein.streamguys1.com/foxnews
 #EXTINF:-1 Fox News Channel 
 http://tunein.streamguys1.com/foxnews
@@ -322,8 +278,6 @@ https://c32.radioboss.fm:18451/stream?1641237600584
 https://listen-nation.sharp-stream.com/hull.mp3
 #EXTINF:-1 Heathafro FM
 http://stream.zeno.fm/rdf0qac95p8uv
-#EXTINF:-1 Heaven FM Radio
-http://stream.zeno.fm/eequgfw72hhvv
 #EXTINF:-1 Hills FM - Kabale - 100.4 FM (MP3)
 http://s40.myradiostream.com/21392/;
 #EXTINF:-1 Hills FM 100.4
@@ -338,10 +292,6 @@ https://streaming.radio.co/s1dc8ab02e/listen
 https://stream.jewishmusicstream.com:8000/
 #EXTINF:-1 JOY FM
 https://stream-47.zeno.fm/5b2gp19esc9uv
-#EXTINF:-1 JOY FM
-https://stream-47.zeno.fm/5b2gp19esc9uv
-#EXTINF:-1 JOY HITS
-http://joyhits.online/joyhitshq.mp3
 #EXTINF:-1 JOY HITS
 http://joyhits.online/joyhitshq.mp3
 #EXTINF:-1 Joy hits channel 
@@ -354,8 +304,6 @@ http://streams.abidingradio.org:7810/1
 http://stream.zeno.fm/iydttapi8rguv
 #EXTINF:-1 KIIS Uganda
 http://14867.cloudrad.io:9224/live
-#EXTINF:-1 Kitintale Christian Fellowship 
-https://c24.radioboss.fm:18185/stream
 #EXTINF:-1 Kitintale Christian Fellowship 
 https://c24.radioboss.fm:18185/stream
 #EXTINF:-1 MASABA FM
@@ -398,8 +346,6 @@ https://securestreams5.autopo.st:1941/stream
 https://node-33.zeno.fm/1gfmyttkephvv
 #EXTINF:-1 Preaching 
 http://radio.holiness-preaching.org:8000/stream
-#EXTINF:-1 Preaching 
-http://radio.holiness-preaching.org:8000/stream
 #EXTINF:-1 PRIME RADIO 
 https://stream-42.zeno.fm/07ksvzbz77zuv
 #EXTINF:-1 Prime Radio - Kampala - 91.9 FM (MP3)
@@ -410,8 +356,6 @@ https://node-28.zeno.fm/1k0y9f0cm0quv
 https://samuel.i-radio.co:9000/radiobendicion
 #EXTINF:-1 RADIO CITY
 http://162.244.80.106:10853/;
-#EXTINF:-1 RADIO CITY
-http://162.244.80.106:10853/stream
 #EXTINF:-1 RADIO EAST NIGERIA 
 http://stream.zeno.fm/7f4w4us5wp8uv
 #EXTINF:-1 RADIO MARIA UGANDA
@@ -420,10 +364,6 @@ http://dreamsiteradiocp.com:8052/stream
 http://162.244.80.52:8740/stream
 #EXTINF:-1 Radio One FM 90 - 90.0 FM (MP3)
 http://radioone.loftuganda.tech/stream
-#EXTINF:-1 Radio One FM 90 - 90.0 FM (MP3)
-http://radioone.loftuganda.tech/stream
-#EXTINF:-1 Radio One FM 90 - 90.0 FM (MP3)
-https://radioone.loftuganda.tech/stream
 #EXTINF:-1 Radio One FM 90 - Kampala - 90.0 FM (MP3)
 http://radioone.loftuganda.tech/stream
 #EXTINF:-1 Radio Pacis 90.9
@@ -452,10 +392,6 @@ https://rfienswahili64k.ice.infomaniak.ch/rfienswahili-64.mp3
 https://c14.radioboss.fm:18223/stream?1615807421100=
 #EXTINF:-1 SALT FM
 http://65.108.120.179:9097/stream
-#EXTINF:-1 SALT FM
-http://65.108.120.179:9097/stream
-#EXTINF:-1 SALT FM
-http://65.108.120.179:9097/stream
 #EXTINF:-1 Sanyu Fm
 http://s44.myradiostream.com:8138/stream
 #EXTINF:-1 SANYU FM
@@ -482,8 +418,6 @@ https://video.news.sky.com/snr/news/snrnews.mp3
 http://media-the.musicradio.com/SmoothLondonMP3
 #EXTINF:-1 Smooth chill 
 https://media-ssl.musicradio.com/ChillMP3
-#EXTINF:-1 SMOOTH FM
-http://media-the.musicradio.com/SmoothLondonMP3
 #EXTINF:-1 Spirit FM 96.6 - Kampala - 96.6 FM (MP3)
 http://216.104.206.38/broadwave.mp3
 #EXTINF:-1 STEP FM
@@ -502,8 +436,6 @@ http://radio.talksport.com/stream2?awparams=platform:ts-web&amsparams=playerid:t
 https://radio.talksport.com/stream
 #EXTINF:-1 Talksport Premier League 
 https://radio.talksport.com/stream
-#EXTINF:-1 Talksport Premier League 
-https://radio.talksport.com/stream
 #EXTINF:-1 Talksport Spanish 
 http://live.talksport.com/channel1m-es
 #EXTINF:-1 TBS Fm
@@ -512,11 +444,7 @@ http://197.221.133.90:8000/tbs.nvs
 https://s4.radioforge.com:7257/stream
 #EXTINF:-1 Tendo Radio - Mbale (MP3)
 https://s4.radioforge.com:7257/stream
-#EXTINF:-1 Tendo Radio - Mbale (MP3)
-https://s4.radioforge.com:7257/stream
 #EXTINF:-1 Times Radio 
-http://timesradio.wireless.radio/stream
-#EXTINF:-1 Times radio UK
 http://timesradio.wireless.radio/stream
 #EXTINF:-1 Times radio UK
 http://timesradio.wireless.radio/stream

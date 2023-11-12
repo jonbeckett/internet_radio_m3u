@@ -11,6 +11,4 @@ File5=https://forwardmystream.com/sensuelleradio
 Title5=SENSUELLE RADIO
 File6=https://c34.radioboss.fm:18023/stream
 Title6=Tamizen
-File7=https://s1.radioforge.com:4433/topfmlive/stream?hash=1663883843609.mp3
-Title7=Top FM
-NumberOfEntries=7
+NumberOfEntries=6

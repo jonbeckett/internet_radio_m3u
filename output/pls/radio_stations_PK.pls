@@ -73,34 +73,32 @@ File36=https://cc.vmakerhost.com/proxy/karachi?mp=/stream
 Title36=Radio One FM 91
 File37=http://cc.vmakerhost.com:8147/stream
 Title37=Radio One FM 91 Gwadar
-File38=https://s17.ssl-stream.com:2199/tunein/radiopak.pls
-Title38=Radio Pak Filmi
-File39=https://whmsonic.radio.gov.pk:8092/relay
-Title39=Radio Pakistan Bahawalpur
-File40=https://whmsonic.radio.gov.pk:8042/stream
-Title40=Radio Pakistan Hyderabad MW 1008 KHz
-File41=https://whmsonic.radio.gov.pk:7003/stream
-Title41=Radio Pakistan Islamabad
-File42=https://whmsonic.radio.gov.pk:7000/MW639khi
-Title42=Radio Pakistan Karachi MW 639 KHz
-File43=https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9
-Title43=Radio Pakistan Lahore AM 630 KHZ
-File44=https://whmsonic.radio.gov.pk:7004/stream?type=http&nocache=12
-Title44=Radio Pakistan Lahore News and Current Affair AM 1332 KHZ
-File45=https://whmsonic.radio.gov.pk:8034/stream
-Title45=Radio Pakistan Multan MW
-File46=https://whmsonic.radio.gov.pk:8072/relay
-Title46=Radio Pakistan Peshawar MW
-File47=https://whmsonic.radio.gov.pk:8060/relay
-Title47=Radio Pakistan Quetta MW
-File48=https://whmsonic.radio.gov.pk:7005/stream
-Title48=Radio Pakistan World Service
-File49=https://samaakhi107-itelservices.radioca.st/stream
-Title49=Samaa FM 107.4
-File50=http://110.93.246.72:8000/SUNO
-Title50=Suno FM 89.4
-File51=http://stream.radiojar.com/zpd8p6fgq3quv
-Title51=VOA Urdu
-File52=https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12
-Title52=পাকিস্তান
-NumberOfEntries=52
+File38=https://whmsonic.radio.gov.pk:8092/relay
+Title38=Radio Pakistan Bahawalpur
+File39=https://whmsonic.radio.gov.pk:8042/stream
+Title39=Radio Pakistan Hyderabad MW 1008 KHz
+File40=https://whmsonic.radio.gov.pk:7003/stream
+Title40=Radio Pakistan Islamabad
+File41=https://whmsonic.radio.gov.pk:7000/MW639khi
+Title41=Radio Pakistan Karachi MW 639 KHz
+File42=https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9
+Title42=Radio Pakistan Lahore AM 630 KHZ
+File43=https://whmsonic.radio.gov.pk:7004/stream?type=http&nocache=12
+Title43=Radio Pakistan Lahore News and Current Affair AM 1332 KHZ
+File44=https://whmsonic.radio.gov.pk:8034/stream
+Title44=Radio Pakistan Multan MW
+File45=https://whmsonic.radio.gov.pk:8072/relay
+Title45=Radio Pakistan Peshawar MW
+File46=https://whmsonic.radio.gov.pk:8060/relay
+Title46=Radio Pakistan Quetta MW
+File47=https://whmsonic.radio.gov.pk:7005/stream
+Title47=Radio Pakistan World Service
+File48=https://samaakhi107-itelservices.radioca.st/stream
+Title48=Samaa FM 107.4
+File49=http://110.93.246.72:8000/SUNO
+Title49=Suno FM 89.4
+File50=http://stream.radiojar.com/zpd8p6fgq3quv
+Title50=VOA Urdu
+File51=https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12
+Title51=পাকিস্তান
+NumberOfEntries=51

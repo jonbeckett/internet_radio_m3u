@@ -6,8 +6,6 @@ http://uk4-vn.mixstream.net:8066/stream/1/
 http://125.236.204.178:8001/listen.mp3
 #EXTINF:-1 8K.NZ
 http://radio8k.out.airtime.pro:8000/radio8k_a.m3u
-#EXTINF:-1 8K.NZ
-http://radio8k.out.airtime.pro:8000/radio8k_a
 #EXTINF:-1 95BFM
 https://streams.95bfm.com/stream95
 #EXTINF:-1 Andhow fm
@@ -42,8 +40,6 @@ http://countryradio2.no-ip.org:8000/;
 http://davefmradio.no-ip.org:8000/stream
 #EXTINF:-1 Drop FM
 https://s2.radio.co/s7649837db/listen
-#EXTINF:-1 East FM
-http://listen.eastfm.nz/stream.mp3
 #EXTINF:-1 Easy 80s
 http://procyon.shoutca.st:8032/;
 #EXTINF:-1 Galaxy 107 FM  Kawerau
@@ -76,8 +72,6 @@ https://mouthfull-radio.radiocult.fm/stream
 https://live.accessmedia.nz/MPR.stream/playlist.m3u8
 #EXTINF:-1 Mushroom Escape
 https://cast3.my-control-panel.com/proxy/jonatha1/escape?1664781783632
-#EXTINF:-1 Mushroom Escape
-http://mushroomfm.com/media/escape.pls
 #EXTINF:-1 Mushroom FM
 https://www.mushroomfm.com/media/listen.pls
 #EXTINF:-1 Nelson Community Radio 88.1FM
@@ -120,8 +114,6 @@ https://streaming.radio.co/sed9109681/listen
 http://radionz-ice.streamguys.com/national.mp3
 #EXTINF:-1 Radio One 91FM in Dunedin
 http://stream.r1.co.nz:8090/r1-high.mp3
-#EXTINF:-1 Radio Planeta 107.7
-http://radionz-ice.streamguys.com/national.mp3
 #EXTINF:-1 Radio Redwood
 http://123.255.61.226:8020/;?type=http&nocache=76646
 #EXTINF:-1 Radio Rock FM
@@ -154,8 +146,6 @@ http://radionz-ice.streamguys.com/international.mp3
 http://radionz-ice.streamguys.com/parliament.mp3
 #EXTINF:-1 RNZ Concert
 http://radionz-ice.streamguys.com/concert.mp3
-#EXTINF:-1 RNZ National
-http://radionz-ice.streamguys.com/national.mp3
 #EXTINF:-1 RNZ Pacific
 http://radionz-ice.streamguys.com/international.mp3
 #EXTINF:-1 RNZ Parliament
@@ -170,8 +160,6 @@ https://cast4.asurahosting.com:2199/tunein/sleeprad.pls
 https://s19.myradiostream.com/:18892/;?type=http&nocache=1653124007?0.30724640509725076
 #EXTINF:-1 Star
 http://rhema-radio.streamguys1.com/rhema-star.mp3
-#EXTINF:-1 Sub FM
-https://fmsub.radioca.st/stream?type=http&nocache=140
 #EXTINF:-1 The Cheese
 http://thecheese.ddns.net:8000/
 #EXTINF:-1 The Flea FM 88.2

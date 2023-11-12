@@ -8,16 +8,10 @@ http://5.63.151.52:7025/;
 https://player.radiobruskin.me/proxy/radiobruskin/stream
 #EXTINF:-1 Budva Summer Radio
 https://c4.radioboss.fm:18181/stream
-#EXTINF:-1 Bum radio
-https://r.name.ba:7324/;
-#EXTINF:-1 Drugačija Radio Stanica
-https://eu2.fastcast4u.com/proxy/mic0?mp=/stream
 #EXTINF:-1 Drugačija Radio Stanica
 https://eu2.fastcast4u.com/proxy/mic0?mp=/stream
 #EXTINF:-1 Elmag Jazz
 http://radio.elmag.me/jazz.mp3
-#EXTINF:-1 Jupok radio
-http://176.9.59.144:8062/
 #EXTINF:-1 Jupok radio
 http://176.9.59.144:8062/
 #EXTINF:-1 Mag radio
@@ -28,12 +22,8 @@ http://radio.elmag.me/elmag.mp3
 https://stream.playradio.me:8443/play-me.mp3
 #EXTINF:-1 Radio Andrijevica
 https://mpc2.mediacp.eu/stream/andrijevica/stream
-#EXTINF:-1 Radio Andrijevica
-https://mpc2.mediacp.eu/stream/andrijevica/stream
 #EXTINF:-1 Radio Bar
 http://livestream.barinfo.me:9000/;
-#EXTINF:-1 Radio Berane
-https://stream.iradio.pro/proxy/radioberane?mp=/stream;
 #EXTINF:-1 Radio Berane
 https://stream.iradio.pro/proxy/radioberane?mp=/stream;
 #EXTINF:-1 Radio Bijelo Polje

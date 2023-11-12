@@ -2,8 +2,6 @@
 #PLAYLIST:Internet Radio Stations
 #EXTINF:-1  Radio Navahang
 https://navairan.com/;stream.nsv
-#EXTINF:-1 . Islam call 
-https://n0c.radiojar.com/59096z743d0uv?rj-ttl=5&rj-tok=AAABhd07tHIAJ2GRl2KNynaKow
 #EXTINF:-1 ..mohammed_ayyub
 https://qurango.net/radio/mohammed_ayyub
 #EXTINF:-1 .al quran radio 
@@ -26,10 +24,6 @@ http://parsa.icdndhcp.com:18000/stream
 http://37.59.47.192:8200/;stream.mp3
 #EXTINF:-1 Radio Iran International
 https://radio.iraninternational.app/iintl_c
-#EXTINF:-1 Radio Javan
-http://rj1.rjstream.com/
-#EXTINF:-1 Radio Javan - The Best Persian Music 24/7
-http://74.115.215.36/
 #EXTINF:-1 Radio Mojahed - رادیو مجاهد
 https://s2.radio.co/s830691c74/listen
 #EXTINF:-1 Radio Mojdeh
@@ -40,14 +34,8 @@ https://ic2326.c1261.fastserv.com/rm128
 http://r.pgbu.ir:8000/live
 #EXTINF:-1 Radio Sarcheshme
 http://sarcheshmeh.icdndhcp.com:18452/stream
-#EXTINF:-1 Radio Shemroon
-http://usa7.fastcast4u.com:5919/stream
 #EXTINF:-1 RadioSimorgh
 https://stream.zeno.fm/jl8n7thgcdftv
-#EXTINF:-1 RadioSimorgh Authentic Iranian music
-https://stream.zenolive.com/dqahw5a6vrquv
-#EXTINF:-1 RadioSimorgh Authentic Iranian music
-https://stream.zeno.fm/9svfnobkrxrvv
 #EXTINF:-1 RadioSimorgh Authentic Iranian music
 https://stream.zenolive.com/dqahw5a6vrquv
 #EXTINF:-1 RadioYar

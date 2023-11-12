@@ -14,12 +14,8 @@ https://giorgia.radiobellissima.it:8340/radio.mp3
 https://maggie.torontocast.com:2020/stream/rdmixlovesongs
 #EXTINF:-1  #70s 80s 90s RdMix Network
 https://giorgia.radiobellissima.it:8330/radio.mp3
-#EXTINF:-1  #70s 80s 90s RdMix Network
-https://giorgia.radiobellissima.it/radio/8330/radio.mp3
 #EXTINF:-1 ..tafsir coran
 https://qurango.net/radio/mukhtasartafsir
-#EXTINF:-1 .Nidaa Islam 
-https://n0c.radiojar.com/59096z743d0uv?rj-ttl=5&rj-tok=AAABhd07tHIAJ2GRl2KNynaKow
 #EXTINF:-1 .Quran 
 https://backup.qurango.net/radio/ahmad_khader_altarabulsi
 #EXTINF:-1 ##Radio Qur. Sa.
@@ -60,8 +56,6 @@ https://giorgia.radiobellissima.it:8100/stream
 https://vistaradio.streamb.live/SB00084
 #EXTINF:-1 103.9 MAX FM - Moncton's Greatest Hits
 http://mbsradio-ais.leanstream.co/CFQMFM-MP3?args=mobile_01&aw_0_req.gdpr=false&gdpr=false
-#EXTINF:-1 103.9 MAX FM - Moncton's Greatest Hits
-http://mbsradio-ais.leanstream.co/CFQMFM-MP3?args=mobile_01&aw_0_req.gdpr=false&gdpr=false
 #EXTINF:-1 24.7 The Mix - Sudbury, ON
 http://46.105.126.68:7304/;stream.mp3
 #EXTINF:-1 630 CHED
@@ -82,8 +76,6 @@ https://stream2.statsradio.com:8150/stream
 https://giorgia.radiobellissima.it:8190/radio.mp3
 #EXTINF:-1 A Dick Ted Radio
 http://adickted.ca:8000/stream
-#EXTINF:-1 A MISSISSIPPI BLUES
-https://jenny.torontocast.com:2000/stream/amississippiblues
 #EXTINF:-1 A MISSISSIPPI BLUES
 https://jenny.torontocast.com:2000/stream/amississippiblues
 #EXTINF:-1 A NASHVILLE COUNTRY HITS
@@ -486,8 +478,6 @@ https://stream2.statsradio.com:8110/stream
 https://stream2.statsradio.com:8110/stream
 #EXTINF:-1 CHOC-FM 88.7  Saint-Raymond de Portneuf, QC
 https://stream2.statsradio.com:8110/stream
-#EXTINF:-1 CHOI 98.1 "Radio X" Quebec City, QC
-http://icecast-choi.rncm.ca/choi.mp3
 #EXTINF:-1 Choi Radio X 98,1
 http://icecast-choi.rncm.ca/choi.mp3
 #EXTINF:-1 Choice Classic Rock
@@ -538,8 +528,6 @@ http://opml.radiotime.com/Tune.ashx?id=s24750
 https://us2.maindigitalstream.com/ssl/CHTM
 #EXTINF:-1 CHUO-FM 89.1  University of Ottawa, ON
 https://stream.statsradio.com:8102/stream
-#EXTINF:-1 CHUP "Soft Rock 97.7" Calgary, AB
-http://rawlco.leanstream.co/CHUPFM-MP3
 #EXTINF:-1 CHUP "Soft Rock 97.7" Calgary, AB
 http://rawlco.leanstream.co/CHUPFM-MP3
 #EXTINF:-1 CHWC-FM "Country 104.9" Goderich, ON (MP3 Stream)
@@ -596,10 +584,6 @@ http://live.leanstream.co/CIMJFM-MP3
 https://stream2.statsradio.com:8068/stream
 #EXTINF:-1 CIND-FM 88.1 "Indie 88" Toronto, ON (MP3 Stream)
 https://cob-ais.leanstream.co/CINDFM-MP3
-#EXTINF:-1 Cinemix
-http://listen.cinemix.fr/
-#EXTINF:-1 Cinemix
-http://94.23.51.96:8107/
 #EXTINF:-1 Cinemix HD
 https://kathy.torontocast.com:1825/stream
 #EXTINF:-1 CING 95.3 "Fresh Radio" Hamilton, ON
@@ -948,8 +932,6 @@ http://streaming.live365.com/a43564
 http://streams.calmradio.com:30228/
 #EXTINF:-1 Classical Jazz Radio
 https://cast1.torontocast.com:1655/stream
-#EXTINF:-1 Classical Jazz Radio
-http://cast1.torontocast.com:1650/stream
 #EXTINF:-1 ClassicalJazz Radio
 https://cast1.torontocast.com:1655/stream
 #EXTINF:-1 Coast 101.1 FM St. Johns, NL
@@ -958,8 +940,6 @@ https://canada1.reliastream.com/proxy/coastbr1?mp=/stream
 https://stream.statsradio.com:8040/stream
 #EXTINF:-1 Country 102
 https://bayshore-ais.leanstream.co/CJMUFM-MP3
-#EXTINF:-1 Countryradio.Musicbox4friends
-https://maggie.torontocast.com:8092/country
 #EXTINF:-1 Countryradio.Musicbox4friends
 https://maggie.torontocast.com:8092/country
 #EXTINF:-1 CRIK - The Lynx Classic Rock - Calgary, Alberta, Canada
@@ -1008,10 +988,6 @@ https://streamer.radio.co/s59d6483f6/listen
 http://rosetta.shoutca.st:8216/stream
 #EXTINF:-1 Gritty Rock Radio
 https://listen.radioking.com/radio/10713/stream/224413
-#EXTINF:-1 Gritty Rock Radio
-http://www.radioking.com/play/gritty-rock
-#EXTINF:-1 Gritty Rock Radio
-https://listen.radioking.com/radio/10713/stream/21674
 #EXTINF:-1 Guitar Calm Radio
 http://streams.calmradio.com:2728/
 #EXTINF:-1 Hang 10 Rock Radio - Tofino, BC
@@ -1046,8 +1022,6 @@ http://usa7.fastcast4u.com:5880/
 https://c5.radioboss.fm:18213/stream
 #EXTINF:-1 iRock24/7
 https://streamer.radio.co/s493283a7e/listen
-#EXTINF:-1 iRock24/7
-https://streamer.radio.co/s493283a7e/listen
 #EXTINF:-1 irock24/7
 https://streamer.radio.co/s493283a7e/listen
 #EXTINF:-1 ISO Radio
@@ -1058,14 +1032,10 @@ http://hubble.shoutca.st:8120/stream
 https://kathy.torontocast.com:3350/
 #EXTINF:-1 J-Idols Project Radio
 http://bluford.torontocast.com:8081/stream/;
-#EXTINF:-1 J-Idols Project Radio
-http://bluford.torontocast.com:8081/stream/;
 #EXTINF:-1 J-Pop Powerplay (Asia DREAM Radio)
 http://kathy.torontocast.com:3560/
 #EXTINF:-1 J-Pop Powerplay Kawaii
 https://kathy.torontocast.com/kawaii
-#EXTINF:-1 J-Pop Powerplay Kawaii
-https://kathy.torontocast.com:3060/;
 #EXTINF:-1 J-Pop Powerplay Kawaii (http)
 http://kathy.torontocast.com:3060/;
 #EXTINF:-1 J-Pop Project Radio
@@ -1092,14 +1062,8 @@ https://stream3.305stream.com/proxy/client06/stream
 http://198.178.123.8:7798/;stream.mp3
 #EXTINF:-1 KONA Stream
 http://jenny.torontocast.com:9002/stereo
-#EXTINF:-1 KONA Stream
-http://jenny.torontocast.com:9002/stereo
 #EXTINF:-1 Krypton Radio
 http://station.kryptonradio.com:2199/tunein/kryptonradio.pls
-#EXTINF:-1 La Bonita X101
-https://listen.labonita.torontocast.stream/
-#EXTINF:-1 La Bonita X101
-https://listen.labonita.torontocast.stream/
 #EXTINF:-1 La Bonita X101
 https://listen.labonita.torontocast.stream/
 #EXTINF:-1 Labgaate Pop Hits
@@ -1180,22 +1144,14 @@ http://listen.shoutcast.com/radioaddictive50s
 https://giorgia.radiobellissima.it:8020/stream
 #EXTINF:-1 Radio Bellissima Classic
 https://giorgia.radiobellissima.it:8010/stream
-#EXTINF:-1 Radio Bellissima Classic
-https://giorgia.radiobellissima.it:8010/stream
 #EXTINF:-1 Radio Bellissima Hits
 http://giorgia.radiobellissima.it:8000/stream
-#EXTINF:-1 Radio Bellissima Hits
-https://giorgia.radiobellissima.it:8000/stream
 #EXTINF:-1 Radio Bellissima Italia
 https://giorgia.radiobellissima.it:8040/stream
 #EXTINF:-1 Radio Bellissima Jazz
 https://giorgia.radiobellissima.it:8050/stream
 #EXTINF:-1 Radio Bellissima Latina
 http://martina.radiobellissima.it:8060/;
-#EXTINF:-1 Radio Bellissima Latina
-https://giorgia.radiobellissima.it:8060/stream
-#EXTINF:-1 Radio Bellissima Metal
-https://giorgia.radiobellissima.it:8160/stream
 #EXTINF:-1 Radio Bellissima Metal
 https://giorgia.radiobellissima.it:8160/stream
 #EXTINF:-1 Radio Bellissima Relax
@@ -1246,8 +1202,6 @@ https://radio.streemlion.com:2435/stream
 http://usa7.fastcast4u.com:5919/stream
 #EXTINF:-1 Radio Skipper
 http://s6.mediastreaming.it:7050/;
-#EXTINF:-1 Radio Unicité
-https://listen.radioking.com/radio/521287/stream/579484
 #EXTINF:-1 Radio Unicité
 https://listen.radioking.com/radio/521287/stream/579484
 #EXTINF:-1 radio vaporaki
@@ -1302,8 +1256,6 @@ http://stream.rpgamers.net:8000/rpgn
 https://jenny.torontocast.com:8042/stream
 #EXTINF:-1 Sauga 960 AM
 https://stream2.statsradio.com:8066/stream
-#EXTINF:-1 Sauga 960 AM
-http://ckdm.smartstreamingsolutions.ca:7172/
 #EXTINF:-1 SENSUAL LOUNGE
 https://maggie.torontocast.com:2020/stream/sensuallounge
 #EXTINF:-1 SLOWLY RADIO
@@ -1316,8 +1268,6 @@ http://stream.soundstorm-radio.com:8000/
 http://stream.springsteenradio.com:9000/listen.pls
 #EXTINF:-1 Squirrel FM
 http://s25.myradiostream.com:10092/stream/1/listen.mp3
-#EXTINF:-1 Squirrel FM
-https://streaming.live365.com/a30415
 #EXTINF:-1 Suite Jazz Radio
 https://jenny.torontocast.com:2000/stream/suitejazzradio
 #EXTINF:-1 Taqramiut Nipingat Incorporated Radio 94.1 - Salluit, QC 
@@ -1340,14 +1290,10 @@ http://s16.myradiostream.com:7304/
 http://s16.myradiostream.com:7304/
 #EXTINF:-1 Terry Callaghan's Groovy 70's
 http://s3.free-shoutcast.com:18172/
-#EXTINF:-1 Terry Callaghan's Groovy 70's
-http://s3.free-shoutcast.com:18172/
 #EXTINF:-1 Terry Callaghan's Totally 80's
 http://usa7.fastcast4u.com:5880/
 #EXTINF:-1 Terry Calllaghan's Groovy 70's
 http://s3.free-shoutcast.com:18172/
-#EXTINF:-1 The Base
-https://listen.thebase.sc/
 #EXTINF:-1 The Base
 https://listen.thebase.sc/
 #EXTINF:-1 THE EDM MEGASHUFFLE
@@ -1358,20 +1304,8 @@ http://streams.theloungesound.ca:8059/;?.mp3
 http://rock-lynxradio.radioca.st/stream
 #EXTINF:-1 The Lynx Retro 80s
 http://80s-lynxradio.radioca.st/stream
-#EXTINF:-1 The Lynx Retro 80s
-http://80s-lynxradio.radioca.st/stream
-#EXTINF:-1 The Lynx Retro 80s
-http://80s-lynxradio.radioca.st/stream
-#EXTINF:-1 The Lynx Retro 80s
-http://80s-lynxradio.radioca.st/stream
-#EXTINF:-1 The Lynx Retro 80s
-http://80s-lynxradio.radioca.st/stream
 #EXTINF:-1 THE LYNX SUPER 70S
 http://70s-lynxradio.radioca.st/stream
-#EXTINF:-1 The Oasis Modern Easy Listening
-https://jenny.torontocast.com:2000/stream/the-oasis/stream
-#EXTINF:-1 The Oasis Modern Easy Listening
-https://jenny.torontocast.com:2000/stream/the-oasis
 #EXTINF:-1 The Oasis Modern Easy Listening
 https://jenny.torontocast.com:2000/stream/the-oasis/stream
 #EXTINF:-1 Time Capsule Show
@@ -1380,18 +1314,10 @@ http://sc3.mystreamserver.com:8060/
 https://s6.voscast.com:8045/;stream.mp3
 #EXTINF:-1 Tipaul Radio
 http://usa10.fastcast4u.com:6870/;?type=http&nocache=1672764240
-#EXTINF:-1 Tiwana Radio
-http://mehramedia.com:7000/
 #EXTINF:-1 TNI Radio, Nunavut
 http://perseus.shoutca.st:8599/stream/1/
 #EXTINF:-1 Tokyo Rose Radio
 http://bluford.torontocast.com:8006/autodj
-#EXTINF:-1 Tokyo Rose Radio
-http://bluford.torontocast.com:8006/stream
-#EXTINF:-1 Tokyo Rose Radio
-http://bluford.torontocast.com:8006/stream
-#EXTINF:-1 Tokyo Rose Radio
-http://bluford.torontocast.com:8006/stream
 #EXTINF:-1 toronto global radio - euro
 https://london-dedicated.myautodj.com:3199/proxy/euro/stream
 #EXTINF:-1 Toronto Global Radio - Freestyle
@@ -1414,13 +1340,9 @@ http://provisioning.streamtheworld.com/pls/CIWVFM.pls
 http://www.wefunkradio.com/play/radio.pls
 #EXTINF:-1 WEFUNK Radio
 https://www.wefunkradio.com/play/radio.mp3
-#EXTINF:-1 WEFUNK Radio
-http://s-09.wefunkradio.com:81/wefunk64.mp3
 #EXTINF:-1 WKND 99.5, Montreal City
 http://streaming.cjpx.leclerccommunication.ca:8000/cjpx.mp3?type=.mp3&1597284756
 #EXTINF:-1 إذاعة القرآن الكريم
 https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
-#EXTINF:-1 اذاعة القرآن الكريم
-http://stream.radiojar.com/0tpy1h0kxtzuv
 #EXTINF:-1 华语广播网105.9
 http://s3.voscast.com:9272/;stream.mp3

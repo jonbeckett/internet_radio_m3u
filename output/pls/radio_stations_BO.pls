@@ -51,20 +51,18 @@ File25=http://quasar.shoutca.st:8748/;
 Title25=Radio Pando
 File26=https://emiteradio.com/proxy/playradio?mp=/stream
 Title26=Radio Play
-File27=https://emiteradio.com/proxy/playradio?mp=/stream
-Title27=Radio Play
-File28=https://emiteradio.com/proxy/khana?mp=/stream
-Title28=Radio Qhana
-File29=http://stream.zeno.fm/aolajq0hkttvv
-Title29=Radio Wiracocha 
-File30=https://emiteradio.com/proxy/clasicosingles?mp=/stream
-Title30=Red Uyuni: Clásicos en Inglés U 2
-File31=https://emiteradio.com/proxy/uyuni2?mp=/stream
-Title31=Red Uyuni: Radio Recuerdos
-File32=https://emiteradio.com/proxy/playradio?mp=/stream
-Title32=rplay
+File27=https://emiteradio.com/proxy/khana?mp=/stream
+Title27=Radio Qhana
+File28=http://stream.zeno.fm/aolajq0hkttvv
+Title28=Radio Wiracocha 
+File29=https://emiteradio.com/proxy/clasicosingles?mp=/stream
+Title29=Red Uyuni: Clásicos en Inglés U 2
+File30=https://emiteradio.com/proxy/uyuni2?mp=/stream
+Title30=Red Uyuni: Radio Recuerdos
+File31=https://emiteradio.com/proxy/playradio?mp=/stream
+Title31=rplay
+File32=https://icepool.silvacast.com/GAYFM.mp3
+Title32=Zoy Milton
 File33=https://icepool.silvacast.com/GAYFM.mp3
-Title33=Zoy Milton
-File34=https://icepool.silvacast.com/GAYFM.mp3
-Title34=ZoyTV RADIO
-NumberOfEntries=34
+Title33=ZoyTV RADIO
+NumberOfEntries=33

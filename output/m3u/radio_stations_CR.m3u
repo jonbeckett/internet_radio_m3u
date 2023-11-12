@@ -16,10 +16,6 @@ http://provisioning.streamtheworld.com/pls/LOS40_CR.pls
 https://cloudstream2030.conectarhosting.com/8196/stream
 #EXTINF:-1 Planet 107.5
 https://stream20.usastreams.com/8094/stream
-#EXTINF:-1 Planet 107.5
-https://stream20.usastreams.com/8094/stream
-#EXTINF:-1 Planet 107.5
-https://stream20.usastreams.com/8094/stream
 #EXTINF:-1 Puerto Limón Radio
 https://puertolimonradio-rowrigos.radioca.st/listen.pls?sid=1
 #EXTINF:-1 Radio Columbia CR
@@ -28,8 +24,6 @@ https://s2.radio.co/s83b86382e/listen
 http://ic.streann.com:8000/disneycostarica
 #EXTINF:-1 Radio Disney Costa Rica - 101.1 FM - San José, Costa Rica
 https://ic.streann.com/disneycostarica
-#EXTINF:-1 Radio Disney Costa Rica - 101.1 FM - San José, Costa Rica
-http://ic.streann.com:8000/disneycostarica
 #EXTINF:-1 Radio Dos
 https://s5.radio.co/sd515b7b34/listen
 #EXTINF:-1 Radio Dos - 99.5 FM - San José, Costa Rica
@@ -38,8 +32,6 @@ https://s5.radio.co/sd515b7b34/listen
 http://68.235.35.243:9008/stream
 #EXTINF:-1 Radio María Costa Rica - 100.7 FM
 http://dreamsiteradiocp2.com:8044/stream
-#EXTINF:-1 Radio Mil Recuerdos Stereo
-https://sechin.grupocentroserver.com/radio/8060/radio.mp3
 #EXTINF:-1 Radio Mil Recuerdos Stereo
 https://sechin.grupocentroserver.com/radio/8060/radio.mp3
 #EXTINF:-1 Radio Nova CR

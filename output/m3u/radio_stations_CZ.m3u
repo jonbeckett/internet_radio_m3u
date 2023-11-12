@@ -22,52 +22,32 @@ http://ice.abradio.cz:8000/citymi128.mp3
 http://icecast8.play.cz/classic128.mp3
 #EXTINF:-1 Club Radio CZ
 http://ipip.clubradio.cz:7996/
-#EXTINF:-1 Color Music Radio
-http://sc.ipip.cz:8206/;stream
 #EXTINF:-1 Comedy Club R@dio DIANA
 https://westradio.cz/radio/8010/radio.mp3
 #EXTINF:-1 COOP TIP Radio
 http://mp3stream4.abradio.cz:8000/coop128.mp3
-#EXTINF:-1 COOP TIP Radio
-http://ice4.abradio.cz/coop128.mp3
 #EXTINF:-1 Country Radio
 http://icecast4.play.cz/country128.mp3
 #EXTINF:-1 County
 http://icecast4.play.cz/country128.mp3
-#EXTINF:-1 ČRo Dvojka
-http://icecast6.play.cz/cro2-128.mp3
 #EXTINF:-1 ČRO Jazz 256
 https://api.play.cz/radio/crojazz256.mp3.m3u
-#EXTINF:-1 ČRo Plus
-https://rozhlas.stream/plus_mp3_128.mp3
 #EXTINF:-1 ČRo Pohoda
 https://rozhlas.stream/pohoda_mp3_128.mp3
-#EXTINF:-1 ČRo Radiožurnál
-http://icecast8.play.cz/cro1-128.mp3
 #EXTINF:-1 ČRo Sever
 https://rozhlas.stream/sever_mp3_128.mp3
-#EXTINF:-1 ČRo Vltava
-http://icecast5.play.cz/cro3-128.mp3
 #EXTINF:-1 ČRo Wave
 https://rozhlas.stream/wave_mp3_128.mp3
-#EXTINF:-1 ČRo Wave
-https://api.play.cz/radio/crowave-256.mp3.m3u
-#EXTINF:-1 ČRo Wave
-https://rozhlas.stream/wave_mp3_256.mp3
 #EXTINF:-1 Dance Club Radio
 https://ice4.abradio.cz/dance128.mp3
 #EXTINF:-1 Dance Radio
 http://ice.actve.net/dance-radio320.mp3
-#EXTINF:-1 Dance Radio
-http://ice.actve.net/dance-radio128.mp3
 #EXTINF:-1 Dance rádio cz
 https://ice.actve.net/dance-radio128.mp3
 #EXTINF:-1 ELLIS
 http://stream.laut.fm/ellis
 #EXTINF:-1 Europa Liberă (RFE/RL for Moldova, ch. 18)
 http://rfe18.akacast.akamaistream.net/7/886/437776/v1/ibb.akacast.akamaistream.net/rfe18.m3u
-#EXTINF:-1 Evropa 2
-https://ice.actve.net/fm-evropa2-128
 #EXTINF:-1 Evropa 2
 https://ice.actve.net/fm-evropa2-128
 #EXTINF:-1 Evropa2 Youradio Flashbacky
@@ -82,10 +62,6 @@ http://icecast8.play.cz/expres128mp3
 http://mp3stream4.abradio.cz/fajnfresh64.mp3
 #EXTINF:-1 Fajn Rádio
 http://ice.abradio.cz/fajn128.mp3
-#EXTINF:-1 Fed's Trap Radio
-https://backend.fedstrapradio.com:8000/radio.mp3
-#EXTINF:-1 Fed's Trap Radio
-https://backend.fedstrapradio.com:8000/radio.mp3
 #EXTINF:-1 Fed's Trap Radio
 https://backend.fedstrapradio.com:8000/radio.mp3
 #EXTINF:-1 Flash radio
@@ -112,8 +88,6 @@ http://icecast3.play.cz/hey-radio128.mp3
 http://ice.abradio.cz/orion128.mp3
 #EXTINF:-1 Hitrádio Černá Hora
 http://ice.abradio.cz/cernahora64.mp3
-#EXTINF:-1 Hitrádio Černá Hora
-http://ice.abradio.cz/cernahora128.mp3
 #EXTINF:-1 Hitrádio Černá Hora 128
 http://ice.abradio.cz/cernahora128.mp3
 #EXTINF:-1 Hitrádio City 93,7 FM
@@ -170,8 +144,6 @@ http://mp3stream4.abradio.cz/depeche128.mp3
 http://icecast6.play.cz/radio1-128.mp3
 #EXTINF:-1 RADIO 1
 http://icecast2.play.cz/radio1.mp3
-#EXTINF:-1 Radio 1
-http://www.play.cz/radio/radio1-32.aac.m3u
 #EXTINF:-1 Rádio 7
 http://icecast8.play.cz/radio7-128.mp3
 #EXTINF:-1 Rádio 7 32kb
@@ -181,8 +153,6 @@ http://mp3stream3.abradio.cz/applaus128.mp3
 #EXTINF:-1 Radio B
 https://stream.radiojar.com/9nayamd31tzuv?1660328034
 #EXTINF:-1 Rádio Beat
-http://icecast2.play.cz/radiobeat128.mp3
-#EXTINF:-1 Radio Beat
 http://icecast2.play.cz/radiobeat128.mp3
 #EXTINF:-1 Radio Beat
 http://icecast2.play.cz/radiobeat128.mp3
@@ -202,8 +172,6 @@ http://ice.actve.net/fm-bonton-128
 http://icecast6.play.cz/casradio128.mp3
 #EXTINF:-1 Radio Čas
 http://icecast6.play.cz/casradio128.mp3
-#EXTINF:-1 Radio Cas Rock
-http://icecast6.play.cz/casrock128.mp3
 #EXTINF:-1 Radio Cas Rock
 http://icecast6.play.cz/casrock128.mp3
 #EXTINF:-1 Radio Čas Rock
@@ -244,8 +212,6 @@ http://icecast6.play.cz/jihcimbalka128.mp3
 http://icecast4.play.cz/kiss128.mp3
 #EXTINF:-1 Radio Krokodyl
 http://icecast4.play.cz/krokodyl128.mp3.m3u
-#EXTINF:-1 Radio Krokodyl
-http://icecast4.play.cz/krokodyl128.mp3.m3u
 #EXTINF:-1 Radio Orlicko
 http://46.28.111.246/stream192.mp3
 #EXTINF:-1 Radio Ostravan
@@ -280,8 +246,6 @@ https://stream.radiojar.com/hcrb063nn3quv
 http://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04
 #EXTINF:-1 Rádio Trojka
 http://12901.cloudrad.io:9306/live
-#EXTINF:-1 Radio Wave
-http://rozhlas.stream/wave_mp3_256.mp3
 #EXTINF:-1 RADIO.IPIP.CZ: psytrance-radio.cz
 http://212.96.160.160:8022/
 #EXTINF:-1 RADIO1
@@ -296,8 +260,6 @@ http://rfe19.akacast.akamaistream.net/7/885/437777/v1/ibb.akacast.akamaistream.n
 http://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21
 #EXTINF:-1 ROCK MAX
 http://ice.abradio.cz/rockmax256.mp3
-#EXTINF:-1 Rock Radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_RADIO_128.mp3
 #EXTINF:-1 Rock Rádio Šumava
 http://ice.abradio.cz/sumava128.mp3
 #EXTINF:-1 Rocková zábava
@@ -318,8 +280,6 @@ http://icecast8.play.cz/skyrock128.mp3
 https://s3.free-shoutcast.com/stream/18126
 #EXTINF:-1 svobodne-radio
 http://svobodneradio.radioca.st:8859/stream
-#EXTINF:-1 Svobodný vysílač
-http://stream.svobodny-vysilac.cz:8000/live.mp3
 #EXTINF:-1 united Czech chillers
 https://chill.mfnet.cz/radio/8000/radio192.mp3
 #EXTINF:-1 WebRadio Epigon
@@ -332,8 +292,6 @@ https://ice.abradio.cz/znamkapunku128.mp3
 https://stream.zunradio.cz/zun3.mp3
 #EXTINF:-1 ZX Music Radio
 http://zxm.cz:8000/zx.m3u
-#EXTINF:-1 ZX Music Radio
-http://zxm.cz:8000/zx
 #EXTINF:-1 Азат Еуропа / Азаттық Радиосы (RFE/RL in Kazakh, ch. 11)
 http://rfe11.akacast.akamaistream.net/7/893/437769/v1/ibb.akacast.akamaistream.net/rfe11.m3u
 #EXTINF:-1 Азаттык Υналгысы (RFE/RL in Kyrgyz, ch. 1)

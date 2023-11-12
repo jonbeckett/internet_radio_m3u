@@ -14,8 +14,6 @@ https://stream.avivamientoradio.net/radio/8000/radio.mp3
 http://stream.zeno.fm/4d2et4w314zuv
 #EXTINF:-1 Baladas Románticas
 http://stream.zeno.fm/y5ztkzpqhueuv
-#EXTINF:-1 Baladas Románticas
-http://stream.zeno.fm/unns06sxtfeuv
 #EXTINF:-1 Banca del Parque Radio
 http://72.29.87.97:8020/;
 #EXTINF:-1 Bésame FM (Bogotá)
@@ -42,8 +40,6 @@ http://64.37.50.226:8054/stream
 http://64.37.50.226:8231/stream?icy=https
 #EXTINF:-1 Colombia Vallenata
 http://64.37.50.226:8042/stream/1/
-#EXTINF:-1 Colombia Vallenata
-http://64.37.50.226:8042/;stream.nsv
 #EXTINF:-1 Colombia Vallenata en vivo
 http://64.37.50.226:8042/;
 #EXTINF:-1 Conectando Estéreo 91.5 FM
@@ -58,8 +54,6 @@ http://stream.zeno.fm/27g88q2snd0uv
 http://stream.zeno.fm/r4t5dkavfzzuv
 #EXTINF:-1 CyC Radio (Instituto Caro y Cuervo)
 https://stream.radio.co/s978e5f6bd/listen
-#EXTINF:-1 Durisima Radio Online
-http://stream.laut.fm/durisimaradio
 #EXTINF:-1 Durisima Radio Online
 http://stream.laut.fm/durisimaradio
 #EXTINF:-1 EBENEZER STEREO
@@ -104,8 +98,6 @@ https://s2.colombiaemite.com:25234/;
 https://radio06.cehis.net/proxy/javerian?mp=/stream
 #EXTINF:-1 JT 2
 https://sc10.conectarhosting.com/proxy/joventaoistaportal2?mpb=/stream
-#EXTINF:-1 JT 3
-https://sc10.conectarhosting.com/proxy/joventaoistaportal3?mp=/stream
 #EXTINF:-1 JT 3
 https://sc10.conectarhosting.com/proxy/joventaoistaportal3?mp=/stream
 #EXTINF:-1 La Kalle
@@ -202,8 +194,6 @@ https://radiolatina.info/8170/stream
 https://radiolatina.info/8172/stream
 #EXTINF:-1 Radio Viva Fenix Pasto (HJFV, 780 kHz AM)
 https://radiolatina.info/8166/stream
-#EXTINF:-1 Radioacktiva Medellin
-https://24383.live.streamtheworld.com/RADIOACKTIVA_MED.mp3
 #EXTINF:-1 Radioaktiva
 http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVA.mp3
 #EXTINF:-1 Romántica Stereo 88.1 FM Pasto
@@ -220,8 +210,6 @@ http://supresenciaradio.out.airtime.pro:8000/supresenciaradio_a
 https://supresenciaradio.out.airtime.pro/supresenciaradio_a
 #EXTINF:-1 SupaJamz Radio
 http://usa19.fastcast4u.com:6210/live
-#EXTINF:-1 Super Clásica
-http://77.73.69.238:8000/stream
 #EXTINF:-1 Techno Record FM Tunja 
 http://stream.zeno.fm/r3d2u9pu87zuv
 #EXTINF:-1 Tropical Bailable

@@ -4,20 +4,12 @@
 RADIO MARIAM ARABIC
 
 http://dreamsiteradiocp4.com:8046/stream
-#EXTINF:-1 . Islam call 
-https://n0c.radiojar.com/59096z743d0uv?rj-ttl=5&rj-tok=AAABhd07tHIAJ2GRl2KNynaKow
-#EXTINF:-1 .Quran
-https://backup.qurango.net/radio/ahmad_khader_altarabulsi
-#EXTINF:-1 .إذاعة ماهر المعيقلي 
-https://backup.qurango.net/radio/maher
 #EXTINF:-1 .القارئ محمد أيوب
 https://qurango.net/radio/mohammed_ayyub
 #EXTINF:-1 0-24 2000ER POP ROCK
 https://0-242000erpoprock.stream.laut.fm/0-24_2000er_pop_rock
 #EXTINF:-1 1337
 http://www.la1337.com/stream/la1337.mp3?sid=
-#EXTINF:-1 80s Alive
-http://media2.hostin.cc/80s-alive.mp3
 #EXTINF:-1 80s Flashback
 http://stream3.radio.is:443/80flashback
 #EXTINF:-1 80s Forever Radio
@@ -38,8 +30,6 @@ http://86.94.213.59:8000/listen.pls
 http://gurbani.out.airtime.pro:8000/gurbani_a
 #EXTINF:-1 Big Sister Dora 6.21 FM
 http://stream3.nadaje.com:9000/
-#EXTINF:-1 Blues Radio Greece
-http://cast3.radiohost.ovh:8352/
 #EXTINF:-1 Br Klassik
 https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high
 #EXTINF:-1 Burj
@@ -48,14 +38,10 @@ http://82.213.26.67:8000/stfeam
 http://stream.zeno.fm/qernw9vu91zuv
 #EXTINF:-1 chain3
 https://webradio.tda.dz/Chaine3_64K.mp3
-#EXTINF:-1 chain3
-https://webradio.tda.dz/Chaine3_64K.mp3
 #EXTINF:-1 chalabi
 https://listen.radioking.com/radio/291025/stream/337294
 #EXTINF:-1 Classic Country
 http://185.33.21.112/ccountry_mobile_mp3
-#EXTINF:-1 Coast FM
-http://213.175.217.198:8000/tenerife
 #EXTINF:-1 cool93
 https://coolism-web3rd.cdn.byteark.com/;stream/1
 #EXTINF:-1 Cosmo hi
@@ -78,8 +64,6 @@ https://flaixfm.streaming-pro.com:8001/flaixfm.mp3
 http://ice.greekstream.net/focusfm?listenerid=ec33c4dfc99a6f71e6dc23583cbc91f2&awparams=companionAds:true
 #EXTINF:-1 Forst PSY
 https://fr1-play.adtonos.com/8103/psystation-forest-psy-trance
-#EXTINF:-1 GAYFM
-http://stream.gayfm.de/
 #EXTINF:-1 gradio
 http://stream.laut.fm/gradio-rap
 #EXTINF:-1 gyor+
@@ -124,8 +108,6 @@ https://nova-vnt.ice.infomaniak.ch/nova-vnt-128
 https://nova-ln.ice.infomaniak.ch/nova-ln-128
 #EXTINF:-1 o
 https://txsasdx5.github.io/iptvw/8080S.m3u
-#EXTINF:-1 Old Radio
-https://sounder.ovh:9270/autodj?fbclid=IwAR1AVMAcgkeg3bTIGM8Z1B7MQ5lr3Fagu8pbx5Hcp9DwPFHllsyI8IlA8Is
 #EXTINF:-1 Qamişlo
 http://stream.laut.fm/dengeqamishlo.m3u
 #EXTINF:-1 Querétaro rock radio estación 
@@ -158,8 +140,6 @@ http://rememberfm.emisionlocal.com:9302/LIVE
 https://icast.connectmedia.hu/5001/live.mp3
 #EXTINF:-1 RetroFM
 http://retro128.streamr.ru/
-#EXTINF:-1 RetroFM
-http://retro128.streamr.ru/
 #EXTINF:-1 RMI - Euro Didco
 https://cast1.torontocast.com:1335/stream
 #EXTINF:-1 Rock Classics
@@ -174,8 +154,6 @@ http://icecast.stv.livebox.sk/slovensko_128.mp3
 https://radio95.radioca.st/stream/1/
 #EXTINF:-1 Simulator FM
 https://simulatorfm.stream:8025/320Kbps
-#EXTINF:-1 Solar Radio
-https://msmn2.co/proxy/mp3high11/stream
 #EXTINF:-1 Spogmai Radio
 http://ca10.rcast.net:8026/
 #EXTINF:-1 sunnah radio 
@@ -190,10 +168,6 @@ http://stream.zenolive.com/7aswfbpx25quv
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_128kbps
 #EXTINF:-1 Vladivostok FM
 http://vladfm.com:8000/vfm.ussuri
-#EXTINF:-1 Vocal Trance
-http://prem1.di.fm/classictrance_hi?907a839cb7ee13512903cbcf
-#EXTINF:-1 Vocaloid
-https://vocaloid.radioca.st/stream
 #EXTINF:-1 Vocaloid
 https://vocaloid.radioca.st/stream
 #EXTINF:-1 WDSW 88.1  - The Trail Roots, Blues & Rock Cleveland, MS
@@ -204,8 +178,6 @@ http://vladfm.ru:8000/ara
 http://mediavil.ru:8000/studio
 #EXTINF:-1 Лемма
 http://212.107.192.130:8000/;steram.nsv
-#EXTINF:-1 Лемма
-http://212.107.192.130:8000/;stream.nsv
 #EXTINF:-1 Новая волна 
 http://volgograd.sv-veter.ru:8008/nv_online
 #EXTINF:-1 Новое радио ВЛ
@@ -224,16 +196,10 @@ http://glzwizzlv.bynetcdn.com/glglz_classicil_mp3?awCollectionId=misc&awEpisodeI
 http://glzwizzlv.bynetcdn.com/glglz_hits_mp3?awCollectionId=misc&awEpisodeId=glglz_hits
 #EXTINF:-1 רשת ג
 http://kanliveicy.media.kan.org.il/icy/kangimmel_mp3
-#EXTINF:-1 إذاعة القرآن الكريم 
-https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
 #EXTINF:-1 إذاعة طريق السلف
 
 
 https://airtime.salafwayfm.ly/
-#EXTINF:-1 اذاعة القرآن الكريم
-http://stream.radiojar.com/0tpy1h0kxtzuv
-#EXTINF:-1 اذاعة القرآن الكريم
-http://stream.radiojar.com/0tpy1h0kxtzuv
 #EXTINF:-1 مختصر التفسير
 https://qurango.net/radio/mukhtasartafsir
 #EXTINF:-1 国乐悠扬

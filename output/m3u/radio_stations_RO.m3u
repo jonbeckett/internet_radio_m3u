@@ -6,8 +6,6 @@ http://109.103.178.66:8018/listen.pls
 http://exotic.radio247international.com:9810/;stream.mp3
 #EXTINF:-1 90s 3NeRgY
 https://s11.ssl-stream.com/ssl/90s_energy?mp=/stream
-#EXTINF:-1 90s 3NeRgY
-https://s11.ssl-stream.com/ssl/90s_energy?mp=/stream
 #EXTINF:-1 90s 3NeRgY&ReMiX
 http://s11.ssl-stream.com:8084/live
 #EXTINF:-1 Agnus Rádió
@@ -48,8 +46,6 @@ http://live.city-radio.ro:8800/;
 http://live.city-radio.ro:8800/;
 #EXTINF:-1 ClubMix
 http://live.radioclubmix.ro:9999/
-#EXTINF:-1 Cool FM
-https://live.aftech.ro/radio/8060/radio.mp3
 #EXTINF:-1 Cozy FM
 https://live.cozyfm.ro:8010/live
 #EXTINF:-1 Craiova FM
@@ -60,8 +56,6 @@ https://lb01.bpstream.com:8630/;
 http://asculta.danceeffect.ro:3333/;
 #EXTINF:-1 Dance FM
 http://edge126.rdsnet.ro:84/profm/dancefm.mp3
-#EXTINF:-1 Dance FM
-https://edge126.rcs-rds.ro/profm/dancefm.mp3
 #EXTINF:-1 Dance FM 89.5 Bucharest
 http://edge126.rdsnet.ro:84/profm/dancefm.mp3
 #EXTINF:-1 Dark Edge Radio
@@ -106,8 +100,6 @@ https://azura.ebsmedia.ro/listen/lounge/lounge128.mp3
 https://azura.ebsmedia.ro/listen/hungarian/hungarian128.mp3
 #EXTINF:-1 EBS | Movie Soundtracks
 https://azura.ebsmedia.ro/listen/movies/movies128.mp3
-#EXTINF:-1 EBS | Music
-https://azura.ebsmedia.ro/listen/music/music128.mp3
 #EXTINF:-1 EBS | Music
 https://azura.ebsmedia.ro/listen/music/music128.mp3
 #EXTINF:-1 EBS | Nouvelle Vague
@@ -176,10 +168,6 @@ https://stream.zeno.fm/mv62tmd8wp8uv.aac
 http://s3.myradiostream.com:4404/;
 #EXTINF:-1 https://live.reintregirea.ro
 https://live.reintregirea.ro/
-#EXTINF:-1 Impact FM
-http://109.166.241.233:8500/
-#EXTINF:-1 Impact FM
-http://109.166.241.233:8500/
 #EXTINF:-1 Jazz FM Romania
 https://s4.radio.co/s1e25bf273/listen
 #EXTINF:-1 Kolozsvári Rádió
@@ -244,14 +232,10 @@ http://edge126.rdsnet.ro:84/profm/profm.mp3
 https://stream.rcast.net/200392
 #EXTINF:-1 Radio 1 Manele
 http://radio1manele.no-ip.org:8000/
-#EXTINF:-1 Radio 1 Manele
-http://radio1manele.no-ip.org:8000/;
 #EXTINF:-1 Radio 3Net
 http://media.3netmedia.ro:8000/Live128.m3u
 #EXTINF:-1 Radio 7 Bucuresti Romania
 http://80.86.106.32:8000/radio7.mp3
-#EXTINF:-1 Radio 80
-https://live.radio80.ro:8443/s80
 #EXTINF:-1 Radio 90 Hit 
 https://live.90hit.ro:8000/listen.mp3
 #EXTINF:-1 Radio A-Tentat 
@@ -276,8 +260,6 @@ http://89.39.189.29:8000/listen.pls
 http://live.radiobanatfm.com:8002/listen.pls
 #EXTINF:-1 Radio Bandit
 http://live.radiobandit.ro:8000/;
-#EXTINF:-1 Radio Bandit
-http://live.radiobandit.ro:8000/320.mp3
 #EXTINF:-1 Radio Bandit Romania
 http://live.radiobandit.ro:8000/listen.pls
 #EXTINF:-1 Radio Best Musik
@@ -292,8 +274,6 @@ https://asculta.muzicaok.de:8002/stream
 http://89.38.8.133:8000/listen.pls
 #EXTINF:-1 Radio Brașov
 https://live.radiobrasov.ro/stream.mp3?nocache=${Math.random()}
-#EXTINF:-1 Radio Brașov
-https://live.radiobrasov.ro/stream.mp3
 #EXTINF:-1 Radio Bucovina
 http://radiobucovina.ro/live.m3u
 #EXTINF:-1 Radio Bucuresti FM
@@ -402,8 +382,6 @@ https://www.radiointens.ro/128.pls
 https://asculta.radioromanian.net:10997/
 #EXTINF:-1 Radio Korrupt Nostalgic
 http://stream.zeno.fm/ow1xlcqo3aatv
-#EXTINF:-1 Radio Korrupt Nostalgic
-http://stream.zeno.fm/ow1xlcqo3aatv
 #EXTINF:-1 Radio Lăutaru
 http://live.radiolautaru.ro:9000/;
 #EXTINF:-1 Radio liberty slagare
@@ -420,8 +398,6 @@ https://radio.cloud23.eu/magiainimiitale
 https://streamer.radio.co/sa42a07797/listen
 #EXTINF:-1 Radio MANELE
 https://play.wrhradios.com/8044/stream
-#EXTINF:-1 Radio Manele București 
-http://live.radiomanelebucuresti.ro:9020/;
 #EXTINF:-1 Radio Manele București 
 http://live.radiomanelebucuresti.ro:9020/;
 #EXTINF:-1 Radio Manele FM
@@ -446,8 +422,6 @@ http://live.radiomynele.ro:8000/;
 http://asculta.radionebunya.ro:7575/
 #EXTINF:-1 Radio Nemesis Traditional
 http://asculta.nemesismedia.ro:8010/stream
-#EXTINF:-1 Radio Noise
-http://live.radionoise.ro:9100/;
 #EXTINF:-1 Radio Noise Gold
 https://radio.sonicpanel.ro:9170/
 #EXTINF:-1 Radio Noise Hip-Hop
@@ -486,8 +460,6 @@ http://web.archive.org/web/20180110095018if_/http://mp3.radiopopular.ro:7777/;
 https://streamx.rph.ro:8100/relay;
 #EXTINF:-1 Radio Pro Manele
 http://radiopromanele.zapto.org:8000/;
-#EXTINF:-1 Radio Pro Manele
-http://radiopromanele.zapto.org:8000/stream
 #EXTINF:-1 RADIO PRO PARTY
 http://asculta.proparty.net:8567/stream
 #EXTINF:-1 Radio Qanon
@@ -496,8 +468,6 @@ http://89.39.189.40:8000/stream
 http://86.120.124.101:8000/128
 #EXTINF:-1 Radio Reggaeton
 http://85.120.223.142:8888/stream?icy=https
-#EXTINF:-1 Radio Resita
-http://89.238.227.6:8344/listen.pls
 #EXTINF:-1 Radio RFM
 https://shout.realitatea.net:8001/mixt
 #EXTINF:-1 Radio Romance 21
@@ -546,8 +516,6 @@ https://asculta.radioromanian.net/8500/stream
 https://asculta.radioromanian.net/8800/stream
 #EXTINF:-1 Radio Romantic
 https://radio-romantic.ro/stream
-#EXTINF:-1 Radio Romantic
-http://stream.zeno.fm/72k4a597rs8uv
 #EXTINF:-1 Radio Sistem FM
 https://asculta.ascultatare.ro/8002/stream
 #EXTINF:-1 Radio Sky FM
@@ -614,8 +582,6 @@ http://vocescampi.ro:8001/;
 https://ssl.radios.show:7008/;
 #EXTINF:-1 RadioClick
 http://live.radioclick.ro:8008/
-#EXTINF:-1 RadioClick
-http://live.radioclick.ro:8008/
 #EXTINF:-1 RadioPapuc
 https://stream.zeno.fm/phcn6lncrj4tv
 #EXTINF:-1 RadioReintregirea Alba Iulia
@@ -650,8 +616,6 @@ https://noasrv.caster.fm:10085/listen
 https://spacefm.live/radio/8000/spacefm128
 #EXTINF:-1 Squad Radio Florești
 http://109.169.23.124:9447/
-#EXTINF:-1 Super FM
-https://live.superfm.ro/stream.mp3
 #EXTINF:-1 Super FM Brasov 93.8
 https://live.superfm.ro/stream.mp3?time=1697692801
 #EXTINF:-1 Supersonic Radio
@@ -666,8 +630,6 @@ https://live.gofm.ro:2000/stream/SWEET/stream.mp3
 http://szepvizfm.ro:8000/
 #EXTINF:-1 TRADIȚIONAL / POPULAR - Radio Calea Spre Cer LIVE 24/7
 https://panel.radiocaleasprecer.com/radio/8020/radio.mp3
-#EXTINF:-1 TRADIȚIONAL / POPULAR - Radio Calea Spre Cer LIVE 24/7
-https://panel.radiocaleasprecer.com/radio/8040/radio.mp3
 #EXTINF:-1 UNTOLD RADIO
 https://live-untold.distinct.ro:8001/untold.ogg
 #EXTINF:-1 Valori Românești Radio

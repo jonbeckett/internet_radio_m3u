@@ -4,8 +4,6 @@
 https://securestreams3.autopo.st:1417/active
 #EXTINF:-1 Astra 92,8
 https://securestreams2.autopo.st:1106/stream
-#EXTINF:-1 BigRigFm
-https://radio.bigrig.fm/
 #EXTINF:-1 Chillout Breeze
 https://listen.radionomy.com/chilloutbreeze
 #EXTINF:-1 Diesi Cyprus 101.1
@@ -20,12 +18,6 @@ http://eco.onestreaming.com:8310/;
 http://stream.radiojar.com/mw1xsf0dpnruv.mp3
 #EXTINF:-1 Mix4.me uplifitng trance web radio
 https://s9.webradio-hosting.com/proxy/mix4me/stream
-#EXTINF:-1 Mix4.me uplifitng trance web radio
-http://142.132.213.6:8497/stream
-#EXTINF:-1 Mix4.me uplifitng trance web radio
-https://s9.webradio-hosting.com/proxy/mix4me/stream
-#EXTINF:-1 Mix4.me uplifitng trance web radio
-http://142.132.213.6:8497/stream
 #EXTINF:-1 Radio Proto
 https://live3.istoikona.net:18191/stream
 #EXTINF:-1 Rock FM Cyprus

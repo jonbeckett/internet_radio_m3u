@@ -6,14 +6,10 @@ https://transliacija.relaxfm.lt/100-hitu
 https://azura.shoutca.st/radio/8420/radio.mp3
 #EXTINF:-1 Easy FM
 https://netradio.ziniur.lt/easyfm.mp3
-#EXTINF:-1 European Hit Radio
-http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-european-hit-radio.pls
 #EXTINF:-1 EXTRA FM
 http://82.135.234.195:8000/extrafm.mp3
 #EXTINF:-1 Geras FM
 http://82.135.234.195:8000/gerasfm.mp3.m3u
-#EXTINF:-1 Gold FM
-http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-gold-fm.pls
 #EXTINF:-1 Kapsai
 http://91.211.246.42:8000/Kapsai
 #EXTINF:-1 Kelyje
@@ -48,18 +44,12 @@ http://stream.manofm.lt/listen?
 http://stream.mantraradio.eu:14041/stream
 #EXTINF:-1 Marijos radijas
 http://stream.marijosradijas.lt:8001/marijosradijas.mp3
-#EXTINF:-1 Marijos radijas
-http://stream.marijosradijas.lt:8001/marijosradijas.mp3
-#EXTINF:-1 Marijos radijas
-http://stream.marijosradijas.lt:8001/marijosradijas.mp3
 #EXTINF:-1 Mazeikiai FM
 http://91.211.246.42:8000/Mazeikiai-HD
 #EXTINF:-1 Mažeikių Aidas
 http://maidas.kli.lt:8000/admin.mp3
 #EXTINF:-1 Palanga Street Radio
 https://stream.palanga.live:8443/palanga128.mp3
-#EXTINF:-1 Play Radio
-https://n08.radiojar.com/d9cm273ystzuv
 #EXTINF:-1 Pūkas [190 kbps MP3]
 http://82.135.234.195:8000/pukas.mp3.m3u
 #EXTINF:-1 Pūkas 2 [190 kbps MP3]
@@ -102,8 +92,6 @@ http://91.211.246.42:8000/XXL-FM
 http://netradio.ziniur.lt:8000/ziniur.mp3
 #EXTINF:-1 Žinių radijas [64 kbps MP3]
 http://netradio.ziniur.lt/ziniur_64.mp3
-#EXTINF:-1 ZIP FM
-https://stream1.zipfm.lt/zipfm128.mp3
 #EXTINF:-1 ZIP FM
 https://stream1.zipfm.lt/zipfm128.mp3
 #EXTINF:-1 ZipFM

@@ -14,10 +14,6 @@ https://al-ansaar.simplestreaming.co.za/listen/al-ansaar_radio/radio.mp3
 http://edge.iono.fm/xice/54_high.mp3
 #EXTINF:-1 Amapiano FM
 https://stream.zeno.fm/xs6zeac1ts8uv
-#EXTINF:-1 Amapiano FM
-https://stream.zeno.fm/xs6zeac1ts8uv
-#EXTINF:-1 Amapiano FM
-https://stream-37.zeno.fm/xs6zeac1ts8uv?zs=Tf36JxfyQTKE-KteyZLrww
 #EXTINF:-1 Bokradio
 http://bokradio.highquality.radiostream.co.za/
 #EXTINF:-1 Bosveld Stereo
@@ -32,16 +28,12 @@ https://live.ecr.co.za/ecrgoldhigh.mp3
 https://live.ecr.co.za/ecrhigh.mp3?aw_0_pinpoll=1,2,9&listenerid=94d1ac3bf877b65e4e17cd7e9bfec132&awparams=companionAds%3Atrue&aw_0_1st.ri=iono
 #EXTINF:-1 Emzini fm radio 
 http://stream.zeno.fm/2kbssevq5tjvv
-#EXTINF:-1 Emzini fm radio 
-http://stream.zeno.fm/2kbssevq5tjvv
 #EXTINF:-1 Faithofgodseedchurch
 http://stream.laut.fm/faithofgodseedchurch.pls
 #EXTINF:-1 GaySA Radio
 https://zas1.ndx.co.za:8018/stream
 #EXTINF:-1 Groot FM
 https://cast3.my-control-panel.com/proxy/grootfm/stream?1682362396578
-#EXTINF:-1 Harties FM
-https://s5.radio.co/s68c6f4028/listen
 #EXTINF:-1 Harties FM
 https://s5.radio.co/s68c6f4028/listen
 #EXTINF:-1 Heart FM
@@ -56,22 +48,12 @@ http://edge.iono.fm/xice/57_medium.mp3
 https://sv2.famcast.co.za/proxy/ilizwi_fm/stream
 #EXTINF:-1 Impala Radio
 https://maggie.torontocast.com:8014/stream
-#EXTINF:-1 Jacaranda FM
-https://live.jacarandafm.com/jacarandahigh.mp3
-#EXTINF:-1 Jacaranda FM
-https://edge.iono.fm/xice/jacarandafm_live_medium.mp3
 #EXTINF:-1 Jakaranda FM
 https://edge.iono.fm/xice/jacarandafm_live_high.mp3
 #EXTINF:-1 JOY GOSPEL RADIO
 https://servidor17.brlogic.com:7012/live
-#EXTINF:-1 JOY GOSPEL RADIO
-https://servidor17.brlogic.com:7012/live
 #EXTINF:-1 Joyful FM
 http://c15.radioboss.fm:8218/stream
-#EXTINF:-1 Katlego Fm 
-https://streaming.live365.com/a26642
-#EXTINF:-1 Katlego Fm 
-https://streaming.live365.com/a26642
 #EXTINF:-1 Katlego Fm 
 https://streaming.live365.com/a26642
 #EXTINF:-1 Kfm
@@ -102,8 +84,6 @@ https://saukradio.com/wp-content/uploads/2021/07/5-Julie-Orania.mp3
 https://sv2.famcast.co.za/proxy/radioturf/stream
 #EXTINF:-1 RealMoments Radio
 https://c32.radioboss.fm:18524/stream
-#EXTINF:-1 Redplay Radio
-http://stream.zeno.fm/a5r2rwnnffhvv
 #EXTINF:-1 Redplay Radio
 http://stream.zeno.fm/a5r2rwnnffhvv
 #EXTINF:-1 Replay Radio

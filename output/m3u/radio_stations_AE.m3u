@@ -12,8 +12,6 @@ https://streaming.exclusive.radio/er/streisand/icecast.audio
 https://streaming.exclusive.radio/er/bobdylan/icecast.audio
 #EXTINF:-1 Bryn Terfel - Classical Radio 
 https://drive.uber.radio/uber/crbrynterfel/icecast.audio
-#EXTINF:-1 Bryn Terfel - Classical Radio 
-https://drive.uber.radio/uber/crbrynterfel/icecast.audio
 #EXTINF:-1 Carpenters
 https://streaming.exclusive.radio/er/carpenters/icecast.audio
 #EXTINF:-1 Classica Radio - Ravel
@@ -66,8 +64,6 @@ https://drive.uber.radio/uber/crjohnwilliams/icecast.audio
 https://drive.uber.radio/uber/crjohnwilliamsguitarist/icecast.audio
 #EXTINF:-1 Classical Radio - Liszt
 https://drive.uber.radio/uber/crvanessamae/icecast.audio
-#EXTINF:-1 Classical Radio - Liszt
-https://drive.uber.radio/uber/crliszt/icecast.audio
 #EXTINF:-1 Classical Radio - London Symphony Orchestra 
 https://drive.uber.radio/uber/crlso/icecast.audio
 #EXTINF:-1 Classical Radio - Luciano Pavarotti
@@ -116,8 +112,6 @@ https://drive.uber.radio/uber/crclevelandorchestra/icecast.audio
 https://eu10.fastcast4u.com/clubfmuae
 #EXTINF:-1 Easy Doris Day
 http://streaming.exclusive.radio/uber/easybertkaempfert/icecast.audio
-#EXTINF:-1 Easy Doris Day
-https://streaming.exclusive.radio/uber/easydorisday/icecast.audio
 #EXTINF:-1 Ella Fitzgerald
 https://streaming.exclusive.radio/er/ellafitzgerald/icecast.audio
 #EXTINF:-1 ER Willie Nelson
@@ -388,8 +382,6 @@ https://streaming.exclusive.radio/er/thebyrds/icecast.audio
 https://streaming.exclusive.radio/er/theclash/icecast.audio
 #EXTINF:-1 Exclusively The Cure
 https://streaming.exclusive.radio/er/thecure/icecast.audio
-#EXTINF:-1 Exclusively The Cure
-https://streaming.exclusive.radio/er/thecure/icecast.audio
 #EXTINF:-1 Exclusively The Doors
 https://streaming.exclusive.radio/er-app/doors/icecast.audio
 #EXTINF:-1 Exclusively The Kinks
@@ -480,10 +472,6 @@ https://streaming.exclusive.radio/er/musiquefrancaise/icecast.audio
 https://streaming.exclusive.radio/er/hollywoodandbroadway/icecast.audio
 #EXTINF:-1 Van Morrison
 https://streaming.exclusive.radio/er/elviscostello/icecast.audio
-#EXTINF:-1 Van Morrison
-https://streaming.exclusive.radio/er/vanmorrison/icecast.audio
-#EXTINF:-1 Vanessa Mae - Classical Radio
-https://drive.uber.radio/uber/crvanessamae/icecast.audio
 #EXTINF:-1 Vanessa Mae - Classical Radio
 https://drive.uber.radio/uber/crvanessamae/icecast.audio
 #EXTINF:-1 Vibe FM 105.4

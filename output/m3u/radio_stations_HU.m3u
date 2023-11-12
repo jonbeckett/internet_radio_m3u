@@ -20,16 +20,12 @@ https://bdpstrock.hu/live_320.mp3
 https://bdpstrock.hu/live_128.mp3
 #EXTINF:-1 Beat Rádió
 https://stream.nmih.hu:9012/live.mp3
-#EXTINF:-1 Best FM
-http://stream.webthings.hu:8000/fm95-x-128.mp3
 #EXTINF:-1 Best FM - Budapest
 https://icast.connectmedia.hu/5101/live.mp3/;
 #EXTINF:-1 Best FM - Debrecen
 http://stream.webthings.hu:8000/fm95-x-128.mp3
 #EXTINF:-1 Best FM - Eger
 https://icast.connectmedia.hu/5116/live.mp3
-#EXTINF:-1 Best FM - Eger
-http://icast.connectmedia.hu/5116/live.mp3/;
 #EXTINF:-1 Best FM - Nyíregyháza
 https://icast.connectmedia.hu/5115/live.mp3
 #EXTINF:-1 Best FM - Pécs
@@ -116,14 +112,8 @@ https://mediagw.e-tiger.net/stream/zc22
 http://stream.zeno.fm/ktzdc7rf7f0uv
 #EXTINF:-1 DANCE 90'S
 https://mediagw.e-tiger.net/stream/zc06?ver=887687
-#EXTINF:-1 Dance Wave Retro!
-http://retro.dancewave.online/retrodance.mp3.pls
 #EXTINF:-1 Dance Wave!
 http://stream.dancewave.online:8080/dance.mp3
-#EXTINF:-1 Dance Wave!
-http://stream.dancewave.online:8080/dance.mp3
-#EXTINF:-1 Dance Wave!
-http://dancewave.online/dance.mp3.pls
 #EXTINF:-1 Danubius
 https://stream.danubiusradio.hu/danubius_320k
 #EXTINF:-1 Danubius Rádió
@@ -196,8 +186,6 @@ https://streaming.lahmacun.hu/radio/8000/radio.mp3
 http://lepesradio.hu/slager.mp3
 #EXTINF:-1 Lépés Rádió
 http://stream.lepesradio.hu:4000/live.mp3
-#EXTINF:-1 Lépés Rádió
-https://lepesradio.hu/live.mp3
 #EXTINF:-1 Live radio
 http://radio.nnkcrazyclub.hu:7163/crazyklub
 #EXTINF:-1 Luxfunk Blackmix
@@ -242,10 +230,6 @@ http://stream.diazol.hu:31040/deejay.mp3
 http://92.61.114.191:6030/;
 #EXTINF:-1 Mixradio fresh
 http://adas.adasszerver.hu/live
-#EXTINF:-1 MixradioRetro
-https://stream.phost.hu:8004/retro
-#EXTINF:-1 MixradioRetro
-https://stream.phost.hu:8004/retro
 #EXTINF:-1 MixradioRetro
 https://stream.phost.hu:8004/retro
 #EXTINF:-1 Momo Rádió 
@@ -310,8 +294,6 @@ http://kft.kesintisizyayin.com:8130/stream
 https://stream.pecsaktual.hu/paradio.mp3
 #EXTINF:-1 Petőfi
 https://icast.connectmedia.hu/4738/mr2.mp3
-#EXTINF:-1 Petőfi Rádió
-https://icast.connectmedia.hu/4738/mr2.mp3
 #EXTINF:-1 Poptarisznya
 http://adas.poptarisznya.hu:8200/live.mp3
 #EXTINF:-1 Poptarisznya Blues24
@@ -323,8 +305,6 @@ http://s39.myradiostream.com:11590/listen/;.mp3
 #EXTINF:-1 Rádió 1
 https://icast.connectmedia.hu/5201/live.mp3
 #EXTINF:-1 Rádió 1
-https://icast.connectmedia.hu/5201/live.mp3
-#EXTINF:-1 Radio 1
 https://icast.connectmedia.hu/5201/live.mp3
 #EXTINF:-1 Rádió 1
 https://icast.connectmedia.hu/5201/live.mp3
@@ -390,10 +370,6 @@ http://s03.diazol.hu:7010/stream.mp3
 http://radiosmile.hu:8010/stream
 #EXTINF:-1 Rádió Smile
 http://radiosmile.hu:8010/stream
-#EXTINF:-1 Rádió Smile
-http://radiosmile.hu:8010/stream
-#EXTINF:-1 Rádió Smile
-http://radiosmile.hu:8010/stream
 #EXTINF:-1 Radio1
 https://icast.connectmedia.hu/5202/live.mp3
 #EXTINF:-1 Radio1 - Paks
@@ -436,8 +412,6 @@ https://radioroxy.hu/stream_192k
 https://stream.42netmedia.com:8443/sarvar
 #EXTINF:-1 Sirius Rádió
 http://siriusradio.hu:8500/relay_911
-#EXTINF:-1 Sirius Rádió
-http://91.82.84.179:8500/relay_911
 #EXTINF:-1 Sláger FM
 http://92.61.114.159:7812/slagerfm256.mp3
 #EXTINF:-1 Sola Rádió
@@ -460,16 +434,12 @@ http://92.61.114.191:1101/listen.mp3
 http://live.taskaradio.com:7070/;stream.nsv#.mp3
 #EXTINF:-1 Tilos Rádió
 http://stream.tilos.hu/tilos
-#EXTINF:-1 Tilos Rádió
-http://stream.tilos.hu/tilos
 #EXTINF:-1 Tilos Rádió - Jazz is dead?
 http://stream.tilos.hu/jazzisdead
 #EXTINF:-1 Tilos Rádió 32 kbit/sec
 http://stream.tilos.hu/tilos_32.mp3
 #EXTINF:-1 Tilos Rádió FM 90.3
 http://stream.tilos.hu/tilos_128.mp3
-#EXTINF:-1 Tilos Rádió FM 90.3
-http://stream.tilos.hu:8000/tilos
 #EXTINF:-1 Trió FM
 http://92.119.123.141:9090/stream
 #EXTINF:-1 Vörösmarty Rádió

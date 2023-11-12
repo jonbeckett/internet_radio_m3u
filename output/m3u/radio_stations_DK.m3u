@@ -6,8 +6,6 @@ http://stream2.wlmm.dk/kimlarsenmp3
 https://stream.radioloud.dk/loud128
 #EXTINF:-1 2town Radio
 http://streaming.radio.co/sd9d980ff0/listen
-#EXTINF:-1 2town Radio
-https://streaming.radio.co/sd9d980ff0/listen
 #EXTINF:-1 902 FM
 http://s38.myradiostream.com:8598/.mp3
 #EXTINF:-1 Albertslund Nærradio
@@ -40,40 +38,18 @@ http://stream.wlmm.dk/DinRadiomp3
 http://live-icy.gss.dr.dk:8000/A/A29H.mp3
 #EXTINF:-1 DR Nyheder
 http://live-icy.gss.dr.dk/A/A02L.mp3.m3u
-#EXTINF:-1 DR Nyheder
-http://live-icy.gss.dr.dk/A/A02H.mp3
 #EXTINF:-1 DR P1
 http://live-icy.gss.dr.dk/A/A03H.mp3
-#EXTINF:-1 DR P1
-http://live-icy.dr.dk/A/A03H.mp3.m3u
-#EXTINF:-1 DR P1
-http://live-icy.gss.dr.dk:8000/A/A03H.mp3
 #EXTINF:-1 DR P2
 http://live-icy.gss.dr.dk/A/A04H.mp3.m3u
-#EXTINF:-1 DR P2
-http://live-icy.dr.dk/A/A04H.mp3.m3u
-#EXTINF:-1 DR P2
-http://live-icy.gss.dr.dk/A/A04H.mp3
 #EXTINF:-1 DR P3
 http://live-icy.gss.dr.dk:8000/A/A05H.mp3
-#EXTINF:-1 DR P3
-http://live-icy.gss.dr.dk:8000/A/A05H.mp3
-#EXTINF:-1 DR P3
-http://live-icy.gss.dr.dk/A/A05H.mp3.m3u
 #EXTINF:-1 DR P4 Bornholm
 https://live-icy.dr.dk/A/A30H.mp3
-#EXTINF:-1 DR P4 Bornholm
-http://live-icy.gss.dr.dk/A/A06H.mp3
-#EXTINF:-1 DR P4 Bornholm
-http://live-icy.gss.dr.dk/A/A06H.mp3.m3u
 #EXTINF:-1 DR P4 Esbjerg
 http://live-icy.gss.dr.dk/A/A15H.mp3
-#EXTINF:-1 DR P4 Esbjerg
-http://live-icy.gss.dr.dk/A/A15H.mp3.m3u
 #EXTINF:-1 DR P4 Fyn
 http://live-icy.gss.dr.dk:8000/A/A07H.mp3
-#EXTINF:-1 DR P4 Fyn
-http://live-icy.gss.dr.dk/A/A07H.mp3.m3u
 #EXTINF:-1 DR p4 København
 http://live-icy.gss.dr.dk/A/A08H.mp3
 #EXTINF:-1 DR P4 København
@@ -86,22 +62,14 @@ http://live-icy.gss.dr.dk/A/A09H.mp3.m3u
 http://live-icy.gss.dr.dk/A/A09H.mp3
 #EXTINF:-1 DR P4 Nordjylland
 http://live-icy.dr.dk/A/A10H.mp3.m3u
-#EXTINF:-1 DR P4 Nordjylland
-http://live-icy.gss.dr.dk:8000/A/A10H.mp3
-#EXTINF:-1 DR P4 Nordjylland
-http://live-icy.gss.dr.dk/A/A10H.mp3.m3u
 #EXTINF:-1 DR P4 Østjylland
 http://live-icy.gss.dr.dk:8000/A/A14H.mp3
 #EXTINF:-1 DR P4 Østjyllands Radio
 http://live-icy.gss.dr.dk/A/A14H.mp3.m3u
 #EXTINF:-1 DR P4 Sjælland
 http://live-icy.gss.dr.dk:8000/A/A11H.mp3
-#EXTINF:-1 DR P4 Sjælland
-http://live-icy.gss.dr.dk/A/A11H.mp3.m3u
 #EXTINF:-1 DR P4 Syd
 http://live-icy.gss.dr.dk/A/A12H.mp3
-#EXTINF:-1 DR P4 Syd
-http://live-icy.gss.dr.dk/A/A12H.mp3.m3u
 #EXTINF:-1 DR P4 Trekanten
 http://live-icy.gss.dr.dk:8000/A/A13H.mp3
 #EXTINF:-1 DR P5
@@ -110,8 +78,6 @@ http://live-icy.gss.dr.dk/A/A25H.mp3.m3u
 https://live-icy.dr.dk/A/A30H.mp3
 #EXTINF:-1 DR P5 Esbjerg
 https://live-icy.dr.dk/A/A26H.mp3
-#EXTINF:-1 DR P5 Fyn
-https://live-icy.dr.dk/A/A02H.mp3
 #EXTINF:-1 DR P5 Midt/Vest
 https://live-icy.dr.dk/A/A17H.mp3
 #EXTINF:-1 DR P5 Østjylland
@@ -126,12 +92,6 @@ http://live-icy.gss.dr.dk/A/A29H.mp3.m3u
 http://live-icy.gss.dr.dk/A/A22H.mp3.m3u
 #EXTINF:-1 DR P8 Jazz
 http://live-icy.gss.dr.dk/A/A22H.mp3
-#EXTINF:-1 DR P8 Jazz
-http://live-icy.gss.dr.dk:8000/A/A22H.mp3
-#EXTINF:-1 DR P8 Jazz
-http://live-icy.dr.dk/A/A22H.mp3.m3u
-#EXTINF:-1 DR P8 Jazz
-http://live-icy.gss.dr.dk:8000/A/A22H.mp3
 #EXTINF:-1 DR Ramasjang/Ultra Radio
 http://live-icy.gss.dr.dk/A/A24H.mp3
 #EXTINF:-1 DRR
@@ -160,8 +120,6 @@ http://78.156.96.48:1212/broadwave.mp3?src=1&rate=1
 http://media.wlmm.dk/hnrmp3
 #EXTINF:-1 Jazzkanalen
 http://ca6.rcast.net:4058/;stream
-#EXTINF:-1 Jazzkanalen
-http://media.wlmm.dk/humleborg.m3u
 #EXTINF:-1 København Jazz Radio 
 https://asima.out.airtime.pro:8000/radiojazzcopenhagen_a
 #EXTINF:-1 Limfjord Plus
@@ -192,8 +150,6 @@ http://live-bauerdk.sharp-stream.com/nova128.mp3
 http://stream1.partyfm.dk/Party320
 #EXTINF:-1 Partyfm 
 http://stream1.partyfm.dk/Party320
-#EXTINF:-1 Partyfm 
-http://stream1.partyfm.dk/Party320
 #EXTINF:-1 PartyFM
 http://stream.partyfm.dk/Party320/
 #EXTINF:-1 Psyradio - Chillout
@@ -210,10 +166,6 @@ http://stream.wlmm.dk:8010/radio208mp3
 http://stream.radiosolutions.dk/radio40plus
 #EXTINF:-1 Radio ABC
 http://netradio.radioabc.dk/
-#EXTINF:-1 Radio ABC
-https://radioserver.dk/abc
-#EXTINF:-1 Radio Alfa
-https://radioserver.dk/alfa
 #EXTINF:-1 Radio Alfa Aarhus
 https://radioserver.dk/alfaaarhus
 #EXTINF:-1 Radio Alfa Midtjylland
@@ -234,16 +186,12 @@ http://6434.cloudrad.io:8066/;
 https://live-bauerdk.sharp-stream.com/radio100_dk_mp3
 #EXTINF:-1 Radio Diablo
 https://icecast1.radiostuff.dk/Diablo128
-#EXTINF:-1 Radio Diablo
-http://icecast1.radiostuff.dk/Diablo128
 #EXTINF:-1 Radio Fasanen Frederiksberg
 https://c14.radioboss.fm:18228/stream
 #EXTINF:-1 Radio Folk
 http://stream.radiojar.com/fqt2y0ds97zuv
 #EXTINF:-1 Radio Freja
 http://solid67.streamupsolutions.com:15507/stream
-#EXTINF:-1 Radio Globus
-https://stream.probroadcast.dk/radioglobus
 #EXTINF:-1 Radio Globus
 https://stream.probroadcast.dk/radioglobus
 #EXTINF:-1 Radio Haderslev 
@@ -254,8 +202,6 @@ http://halsstream.spdns.de/;
 https://stream.radiohelsingor.dk/rh
 #EXTINF:-1 Radio Humleborg
 https://stream2.rcast.net/64145
-#EXTINF:-1 Radio Humleborg
-http://media.wlmm.dk/humleborg.m3u
 #EXTINF:-1 Radio Klitholm
 http://stream.radioklitholm.dk:8000/stream
 #EXTINF:-1 Radio Klitholm - Det Ny Kanal 1
@@ -364,7 +310,5 @@ http://149.56.175.167:5505//;stream.mp3
 http://stream.midlar.fo/voxpop-128
 #EXTINF:-1 WEBFM
 http://netradio.webfm.dk/Webfm
-#EXTINF:-1 World Music Radio
-http://stream.wlmm.dk:8010/wmrmp3
 #EXTINF:-1 X FM K
 https://uniradio.out.airtime.pro/uniradio_a

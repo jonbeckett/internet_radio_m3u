@@ -1,7 +1,5 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations
-#EXTINF:-1 . Islam call 
-https://n0c.radiojar.com/59096z743d0uv?rj-ttl=5&rj-tok=AAABhd07tHIAJ2GRl2KNynaKow
 #EXTINF:-1 24 Hours Kirtan Radio
 https://server.24hourkirtan.fm:8000/128k.mp3
 #EXTINF:-1 2B! Radio Sangam Devi Maa
@@ -20,8 +18,6 @@ http://hot.out.airtime.pro:8000/hot_a
 http://dard.out.airtime.pro:8000/dard_a
 #EXTINF:-1 90's Super Hits live
 http://103.16.47.70:7222/;stream.mp3
-#EXTINF:-1 90's Super Hits live
-http://103.16.47.70:7444/;stream.mp3
 #EXTINF:-1 90s SuperHits
 http://103.16.47.70:7444/;stream?type=http&nocache=10
 #EXTINF:-1 AB DIGITAL
@@ -64,8 +60,6 @@ https://air.pc.cdn.bitgravity.com/air/live/pbaudio118/playlist.m3u8
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio179/playlist.m3u8
 #EXTINF:-1 AIR Sasaram
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio075/playlist.m3u8
-#EXTINF:-1 AIR Sasaram
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio075/playlist.m3u8
 #EXTINF:-1 AIR Shimhapuri Kakupalli FM
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio168/playlist.m3u8
 #EXTINF:-1 AIR SHIMLA
@@ -88,8 +82,6 @@ https://stream.arulvakku.com/radio/8000/radio.mp3
 http://stream.zeno.fm/a3250rmrga0uv
 #EXTINF:-1 AURAL OLDIES 
 http://stream.zeno.fm/anrf216cu68uv
-#EXTINF:-1 AURAL OLDIES 
-http://stream.zeno.fm/anrf216cu68uv
 #EXTINF:-1 AURAL RADIO
 http://stream.zeno.fm/pnafwp8atwzuv
 #EXTINF:-1 AURAL WEST
@@ -98,8 +90,6 @@ http://stream.zeno.fm/xd6trx3e84zuv
 https://stream-158.zeno.fm/tksfwb1mgzzuv
 #EXTINF:-1 auralmelodics
 https://stream-159.zeno.fm/7fmywrmrga0uv
-#EXTINF:-1 Bhojpuri Songs 
-https://stream.zeno.fm/yz0ncx9gha0uv
 #EXTINF:-1 Bhojpuri Songs 
 https://stream.zeno.fm/yz0ncx9gha0uv
 #EXTINF:-1 Big 92.7 FM
@@ -116,8 +106,6 @@ https://drive.uber.radio/uber/bollywood2010s/icecast.audio
 https://stream.zeno.fm/6n6ewddtad0uv
 #EXTINF:-1 Bollywood Punjabi Radio
 http://stream.zeno.fm/1k0y9f0cm0quv
-#EXTINF:-1 Bollywood Radio and Beyond
-http://185.80.220.12:8046/stream
 #EXTINF:-1 Bollywood Radio and Beyond
 http://185.80.220.12:8046/stream
 #EXTINF:-1 Bollywood_Dance
@@ -138,10 +126,6 @@ http://stream.zeno.fm/ohhsihm2byluv
 https://stream-159.zeno.fm/dubvcz3rkrhvv?zs=aVDxKzveQw22WcHIuNRafQ
 #EXTINF:-1 City 92 FM
 https://stream-41.zeno.fm/bauwkrnqhxhvv?zs=6ofxJ98qR9urEIW_oItpBg
-#EXTINF:-1 Club FM
-https://sp14.instainternet.com/8050/stream
-#EXTINF:-1 Club FM UAE
-https://eu10.fastcast4u.com/clubfmuae
 #EXTINF:-1 clubfmuae
 http://158.69.254.140:8050/stream
 #EXTINF:-1 Darbar Sahib Live (Golden Temple)
@@ -158,8 +142,6 @@ http://epsilon.shoutca.st:8070/autodj
 https://stream-151.zeno.fm/4yfsm0d8n98uv?zs=vPZ4f9KeRxm234lLg5HvXw
 #EXTINF:-1 Fm Kottarakkara
 https://stream.zeno.fm/gqdb1rev5s8uv
-#EXTINF:-1 FM Rainbow Krishnaveni Vijayawada
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio174/playlist.m3u8
 #EXTINF:-1 FM Rainbow Krishnaveni Vijayawada
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio174/playlist.m3u8
 #EXTINF:-1 Fnf.Fm Hindi
@@ -196,8 +178,6 @@ https://dc1.serverse.com/proxy/hojenglish/stream
 https://dc1.serverse.com/proxy/hoj1/stream
 #EXTINF:-1 Hand Of Jesus - FRENCH
 https://dc1.serverse.com/proxy/hojafrican/stream
-#EXTINF:-1 Hand Of Jesus - FRENCH
-https://dc1.serverse.com/proxy/hojfrenc/stream
 #EXTINF:-1 Hand Of Jesus - GUJARATI
 https://dc1.serverse.com/proxy/hojgujarati/stream
 #EXTINF:-1 Hand Of Jesus - HEBREW
@@ -278,19 +258,7 @@ http://stream.zeno.fm/r3m0whh0kxquv
 http://stream.zenolive.com/qyb8s75nsceuv
 #EXTINF:-1 JN FM TAMIL
 http://stream.zeno.fm/0wck59rarchvv
-#EXTINF:-1 JN FM TAMIL
-http://stream.zeno.fm/0wck59rarchvv
-#EXTINF:-1 JN FM TAMIL
-http://stream.zeno.fm/0wck59rarchvv
-#EXTINF:-1 JN FM TAMIL
-http://stream.zeno.fm/0wck59rarchvv
 #EXTINF:-1 JN FM TAMIL 
-http://stream.zeno.fm/0wck59rarchvv
-#EXTINF:-1 JN FM TAMIL
-http://stream.zeno.fm/0wck59rarchvv
-#EXTINF:-1 JN FM TAMIL
-http://stream.zeno.fm/0wck59rarchvv
-#EXTINF:-1 JN FM TAMIL
 http://stream.zeno.fm/0wck59rarchvv
 #EXTINF:-1 JN FM TAMIL
 http://stream.zeno.fm/0wck59rarchvv
@@ -316,12 +284,6 @@ https://stream-21.zeno.fm/uvdbygm6a48uv?zs=leR0dq-7RuWI-AdM0jItaA
 https://lakshyapar.getstreamhosting.com:8100/stream
 #EXTINF:-1 Live Kirtan Sri Harmandir Sahib
 https://live.sgpc.net:8443/;nocache=889896
-#EXTINF:-1 Live Kirtan Sri Harmandir Sahib
-https://live.sgpc.net:8443/;nocache=889896
-#EXTINF:-1 Live Kirtan Sri Harmandir Sahib
-https://live.sgpc.net:8443/;nocache=889869
-#EXTINF:-1 Live Kirtan Sri Harmandir Sahib
-https://live.sgpc.net:8443/;nocache=889869
 #EXTINF:-1 London Malayalam Radio
 https://ais-edge105-live365-dal02.cdnstream.com/a50671
 #EXTINF:-1 London Telugu Radio
@@ -358,12 +320,8 @@ https://sp14.instainternet.com/8112/stream
 https://sp14.instainternet.com/8112/stream
 #EXTINF:-1 Mirchi Love
 https://drive.uber.radio/uber/bollywoodlove/icecast.audio
-#EXTINF:-1 Mirchi Love
-https://drive.uber.radio/uber/lrbollywood/icecast.audio
 #EXTINF:-1 Mirchi Top 20
 https://drive.uber.radio/uber/bollywoodnow/icecast.audio
-#EXTINF:-1 Mohanlal hits
-https://stream.zeno.fm/5vva7u4ts0quv
 #EXTINF:-1 Mohanlal hits
 https://stream.zeno.fm/5vva7u4ts0quv
 #EXTINF:-1 My 90s Bengali
@@ -382,8 +340,6 @@ https://stream-146.zeno.fm/rqqps6cbe3quv?zs=loHp_DNyRPiAxC52AL95hg
 http://198.178.123.14:8216/;
 #EXTINF:-1 NxtGen
 http://nxtgen.duckdns.org:8000/radio.mp3
-#EXTINF:-1 NxtGen
-http://nxtgen.duckdns.org:8000/radio.mp3
 #EXTINF:-1 Old Monk Radio
 https://stream.zeno.fm/pr0zc64zdy8uv
 #EXTINF:-1 OMR Radio Malaylam
@@ -398,8 +354,6 @@ http://stream.peaceradio.com:8000/high
 http://stream.peaceradio.com:8000/quran/high
 #EXTINF:-1 Planet Radio City Telugu Bhakti
 https://prclive4.listenon.in/Bhakti
-#EXTINF:-1 Pravasi Bharathi
-http://198.27.67.39:8000/pravasiradio.mp3
 #EXTINF:-1 Pravasi Bharathi 1539 AM
 http://198.27.67.39:8000/pravasiradio.mp3
 #EXTINF:-1 rad
@@ -414,8 +368,6 @@ http://ca.rcast.net:8048/
 http://51.255.235.165:5480/;stream/1
 #EXTINF:-1 Radio Badal
 https://stream.zeno.fm/nhrtcxg09u8uv
-#EXTINF:-1 Radio Badal
-http://stream.zenolive.com/nhrtcxg09u8uv
 #EXTINF:-1 Radio Bhojpuriya
 http://streaming.softnep.net:8143/;stream.nsv&type=mp3&volume=60
 #EXTINF:-1 Radio BollyFm
@@ -428,8 +380,6 @@ https://prclive1.listenon.in/Dance
 https://prclive4.listenon.in/Freedom
 #EXTINF:-1 Radio City Hindi
 http://radio.garden/api/ara/content/listen/to5IKEqr/channel.mp3?1626611643750
-#EXTINF:-1 Radio City Hindi
-https://stream-60.zeno.fm/pxc55r5uyc9uv?zs=xkD7f1ttQe20opARKqWXuA
 #EXTINF:-1 Radio City Hip-Hop
 https://stream-62.zeno.fm/gut7ff5uyc9uv?zs=SJN4wL6OR8GqeQ3G2gSILA
 #EXTINF:-1 Radio City Kannada
@@ -472,10 +422,6 @@ https://s3.radio.co/se787a5a6f/listen
 https://stream.zeno.fm/admuxdzboebtv
 #EXTINF:-1 Radio Paramankurichi Tamil
 http://proxima.shoutca.st:8009/stream
-#EXTINF:-1 Radio Paramankurichi Tamil
-https://vpmurugun.radioca.st/stream
-#EXTINF:-1 Radio Rang
-http://stream.zeno.fm/44r9x09cqchvv
 #EXTINF:-1 Radio Rang
 http://stream.zeno.fm/44r9x09cqchvv
 #EXTINF:-1 Radio Ranjeet
@@ -504,8 +450,6 @@ https://20863.live.streamtheworld.com/SUNO917_SC
 http://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917_SC
 #EXTINF:-1 Radio Taj
 http://live.radiotaj.com:9484/;stream.mp3
-#EXTINF:-1 Radio Tarana
-http://stream.zeno.fm/t2rrw8uavp8uv
 #EXTINF:-1 Radio Tirur
 https://sonic01.instainternet.com/8002/stream
 #EXTINF:-1 radioBollyFM
@@ -556,12 +500,8 @@ http://173.203.133.187:9700/;
 http://173.203.133.187:9700/;stream/1
 #EXTINF:-1 Vaikhari
 http://stream.zeno.fm/p2ysncnc1rhvv
-#EXTINF:-1 Vaikhari
-http://stream.zeno.fm/p2ysncnc1rhvv
 #EXTINF:-1 Vaikhari-bh
 http://stream.zeno.fm/emkyc4gx398uv
-#EXTINF:-1 Vijay FM
-http://stream.zeno.fm/qnu9r38twchvv
 #EXTINF:-1 Vijay FM
 http://stream.zeno.fm/qnu9r38twchvv
 #EXTINF:-1 VIJAYFM
@@ -570,7 +510,5 @@ https://vijayfm-prabak78.radioca.st/stream
 http://stream.zeno.fm/qnu9r38twchvv
 #EXTINF:-1 VSVP Tech FM
 http://stream.zeno.fm/egprld1sdsvvv
-#EXTINF:-1 اذاعة القرآن الكريم
-http://stream.radiojar.com/0tpy1h0kxtzuv
 #EXTINF:-1 தமிழ் வானொலி​  TAMIL Radio
 http://stream.zeno.fm/ncw879a2h8quv

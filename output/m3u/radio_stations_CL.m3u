@@ -196,8 +196,6 @@ http://sonic.portalfoxmix.cl:8424/;
 http://ascl.denial.cl:8002/stream
 #EXTINF:-1 Radio FM Latina Chile 89.1
 https://jm8n.com/proxy/radiofmlatina//mp3
-#EXTINF:-1 Radio FM Latina Chile 89.1
-https://jm8n.com/proxy/radiofmlatina/mp3
 #EXTINF:-1 Radio Futuro
 https://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC.mp3
 #EXTINF:-1 Radio Gatuna 
@@ -260,8 +258,6 @@ http://route.ceomedia.cl/toromondo
 https://audio.divalstream.com:7019/stream
 #EXTINF:-1 Radio Unab chile
 http://route.ceomedia.cl/unab
-#EXTINF:-1 Radio Universal Pitrufquén-Temuco
-https://s01.azuracast.cl/radio/8010/universal
 #EXTINF:-1 Radio Universal Pitrufquén-Temuco
 https://s01.azuracast.cl/radio/8010/universal
 #EXTINF:-1 Radio Universidad de Chile

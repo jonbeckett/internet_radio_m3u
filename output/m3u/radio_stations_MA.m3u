@@ -2,10 +2,6 @@
 #PLAYLIST:Internet Radio Stations
 #EXTINF:-1 . Nidaa Islam 
 https://n0c.radiojar.com/59096z743d0uv?rj-ttl=5&rj-tok=AAABhd07tHIAJ2GRl2KNynaKow
-#EXTINF:-1 . القارئ محمد أيوب 
-https://qurango.net/radio/mohammed_ayyub
-#EXTINF:-1 .. مختصر التفسير 
-https://qurango.net/radio/mukhtasartafsir
 #EXTINF:-1 .إذاعة ماهر المعيقلي 
 https://backup.qurango.net/radio/maher
 #EXTINF:-1 Adwaafm
@@ -20,14 +16,10 @@ http://broadcast.ice.infomaniak.ch/aswat-high.mp3
 https://broadcast.ice.infomaniak.ch/aswat-high.mp3
 #EXTINF:-1 Aziz Mustaphi 
 https://d3ctxlq1ktw2nl.cloudfront.net/production/2022-0-3/240607172-44100-2-afb2485b0c30e.mp3
-#EXTINF:-1 Aziz Mustaphi 
-https://d3ctxlq1ktw2nl.cloudfront.net/production/2022-0-3/240607172-44100-2-afb2485b0c30e.mp3
 #EXTINF:-1 Beldi FM
 https://beldifm.hf.ma/public/1/playlist/m3u
 #EXTINF:-1 bldi
 http://beldifm.hf.ma/radio/8000/radio.mp3
-#EXTINF:-1 Capradio
-https://streamer.eagrpservices.com/audio/capradio.mp3
 #EXTINF:-1 Chada FM 
 https://streamer.eagrpservices.com/audio/chadafm.mp3
 #EXTINF:-1 Fayroz
@@ -136,16 +128,6 @@ https://streaming.rimradio.ma/live
 https://streaming.rimradio.ma/live
 #EXTINF:-1 x
 https://streamer.eagrpservices.com/audio/chadafm.mp3
-#EXTINF:-1 x
-https://streamer.eagrpservices.com/audio/chadafm.mp3
-#EXTINF:-1 إذاعة طريق السلف
-
-
-https://airtime.salafwayfm.ly/
-#EXTINF:-1 اذاعة القرآن الكريم
-http://stream.radiojar.com/0tpy1h0kxtzuv
-#EXTINF:-1 تفسير بن عثيمين
-https://qurango.net/radio/tafseer
 #EXTINF:-1 صدقة جارية
 https://stream.zeno.fm/xzxaqh2w5rhvv
 #EXTINF:-1 قرآن كريم للمقرئ المغربي عبد الرحمن بنموسى

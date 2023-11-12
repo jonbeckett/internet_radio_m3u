@@ -23,6 +23,4 @@ File11=https://23743.live.streamtheworld.com/RAKITA_SC
 Title11=RAKITA
 File12=http://java.skychatz.org:8080/;stream/1
 Title12=SkyChatzFM
-File13=http://stream.radiojar.com/0tpy1h0kxtzuv
-Title13=اذاعة القرآن الكريم
-NumberOfEntries=13
+NumberOfEntries=12

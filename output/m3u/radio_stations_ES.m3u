@@ -26,8 +26,6 @@ https://ais-sa2.cdnstream1.com/2208_128.mp3
 http://54.36.243.24:8133/stream
 #EXTINF:-1 99.9 Plaza Radio Valencia
 https://stream1.solstreaming.com:8112/stream
-#EXTINF:-1 À Punt Ràdio
-http://stream.elxmedia.es:8888/apunt.mp3
 #EXTINF:-1 A Xente de Teo
 https://axentedeteo.ddns.net/radio/8000/radio.mp3
 #EXTINF:-1 AB95FM
@@ -76,8 +74,6 @@ https://stream.beachgrooves.com:9000/;
 https://ec5.yesstreaming.net:2115/stream
 #EXTINF:-1 BeachGrooves Radio
 https://stream.beachgrooves.com:9000/stream.mp3
-#EXTINF:-1 BeachGrooves Radio
-https://stream.beachgrooves.com:9000/stream
 #EXTINF:-1 BENICARLO RADIO by Xopo
 https://streaming.enacast.com/radiobenicarlo128.mp3
 #EXTINF:-1 BENIGANIM RADIO by Xopo
@@ -88,8 +84,6 @@ http://212.83.151.18:36379/
 https://stream.mediasector.es/radio/8030/bikinifm.mp3
 #EXTINF:-1 Blue Marlin Ibiza Radio
 http://s3.sonicabroadcast.com:8635/;listen.mp3
-#EXTINF:-1 Blue Marlin Ibiza Radio
-http://ice1.viastreaming.net:8635/live
 #EXTINF:-1 BN Mallorca
 http://91.121.156.27:8008/stream
 #EXTINF:-1 BOM Radio España
@@ -100,8 +94,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_01.mp3
 #EXTINF:-1 Cadena 100
 http://flucast-b02-05.flumotion.com/cope/cadena100.mp3
-#EXTINF:-1 Cadena 100
-http://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3
 #EXTINF:-1 Cadena 100 Barcelona
 https://cadena100bcn-cope.flumotion.com/playlist.m3u8
 #EXTINF:-1 Cadena COPE Barcelona
@@ -116,8 +108,6 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
 https://25683.live.streamtheworld.com/CADENADIAL.mp3
 #EXTINF:-1 Cadena Mix
 http://ns5.emisionlocal.com:2199/tunein.php/radiomix/playlist.pls
-#EXTINF:-1 Cadena Mix FM
-https://ns6.emisionlocal.com/proxy/radiomix?mp=/stream
 #EXTINF:-1 Cadena Mix FM
 https://ns6.emisionlocal.com/proxy/radiomix?mp=/stream
 #EXTINF:-1 Cadena Mix FM Cantabria
@@ -150,19 +140,13 @@ http://streaming.capsulaimposible.com:8000/radioharo.mp3
 https://21273.live.streamtheworld.com/SER_LAS_PALMAS.mp3
 #EXTINF:-1 Cadena SER Lugo
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LUGO.mp3
-#EXTINF:-1 Cadena SER Lugo
-https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LUGO.mp3
 #EXTINF:-1 Cadena SER Málaga
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALAGA.mp3
 #EXTINF:-1 Cadena Ser Mallorca
 http://provisioning.streamtheworld.com/pls/SER_MALLORCA.pls
 #EXTINF:-1 Cadena SER Palencia
 http://21273.live.streamtheworld.com/SER_PALENCIA_SC
-#EXTINF:-1 Cadena SER Palencia
-http://21273.live.streamtheworld.com/SER_PALENCIA_SC
 #EXTINF:-1 Cadena SER pontevedra
-https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PONTEVEDRA.mp3
-#EXTINF:-1 Cadena SER Pontevedra
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PONTEVEDRA.mp3
 #EXTINF:-1 Cadena SER Pontevedra
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PONTEVEDRA.mp3
@@ -190,8 +174,6 @@ https://enacast.com/canalblau/streams/SD
 https://rtvc-radio.flumotion.com/rtvc-radio/radio1-high.mp3
 #EXTINF:-1 Candil Radio
 https://candilradio.com/liveradio/candil/live.mp3
-#EXTINF:-1 Capital Radio
-http://capitalradio-live.flumotion.com/capital-radio/capitalradio.mp3
 #EXTINF:-1 Cappuccino Radio Station
 http://91.121.156.27:8021/stream
 #EXTINF:-1 Carrusel FM
@@ -206,10 +188,6 @@ http://ns331078.ip-176-31-120.eu:8000/mpd
 http://edge.mixlr.com/channel/asnfw
 #EXTINF:-1 Classic Old Time Radio
 http://stream.zeno.fm/b6v6nu8uhnruv
-#EXTINF:-1 Classic Old Time Radio
-http://stream.zeno.fm/b6v6nu8uhnruv
-#EXTINF:-1 Classic Old Time Radio
-http://stream.zeno.fm/b6v6nu8uhnruv
 #EXTINF:-1 Closta Blanca Radio
 http://stream.costablancaradio.nl/costablancaradio
 #EXTINF:-1 Coast FM Tenerife, Canary Islands---Pop, Top40, 80s, 70s
@@ -218,12 +196,8 @@ http://s3.viastreaming.net:8840/
 https://streaming12.elitecomunicacion.es:8056/stream?type=.mp3
 #EXTINF:-1 Contrabanda FM
 http://www.contrabanda.org:8000/contrabanda
-#EXTINF:-1 Contrabanda FM
-http://www.contrabanda.org:8000/contrabanda
 #EXTINF:-1 COPE Albacete
 https://albacete-copesedes-flucast.flumotion.com/copesedes/albacete.mp3.m3u
-#EXTINF:-1 COPE Asturias
-https://wecast-b02-04.flumotion.com/copesedes/asturias.mp3
 #EXTINF:-1 COPE Asturias
 https://wecast-b02-04.flumotion.com/copesedes/asturias.mp3
 #EXTINF:-1 COPE Badajoz
@@ -262,8 +236,6 @@ https://wecast-b03-01.flumotion.com/copesedes/pontevedra.mp3
 http://santander.copesedes.stream.flumotion.com/copesedes/santander.mp3.m3u
 #EXTINF:-1 Cope Sevilla
 http://sevilla.copesedes.stream.flumotion.com/copesedes/sevilla.mp3.m3u
-#EXTINF:-1 COPE Tenerife
-https://tenerife-mas-copesedes-flucast.flumotion.com/copesedes/tenerife-mas.mp3.m3u
 #EXTINF:-1 COPE Tenerife
 https://tenerife-mas-copesedes-flucast.flumotion.com/copesedes/tenerife-mas.mp3.m3u
 #EXTINF:-1 Cope Valencia
@@ -308,8 +280,6 @@ https://streams.radio.co/se18e1e587/listen
 https://cervera.eldialdigital.com:23121/stream
 #EXTINF:-1 Edenex
 https://cervera.eldialdigital.com:23121/stream
-#EXTINF:-1 Edenex
-https://cervera.eldialdigital.com:23121/stream
 #EXTINF:-1 EDM RADIO
 https://stream.zeno.fm/sbe8jjdhr2lvv
 #EXTINF:-1 EITB Irratia
@@ -318,8 +288,6 @@ http://mp3-eitb.stream.flumotion.com/eitb/eitbmusika.mp3
 https://directe.eixamplebarcelonaradio.com:8443/radioOnline
 #EXTINF:-1 El 9 FM
 http://radio.el9fm.cat:8000/stream
-#EXTINF:-1 El Salto Radio
-https://radio.radiobot.org/listen/salto/elsaltoradio.mp3
 #EXTINF:-1 El Salto Radio
 https://radio.radiobot.org/listen/salto/elsaltoradio.mp3
 #EXTINF:-1 El Salto radio
@@ -344,10 +312,6 @@ http://stream.zenolive.com/qaxnuxap0rquv
 http://stream.zenolive.com/51nrp77pbsquv
 #EXTINF:-1 esRadio
 http://server9.emitironline.com:8822/radio
-#EXTINF:-1 esRadio
-http://livestreaming.esradio.fm/stream64.mp3
-#EXTINF:-1 esRadio
-http://livestreaming.esradio.fm/stream64.mp3
 #EXTINF:-1 EsRadio
 https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3
 #EXTINF:-1 EsRadio (MP3 HQ)
@@ -368,10 +332,6 @@ https://server.spainbroadcast.net/8038/stream
 https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3
 #EXTINF:-1 EsRadio Tenerife
 https://panel5.soydigital.fm/8024/live?1678446871465
-#EXTINF:-1 EsRadio Tenerife
-https://panel5.soydigital.fm/8024/live?1678447316174
-#EXTINF:-1 EsRadio Tenerife
-https://panel5.soydigital.fm/8024/live
 #EXTINF:-1 Essere Web Radio
 https://nr9.newradio.it/proxy/essereas?mp=/stream?ext=.mp3
 #EXTINF:-1 Etzanda Irratia
@@ -380,8 +340,6 @@ http://51.68.46.71:9000/eztanda.mp3
 http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3
 #EXTINF:-1 Euskalerria Irratia
 http://server4.beatproducciones.com:8014/
-#EXTINF:-1 Exa FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFM_SC.aac
 #EXTINF:-1 Exito Radio
 http://5.135.183.124:9252/stream
 #EXTINF:-1 Feel Good Radio Costa del Sol
@@ -420,20 +378,14 @@ http://stream.zenolive.com/gzaf75yevceuv.m3u
 https://freshrad.radioca.st/stream
 #EXTINF:-1 FUNKY TRACKS RADIO
 https://streaming2.elitecomunicacion.es:8134/stream
-#EXTINF:-1 FUNKY TRACKS RADIO
-http://streaming2.elitecomunicacion.es:8134/stream
 #EXTINF:-1 FUNKY TRACKS RADIO Barcelona
 http://streaming2.elitecomunicacion.es:8134/stream
 #EXTINF:-1 Gaztea Irratia
 http://mp3-eitb.stream.flumotion.com/eitb/gaztea.mp3
 #EXTINF:-1 Gente Radio
 https://pr1cen101.emisionlocal.com/proxy/genteradio?mp=/live
-#EXTINF:-1 Gente Radio
-https://pr1cen101.emisionlocal.com/proxy/genteradio?mp=/live
 #EXTINF:-1 Gladys Palmera Coleccion
 http://streams.radio.co/s496c4d2e8/listen
-#EXTINF:-1 Gladys Palmera Latin Fresh
-https://streamer.radio.co/s00c7ec6fa/listen
 #EXTINF:-1 Gladys Palmera Latin Fresh
 https://streamer.radio.co/s00c7ec6fa/listen
 #EXTINF:-1 Gladys Palmera Radio Online
@@ -478,8 +430,6 @@ http://holidaygym.emitironline.com/
 https://icecast.ib3radio.com/ib3radio.mp3
 #EXTINF:-1 IB3 Ràdio Menorca
 http://streaming01.ib3radio.com:8000/ib3radio_menorca
-#EXTINF:-1 Ibiza Global Radio
-http://ibizaglobalradio.streaming-pro.com:8024/
 #EXTINF:-1 Ibiza Live Radio
 https://streams.radio.co/sdc9cfaf77/listen
 #EXTINF:-1 Ibiza Radios Relax
@@ -488,8 +438,6 @@ http://54.38.43.201:8036/stream-128kmp3-IbizaRelax
 http://54.38.43.201:8036/stream-128kmp3-IbizaRelax
 #EXTINF:-1 Ibiza Sonica
 https://ssl1.viastreaming.net:7005/;
-#EXTINF:-1 Ibiza Sonica Radio
-http://94.75.227.133:7005/
 #EXTINF:-1 Ibiza Sonica: Bless Your Sound
 https://ssl1.viastreaming.net:8750/;listen.mp3
 #EXTINF:-1 Ibiza Stardust Radio
@@ -528,10 +476,6 @@ https://stream.tunerplay.com/radio/8020/jazzradiospain.mp3
 https://radiobot.radioslibres.info/listen/radio_almaina/radio.mp3
 #EXTINF:-1 Kiss FM
 https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3&lang=es
-#EXTINF:-1 Kiss FM
-https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3&lang=es
-#EXTINF:-1 Kiss FM
-https://frontend.streamonkey.net/fhn-gong971/stream/mp3
 #EXTINF:-1 KISS FM
 https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3
 #EXTINF:-1 Kiss Music FM
@@ -562,8 +506,6 @@ https://statics-v2.streema.com/static/audios/sample.ea78c3d52389.mp3
 https://cervera.eldialdigital.com:23181/stream
 #EXTINF:-1 La Plana Ràdio
 https://enacast.com/laplanaradio/streams/HD
-#EXTINF:-1 La Tropical Radio
-http://s28.myradiostream.com:27372/listen.mp3
 #EXTINF:-1 La Tropical Radio
 http://s28.myradiostream.com:27372/listen.mp3
 #EXTINF:-1 La Urban Radio
@@ -620,8 +562,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
 #EXTINF:-1 Los 40 Catalunya
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CAT_SC
-#EXTINF:-1 Los 40 Classic
-https://20723.live.streamtheworld.com/LOS40_CLASSIC_SC
 #EXTINF:-1 LOS 40 Classic
 https://25633.live.streamtheworld.com/LOS40_CLASSIC.mp3
 #EXTINF:-1 LOS 40 DANCE
@@ -658,8 +598,6 @@ https://radios.lamaster.es:8000/guadalhorce
 http://178.32.146.184:2088/stream/
 #EXTINF:-1 Maxima FM Madrid - FM 104.3 - Madrid
 http://178.32.146.184:2088/stream/
-#EXTINF:-1 Maxima FM Madrid - FM 104.3 - Madrid
-https://eu4.fastcast4u.com/proxy/kris?mp=/1
 #EXTINF:-1 Mega St☆r Spain
 http://stream.zeno.fm/04uk5f3aqs8uv
 #EXTINF:-1 MegaStarFM
@@ -732,8 +670,6 @@ http://radio.serviciosderadio.com:8060/radio.mp3
 https://radioserver12.profesionalhosting.com/proxy/pkg78581/stream
 #EXTINF:-1 Onda Jerez Radio
 https://radio.ondajerez.com:8443/Ondajerez.mp3
-#EXTINF:-1 Onda Latina
-https://cervera.eldialdigital.com:21131/stream
 #EXTINF:-1 Onda Latina (87.6 FM) Madrid
 https://cervera.eldialdigital.com:21131/stream
 #EXTINF:-1 Onda Musical de Yecla
@@ -750,15 +686,7 @@ http://www.ondavasca.com:8000/bizkaia
 http://www.ondavasca.com:8000/gipuzkoa
 #EXTINF:-1 Onda Wantuki 
 https://stream.zeno.fm/5dfkzqm70s8uv
-#EXTINF:-1 Onda Wantuki 
-https://stream-53.zeno.fm/5dfkzqm70s8uv?zs=7mVurCDLSPy5bKKzKX0EYQ
 #EXTINF:-1 ONDA WANTUKI
-https://stream.zeno.fm/5dfkzqm70s8uv
-#EXTINF:-1 ONDA WANTUKI
-https://stream.zeno.fm/5dfkzqm70s8uv
-#EXTINF:-1 ONDA WANTUKI
-https://stream.zeno.fm/5dfkzqm70s8uv
-#EXTINF:-1 Onda Wantuki 
 https://stream.zeno.fm/5dfkzqm70s8uv
 #EXTINF:-1 Onda Wantuki 
 https://stream.zeno.fm/5dfkzqm70s8uv
@@ -792,8 +720,6 @@ https://server8.emitironline.com:9402/radio
 http://154.58.11.34:8001/;?
 #EXTINF:-1 PUNK IRRATIA
 https://punkirratia.net:8443/punk
-#EXTINF:-1 PUNK IRRATIA
-https://punkirratia.net:8443/punk
 #EXTINF:-1 Punt 7 Ràdio
 https://enacast.com/punt7radiosantceloni/streams/HD
 #EXTINF:-1 Punto Sentimientos
@@ -806,10 +732,6 @@ http://51.255.235.165:5092/;
 https://19983.live.streamtheworld.com/RAC_MES_1.mp3
 #EXTINF:-1 RAC1
 https://19983.live.streamtheworld.com/RAC_1.mp3
-#EXTINF:-1 RAC1
-https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
-#EXTINF:-1 RAC1
-http://streaming3.radiocat.net/
 #EXTINF:-1 RAC1 +1
 https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3
 #EXTINF:-1 RAC1 HD
@@ -826,8 +748,6 @@ http://c4.auracast.net:8050/stream
 http://sergiobastida.es:8000/radio4gmurcia
 #EXTINF:-1 Radio 5 RNE Almería
 https://dispatcher.rndfnk.com/crtve/rne5/alm/mp3/high
-#EXTINF:-1 Radio 90
-http://giss.tv:8000/r90.mp3
 #EXTINF:-1 Ràdio 90
 https://giss.tv:666/r90.mp3
 #EXTINF:-1 Radio 90
@@ -842,10 +762,6 @@ http://streaming.enantena.com:8000/radioabrera128.mp3
 http://stream.zeno.fm/u7u1gx32608uv
 #EXTINF:-1 Radio allegria2
 http://stream.zeno.fm/9ewh90xz4rhvv
-#EXTINF:-1 Radio Almaina
-http://radiobot.radioslibres.info:8020/radio.mp3
-#EXTINF:-1 Radio Almaina
-http://radiobot.radioslibres.info:8020/radio.mp3
 #EXTINF:-1 Radio Almenara
 https://cervera.eldialdigital.com:25211/stream
 #EXTINF:-1 Radio Almendralejo
@@ -860,10 +776,6 @@ http://streaming.enantena.com:8000/radioarenysdemar128.mp3
 https://enacast.com/radioarenysdemunt/streams/HD
 #EXTINF:-1 Radio Argayo
 https://radiobot.radioslibres.info/radio/8030/radio.ogg
-#EXTINF:-1 Radio Argayo
-https://radiobot.radioslibres.info/radio/8030/radio.ogg
-#EXTINF:-1 Ràdio Arrels
-http://stream.radios-arra.fr:8000/radioarrels
 #EXTINF:-1 Ràdio Artà
 http://91.121.156.27:8012/stream
 #EXTINF:-1 Radio Averroes
@@ -894,8 +806,6 @@ https://escucha.calima.fm/stream
 https://srv7031.dns-lcinternet.com:8074/stream
 #EXTINF:-1 Ràdio Capital
 http://streaming.martiproduccions.com:8000/capitalhd
-#EXTINF:-1 Radio Carcoma
-https://live.radiocarcoma.com/main
 #EXTINF:-1 Radio Carcoma
 https://live.radiocarcoma.com/main
 #EXTINF:-1 Radio Carrizal
@@ -960,8 +870,6 @@ https://radio.streamenginelogin.com:8016/stream
 https://streaming.cuacfm.org/filispim.mp3
 #EXTINF:-1 Ràdio Flaixbac 106.1 Barcelona
 http://flaixbacweb.streaming-pro.com:8004/;
-#EXTINF:-1 Radio Flow
-https://topradio.uno:8018/live
 #EXTINF:-1 Radio Gáldar
 http://195.77.177.94:8000/stream
 #EXTINF:-1 Radio Galega Música
@@ -992,8 +900,6 @@ https://paginas.moisespaulino.com/proxy/radiojesus/stream
 https://www.radioklara.org/emision2.m3u
 #EXTINF:-1 Radio Kras
 http://giss.tv:8000/RadioKras.mp3
-#EXTINF:-1 Radio Kras
-http://giss.tv:8000/RadioKras.mp3
 #EXTINF:-1 Ràdio l'Hospitalet de l'Infant
 https://enacast.com/radiohospitalet/streams/SD
 #EXTINF:-1 Ràdio l'Om
@@ -1006,8 +912,6 @@ http://94.76.165.97:9830/;stream.mp3
 https://enacast.com/radiolaselva/streams/SD
 #EXTINF:-1 Radio Laredo
 https://radio.radiolaredo.com/8002/stream
-#EXTINF:-1 Radio Laredo
-https://radio.radiolaredo.com/8002/strem
 #EXTINF:-1 Radio Libertad Tenerife
 https://endirecto.libertadfm.es/hq-libertadfm.mp3
 #EXTINF:-1 Radio Linguas
@@ -1026,8 +930,6 @@ https://enacast.com/radiomanlleu/streams/HD
 https://25633.live.streamtheworld.com/RADIOMARCA_NACIONAL.mp3
 #EXTINF:-1 Radio Marca
 https://sonic.mediatelekom.net/9316/stream
-#EXTINF:-1 Radio Marca
-https://sonic.mediatelekom.net/9316/stream
 #EXTINF:-1 Radio Marca Barcelona
 http://radioweb.radiomarcabarcelona.com:9000/stream.m3u
 #EXTINF:-1 Radio Marca Cordoba
@@ -1040,8 +942,6 @@ https://marca-sansebastian.streaming-pro.com:6101/live
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL_SC
 #EXTINF:-1 Radio Marca Málaga
 http://malagafm.streaming-pro.com:8130/malagafmmobile
-#EXTINF:-1 Radio Marca Tenerife
-https://cervera.eldialdigital.com:22131/stream
 #EXTINF:-1 Radio Marca Tenerife
 https://cervera.eldialdigital.com:22131/stream
 #EXTINF:-1 Radio María España
@@ -1072,8 +972,6 @@ https://cervera.eldialdigital.com:25141/stream
 https://axarquia.emisiononline.es/radio/8040/radio.mp3
 #EXTINF:-1 Radio Nature
 https://stream.zeno.fm/3ac97ysh6f0uv.aac
-#EXTINF:-1 Radio Nervión
-https://gruponervion.streaming-pro.com:6131/
 #EXTINF:-1 Radio Nervión
 https://gruponervion.streaming-pro.com:6131/
 #EXTINF:-1 Radio Nostalgia Spain
@@ -1136,8 +1034,6 @@ http://streaming.enantena.com:8000/radiorubi128.mp3
 http://online.radiosabadell.fm:8013/stream
 #EXTINF:-1 Radio Salut Catalunya
 https://51.38.57.199:9001/stream
-#EXTINF:-1 Radio San Borondón
-http://s3radio.hostingwebcloud.com:8053/stream
 #EXTINF:-1 Radio San Borondón
 http://s3radio.hostingwebcloud.com:8053/stream
 #EXTINF:-1 Radio San Javier
@@ -1224,8 +1120,6 @@ https://ice.radiomv.co:8440/spanish.mp3
 http://es-low.radiomv.co:3010/;
 #EXTINF:-1 Radios Libres
 https://radiobot.radioslibres.info/listen/radio_cadenazo_libre/cadenazo.mp3
-#EXTINF:-1 Radios Libres
-https://radiobot.radioslibres.info/listen/radio_cadenazo_libre/cadenazo.mp3
 #EXTINF:-1 Radioteletaxi
 http://radiott-web.streaming-pro.com:6103/radiott.mp3
 #EXTINF:-1 RadioTop20
@@ -1270,8 +1164,6 @@ https://f131.rndfnk.com/star/crtve/rne5/vlc/mp3/128/stream.mp3?cid=01GEP70HQKHM3
 https://dispatcher.rndfnk.com/crtve/rne5/ter/mp3/high?idasset=6116428
 #EXTINF:-1 RNE - Radio 5 Teruel
 https://dispatcher.rndfnk.com/crtve/rne1/ara/mp3/high?idasset=3893524
-#EXTINF:-1 RNE - Radio 5 Teruel
-https://dispatcher.rndfnk.com/crtve/rne5/ter/mp3/high?idasset=6116428
 #EXTINF:-1 RNE - Radio 5 Zaragoza
 https://dispatcher.rndfnk.com/crtve/rne5/zgz/mp3/high?idasset=3894741
 #EXTINF:-1 RNE 1 - Zaragoza
@@ -1285,14 +1177,6 @@ https://d121.rndfnk.com/star/crtve/rne5/lpa/mp3/128/stream.mp3?cid=01GEP4X9Y3EYS
 #EXTINF:-1 RNE Radio Nacional Almería
 https://dispatcher.rndfnk.com/crtve/rne1/alm/mp3/high
 #EXTINF:-1 ROCK FM
-https://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3
-#EXTINF:-1 Rock FM
-http://rockfm.cope.stream.flumotion.com/cope/rockfm-low.mp3.m3u
-#EXTINF:-1 Rock FM
-https://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3
-#EXTINF:-1 Rock FM
-http://rockfm.cope.stream.flumotion.com/cope/rockfm-low.mp3.m3u
-#EXTINF:-1 Rock FM
 https://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3
 #EXTINF:-1 Rock FM
 https://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3
@@ -1360,8 +1244,6 @@ https://ssl1.viastreaming.net:8820/;listen.mp3
 https://ssl1.viastreaming.net:8805/;listen.mp3
 #EXTINF:-1 SoniCalm
 https://ssl1.viastreaming.net:8915/;listen.mp3
-#EXTINF:-1 SoniCalm
-http://s3.sonicabroadcast.com:8915/;.m3u
 #EXTINF:-1 Spectrum FM Costa Almeria
 https://eu8.fastcast4u.com/proxy/almeria2?mp=/1
 #EXTINF:-1 Spektra FM Valencia
@@ -1410,8 +1292,6 @@ https://streaming12.elitecomunicacion.es:8222/stream
 https://relay.stream.enacast-cloud.com:40235/laveudondaraSD.mp3
 #EXTINF:-1 Vibe Ibiza Radio
 https://s42.myradiostream.com:34541/vibeibiza
-#EXTINF:-1 Vicente radio
-https://radio.vicentellopis.es/radio/8000/stream
 #EXTINF:-1 Vicente radio
 https://radio.vicentellopis.es/radio/8000/stream
 #EXTINF:-1 VILASSAR RADIO

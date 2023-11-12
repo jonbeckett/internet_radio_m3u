@@ -42,8 +42,6 @@ http://radio-stream.cmc.com.hr:8090/autodj
 http://radio-stream.cmc.com.hr:8030/autodj
 #EXTINF:-1 CMC Radio
 https://radio-stream.cmc.com.hr:9011/autodj
-#EXTINF:-1 CMC Radio
-http://radio-stream.cmc.com.hr:8001/autodj
 #EXTINF:-1 CMC Rock
 http://radio-stream.cmc.com.hr:8060/autodj
 #EXTINF:-1 CMC Tambure
@@ -66,8 +64,6 @@ http://s8.iqstreaming.com:8012/listen.pls?sid=1
 http://stream.hkr.hr:8000/hkr.mp3
 #EXTINF:-1 HRT HR 1 - Prvi program
 https://25593.live.streamtheworld.com/PROGRAM1.mp3
-#EXTINF:-1 HRT HR 1 - Prvi program
-http://provisioning.streamtheworld.com/pls/PROGRAM1.pls
 #EXTINF:-1 HRT HR2 - Drugi program
 https://25593.live.streamtheworld.com/PROGRAM2.mp3
 #EXTINF:-1 HRT Radio Sljeme
@@ -136,8 +132,6 @@ http://21223.live.streamtheworld.com/PROGRAM1.mp3
 http://streaming.zadar.net:8000/radio057
 #EXTINF:-1 Radio 101
 https://live.radio101.hr:8000/
-#EXTINF:-1 Radio 101
-http://live.radio101.hr:9531/stream.mp3
 #EXTINF:-1 Radio 101 Rock
 https://live.radio101.hr:8010/
 #EXTINF:-1 Radio 101 Soft Sound
@@ -146,8 +140,6 @@ https://live.radio101.hr:8020/
 http://stream.radio808.info:8003/listen.pls
 #EXTINF:-1 Radio 808 Zagreb
 https://808proxy.contrib.hr/
-#EXTINF:-1 Radio Antena
-http://live.antenazadar.hr:9000/;?type=http&nocache=10737
 #EXTINF:-1 Radio Banovina
 http://stream1.radio-banovina.hr:8008/;
 #EXTINF:-1 Radio Biograd na Moru
@@ -172,8 +164,6 @@ http://mcp1.mydataknox.com:8012/stream
 http://144.76.39.214:9500/stream.mp3
 #EXTINF:-1 Radio Grubišno Polje
 https://ec2s.crolive.com.hr:8215/stream
-#EXTINF:-1 Radio Hrvat
-http://213.239.215.181:9036/stream
 #EXTINF:-1 Radio Imotski 107.4 FM
 http://radioimotski.radioca.st/stream
 #EXTINF:-1 Radio Jaska
@@ -196,8 +186,6 @@ http://genf196.server4you.de:8585/
 http://live.mediaservis.hr:8084/stream?type=http&nocache=557757
 #EXTINF:-1 Radio Megaton
 https://chopin.bizmusic.net/radio/8030/radio.mp3
-#EXTINF:-1 Radio Megaton
-https://chopin.bizmusic.net/radio/8030/radio.mp3
 #EXTINF:-1 Radio Moslavina
 http://144.76.172.23:7049/
 #EXTINF:-1 Radio Nacional 
@@ -212,8 +200,6 @@ http://comet.shoutca.st:8050/
 https://ec2s.crolive.com.hr:2595/stream
 #EXTINF:-1 Radio Otocac
 http://s8.iqstreaming.com:8024/stream
-#EXTINF:-1 Radio Otok Krk
-https://s8.iqstreaming.com:8014/stream
 #EXTINF:-1 Radio Otok Krk
 https://s8.iqstreaming.com:8014/stream
 #EXTINF:-1 Radio Ploce 64,5 MHz
@@ -262,8 +248,6 @@ http://rovinj.fm:8000/
 https://ec2s.crolive.com.hr:8035/stream
 #EXTINF:-1 Studentski radio UNIOS
 http://radio.unios.hr:8000/stream.mp3
-#EXTINF:-1 Super Radio
-https://mcp1.mydataknox.com:2000/tunein/stream_4/stream/pls
 #EXTINF:-1 Trend Radio Karlovac
 https://trend.com.hr/stream/playlist.php?name=listen.asx
 #EXTINF:-1 Zabavni radio

@@ -130,8 +130,6 @@ http://stream.iradio.pro:8034/radiomagic
 http://dreamsiteradiocp.com:8034/stream
 #EXTINF:-1 Radio Marija
 http://cloudrad.io/radiomariabosnia/listen.pls
-#EXTINF:-1 Radio Merak
-http://79.143.187.96:8092/stream/
 #EXTINF:-1 Radio MIX
 http://116.203.7.166:9010/stream/
 #EXTINF:-1 Radio Novi Grad 100MHz
@@ -146,14 +144,8 @@ http://s1.voscast.com:7986/;
 https://r.name.ba:7115/stream
 #EXTINF:-1 Radio Sarajevo
 http://malla.softnet.si:8000/
-#EXTINF:-1 Radio Sarajevo
-http://malla.softnet.si:8000/;.mp3
-#EXTINF:-1 Radio Sarajevo
-http://malla.softnet.si:8000/listen.pls
 #EXTINF:-1 Radio Sehara
 https://r.name.ba:7320/;
-#EXTINF:-1 Radio Slobodna Evropa
-https://n11.radiojar.com/bugesa4nn3quv?rj-ttl=5&rj-tok=AAABihgJBEQA_ptijcBtD6_jYw
 #EXTINF:-1 Radio Slobomir
 http://51.254.61.148:9911/;%20stream
 #EXTINF:-1 Radio Slon
@@ -166,12 +158,8 @@ https://c2.radioboss.fm:18249/stream
 http://radio.studiod.ba:8018/
 #EXTINF:-1 Radio Studio M
 http://188.40.62.20:8014/;
-#EXTINF:-1 Radio USK
-https://radiousk.radioca.st/stream
 #EXTINF:-1 Radio Veseli Bosanac
 http://opportunity.shoutca.st:8038/
-#EXTINF:-1 Radio Vihor
-https://r.name.ba:7500/stream
 #EXTINF:-1 Radio Vihror
 https://r.name.ba:7500/stream
 #EXTINF:-1 Radio Visoko

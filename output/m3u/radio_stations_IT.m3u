@@ -16,14 +16,8 @@ https://gmusto3.radioca.st/stream
 https://giorgia.radiobellissima.it:8180/radio.mp3
 #EXTINF:-1 16Radio
 https://laut.fm/16radio
-#EXTINF:-1 16Radio
-https://laut.fm/16radio
-#EXTINF:-1 16Radio
-http://stream.laut.fm/16radio
 #EXTINF:-1 70 80 Disco Funk ModernSoul e Boogie
 https://discofunk.streamingmedia.it/play
-#EXTINF:-1 70 80 Hits HQ
-https://nr8.newradio.it:19574/stream
 #EXTINF:-1 70 80 Hits HQ
 https://nr8.newradio.it:19574/stream
 #EXTINF:-1 70/80 Non Stop
@@ -102,10 +96,6 @@ http://stream.laut.fm/chilloutzone
 http://mmediassl.rtvweb.com:9000/ciaoradio
 #EXTINF:-1 CiaoComo Radio
 http://nr9.newradio.it:9383/stream
-#EXTINF:-1 City Radio
-http://sr6.inmystream.it:8050/;stream.mp3
-#EXTINF:-1 Classic Radio
-http://nr1.newradio.it:9204/stream
 #EXTINF:-1 Climbing Radio
 http://players.fluidstream.net/climbingradio.pls
 #EXTINF:-1 Club Radio One
@@ -114,8 +104,6 @@ https://my.ssl-stream.com/clubradioone
 https://s2.radio.co/sed646842d/listen
 #EXTINF:-1 Contatto Radio
 http://contattoradio.radioca.st/stream?type=https&nocache=1?ver=572863
-#EXTINF:-1 Contro Radio
-http://streaming.controradio.it:8190/
 #EXTINF:-1 Contro Radio
 http://streaming.controradio.it:8190/
 #EXTINF:-1 Controradio
@@ -230,8 +218,6 @@ https://gr.fluidstream.eu/gr7.mp3
 https://gr.fluidstream.eu/gr2.mp3
 #EXTINF:-1 GoodFellas Music Station
 http://onair7.xdevel.com/proxy/xautocloud_q1v0_1005?mp=/;stream/;
-#EXTINF:-1 GoodFellas Music Station
-http://onair7.xdevel.com/proxy/xautocloud_q1v0_1005?mp=/;stream/;
 #EXTINF:-1 GR Dolce Vita
 https://gr.fluidstream.eu/gr7.mp3
 #EXTINF:-1 Gruppo Cap
@@ -306,14 +292,10 @@ https://icy.unitedradio.it/um017.mp3
 http://www.italiandancenetwork.com/stream/links/listen.pls
 #EXTINF:-1 Italo Sound Radio
 https://icecast.italosound.com/italosound
-#EXTINF:-1 Italo Sound Radio
-http://stream.italosound.com:8000/italosound
 #EXTINF:-1 Italy Classical Radio
 http://philae.shoutca.st:8204/;
 #EXTINF:-1 iWebRadio
 http://nr4.newradio.it:9400/listen.pls
-#EXTINF:-1 iWebRadio
-http://nr4.newradio.it:9400/;stream.mp3
 #EXTINF:-1 Juice Radio
 http://cleo.shoutca.st:8060/;
 #EXTINF:-1 Kiss kiss italia
@@ -356,8 +338,6 @@ http://www.lolliradio.net/streaming/italia.asx
 http://oldies.lolliradio.net:8070/listen.pls
 #EXTINF:-1 Lolli Radio Soft
 http://www.lolliradio.net/streaming/soft.asx
-#EXTINF:-1 Lolli Radio Soft
-http://soft.lolliradio.net:8040/
 #EXTINF:-1 Lolli Radio Soul
 https://stream.lolliradio.net/lolli_soul.mp3
 #EXTINF:-1 Lolliradio Italia
@@ -460,18 +440,12 @@ http://icy.unitedradio.it/Ferro.mp3
 http://icy.unitedradio.it/Vasco.mp3
 #EXTINF:-1 MUSIC STAR Zucchero
 http://icy.unitedradio.it/Zucchero.mp3
-#EXTINF:-1 Musica Jazz Radio
-https://ice16.fluidstream.net/mjr.mp3
 #EXTINF:-1 Napoli a Modo Mio
 https://stream.zeno.fm/6z5rvqrh1wzuv
 #EXTINF:-1 NATURE RADIO SLEEP
 https://mpc2.mediacp.eu/stream/natureradiosleep
-#EXTINF:-1 NATURE RADIO SLEEP
-https://mpc2.mediacp.eu/stream/natureradiosleep
 #EXTINF:-1 NBC Milano
 https://nr7.newradio.it:19350/stream
-#EXTINF:-1 NBC Milano
-http://91.121.104.139:9280/;stream.mp3
 #EXTINF:-1 NEU RADIO
 https://nr9.newradio.it/proxy/ebaruffa?mp=/stream
 #EXTINF:-1 NEW HITS RADIO Italia
@@ -502,10 +476,6 @@ http://nr9.newradio.it:9377/stream
 http://5.135.39.189:8120/stream
 #EXTINF:-1 Otto FM Anni 80
 http://streaming.bitonlive.net:12000/ottofm.mp3
-#EXTINF:-1 pantano
-https://pantano.ovh:8444/pantano
-#EXTINF:-1 pantano
-https://pantano.ovh:8444/pantano
 #EXTINF:-1 pantano
 https://pantano.ovh:8444/pantano
 #EXTINF:-1 Parrocchie Gorgonzola
@@ -552,16 +522,6 @@ http://nr1.newradio.it:9120/stream
 http://91.121.118.99:8112/;
 #EXTINF:-1 Radio 100 Passi
 http://nr1.newradio.it:9102/stream
-#EXTINF:-1 Radio 100%
-https://18163.live.streamtheworld.com/SP_R4587013_SC
-#EXTINF:-1 Radio 100%
-https://18163.live.streamtheworld.com/SP_R4587013_SC
-#EXTINF:-1 Radio 100%
-https://18163.live.streamtheworld.com/SP_R4587013_SC
-#EXTINF:-1 Radio 100% Italia
-https://18163.live.streamtheworld.com/SP_R4587013_SC
-#EXTINF:-1 Radio 100% Italia
-https://18163.live.streamtheworld.com/SP_R4587013_SC
 #EXTINF:-1 Radio 100% Italia
 https://18163.live.streamtheworld.com/SP_R4587013_SC
 #EXTINF:-1 Radio 102
@@ -578,12 +538,8 @@ https://icecast.unitedradio.it/Radio105.mp3
 http://icy.unitedradio.it/1052kandMore.mp3
 #EXTINF:-1 Radio 105 - Classics
 http://icy.unitedradio.it/105Classics.mp3
-#EXTINF:-1 Radio 105 - Classics
-http://icy.unitedradio.it/105Classics.mp3
 #EXTINF:-1 Radio 105 - Coldplay
 http://icy.unitedradio.it/ColdPlay.mp3
-#EXTINF:-1 Radio 105 - Dance 90
-http://icy.unitedradio.it/105Dance90.mp3
 #EXTINF:-1 Radio 105 - Dance 90
 http://icy.unitedradio.it/105Dance90.mp3
 #EXTINF:-1 Radio 105 - HipHop & RnB
@@ -634,8 +590,6 @@ https://rblive.it:8060/radio.mp3
 http://str01.fluidstream.net:7020/;stream.mp3
 #EXTINF:-1 Radio 80 - Forever Young
 http://nr11.newradio.it:9208/stream
-#EXTINF:-1 Radio 80 - Forever Young
-https://nr11.newradio.it:19208/stream?1600266195249
 #EXTINF:-1 Radio 80 Afro
 https://sphera.fluidstream.eu/r80_afro.mp3
 #EXTINF:-1 Radio 80 Energia
@@ -666,8 +620,6 @@ http://s3.mediastreaming.it:8590/;
 http://217.61.166.190:9871/
 #EXTINF:-1 Radio Alfa Lombardia HD 
 http://live.radioalfalombardia.it:9871/
-#EXTINF:-1 Radio Alfa Lombardia HD 
-http://live.radioalfalombardia.it:9871/
 #EXTINF:-1 Radio Allegria
 http://audio.nemostream.tv:8110/live
 #EXTINF:-1 Radio Altamura Uno
@@ -696,8 +648,6 @@ http://nr8.newradio.it:9295/stream
 http://onair18.xdevel.com:8236/;
 #EXTINF:-1 Radio Antenna Due Classic
 https://radio.radioantennadue.it/classic
-#EXTINF:-1 Radio Antenna Due Classic
-https://radio.radioantennadue.it/classic
 #EXTINF:-1 Radio Antenna Due Italia
 https://radio.radioantennadue.it/italia
 #EXTINF:-1 Radio Antenna Due Link
@@ -706,26 +656,18 @@ https://radio.radioantennadue.it/link
 http://sr7.inmystream.info:8079/listen.pls
 #EXTINF:-1 Radio Antenna Petrignano
 https://italiavera.radioca.st/stream
-#EXTINF:-1 Radio Antenna Petrignano
-http://hydra.shoutca.st:8545/stream?type=http&nocache=296
 #EXTINF:-1 Radio Antenna Sud
 http://onair15.xdevel.com:8702/;
 #EXTINF:-1 Radio Antenna Uno
 http://onair15.xdevel.com:8488/;stream.mp3
-#EXTINF:-1 Radio Antenna Uno
-http://stream5.top-ix.org:8000/antennauno
 #EXTINF:-1 Radio Antenna Uno Rock Station
 https://sr11.inmystream.it/proxy/associa9?mp=/stream
 #EXTINF:-1 Radio Antenne Erreci
 http://s3.mediastreaming.it:9100/
 #EXTINF:-1 Radio Appalla
 https://www.radioappalla.it/wp-content/download/radio_appalla_stream.m3u
-#EXTINF:-1 Radio Appalla
-https://stream.radioappalla.net/appalla.mp3
 #EXTINF:-1 Radio Arcobaleno
 http://onair20.xdevel.com:8024/;stream.mp3
-#EXTINF:-1 Radio Arcobaleno
-http://178.32.139.167:8102/;
 #EXTINF:-1 Radio Ascoli
 http://players.fluidstream.net/studioascoli.pls
 #EXTINF:-1 Radio Ascolta
@@ -738,8 +680,6 @@ http://sr2.inmystream.info:8078/stream
 http://nr6.newradio.it:9243/stream
 #EXTINF:-1 Radio Azzurra
 http://s3.mediastreaming.it:7100/;stream.mp3
-#EXTINF:-1 Radio Azzurra
-http://stream.laut.fm/radioazzurra
 #EXTINF:-1 Radio Ballobello
 https://ballobello-danidi01.radioca.st/stream.mp3
 #EXTINF:-1 Radio Banda Larga
@@ -748,8 +688,6 @@ https://rblmedia.out.airtime.pro/rblmedia_a
 https://s2.radio.co/s8add5b3eb/listen
 #EXTINF:-1 Radio Barbagia
 http://sr1.inmystream.info:9075/;stream.mp3
-#EXTINF:-1 Radio Barbagia
-http://sr6.inmystream.it:9075/stream.mp3
 #EXTINF:-1 Radio Base Venezia
 https://sr11.inmystream.it/proxy/radiobase?mp=/stream
 #EXTINF:-1 Radio Bassa Parmense
@@ -780,10 +718,6 @@ http://178.32.137.180:8749/stream
 http://5.135.39.189:8112/;
 #EXTINF:-1 Radio Budrio
 http://audio1.meway.tv:8040/;
-#EXTINF:-1 Radio Budrio
-http://audio1.meway.tv:8040/;
-#EXTINF:-1 Radio Budrio
-http://audio1.meway.tv:8040/;
 #EXTINF:-1 Radio Buon Consiglio
 http://streaming.radiobuonconsiglio.it:8000/;
 #EXTINF:-1 Radio C1 inBlu
@@ -802,10 +736,6 @@ https://live.radiocampania.eu/radio/8040/radio.mp3
 http://91.121.118.99:8053/;stream.mp3
 #EXTINF:-1 Radio Capri
 http://onair15.xdevel.com:9242/;
-#EXTINF:-1 Radio Capri
-http://onair15.xdevel.com:9242/;stream.mp3&error=ok
-#EXTINF:-1 Radio Capri
-http://onair15.xdevel.com:9242/;stream.mp3
 #EXTINF:-1 Radio Carbonia International
 http://sr2.inmystream.info:8006/stream
 #EXTINF:-1 Radio Carina
@@ -820,8 +750,6 @@ http://s3.mediastreaming.it:9006/;
 https://radiocavolo.org/stream
 #EXTINF:-1 Radio Cecchetto
 https://eu10.fastcast4u.com:3890/radiocecchetto/1/itunes.pls
-#EXTINF:-1 Radio Cecchetto
-http://eu10.fastcast4u.com:3420/
 #EXTINF:-1 Radio Centrale - Montorio al Vomano
 https://s1.forstream.it:8070/radiocentrale.mp3
 #EXTINF:-1 Radio Centro Emilia
@@ -854,8 +782,6 @@ http://178.32.138.88:8084/stream
 http://onair15.xdevel.com:8798/;
 #EXTINF:-1 Radio Clandestina
 http://onair7.xdevel.com:7188/;
-#EXTINF:-1 Radio Club
-http://streaming.cst98.com:8000/club.mp3
 #EXTINF:-1 Radio Club 103
 http://nr8.newradio.it:9065/;stream.mp3
 #EXTINF:-1 Radio Club Network
@@ -888,8 +814,6 @@ https://icecast.ithost.it/radiocooperativa
 https://sr14.inmystream.it:8210/stream
 #EXTINF:-1 Radio Cortina
 https://streaming1.radiodatanet.it:8050/stream
-#EXTINF:-1 Radio CRC Targato Italia
-http://onair11.xdevel.com:9998/;stream.mp3
 #EXTINF:-1 Radio Crissa
 http://stream.laut.fm/radiocrissa.m3u
 #EXTINF:-1 Radio Cron
@@ -908,8 +832,6 @@ http://stream.radiomusic.net:8130/stream
 https://radiodancefloor.it/dancefloor_pls.pls
 #EXTINF:-1 Radio del Golfo
 http://nr11.newradio.it:9415/stream
-#EXTINF:-1 Radio Delta
-http://onair15.xdevel.com:8974/;stream.mp3
 #EXTINF:-1 Radio Delta 1
 http://onair15.xdevel.com:8942/;stream.mp3
 #EXTINF:-1 Radio Delta International
@@ -946,8 +868,6 @@ http://www.radiodolomiti.com:8068/stream
 http://91.121.38.216:8028/stream
 #EXTINF:-1 Radio Dora
 http://195.201.29.94:9000/;
-#EXTINF:-1 Radio Dora
-http://195.201.29.94:9000/;
 #EXTINF:-1 Radio Dreamland
 https://dreamsiteradiocp3.com/proxy/dreamland?mp=/stream
 #EXTINF:-1 Radio Easy Network Classic
@@ -962,8 +882,6 @@ https://stream.radioedelweiss.it:8443/
 http://nr1.newradio.it:9378/stream
 #EXTINF:-1 Radio Elettrica
 https://nr8.newradio.it/proxy/apselett?mp=/stream
-#EXTINF:-1 Radio Elettrica
-http://nr8.newradio.it:9562/stream
 #EXTINF:-1 Radio Emilia-Romagna
 https://www.radioemiliaromagna.it/live/stream
 #EXTINF:-1 Radio Emme 2
@@ -1030,8 +948,6 @@ http://nr6.newradio.it:9209/stream
 https://stream.laut.fm/forever80
 #EXTINF:-1 Radio Frejus
 http://195.201.31.54:8000/;
-#EXTINF:-1 Radio Frejus
-http://195.201.31.54:8000/;
 #EXTINF:-1 Radio Frequenza
 http://s6.mediastreaming.it:9000/;stream.mp3
 #EXTINF:-1 Radio Frequenza Appennino
@@ -1094,8 +1010,6 @@ http://stream.radioholiday.it:8000/
 http://sr10.inmystream.info:8166/;
 #EXTINF:-1 Radio Ibiza
 http://wma08.fluidstream.net:5010/;stream.aac
-#EXTINF:-1 Radio Idea Potenza
-https://audio.streamshow.it/proxy/radiocarinanapoli?mp=/stream
 #EXTINF:-1 Radio Idea Potenza
 https://audio.streamshow.it/proxy/radiocarinanapoli?mp=/stream
 #EXTINF:-1 Radio Immagine
@@ -1166,8 +1080,6 @@ http://ice08.fluidstream.net/kk_sanremo.mp3
 http://ice07.fluidstream.net:8080/KissKiss.mp3
 #EXTINF:-1 Radio Kolbe Melfi
 http://radiokolbemelfi.ddns.net:1337/;stream.mp3
-#EXTINF:-1 Radio Krishna 
-http://81.25.96.13:8020/
 #EXTINF:-1 Radio l'Olgiata
 https://olgiata-danidi01.radioca.st/stream.mp3/
 #EXTINF:-1 Radio Lalala
@@ -1180,8 +1092,6 @@ http://nr8.newradio.it:9097/;
 http://nr5.newradio.it:8627/stream
 #EXTINF:-1 Radio Leccocittà Continental
 http://sr9.inmystream.info:8049/listen.pls
-#EXTINF:-1 Radio Legends
-https://ssl.audio1.meway.tv/proxy/radiolegends?mp=/stream
 #EXTINF:-1 Radio Legends
 https://ssl.audio1.meway.tv/proxy/radiolegends?mp=/stream
 #EXTINF:-1 Radio Leopolda
@@ -1232,8 +1142,6 @@ http://sr4.inmystream.info:8183/listen.pls
 https://usa1-vn.mixstream.net/:8014/listen.mp3
 #EXTINF:-1 Radio Magenta
 http://sr9.inmystream.info:8038/listen.pls
-#EXTINF:-1 Radio Magic
-http://94.177.187.252:8000/stream/1/
 #EXTINF:-1 Radio Magic 2
 http://94.177.187.252:8000/stream/2/
 #EXTINF:-1 Radio Magica Emozione
@@ -1258,14 +1166,10 @@ https://stream5.xdevel.com/audio0s975929-659/stream/icecast.audio
 https://stream5.xdevel.com/audio0s975929-659/stream/icecast.audio
 #EXTINF:-1 Radio Margherita Giovane
 http://onair20.xdevel.com:8018/;stream.mp3
-#EXTINF:-1 Radio Maria
-http://dreamsiteradiocp.com:8092/;
 #EXTINF:-1 Radio Maria Südtirol
 http://s1.shoutitaly.com:8020/;
 #EXTINF:-1 Radio Marte
 https://stream1.xdevel.com/audio0s975753-313/stream/icecast.audio
-#EXTINF:-1 Radio Marte
-http://onair18.xdevel.com:8142/
 #EXTINF:-1 Radio Mater
 http://s3.shoutitaly.com:8016/;streaming.mp3
 #EXTINF:-1 Radio Max Partenope
@@ -1276,10 +1180,6 @@ http://nr1.newradio.it:9118/stream
 https://meteomeano.stream.laut.fm/meteomeano?.mp3
 #EXTINF:-1 Radio Mediterranea - Lounge
 https://stream.radiomediterranea.com:8160/lounge.mp3
-#EXTINF:-1 Radio Mediterranea - Lounge
-https://halo.streamerr.co/radio/8160/radio.mp3
-#EXTINF:-1 Radio Mediterranea - Lounge
-https://halo.streamerr.co/radio/8160/radio.mp3
 #EXTINF:-1 Radio Mela
 http://www.shoutcastitalia.com:8016/listen.pls
 #EXTINF:-1 Radio Meravigliosa
@@ -1310,8 +1210,6 @@ https://mln.fluidstream.eu/millennium_christmas.mp3
 http://s3.shoutitaly.com:8030/stream
 #EXTINF:-1 Radio Mitology
 http://onair15.xdevel.com:9120/;
-#EXTINF:-1 Radio Mitology
-http://onair15.xdevel.com:9120/;stream.mp3
 #EXTINF:-1 Radio Monte Carlo Jazz
 http://edge.radiomontecarlo.net/rmcweb019
 #EXTINF:-1 Radio Monte Kanate
@@ -1326,10 +1224,6 @@ http://shoutcast.wigate.it:8000/listen.pls
 http://onair22.xdevel.com:8156/;
 #EXTINF:-1 Radio Movida Crotone
 http://s6.mediastreaming.it:9054/;stream.mp3
-#EXTINF:-1 Radio Mozart Italia
-http://onair15.xdevel.com:7064/1/
-#EXTINF:-1 Radio Mozart Italia
-http://onair15.xdevel.com:7064/1/;
 #EXTINF:-1 Radio Mozart Italia
 http://onair15.xdevel.com:7064/1/
 #EXTINF:-1 Radio Musica Disco Fever
@@ -1362,8 +1256,6 @@ http://nr8.newradio.it:9205/stream
 https://stream5.xdevel.com/audio5s975889-479/stream/icecast.audio
 #EXTINF:-1 Radio News 24
 https://stream5.xdevel.com/audio7s975889-1332/stream/icecast.audio
-#EXTINF:-1 Radio News 24
-https://stream5.xdevel.com/audio7s975889-1332/stream/icecast.audio
 #EXTINF:-1 Radio Nichelino Comunità
 http://stream15.top-ix.org/radionichelino.m3u
 #EXTINF:-1 Radio Noise
@@ -1382,12 +1274,8 @@ http://nr9.newradio.it:9199/stream
 https://rn1.fluidstream.eu/rn1.mp3
 #EXTINF:-1 Radio Nuoro Centrale
 http://onair15.xdevel.com:8048/;stream.mp3
-#EXTINF:-1 Radio Nuoro Centrale
-http://onair15.xdevel.com:8048/;stream/1.mp3
 #EXTINF:-1 Radio Nuova
 http://players.fluidstream.net/radionuovamacerata.pls
-#EXTINF:-1 Radio Nuova San Giorgio
-http://eu1.fastcast4u.com:10942/listen.pls
 #EXTINF:-1 Radio Nuova Trieste
 http://s6.mediastreaming.it:9020/;stream.mp3
 #EXTINF:-1 Radio Off
@@ -1406,8 +1294,6 @@ http://onair18.xdevel.com:8052/;
 http://188.165.206.81:10050/stream
 #EXTINF:-1 Radio Onda d'Urto
 https://tito.urtostream.org:8443/radiondadurto.mp3
-#EXTINF:-1 Radio Onda Libera
-http://s6.mediastreaming.it:9064/stream
 #EXTINF:-1 Radio Onda Libera 103
 http://ice04.fluidstream.net/fluid0409.mp3
 #EXTINF:-1 Radio Onda Libera Gold
@@ -1418,8 +1304,6 @@ http://onair15.xdevel.com:8118/;stream.mp3
 http://onair20.xdevel.com:8098/;stream.mp3
 #EXTINF:-1 Radio Onda Rossa
 http://stream.auto.ondarossa.net/ondarossa.mp3
-#EXTINF:-1 Radio Onda Verde
-http://dreamsiteradiocp3.com:8050/stream
 #EXTINF:-1 Radio Onda Zero Web
 http://198.27.68.65:8053/;
 #EXTINF:-1 Radio Onde Furlane
@@ -1478,8 +1362,6 @@ https://s5.radio.co/sf025b6002/listen
 http://onair7.xdevel.com:7476/;
 #EXTINF:-1 Radio Popizz
 http://nr11.newradio.it:8116/;stream.mp3
-#EXTINF:-1 Radio Popolare
-http://livex.radiopopolare.it/radiopop
 #EXTINF:-1 Radio Poppiz
 http://nr11.newradio.it:8116/stream
 #EXTINF:-1 RADIO PRECISA I più trasmessi dal 1975 ad oggi
@@ -1540,8 +1422,6 @@ https://rrock.fluidstream.eu/radiorock_ita.mp3
 http://rrock.fluidstream.eu/radiorock.mp3
 #EXTINF:-1 Radio Rogna
 http://91.121.118.99:8185/stream
-#EXTINF:-1 Radio Roma
-https://nr9.newradio.it:19371/stream
 #EXTINF:-1 Radio Roma mobilità
 https://nr9.newradio.it:19021/stream?ext=.mp3
 #EXTINF:-1 Radio Romantica
@@ -1632,8 +1512,6 @@ https://sportiva.inmystream.it/stream/sportiva
 http://stream.radiomusic.net:8010/
 #EXTINF:-1 Radio StandBy - The Vintage Style
 http://188.165.206.81:9010/;
-#EXTINF:-1 Radio Start 1
-http://protostar.shoutca.st:8295/stream/
 #EXTINF:-1 Radio Start 1
 http://protostar.shoutca.st:8295/stream/
 #EXTINF:-1 Radio Stella
@@ -1810,8 +1688,6 @@ https://nr7.newradio.it:19353/stream
 http://51.254.76.66:8040/stream
 #EXTINF:-1 radiobiblia.online
 http://radiobiblia.online:8000/stream.ogg
-#EXTINF:-1 radiobiblia.online
-https://stream.radia.sk:9001/biblia-626
 #EXTINF:-1 Radiocitta' Fujico
 http://comodino.org:8001/rcf.mp3
 #EXTINF:-1 RADIOGAIA
@@ -1852,29 +1728,15 @@ http://radiobzlive.rai.it/RAI_AltoAdige
 http://icestreaming.rai.it/7.mp3
 #EXTINF:-1 Rai Isoradio
 https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S3822289/9T4F68Q3TT4m/icecast
-#EXTINF:-1 Rai Isoradio
-http://icestreaming.rai.it/6.mp3
 #EXTINF:-1 RAI OM
 http://icestreaming.rai.it/8.mp3
-#EXTINF:-1 Rai Radio 1
-http://icestreaming.rai.it/1.mp3
-#EXTINF:-1 Rai Radio 1
-http://icestreaming.rai.it/1.mp3
-#EXTINF:-1 Rai Radio 1
-http://icestreaming.rai.it/1.mp3
 #EXTINF:-1 Rai Radio 1
 http://icestreaming.rai.it/1.mp3
 #EXTINF:-1 Rai Radio 1 Sport
 http://icestreaming.rai.it/13.mp3
 #EXTINF:-1 Rai Radio 2
 http://icestreaming.rai.it/2.mp3
-#EXTINF:-1 Rai Radio 2
-http://icestreaming.rai.it/2.mp3
-#EXTINF:-1 Rai Radio 2
-http://icestreaming.rai.it/2.mp3
 #EXTINF:-1 RAI Radio 3
-http://icestreaming.rai.it/3.mp3
-#EXTINF:-1 Rai Radio 3
 http://icestreaming.rai.it/3.mp3
 #EXTINF:-1 Rai Radio 3
 http://icestreaming.rai.it/3.mp3
@@ -1890,8 +1752,6 @@ http://icestreaming.rai.it/9.mp3
 http://icestreaming.rai.it/4.mp3
 #EXTINF:-1 Rai Radio Tutta italiana
 http://icestreaming.rai.it/1.mp3
-#EXTINF:-1 Rai Radio Tutta italiana
-http://icestreaming.rai.it/4.mp3
 #EXTINF:-1 Rai Radio3Classica
 https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S53422322/bTdUFhYMnnra/icecast
 #EXTINF:-1 Rai RadioDue
@@ -2020,8 +1880,6 @@ https://icy.unitedradio.it/rmcweb003
 https://icy.unitedradio.it/RadioBAU.mp3
 #EXTINF:-1 RMC Radio Monte Carlo
 http://icecast.unitedradio.it/RMC.mp3
-#EXTINF:-1 RMC Radio Monte Carlo
-http://icecast.unitedradio.it/RMC.mp3
 #EXTINF:-1 RMC Romantic Rock
 http://edge.radiomontecarlo.net/rmcweb015
 #EXTINF:-1 RMC Running
@@ -2084,8 +1942,6 @@ https://rblive80.it/radiobrand2/8342
 http://nrf1.newradio.it:10346/stream
 #EXTINF:-1 sole
 https://radiosole-fellini.radioca.st/
-#EXTINF:-1 sole
-https://radiosole-fellini.radioca.st/
 #EXTINF:-1 SOUL RADIO
 https://listen.soulradio.it/it
 #EXTINF:-1 Spazio Radio
@@ -2094,8 +1950,6 @@ http://s3.mediastreaming.it:7190/;stream.mp3
 http://94.23.66.155:9250/srmhigh
 #EXTINF:-1 Station Italy
 http://stream.laut.fm/stationitaly
-#EXTINF:-1 Stella FM
-http://onair11.xdevel.com:8108/;stream.mp3
 #EXTINF:-1 Stereo Carpi
 http://stream.laut.fm/stereo
 #EXTINF:-1 Studio 54 Network
@@ -2195,8 +2049,6 @@ https://nr3.newradio.it:18100/stream
 #EXTINF:-1 Veneto Radio
 https://sr11.inmystream.it/proxy/paolo1?mp=/stream
 #EXTINF:-1 Venice Classic Radio
-https://uk2.streamingpulse.com/ssl/vcr1
-#EXTINF:-1 Venice Classic Radio Auditorium
 https://uk2.streamingpulse.com/ssl/vcr1
 #EXTINF:-1 Veronica My Radio
 http://players.fluidstream.net/veronica.pls

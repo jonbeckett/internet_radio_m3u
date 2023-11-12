@@ -1,9 +1,5 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations
-#EXTINF:-1 . Al quran radio 
-https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
-#EXTINF:-1 . Islam call 
-https://n0c.radiojar.com/59096z743d0uv?rj-ttl=5&rj-tok=AAABhd07tHIAJ2GRl2KNynaKow
 #EXTINF:-1 106,7 Rockklassiker
 http://tx-bauerse.sharp-stream.com/http_live.php?ua=WEB&i=rockklassiker_instream_se_mp3
 #EXTINF:-1 A & J
@@ -28,8 +24,6 @@ http://lyssna.fnf.nu:8080/radioboras.mp3
 http://lyssna.fnf.nu:8080/radioboras.mp3
 #EXTINF:-1 BozRadio
 http://streaming.live365.com/a80252
-#EXTINF:-1 Country Rocks Radio
-http://webradio.dbmedia.se/streams/crrMP3.pls
 #EXTINF:-1 Dagnys Jukebox
 https://www.dagnysjukebox.se/wp-content/uploads/listen.asx
 #EXTINF:-1 Dansbandsdax.se
@@ -100,8 +94,6 @@ http://polushon.com/arch/playlist.pls
 http://62.101.46.15:8000/poporock
 #EXTINF:-1 Power Club
 https://wr06-ice.stream.khz.se/wr06_mp3
-#EXTINF:-1 Power Hit Radio
-https://fm04-ice.stream.khz.se/fm04_mp3
 #EXTINF:-1 Puls FM Borås
 http://stream.pulsfm.se:8908/stream
 #EXTINF:-1 Puls FM Varberg
@@ -120,10 +112,6 @@ http://radio.fnf.nu/fnf.mp3
 http://webradio.radiofryksdalen.se:8000/RF_Live.m3u
 #EXTINF:-1 Radio Hope
 https://s2.radio.co/sfbf5f5b85/listen
-#EXTINF:-1 Radio Hope
-http://104.254.244.153/sfbf5f5b85/listen
-#EXTINF:-1 Radio Hope
-http://s2.radio.co/sfbf5f5b85/listen
 #EXTINF:-1 Radio Laholm
 http://stream.zeno.fm/tf8vczzxrg0uv
 #EXTINF:-1 Radio Nacka 99,9
@@ -148,8 +136,6 @@ https://s2.radio.co/sadf67c8ed/listen
 http://151.80.42.191:8252/;?1689860071314
 #EXTINF:-1 Retreat Radio
 http://retreatradio.out.airtime.pro:8000/retreatradio_b
-#EXTINF:-1 Rix FM
-http://fm01-ice.stream.khz.se/fm01_mp3
 #EXTINF:-1 Rix FM
 http://fm01-ice.stream.khz.se/fm01_mp3
 #EXTINF:-1 RIX FM Fresh
@@ -224,8 +210,6 @@ https://sverigesradio.se/topsy/direkt/204-hi-mp3.m3u
 https://http-live.sr.se/knattekanalen-mp3-192
 #EXTINF:-1 Sveriges Radio P1
 https://sverigesradio.se/topsy/direkt/132-hi-mp3.m3u
-#EXTINF:-1 Sveriges Radio P1
-https://sverigesradio.se/topsy/direkt/132-hi-mp3.m3u
 #EXTINF:-1 Sveriges radio P3 (mp3)
 https://sverigesradio.se/topsy/direkt/164-hi-mp3.m3u
 #EXTINF:-1 Sveriges Radio P4 Blekinge
@@ -242,7 +226,3 @@ https://http-live.sr.se/p4vasterbotten-mp3-192
 http://sverigesradio.se/topsy/direkt/132-hi-mp3.m3u
 #EXTINF:-1 The ERICADE Radio Network
 https://radio.ericade.net/sc/stream/1/
-#EXTINF:-1 The ERICADE Radio Network
-https://radio.ericade.net/sc/stream/1/
-#EXTINF:-1 Vinyl FM
-https://edge-bauerse-06-thn.sharp-stream.com/vinylfm_instream_se_mp3?

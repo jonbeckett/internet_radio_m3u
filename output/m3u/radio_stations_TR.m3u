@@ -2,8 +2,6 @@
 #PLAYLIST:Internet Radio Stations
 #EXTINF:-1  GİMSA RADYO
 http://yayin1.canliyayin.org:9482/stream
-#EXTINF:-1 . Islam call 
-https://n0c.radiojar.com/59096z743d0uv?rj-ttl=5&rj-tok=AAABhd07tHIAJ2GRl2KNynaKow
 #EXTINF:-1 .Al quran radio 
 https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
 #EXTINF:-1 06 FM Arabesk
@@ -68,10 +66,6 @@ https://anadolu.liderhost.com.tr:10961/;
 http://channels.dinamo.fm/caffe-mp3
 #EXTINF:-1 dinamo.fm deep
 http://channels.dinamo.fm/deep-mp3
-#EXTINF:-1 dinamo.fm deep
-http://channels.dinamo.fm/deep-mp3
-#EXTINF:-1 dinamo.fm deep
-http://channels.dinamo.fm/deep-mp3
 #EXTINF:-1 dinamo.fm discotheque
 http://channels.dinamo.fm/discotheque-mp3
 #EXTINF:-1 dinamo.fm fluent
@@ -80,10 +74,6 @@ http://channels.dinamo.fm/fluent-mp3
 http://channels.dinamo.fm/legacy-mp3
 #EXTINF:-1 dinamo.fm locodyno
 http://channels.dinamo.fm/locodyno-mp3
-#EXTINF:-1 dinamo.fm sleep
-http://channels.dinamo.fm/sleep-mp3
-#EXTINF:-1 dinamo.fm sleep
-http://channels.dinamo.fm/sleep-mp3
 #EXTINF:-1 dinamo.fm sleep
 http://channels.dinamo.fm/sleep-mp3
 #EXTINF:-1 dinamo.fm smog
@@ -102,8 +92,6 @@ http://yayin1.radyohizmeti.com:8585/;
 http://yayin2.canliyayin.org:7052/;*.mp3
 #EXTINF:-1 Engelliler radyo
 https://stream.zeno.fm/iuqovax9ftsvv
-#EXTINF:-1 Erkam Radyo
-https://api-tv5.yayin.com.tr:8002/mp3
 #EXTINF:-1 Erkam Radyo
 https://api-tv5.yayin.com.tr:8002/mp3
 #EXTINF:-1 Erzincan Nostalji
@@ -206,8 +194,6 @@ https://tsm.mamasfm.com:5000/stream.mp3
 https://stream.guventechnology.com:2020/stream/radyomarin
 #EXTINF:-1 Max Fm 95.8 ‘Maximum Music' 
 https://maxfm.radyotvonline.net/stream/164/;
-#EXTINF:-1 Max Fm 95.8 ‘Maximum Music' 
-https://maxfm.radyotvonline.net/stream/164/;
 #EXTINF:-1 MaxFM
 http://live.radyotvonline.com:8090/;
 #EXTINF:-1 Med Radyo
@@ -224,8 +210,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_SC?
 https://ssl.radyopanel.com:7001/
 #EXTINF:-1 NRG Türk
 https://scserv.nrgplay.com/stream/2/;
-#EXTINF:-1 NTV Radyo
-http://ntvrdwmp.radyotvonline.com/
 #EXTINF:-1 Onur Radyo
 http://anadolu.liderhost.com.tr:8094/
 #EXTINF:-1 oyunpiyat
@@ -308,14 +292,10 @@ https://radio.guventechnology.com/9994/stream
 https://live.radyositesihazir.com/8078/stream
 #EXTINF:-1 Radyo Slow Time
 http://46.20.7.103:8040/;
-#EXTINF:-1 Radyo Spor
-http://46.20.4.5:8170/
 #EXTINF:-1 Radyo Taksi
 https://live.radyo.in/8006/stream
 #EXTINF:-1 Radyo Vatan Türkü
 http://95.0.173.195:9000/turku
-#EXTINF:-1 Radyo Voyage
-http://voyagewmp.radyotvonline.com/
 #EXTINF:-1 RADYO VOYAGE
 http://voyagewmp.radyotvonline.com/;
 #EXTINF:-1 Radyo Voyage
@@ -364,14 +344,8 @@ http://radyo.turkuradyo.net:4591/listen.pls
 http://37.247.98.8/listen.pls?sid=22
 #EXTINF:-1 Vaaz Radyosu 
 https://radyo.imzamedya.web.tr/8006/stream
-#EXTINF:-1 Virgin Radio Türkiye
-http://provisioning.streamtheworld.com/pls/VIRGIN_RADIO.pls
 #EXTINF:-1 Yeni Radyo Nostaljinin Sesi 
 https://eu9.fastcast4u.com/tunein/eskininadami.pls
-#EXTINF:-1 Yeni Radyo Nostaljinin Sesi 
-https://eu9.fastcast4u.com/tunein/eskininadami.pls
-#EXTINF:-1 Yön Radyo
-https://stream.radyolarburada.com/radio/8020/yonradyo
 #EXTINF:-1 Yön Radyo
 https://stream.radyolarburada.com/radio/8020/yonradyo
 #EXTINF:-1 اذاعة القرآن الكريم 🇹🇷

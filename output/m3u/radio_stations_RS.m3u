@@ -1,7 +1,5 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations
-#EXTINF:-1 100% Radio
-http://falcon.shoutca.st:8531/stream
 #EXTINF:-1 Active Radio Bečej
 http://active96-naxinacional.streaming.rs:8555/
 #EXTINF:-1 Ami Naxi Radio Kikinda
@@ -32,8 +30,6 @@ http://streaming.orion.rs:8030/
 http://bumbum-stream.netlogic.rs:8000/listen.pls
 #EXTINF:-1 Čivijaš Radio
 https://media.srb-streaming.com/tunein/radio-civijas/stream/pls
-#EXTINF:-1 Cool Radio
-http://176.9.30.66/cool64
 #EXTINF:-1 Cool Radio Serbia
 http://live.coolradio.rs/cool320
 #EXTINF:-1 Dasko i Mladja
@@ -102,8 +98,6 @@ https://naxidigital-hype128ssl.streaming.rs:8272/;stream.nsv
 https://naxidigital-80s128ssl.streaming.rs:8042/;
 #EXTINF:-1 Naxi 90s
 https://naxidigital-90s128ssl.streaming.rs:8282/;stream.nsv
-#EXTINF:-1 Naxi Adore
-https://naxidigital-adore128ssl.streaming.rs:8332/;stream.nsv
 #EXTINF:-1 Naxi Adore
 https://naxidigital-adore128ssl.streaming.rs:8332/;stream.nsv
 #EXTINF:-1 Naxi Blues
@@ -180,8 +174,6 @@ https://s5.voscast.com:10151/stream?fbclid=IwAR1UV8jq3TBf4TS2YoPkrOo9_EnqAWRm8yU
 https://s5.voscast.com:10151/stream
 #EXTINF:-1 ObNeob
 https://s5.voscast.com:10151/stream
-#EXTINF:-1 ObNeob
-https://s5.voscast.com:10151/stream
 #EXTINF:-1 Op Top Radio
 http://213.239.205.210:8112/;
 #EXTINF:-1 Pannon Rádió
@@ -214,10 +206,6 @@ http://server4p.com:8002/stream
 http://server4p.com/8012/stream
 #EXTINF:-1 Radio Ada 107,7
 http://94.130.196.243:9010/stream
-#EXTINF:-1 Radio Antena
-http://antena.topstream.net:19322/;
-#EXTINF:-1 Radio Aparat
-http://ca3.rcast.net:8060/;stream.mp3;
 #EXTINF:-1 Radio Apatin
 http://apatin96-naxinacional.streaming.rs:8500/listen.pls
 #EXTINF:-1 Radio As
@@ -260,8 +248,6 @@ http://213.239.205.210:6010/listen.pls
 http://213.239.205.210:6010/;stream.nsv
 #EXTINF:-1 Radio DAK
 http://85.25.73.243:10150/listen.pls
-#EXTINF:-1 Radio Delta
-https://mastermedia.shoutca.st/proxy/delta?mp=/stream
 #EXTINF:-1 Radio Delta 31
 https://cast4.asurahosting.com/proxy/dejan/stream
 #EXTINF:-1 Radio Desetka
@@ -276,10 +262,6 @@ http://109.206.96.34:8575/;stream.nsv
 https://stream.iradio.pro/proxy/radiofruskagora?mp=/stream
 #EXTINF:-1 radio gaga
 https://onlineradiobox.com/json/rs/gaga/play?platform=web
-#EXTINF:-1 Radio Gračanica
-http://188.40.95.74:8012/;
-#EXTINF:-1 Radio In
-https://radioinnis-naxinacional.streaming.rs:8622/;
 #EXTINF:-1 Radio IN Beograd
 https://radio3-64ssl.streaming.rs:9212/;*.mp3
 #EXTINF:-1 Radio Javor
@@ -288,8 +270,6 @@ http://javor.streaming.rs:9320/
 http://javor.streaming.rs:9320/;
 #EXTINF:-1 Radio K4
 http://fm.radiokfor.com:8090/listen.pls
-#EXTINF:-1 Radio K4
-http://fm.radiokfor.com:8090/;stream.nsv
 #EXTINF:-1 Radio Karolina - Classic hits 80′ 90′
 http://streaming.karolina.rs/classics.mp3
 #EXTINF:-1 Radio Klas
@@ -342,14 +322,8 @@ https://cmr-hosting.com:7021/;
 http://as.q-media.rs:8000/mp3
 #EXTINF:-1 Radio Levač
 http://213.239.205.210:8046/
-#EXTINF:-1 Radio Levač
-http://213.239.205.210:8046/index.html/
-#EXTINF:-1 Radio Levač
-http://213.239.205.210:8046/index.html/
 #EXTINF:-1 Radio Ljubav
 http://ljubav.streaming.rs:9340/listen.pls
-#EXTINF:-1 Radio Lola
-http://s2.tdiradio.com:8000/radiolola.mp3
 #EXTINF:-1 Radio Lola - Domaca
 https://streaming.tdiradio.com/radiolola.mp3
 #EXTINF:-1 Radio Mačkica
@@ -392,8 +366,6 @@ http://213.239.205.210:8001/stream
 https://s4.radio.co/s0f65dad2d/listen
 #EXTINF:-1 Radio Rodna Gruda
 http://live.radiorodnagruda.net:9203/;stream.nsv
-#EXTINF:-1 Radio S
-http://live.radio.si/radios
 #EXTINF:-1 Radio San Loznica
 https://s1.skeletor.rs/san
 #EXTINF:-1 Radio Saška
@@ -402,16 +374,10 @@ http://176.9.59.144:8056/;
 http://185.119.89.63:8000/;
 #EXTINF:-1 Radio Slavoslovlje
 http://radio.eparhijabacka.info:8000/RadioSlavoslovlje
-#EXTINF:-1 Radio Slavoslovlje
-http://170.249.196.82:8000/;stream.nsv
 #EXTINF:-1 Radio Sljivovica
 http://stream.iradio.pro:8114/;stream.nsv
-#EXTINF:-1 Radio Slobodna Evropa
-http://rfe05.akacast.akamaistream.net/7/510/437763/v1/ibb.akacast.akamaistream.net/rfe05?download=1
 #EXTINF:-1 Radio Slovo Ljubve
 http://160.153.245.85:8000/
-#EXTINF:-1 Radio Slovo Ljubve
-http://160.153.245.85:8000/stream/1/;*.mp3
 #EXTINF:-1 Radio Song Niš
 http://stream.zeno.fm/wn6rxh42czzuv
 #EXTINF:-1 Radio Srce Krajine
@@ -432,14 +398,10 @@ https://media.srb-streaming.com/stream/radio-sumadinac-narodna
 http://cmr-hosting.com:8425/stream
 #EXTINF:-1 Radio Tavor
 http://radio.eparhijabacka.info:8000/RadioTavor
-#EXTINF:-1 Radio Tavor
-http://radio.eparhijabacka.info:8000/RadioTavor
 #EXTINF:-1 Radio Una
 http://shnpdecct1.dihostnet.com:8047/stream
 #EXTINF:-1 Radio Užice
 http://uzice.yunethosting.net:8000/stream
-#EXTINF:-1 Radio VIP
-http://vip128.streaming.rs:8110/listen.pls
 #EXTINF:-1 Radio Vladimirci
 http://icecast.astratelekom.com:8000/vladimirci
 #EXTINF:-1 Radio Zelengrad - Milwaukee - USA
@@ -478,8 +440,6 @@ http://176.9.59.144:8056/listen.pls
 https://ria.icecast.nowcdn.co/voicesrb
 #EXTINF:-1 Sun Radio Novi Sad
 http://stream.radiojar.com/4qawu2xta2zuv.mp3
-#EXTINF:-1 Super FM
-http://onair.superfm.rs/superfm.mp3
 #EXTINF:-1 Super FM Beograd
 https://onair.superfm.rs/superfm.mp3
 #EXTINF:-1 Szabadkai Magyar Rádió

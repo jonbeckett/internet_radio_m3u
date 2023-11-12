@@ -38,8 +38,6 @@ https://christmasfm.cdnstream1.com/2547_128.mp3?listenerId=esTrackblock097016&aw
 https://eu4.fastcast4u.com/proxy/cowlradio?mp=/1
 #EXTINF:-1 Clare FM
 http://edge.audioxi.com/CLAREFM
-#EXTINF:-1 Clare FM
-http://edge.audioxi.com/CLAREFM
 #EXTINF:-1 Classic Dance Hitz
 http://streams.radio.co/s7a933605c/listen
 #EXTINF:-1 Classic Hits 4FM
@@ -78,8 +76,6 @@ http://streams.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900
 https://rocafmadrid.radioca.st/stream
 #EXTINF:-1 Freedom FM
 https://edge3.audioxi.com/FREEDOMFM
-#EXTINF:-1 Funky Ass Tunes
-http://ams1.reliastream.com:7046/funkyasstunes
 #EXTINF:-1 Funky Ass Tunes
 http://ams1.reliastream.com:7046/funkyasstunes
 #EXTINF:-1 Galway Bay FM
@@ -192,8 +188,6 @@ http://icecast2.rte.ie/ie2fm
 https://www.rte.ie/manifests/lyric.m3u
 #EXTINF:-1 RTÉ lyric fm
 http://icecast.rte.ie/lyric
-#EXTINF:-1 RTÉ Radio 1
-http://icecast.rte.ie/radio1
 #EXTINF:-1 RTE1
 http://icecast.rte.ie/radio1
 #EXTINF:-1 Shannonside

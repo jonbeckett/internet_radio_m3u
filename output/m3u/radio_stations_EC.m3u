@@ -2,12 +2,8 @@
 #PLAYLIST:Internet Radio Stations
 #EXTINF:-1 Amena radio
 https://srv.amenaradio.com.es/listen/amena-radio/stream
-#EXTINF:-1 Amena radio
-https://srv.amenaradio.com.es/listen/amena-radio/stream
 #EXTINF:-1 Amistad fm
 https://radio.serviciosderadio.com/listen/amistadfm/radio.mp3
-#EXTINF:-1 Capradio
-https://streamer.eagrpservices.com/audio/capradio.mp3
 #EXTINF:-1 Capradio
 https://streamer.eagrpservices.com/audio/capradio.mp3
 #EXTINF:-1 Contigo Fm
@@ -42,16 +38,12 @@ https://streamingecuador.com:7030/stream?1657848016283
 http://stream.zeno.fm/wyr2sxuito5vv
 #EXTINF:-1 Radio Canela Pichincha
 https://ecuadorstreaming.net:9280/stream
-#EXTINF:-1 Radio Canela Pichincha
-https://canelaradio.makrodigital.com:9280/stream
 #EXTINF:-1 Radio Corazón de Jesús FM 
 http://stream.zeno.fm/cu68600hswzuv
 #EXTINF:-1 Radio Cristal 870 AM
 https://streaming.ecuastreaming.com/9958/stream
 #EXTINF:-1 Radio Fuego 106.5 FM
 https://streamingecuador.net:8005/radiofuego.m3u
-#EXTINF:-1 Radio Gitana 94.9 FM
-https://s7.yesstreaming.net:8078/live
 #EXTINF:-1 Radio Gitana 94.9 FM
 https://s7.yesstreaming.net:8078/live
 #EXTINF:-1 Radio HCJB German
@@ -62,8 +54,6 @@ https://streamingecuador.net:8020/lacholafm.m3u
 https://usa3.lhdserver.es:8259/stream
 #EXTINF:-1 Radio Mágica 87.7 (Ecuador)
 https://usa10.fastcast4u.com:1680/;?type=http&nocache=1683302387
-#EXTINF:-1 Radio Mágica 87.7 (Ecuador)
-https://usa10.fastcast4u.com:1680/;?type=http&nocache=1683305161
 #EXTINF:-1 Radio Magica 87.7 (Ecuador)
 http://usa10.fastcast4u.com:1680/
 #EXTINF:-1 Radio Maria (Cuenca)
@@ -92,8 +82,6 @@ http://aler.org:8000/radiosucumbios.mp3
 http://streamingecuador.com:8002/radiosupersol
 #EXTINF:-1 RADIO VALLE FM
 http://stream.zeno.fm/veu31437sm0uv
-#EXTINF:-1 RADIO VALLE FM
-https://stream-152.zeno.fm/veu31437sm0uv?zs=XGDQvsPmRX-Q-AFSbnseBg
 #EXTINF:-1 Somos Radio Familia 96.9
 https://cloudstream2030.conectarhosting.com/8206/;
 #EXTINF:-1 Super Rock FM 949
@@ -104,7 +92,5 @@ https://ssl.nexuscast.com:8043/;
 http://stream.zeno.fm/zy7aqxp4q98uv
 #EXTINF:-1 UTC Radio FM
 https://radio.cedia.org.ec/utc-radio
-#EXTINF:-1 Virgen de Guadalupe Radio
-http://stream.zeno.fm/9f0rk1re508uv
 #EXTINF:-1 Virgen de Guadalupe Radio
 http://stream.zeno.fm/9f0rk1re508uv

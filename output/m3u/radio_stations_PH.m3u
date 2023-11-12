@@ -6,8 +6,6 @@ https://loveradiolucena.radioca.st/
 http://www.bigsoundfm.com:2199/tunein/dwwgtoa.pls
 #EXTINF:-1 101.7 Your Love FM
 https://radio.1017yourlovefm.com:8054/stream.mp3
-#EXTINF:-1 101.7 Your Love FM
-https://www.chloreign.com:8054/stream.mp3
 #EXTINF:-1 101.9 Zagitsit News FM Legazpi
 https://stream.zeno.fm/n247mp8smd0uv.pls
 #EXTINF:-1 102.9 Brigada news FM Daet 
@@ -32,14 +30,10 @@ http://icecast.eradioportal.com:8000/febc_dzas
 http://143.44.245.11:8080/895subicbay.mp3
 #EXTINF:-1 89.5 The Playroom
 https://s1.voscast.com:10227/stream
-#EXTINF:-1 89.5 The Playroom
-https://s1.voscast.com:10227/stream
 #EXTINF:-1 90.7 Birada Fm Claver
 https://stream.zeno.fm/srw89vzrmgiuv
 #EXTINF:-1 90s Pinoy Alternative
 https://cast3.my-control-panel.com/stream/ronald/stream.pls
-#EXTINF:-1 90s Pinoy Alternative
-http://cast3.my-control-panel.com:9364/autodj
 #EXTINF:-1 93.7 Radyo Serbato - San Francisco Agusan Del Sur
 https://stream.zeno.fm/unepz3nt3qltv.pls
 #EXTINF:-1 93.9 FM RADYO WARAYNON Live Broadcast
@@ -90,14 +84,10 @@ https://us1.amfmph.com/proxy/iceshout?mp=/mp96&1689430709317
 http://us1.amfmph.com:8005/stream
 #EXTINF:-1 AXR Manila
 http://provisioning.streamtheworld.com/pls/AXR.pls
-#EXTINF:-1 AXR Manila
-http://provisioning.streamtheworld.com/pls/AXR_MANILA.pls
 #EXTINF:-1 Bai Radio Dumaguete
 https://stream.zeno.fm/rcxqmh3mm08tv
 #EXTINF:-1 Bantay Radyo Cebu
 https://de3.amfmph.com:2199/tunein/bantayradyo-stream.pls
-#EXTINF:-1 Beat FM
-https://securestreams2.autopo.st:1242/live
 #EXTINF:-1 BIBLE RADIO
 https://stream.radio.co/se9de95c10/listen
 #EXTINF:-1 Bisaya Online Radio
@@ -112,8 +102,6 @@ http://s7.viastreaming.net:8390/
 https://bacolodstream.brigadanews.ph/
 #EXTINF:-1 Brigada News FM Batangas
 https://batangasstream.brigadanews.ph/
-#EXTINF:-1 Brigada News FM Batangas
-https://cagayanstream.brigadanews.ph/
 #EXTINF:-1 Brigada News FM Bogo
 https://bogostream.brigadanews.ph/
 #EXTINF:-1 Brigada News FM Butuan
@@ -122,22 +110,16 @@ https://butuanstream.brigadanews.ph/
 https://cagayanstream.brigadanews.ph/
 #EXTINF:-1 Brigada News FM Capiz
 http://18.141.67.248:8076/stream
-#EXTINF:-1 Brigada News FM Capiz
-http://18.141.67.248:8076/stream
 #EXTINF:-1 Brigada News FM Cauayan
 https://cauayanstream.brigadanews.ph/
 #EXTINF:-1 Brigada News FM Cebu
 https://cebustream.brigadanews.ph/
 #EXTINF:-1 Brigada News FM Cotabato
 https://cotabatostream.brigadanews.ph/
-#EXTINF:-1 Brigada News FM Cotabato
-https://cotabatostream.brigadanews.ph/
 #EXTINF:-1 Brigada News FM Dumaguete
 https://dumaguetestream.brigadanews.ph/
 #EXTINF:-1 Brigada News FM Gensan
 https://gensanstream.brigadanews.ph/
-#EXTINF:-1 Brigada News FM Iligan
-https://iliganstream.brigadanews.ph/
 #EXTINF:-1 Brigada News FM Iligan
 https://iliganstream.brigadanews.ph/
 #EXTINF:-1 Brigada News FM Kabankalan
@@ -150,8 +132,6 @@ https://kidapawanstream.brigadanews.ph/
 https://koronadalstream.brigadanews.ph/
 #EXTINF:-1 Brigada News FM Lebak 
 https://lebakstream.brigadanews.ph/
-#EXTINF:-1 Brigada News FM Lucena
-https://batangasstream.brigadanews.ph/
 #EXTINF:-1 Brigada News FM Mati
 https://matistream.brigadanews.ph/
 #EXTINF:-1 Brigada News FM Mega Manila
@@ -212,8 +192,6 @@ https://23733.live.streamtheworld.com/DZMM_SC
 http://magikfm.live/public/magikfm_94.1_-_vigan/playlist.pls
 #EXTINF:-1 DWXI 1314
 https://ph-icecast-win.eradioportal.com:8443/dwxi-streaming
-#EXTINF:-1 DWXI 1314
-https://ph-icecast-win.eradioportal.com:8443/dwxi-streaming
 #EXTINF:-1 DXBH 103.7FM
 https://stream.dxbh.net/main_mp3
 #EXTINF:-1 DXKI Strong Radio Cagayan de Oro
@@ -256,10 +234,6 @@ http://111.125.87.226:8000/streamam
 http://s5.radio.co/s49bbdfa2a/listen
 #EXTINF:-1 Easy Rock Bacolod
 https://easyrockbacolod.radioca.st/listen.pls?sid=1
-#EXTINF:-1 Easy Rock Bacolod
-http://easyrockbacolod.radioca.st/listen.pls?sid=1
-#EXTINF:-1 Easy Rock Baguio
-http://easyrockbaguio.radioca.st:8274/stream
 #EXTINF:-1 Easy Rock Baguio
 http://easyrockbaguio.radioca.st:8274/stream
 #EXTINF:-1 Easy Rock Boracay
@@ -280,8 +254,6 @@ http://stream.zeno.fm/yy2r0qcskrhvv
 https://stream.zeno.fm/03v7z8edgphvv.mp3
 #EXTINF:-1 Energy FM Dagupan
 http://sg-icecast.eradioportal.com:8000/energy_dagupan
-#EXTINF:-1 Energy FM Dagupan
-https://sg-icecast.eradioportal.com:8443/energy_dagupan
 #EXTINF:-1 Energy FM Dumaguete
 http://158.69.227.214:8014/listen.pls
 #EXTINF:-1 FilAm Stream Radio
@@ -304,8 +276,6 @@ https://stream.dxbh.net/hopedxma
 https://cast3.asurahosting.com/proxy/istreamo/stream:8499/;stream.mp3
 #EXTINF:-1 iFM Bacolod
 http://freeuk22.listen2myradio.com:33665/stream
-#EXTINF:-1 iFM Dagupan
-http://icecast.eradioportal.com:8000/ifm_dagupan
 #EXTINF:-1 iFM Dagupan
 http://icecast.eradioportal.com:8000/ifm_dagupan
 #EXTINF:-1 iFM Iloilo 95.1
@@ -344,14 +314,10 @@ https://loveradiodavao.radioca.st:2199/tunein/loveradiodavao-stream.pls
 http://loveradiogensan.radioca.st/listen.pls
 #EXTINF:-1 Love Radio Iloilo
 http://loveradioiloilo.radioca.st/listen.pls
-#EXTINF:-1 Love Radio Iloilo
-http://loveradioiloilo.radioca.st/listen.pls
 #EXTINF:-1 Love Radio Kalibo
 http://loveradiokalibo.radioca.st/listen.pls?sid=1
 #EXTINF:-1 Love Radio Koronadal
 http://lovekoronadal.radioca.st/listen.pls?sid=1
-#EXTINF:-1 Love Radio Koronadal
-https://lovekoronadal.radioca.st/listen.pls?sid=1
 #EXTINF:-1 Love Radio La Union
 http://loveradiolaunion.radioca.st/listen.pls?sid=1
 #EXTINF:-1 Love Radio Laoag
@@ -362,8 +328,6 @@ https://loveradiolegaspi.radioca.st/listen.pls
 http://loveradiolucena.radioca.st:8158/stream
 #EXTINF:-1 Love Radio Malaybalay
 https://lovemalaybalay.radioca.st/listen.pls?sid=1
-#EXTINF:-1 Love Radio Malaybalay
-https://lovemalaybalay.radioca.st/listen.pls
 #EXTINF:-1 Love Radio Manila
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOVERADIO_MNL.mp3
 #EXTINF:-1 Love Radio Naga
@@ -372,12 +336,6 @@ http://loveradionaga.radioca.st:8070/stream
 https://loveradiopalawan.radioca.st/listen.pls
 #EXTINF:-1 Love Radio Roxas
 http://loveradioroxas.radioca.st:8216/stream
-#EXTINF:-1 Love Radio Roxas
-http://loveradioroxas.radioca.st:8216/stream
-#EXTINF:-1 Love Radio Santiago
-http://lovesantiago.radioca.st:8832/stream
-#EXTINF:-1 Love Radio Santiago
-https://lovesantiago.radioca.st/listen.pls
 #EXTINF:-1 Love Radio Santiago
 http://lovesantiago.radioca.st:8832/stream
 #EXTINF:-1 Love Radio Santiago (M3U)
@@ -396,10 +354,6 @@ https://stream.zeno.fm/sh37pvfd938uv
 https://magic.radioca.st:2199/tunein/magic-stream.pls
 #EXTINF:-1 Magic107 Stream
 https://magic.radioca.st:2199/tunein/magic-stream.pls
-#EXTINF:-1 Magic107 Stream
-https://magic.radioca.st:2199/tunein/magic-stream.pls
-#EXTINF:-1 Magik FM Butuan
-http://magikfm.live:8130/stream
 #EXTINF:-1 Magik FM Butuan
 http://magikfm.live:8130/stream
 #EXTINF:-1 Magik FM Cauayan
@@ -430,8 +384,6 @@ https://server10.reliastream.com:2199/tunein/primaxbr.pls
 http://s5.reliastream.com:7134/stream/1/
 #EXTINF:-1 Monster BT 105.9 Cebu
 http://sg-icecast.eradioportal.com:8000/rxcebu
-#EXTINF:-1 Monster BT 105.9 Cebu
-http://sg-icecast.eradioportal.com:8000/rxcebu
 #EXTINF:-1 Monster BT 99.5 Davao
 http://sg-icecast.eradioportal.com:8000/monsterrx_davao
 #EXTINF:-1 Monster Radio RX93.1
@@ -450,8 +402,6 @@ http://ais-edge50-live365-dal02.cdnstream.com/a63316
 http://provisioning.streamtheworld.com/pls/MYXFM.pls
 #EXTINF:-1 MYX Radio
 http://ice55.securenetsystems.net/DASH62
-#EXTINF:-1 MYX Radio
-https://ice55.securenetsystems.net/DASH62
 #EXTINF:-1 MYX Radio Live365
 https://streaming.live365.com/a31881
 #EXTINF:-1 OK-FM Legazpi
@@ -460,8 +410,6 @@ http://server10.reliastream.com/proxy/pbnbroa6?mp=/xstream
 https://mercury.reliastream.com/proxy/broadte3?mp=/;
 #EXTINF:-1 OK-FM Sorsogon
 https://s3.reliastream.com/proxy/jolocs03?mp=/;
-#EXTINF:-1 OK-FM Sorsogon
-http://206.190.130.182:8006/;
 #EXTINF:-1 One FM PH
 http://122.3.31.246:88/broadwave.mp3
 #EXTINF:-1 One Radio Christmas
@@ -484,10 +432,6 @@ https://stream.zeno.fm/amx5h6ev1reuv.pls
 http://dreamsiteradiocp.com:8028/stream
 #EXTINF:-1 Radio Maria Philippines 
 https://dreamsiteradiocp2.com/proxy/rmphilippine?mp=/stream?ver=748140
-#EXTINF:-1 Radio Maria Philippines 
-https://dreamsiteradiocp2.com/proxy/rmphilippine?mp=/stream?ver=748140
-#EXTINF:-1 Radio Maria Philippines 
-http://dreamsiteradiocp2.com:2199/tunein/rmphilippine-stream.pls
 #EXTINF:-1 RadioFilipinoUSA.com - Love songs & more !
 http://s10.voscast.com:9808/
 #EXTINF:-1 Radiopilipinas.com
@@ -502,8 +446,6 @@ https://stream.zeno.fm/4a76rpgscfhvv.pls
 https://stream.zeno.fm/m8ndatmnefhvv.pls
 #EXTINF:-1 Radyo Bandera Central Luzon
 http://freeuk27.listen2myradio.com:9635/listen.pls
-#EXTINF:-1 Radyo Bandera Tandag
-https://s9.voscast.com:9217/stream
 #EXTINF:-1 Radyo Bandera Tandag
 https://s9.voscast.com:9217/stream
 #EXTINF:-1 Radyo Boholano FM Online
@@ -570,8 +512,6 @@ http://67.212.238.178:7007/listen.pls
 http://stream.zeno.fm/st932y9xs98uv
 #EXTINF:-1 Tee Radio
 https://stream.zeno.fm/7neg6f1hbm0uv
-#EXTINF:-1 Teleradyo Serbisyo
-https://provisioning.streamtheworld.com/pls/DZMM.pls
 #EXTINF:-1 True Life in God Radio Filipino
 https://stream.tligradio.org/listen/filipino/radio.mp3
 #EXTINF:-1 UP987. DYFR-FM “Life-changing” Cebu City
@@ -602,22 +542,14 @@ https://edge.mixlr.com/channel/lldmm
 https://edge.mixlr.com/channel/lldmm
 #EXTINF:-1 Yes The Best Boracay
 https://yesfmboracay.radioca.st/listen.pls?sid=1
-#EXTINF:-1 Yes The Best Boracay
-http://yesfmboracay.radioca.st/listen.pls?sid=1
 #EXTINF:-1 Yes The Best Cagayan de Oro
 http://yesfmcdo.radioca.st/listen.pls?sid=1
-#EXTINF:-1 Yes The Best Cagayan de Oro
-https://yesfmcdo.radioca.st/listen.pls?sid=1
-#EXTINF:-1 Yes The Best Cauayan
-http://yesfmcauayan.radioca.st:9933/stream
 #EXTINF:-1 Yes The Best Cauayan
 http://yesfmcauayan.radioca.st:9933/stream
 #EXTINF:-1 Yes The Best Cebu
 http://yesfmcebu.radioca.st:2199/tunein/yesfmcebu-stream.pls
 #EXTINF:-1 Yes The Best Dagupan
 http://yesfmdagupan.radioca.st/listen.pls?sid=1
-#EXTINF:-1 Yes The Best Dagupan
-https://yesfmdagupan.radioca.st/listen.pls
 #EXTINF:-1 Yes The Best Dumaguete
 https://yesfmdumaguete.radioca.st/listen.pls
 #EXTINF:-1 Yes The Best Iligan
@@ -628,7 +560,5 @@ https://22243.live.streamtheworld.com/YESTHEBEST_MNL.mp3
 https://yesfmvalencia.radioca.st/listen.pls
 #EXTINF:-1 Yes The Best Zamboanga
 https://yesfmzamboanga.radioca.st/listen.pls
-#EXTINF:-1 Yes The Best Zamboanga
-http://yesfmzamboanga.radioca.st/listen.pls?sid=1
 #EXTINF:-1 Zagitsit News Fm Legazpi
 https://stream.zeno.fm/n247mp8smd0uv

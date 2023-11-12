@@ -1,7 +1,5 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations
-#EXTINF:-1 105.4 Cascais - O Rock da Linha
-https://play.radioregional.pt:8220/stream/2/;;/stream.mp3
 #EXTINF:-1 4Drive Jazz
 http://radio.streemlion.com:1150/stream
 #EXTINF:-1 80ROCK
@@ -32,10 +30,6 @@ http://radiocast.rtp.pt/antena2opera80a.mp3
 http://s1.nexuscast.com:8135/;
 #EXTINF:-1 Basspoint FM
 http://cast.evsportugal.com:8014/autodj
-#EXTINF:-1 BBN Portuguese
-http://stream2.bbnradio.org:8000/portuguese
-#EXTINF:-1 Canal FM
-http://centova.radio.com.pt:9466/;
 #EXTINF:-1 Cantinho dos Emigrantes
 https://cast.redewt.net:9825/stream
 #EXTINF:-1 Caria - Rádio Natal 
@@ -48,8 +42,6 @@ http://centova.radio.com.pt:9460/;
 http://centova.radios.pt:8425/;listen.pls
 #EXTINF:-1 Emissora das Beiras
 https://centova.radio.com.pt/proxy/465?mp=/stream
-#EXTINF:-1 Emissora das Beiras
-http://centova.radio.com.pt:8465/;
 #EXTINF:-1 Engenharia Rádio
 http://engradio.fe.up.pt:8080/live?type=.mp3
 #EXTINF:-1 Estação Diária
@@ -72,8 +64,6 @@ http://centova.radio.com.pt:9436/;
 http://centova.radio.com.pt:8529/;
 #EXTINF:-1 jovembsk
 https://stream-42.zeno.fm/ppgb4k7vhqztv?zs=c_kj97VBTyuKVVdB2EEdEg
-#EXTINF:-1 jovembsk
-https://stream-54.zeno.fm/ppgb4k7vhqztv?zs=16hfH25BROGMPgJQytuZKg
 #EXTINF:-1 jovembsk mix
 http://stream.zeno.fm/4nc1mzdp81xuv
 #EXTINF:-1 JOVEMBSK MIX
@@ -92,8 +82,6 @@ https://radio.streemlion.com:4515/stream
 https://sp0.redeaudio.com/8028/stream/
 #EXTINF:-1 Onda Nacional
 https://cast.redewt.net:9823/stream
-#EXTINF:-1 Orbital
-https://ec2.yesstreaming.net:3025/stream
 #EXTINF:-1 ORBITAL
 http://centova.radios.pt:8401/;listen.pls
 #EXTINF:-1 Orbital Rádio
@@ -104,8 +92,6 @@ http://centova.radio.com.pt:9422/
 http://centova.radio.com.pt:9426/;
 #EXTINF:-1 Posto Emissor do Funchal OM
 https://centova.radio.com.pt/proxy/422?mp=/stream;
-#EXTINF:-1 Posto Emissor do Funchal OM
-http://centova.radio.com.pt:9422/stream
 #EXTINF:-1 Rádio 5
 https://radios.justweb.pt/8042/stream
 #EXTINF:-1 Radio 94 FM
@@ -200,8 +186,6 @@ http://centova.radios.pt:8559/listen.pls?sid=1
 https://nl.digitalrm.pt:8216/stream
 #EXTINF:-1 Rádio Freguesia de Belém
 https://s2.radio.co/s0ddea4a53/listen
-#EXTINF:-1 Rádio Freguesia de Belém
-https://s2.radio.co/s0ddea4a53/listen
 #EXTINF:-1 Rádio Granada FM
 http://centova.radio.com.pt:8549/;
 #EXTINF:-1 Rádio Hertz 98 FM
@@ -234,20 +218,14 @@ http://109.71.41.6:8020/live
 http://centova.radio.com.pt:9566/;
 #EXTINF:-1 Rádio NoAr
 http://5.189.189.245:8024/;
-#EXTINF:-1 Rádio NoAr
-https://radios.justweb.pt/8034/stream
 #EXTINF:-1 Rádio Nova
 http://centova.radios.pt:9528/;
-#EXTINF:-1 Radio Nova
-http://centova.radios.pt:9528/
 #EXTINF:-1 Rádio Nova 98.9 FM
 http://centova.radio.com.pt:9528/
 #EXTINF:-1 Rádio Nova Era
 http://centova.radio.com.pt:9478/
 #EXTINF:-1 Rádio nove3cinco
 http://centova.radio.com.pt:9522/;
-#EXTINF:-1 Rádio Observador
-http://195.23.85.126:8455/listen.pls?sid=1
 #EXTINF:-1 Rádio Onda Viva
 http://centova.radio.com.pt:9524/;
 #EXTINF:-1 Rádio Ondas do Lima
@@ -342,8 +320,6 @@ http://109.71.41.6:8046/stream
 http://centova.radio.com.pt:8545/;
 #EXTINF:-1 TOP 80 - Todos Os Exitos De 80 A 2000
 http://live.top80.fm:8086/
-#EXTINF:-1 Top FM
-http://213.136.92.8:8038/stream
 #EXTINF:-1 Torres Novas FM
 http://centova.radio.com.pt:8475/;
 #EXTINF:-1 Tropical FM 95.3
