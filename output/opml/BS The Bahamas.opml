@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for BS The Bahamas</title>
+</head>
+<body>
+<outline text="Bahamian or Nuttin" title="Bahamian or Nuttin" type="rss" url="https://s2.reliastream.com/proxy/rumcayme?mp=/stream" />
+<outline text="Bahamianor Nuttin 92.5 FM" title="Bahamianor Nuttin 92.5 FM" type="rss" url="https://s2.reliastream.com/proxy/rumcayme?mp=/stream" />
+<outline text="LCLHST R1" title="LCLHST R1" type="rss" url="http://s1.radio.lclhst.net:1437/r1" />
+<outline text="LCLHST R2" title="LCLHST R2" type="rss" url="http://s1.radio.lclhst.net:1437/r2" />
+</body>
+</opml>

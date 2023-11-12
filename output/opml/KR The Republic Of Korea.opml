@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for KR The Republic Of Korea</title>
+</head>
+<body>
+<outline text="Big B Radio - Kpop" title="Big B Radio - Kpop" type="rss" url="https://antares.dribbcast.com/proxy/kpop?mp=/s" />
+<outline text="BOX : K-POP 케이팝" title="BOX : K-POP 케이팝" type="rss" url="https://play.streamafrica.net/kpopradio" />
+<outline text="Fred Film Radio(한국어)" title="Fred Film Radio(한국어)" type="rss" url="https://s10.webradio-hosting.com/proxy/fredradiokr/stream" />
+<outline text="GFN 98.7 FM" title="GFN 98.7 FM" type="rss" url="http://218.157.19.198:8000/stream/1" />
+<outline text="Gwangju Foreign Language Network 98.7 - English" title="Gwangju Foreign Language Network 98.7 - English" type="rss" url="http://218.157.19.198:8000/" />
+<outline text="HUG" title="HUG" type="rss" url="http://stream.zeno.fm/0966xr1y8p8uv" />
+<outline text="Listen.moe (K-Pop)" title="Listen.moe (K-Pop)" type="rss" url="https://listen.moe/kpop/fallback" />
+<outline text="Oldpop Cafe" title="Oldpop Cafe" type="rss" url="http://cast.oldpopcafe.net:7080/" />
+<outline text="RADIO FOX STYLE" title="RADIO FOX STYLE" type="rss" url="http://stream.zeno.fm/leyjhheodeutv" />
+<outline text="Radio Seoul" title="Radio Seoul" type="rss" url="https://radio1.koreatimes.com/?DIST=TuneIn&amp;TGT=TuneIn&amp;maxServers=2&amp;partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNzEyNjE0MywiaXNzIjoidGlzcnYifQ.ssVJ7H8C2H_IpmydNuCcKNV1I0UH93kqOAc_nsdqsOU" />
+<outline text="WOW CCM" title="WOW CCM" type="rss" url="http://wowccm.iptime.org:8000/stream/1/" />
+<outline text="마포FM" title="마포FM" type="rss" url="http://115.85.182.39/mapofm?type=.mp3" />
+<outline text="올드팝카페" title="올드팝카페" type="rss" url="http://cast.oldpopcafe.net:7080/" />
+<outline text="트로트 주막" title="트로트 주막" type="rss" url="http://live10.inlive.co.kr:10560/" />
+<outline text="트로트 콜센터" title="트로트 콜센터" type="rss" url="http://live09.inlive.co.kr:10680/" />
+<outline text="평양FM" title="평양FM" type="rss" url="https://listen7.myradio24.com/69366" />
+</body>
+</opml>

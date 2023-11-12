@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for GH Ghana</title>
+</head>
+<body>
+<outline text="ADUM RADIO" title="ADUM RADIO" type="rss" url="http://stream.zeno.fm/dmn9atfb7ehvv" />
+<outline text="Akomapa FM" title="Akomapa FM" type="rss" url="http://mounthoreb1.primcast.com:8210/" />
+<outline text="BOX : Afrofusion Gold" title="BOX : Afrofusion Gold" type="rss" url="https://play.streamafrica.net/afrofusiongold" />
+<outline text="BOX Radio - Afrofusion Gold" title="BOX Radio - Afrofusion Gold" type="rss" url="https://ss-edge.joeycast.com/gold.mp3" />
+<outline text="ChinaGhana Fm" title="ChinaGhana Fm" type="rss" url="https://stream.zeno.fm/3w43axr9mg0uv" />
+<outline text="citi fm" title="citi fm" type="rss" url="https://citi973fm.radioca.st/index.html:80/stream.mp3" />
+<outline text="Class FM 91.3" title="Class FM 91.3" type="rss" url="https://stream-15.zeno.fm/550swtx03mzuv" />
+<outline text="Ghana Radio" title="Ghana Radio" type="rss" url="https://ghana.ghanalisten.com:2200/stream.mp3" />
+<outline text="GHERLA" title="GHERLA" type="rss" url="http://89.39.189.52:8000/" />
+<outline text="Happy 98.9 FM Ghana" title="Happy 98.9 FM Ghana" type="rss" url="http://happyfm989accra.atunwadigital.streamguys1.com/happyfm989accra" />
+<outline text="Kingsway Radio Ghana" title="Kingsway Radio Ghana" type="rss" url="https://kingsway.ghanalisten.com:4800/stream.mp3" />
+<outline text="Mereshena Radio" title="Mereshena Radio" type="rss" url="http://stream.zeno.fm/gms1ucq58ehvv" />
+<outline text="Okay 107.7 FM" title="Okay 107.7 FM" type="rss" url="http://okayfm.atunwadigital.streamguys1.com/okayfm" />
+<outline text="Onyame Nipa Radio" title="Onyame Nipa Radio" type="rss" url="https://onyamenipa.ghanalisten.com:3200/stream.mp3" />
+<outline text="Oroko Radio" title="Oroko Radio" type="rss" url="https://s5.radio.co/s23b8ada46/listen" />
+<outline text="Sunshine Radio GH" title="Sunshine Radio GH" type="rss" url="https://sunshineradiogh.ghanalisten.com:2800/stream.mp3" />
+</body>
+</opml>

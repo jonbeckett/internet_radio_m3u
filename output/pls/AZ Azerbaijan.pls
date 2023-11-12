@@ -1,0 +1,32 @@
+[playlist]
+File1=http://85.132.27.212:8888/azradio?listening-from-radio-radio-garden=1654328466
+Title1=105 fm
+File2=https://stream.antiradio.net/radio/8000/mp3
+Title2=Anti Radio
+File3=http://s39.myradiostream.com/5458/listen.mp3
+Title3=Araz fm 103.3
+File4=http://94.20.74.206:4448/stream1
+Title4=Asan Radio
+File5=https://play.asanradio.az/
+Title5=ASAN Radio
+File6=http://radio.autoliferadio.com:8090/radio
+Title6=AutoLife Radio Azerbaijan
+File7=http://5.191.241.101:8000/avtofm
+Title7=AVTO FM
+File8=https://audiostr.atv.az/106.3fm
+Title8=Azad Azərbaycan radiosu
+File9=http://78.109.52.73:8000/listening-from-radio-garden-1696020096
+Title9=Baku Jukebox
+File10=https://stream.zeno.fm/bqrnn6cx868uv
+Title10=Cipcip
+File11=http://95.217.196.109:8000/mediafm
+Title11=Media FM 105.5
+File12=http://95.217.196.109:8000/mediamugam
+Title12=Muğam
+File13=http://stream.zeno.fm/p1hx0c3y14zuv.m3u
+Title13=Radio Veten
+File14=https://s40.myradiostream.com/:22546/listen.mp3?
+Title14=Xezer FM
+File15=https://icecast.livetv.az/yurdfm
+Title15=Yurd FM
+NumberOfEntries=15

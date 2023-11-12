@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for AG Antigua And Barbuda</title>
+</head>
+<body>
+<outline text="Antigua Observer Radio 91.1 St. John&apos;s" title="Antigua Observer Radio 91.1 St. John&apos;s" type="rss" url="http://s8.voscast.com:8176/" />
+<outline text="Zoom Radio 95.7 St. John&apos;s" title="Zoom Radio 95.7 St. John&apos;s" type="rss" url="http://108.178.13.122:8170/" />
+</body>
+</opml>

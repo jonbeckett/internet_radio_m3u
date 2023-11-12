@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for SV El Salvador</title>
+</head>
+<body>
+<outline text="100.1 ABC Stereo" title="100.1 ABC Stereo" type="rss" url="https://streaming.rcs.com.sv/8008/stream" />
+<outline text="100.7 Stereo" title="100.7 Stereo" type="rss" url="https://stream20.usastreams.com/8138/stream" />
+<outline text="102 Nueve" title="102 Nueve" type="rss" url="https://streaming.rcs.com.sv/8012/stream" />
+<outline text="102.9 Astral" title="102.9 Astral" type="rss" url="https://streaming.rcs.com.sv/8012/astral" />
+<outline text="La Jefa Radio El Salvador" title="La Jefa Radio El Salvador" type="rss" url="http://stream.zeno.fm/b264csn0sy8uv" />
+<outline text="La Tribu FM" title="La Tribu FM" type="rss" url="https://streamer.radio.co/s3a3c12873/listen" />
+<outline text="Radio  Cadena YSKL La Poderosa" title="Radio  Cadena YSKL La Poderosa" type="rss" url="http://media.dominiocreativo.com:8000/radioyskl" />
+<outline text="Radio Astral" title="Radio Astral" type="rss" url="https://streaming.rcs.com.sv/8012/astral" />
+<outline text="Radio Bautista" title="Radio Bautista" type="rss" url="https://s2.radio.co/s3a7dc3d82/listen" />
+<outline text="Radio El Mundo - 93.7 FM" title="Radio El Mundo - 93.7 FM" type="rss" url="http://streaming.mundoclasicaupa.com:8000/radioelmundo" />
+<outline text="Radio Evangélica Mekaddesh 90.9 FM" title="Radio Evangélica Mekaddesh 90.9 FM" type="rss" url="https://tv.radiohosting.online:9922/stream" />
+<outline text="Radio Nacional de El Salvador  - 96.9" title="Radio Nacional de El Salvador  - 96.9" type="rss" url="https://streamingcwsradio30.com/8156/stream" />
+<outline text="Radio Salem 92.5" title="Radio Salem 92.5" type="rss" url="http://streamingcontrol.com:8500/" />
+<outline text="Radio YSUCA, 91.7 FM" title="Radio YSUCA, 91.7 FM" type="rss" url="https://fast.citrus3.com:8314/stream" />
+<outline text="Restauracion / 100.5 FM - Mision Cristiana Elim" title="Restauracion / 100.5 FM - Mision Cristiana Elim" type="rss" url="https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_320" />
+</body>
+</opml>

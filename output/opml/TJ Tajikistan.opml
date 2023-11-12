@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for TJ Tajikistan</title>
+</head>
+<body>
+<outline text="Asia Plus" title="Asia Plus" type="rss" url="http://62.122.137.82:8020/ap" />
+<outline text="Ozodi" title="Ozodi" type="rss" url="http://rfe-channel-09.akacast.akamaistream.net/7/872/229659/v1/ibb.akacast.akamaistream.net/rfe_channel_09" />
+<outline text="Ховар FM 101.5" title="Ховар FM 101.5" type="rss" url="https://radio.khovar.tj/live" />
+</body>
+</opml>

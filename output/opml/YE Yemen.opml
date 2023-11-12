@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for YE Yemen</title>
+</head>
+<body>
+<outline text=". quran" title=". quran" type="rss" url="https://backup.qurango.net/radio/ahmad_khader_altarabulsi" />
+<outline text="Noor Al-Eman" title="Noor Al-Eman" type="rss" url="http://edge.mixlr.com/channel/boaht" />
+</body>
+</opml>

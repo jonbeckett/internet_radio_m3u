@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for PA Panama</title>
+</head>
+<body>
+<outline text=": Radio Venao :" title=": Radio Venao :" type="rss" url="http://s1.sonicabroadcast.com:8805/listen.mp3" />
+<outline text="AM Original 1180 Veraguas" title="AM Original 1180 Veraguas" type="rss" url="http://rosetta.shoutca.st:9264/stream" />
+<outline text="Los 40 Principales Panamá" title="Los 40 Principales Panamá" type="rss" url="http://provisioning.streamtheworld.com/pls/LOS40_PAN.pls" />
+<outline text="Original Stereo 90.7 FM" title="Original Stereo 90.7 FM" type="rss" url="http://rosetta.shoutca.st:8931/" />
+<outline text="Radio Disney Panamá" title="Radio Disney Panamá" type="rss" url="http://ic.streann.com:8000/disneypanama" />
+<outline text="RADIO MARIA PANAMA" title="RADIO MARIA PANAMA" type="rss" url="http://dreamsiteradiocp.com:8082/stream" />
+<outline text="Radio Venao" title="Radio Venao" type="rss" url="https://ssl1.viastreaming.net:8805/" />
+</body>
+</opml>

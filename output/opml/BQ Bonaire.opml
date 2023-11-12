@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for BQ Bonaire</title>
+</head>
+<body>
+<outline text="Bon FM 102.7  Riscado" title="Bon FM 102.7  Riscado" type="rss" url="http://bonfm5.primcast.com:6482/" />
+<outline text="Live99 FM - Kralendijk" title="Live99 FM - Kralendijk" type="rss" url="http://162.244.80.220:8000/stream.mp3" />
+<outline text="Mega Hit FM 101.1" title="Mega Hit FM 101.1" type="rss" url="http://megaspice.primcast.com:5216/" />
+<outline text="Radio Transmundial Bonaire 800 Khz" title="Radio Transmundial Bonaire 800 Khz" type="rss" url="https://cdn.instream.audio/:9050/stream" />
+<outline text="RTV Purmerend" title="RTV Purmerend" type="rss" url="http://stream.zxp.nl:8000/radiopurmerend_bb" />
+<outline text="Voz di Bonaire 94.7 - Riscado" title="Voz di Bonaire 94.7 - Riscado" type="rss" url="http://159.203.190.86:8304/stream.mp3" />
+</body>
+</opml>

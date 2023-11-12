@@ -1,0 +1,34 @@
+[playlist]
+File1=http://81.92.238.33/
+Title1=Eldoradio
+File2=https://www.radioking.com/play/rfm-luxembourg/137599
+Title2=Free Radio Luxembourg FRL
+File3=http://generationdance.lu/radio/8030/hd
+Title3=Generation Dance Radio
+File4=http://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3
+Title4=L'Essentiel Radio
+File5=http://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3
+Title5=Radio 100,7
+File6=https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3
+Title6=Radio 100komma7
+File7=http://zeus.lrb.lu:8000/stream
+Title7=Radio Aktiv
+File8=https://streams.radio.co/sa631ff66a/listen
+Title8=Radio Gutt Laun
+File9=https://servidor14.brlogic.com:8150/live
+Title9=Rádio Larochette
+File10=https://uk1.listen2myradio.com:2199/listen.php?port=8312&type=s2&mount=/stream
+Title10=Radio Puls Luxembourg
+File11=https://shoutcast.datateam.center:8000/radio/rbv/
+Title11=Radio RBV
+File12=https://shoutcast.rtl.lu/rtlgold
+Title12=RTL Gold
+File13=http://stream.rtlradio.de/rtl-de-national/mp3-192/
+Title13=RTL Radio - Deutschlands Hit-Radio
+File14=http://stream.rtlradio.de/rtl-de-beste-hits/mp3-192
+Title14=RTL Radio - Die besten Hits aller Zeiten
+File15=http://sc-rtllive.newmedia.lu/
+Title15=RTL Radio Letzebuerg
+File16=http://stream.rtlradio.de/schlagerliebe/mp3-192/
+Title16=RTL Schlagerliebe
+NumberOfEntries=16

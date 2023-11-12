@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for LV Latvia</title>
+</head>
+<body>
+<outline text="Alise Plus" title="Alise Plus" type="rss" url="http://fm2inet.aliseplus.lv:8080/" />
+<outline text="AlisePlus" title="AlisePlus" type="rss" url="http://fm2inet.aliseplus.lv:8080/" />
+<outline text="Eiropas Hītu Radio" title="Eiropas Hītu Radio" type="rss" url="http://stream.europeanhitradio.com:8000/ehr.mp3" />
+<outline text="Kurzemes Radio" title="Kurzemes Radio" type="rss" url="http://31.170.16.6:8000/" />
+<outline text="Latvijas Kristīgais Radio" title="Latvijas Kristīgais Radio" type="rss" url="https://radio.lkr.lv/?type=http&amp;nocache=40" />
+<outline text="Latvijas Radio 1" title="Latvijas Radio 1" type="rss" url="http://lr1mp1.latvijasradio.lv:8012/" />
+<outline text="Latvijas Radio 2" title="Latvijas Radio 2" type="rss" url="http://lr2mp1.latvijasradio.lv:8002/" />
+<outline text="Latvijas Radio 3 - Klasika" title="Latvijas Radio 3 - Klasika" type="rss" url="http://lr3mp0.latvijasradio.lv:8004/" />
+<outline text="Latvijas Radio 4" title="Latvijas Radio 4" type="rss" url="http://lr4mp1.latvijasradio.lv:8020/" />
+<outline text="Latvijas Radio 5" title="Latvijas Radio 5" type="rss" url="http://lr5mp1.latvijasradio.lv:8012/" />
+<outline text="LRMAROCKRADIO" title="LRMAROCKRADIO" type="rss" url="https://c22.radioboss.fm:18318/stream" />
+<outline text="LV Radio 1" title="LV Radio 1" type="rss" url="http://lr1mp1.latvijasradio.lv:8012/" />
+<outline text="LV Radio 2" title="LV Radio 2" type="rss" url="http://lr2mp1.latvijasradio.lv:8002/" />
+<outline text="LV Radio 4" title="LV Radio 4" type="rss" url="http://lr4mp1.latvijasradio.lv:8020/" />
+<outline text="LV Radio 5" title="LV Radio 5" type="rss" url="http://live.pieci.lv/live19-hq.mp3" />
+<outline text="NewDanceRadio" title="NewDanceRadio" type="rss" url="http://stream.newdanceradio.ru/" />
+<outline text="Nordic Chillout Radio" title="Nordic Chillout Radio" type="rss" url="https://nordicbeatradio.radioca.st/listen.mp3" />
+<outline text="PIECI FM" title="PIECI FM" type="rss" url="https://live.pieci.lv/live19-hq.mp3" />
+<outline text="Radio 7" title="Radio 7" type="rss" url="http://stream.radio7.lv:8024/Radio7.m3u" />
+<outline text="Radio ENERGY.LV" title="Radio ENERGY.LV" type="rss" url="http://www.radioenergy.lv:8000/listen.pls" />
+<outline text="Radio ENERGY.LV - Russian" title="Radio ENERGY.LV - Russian" type="rss" url="http://www.radioenergy.lv:9000/listen.pls" />
+<outline text="RADIO MARIA LATVIA" title="RADIO MARIA LATVIA" type="rss" url="http://dreamsiteradiocp2.com:8046/stream" />
+<outline text="Radio NABA" title="Radio NABA" type="rss" url="http://nabamp0.latvijasradio.lv:8016/" />
+<outline text="Radio Rezekne " title="Radio Rezekne " type="rss" url="http://195.13.164.134:8000/source.mp3" />
+<outline text="Radio SWH" title="Radio SWH" type="rss" url="http://80.232.162.149:8000/swh96mp3.m3u" />
+<outline text="Radio SWH - Spin FM" title="Radio SWH - Spin FM" type="rss" url="http://80.232.162.149:8000/spin96mp3.m3u" />
+<outline text="Radio SWH Gold" title="Radio SWH Gold" type="rss" url="http://80.232.162.149:8000/gold96mp3.m3u" />
+<outline text="Radio SWH Kurzeme" title="Radio SWH Kurzeme" type="rss" url="http://87.110.219.34:8000/swhmp3" />
+<outline text="Radio SWH Rock" title="Radio SWH Rock" type="rss" url="http://80.232.162.149:8000/rock96mp3.m3u" />
+<outline text="Radio SWH+" title="Radio SWH+" type="rss" url="http://80.232.162.149:8000/plus96mp3.m3u" />
+<outline text="Star Fm" title="Star Fm" type="rss" url="http://starfm.live.advailo.com/audio/mp3/icecast.audio" />
+<outline text="SWH" title="SWH" type="rss" url="http://80.232.162.149:8000/swh96mp3" />
+<outline text="SWH Plus" title="SWH Plus" type="rss" url="http://80.232.162.149:8000/plus96mp3" />
+<outline text="SWHPlus" title="SWHPlus" type="rss" url="http://80.232.162.149:8000/plus96mp3" />
+<outline text="Talsi Lounge" title="Talsi Lounge" type="rss" url="http://radio.kuums.lv:5555/listen.pls" />
+<outline text="Talsi Remix" title="Talsi Remix" type="rss" url="http://radio.kuums.lv:5555/" />
+<outline text="TOP radio" title="TOP radio" type="rss" url="https://topradio.live.advailo.com/topradio/mp3/icecast.audio" />
+<outline text="TOPradio" title="TOPradio" type="rss" url="http://195.13.200.164:8000/listen.pls" />
+<outline text="TopRadio" title="TopRadio" type="rss" url="http://195.13.200.164:8000/" />
+</body>
+</opml>

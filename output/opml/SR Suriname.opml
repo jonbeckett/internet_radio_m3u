@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for SR Suriname</title>
+</head>
+<body>
+<outline text="Radio Garuda" title="Radio Garuda" type="rss" url="http://162.244.80.245:8012/" />
+<outline text="Sky Suriname" title="Sky Suriname" type="rss" url="http://pipel.kloud.xyz:8010/radio.mp3" />
+</body>
+</opml>

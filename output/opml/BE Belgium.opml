@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for BE Belgium</title>
+</head>
+<body>
+<outline text=" 	Studio Brussel" title=" 	Studio Brussel" type="rss" url="http://icecast.vrtcdn.be/stubru-high.mp3" />
+<outline text="&apos;t Is Vloms" title="&apos;t Is Vloms" type="rss" url="https://bluford.torontocast.com/proxy/iimfoptl/stream" />
+<outline text="&quot;name&quot;: &quot;&apos;undefined&apos; -&gt; &apos;AFN 360 Benelux&apos;&quot;," title="&quot;name&quot;: &quot;&apos;undefined&apos; -&gt; &apos;AFN 360 Benelux&apos;&quot;," type="rss" url="http://playerservices.streamtheworld.com/m3u/AFNE_BLX.m3u" />
+<outline text="1 MINI 1" title="1 MINI 1" type="rss" url="http://centauri.shoutca.st:9021/" />
+<outline text="1 MINI 2" title="1 MINI 2" type="rss" url="http://centauri.shoutca.st:9064/" />
+<outline text="1 MINI 3" title="1 MINI 3" type="rss" url="http://centauri.shoutca.st:9060/" />
+<outline text="100% Retro" title="100% Retro" type="rss" url="https://server.musicstars.online/radio/8000/listen" />
+<outline text="100% RETRO" title="100% RETRO" type="rss" url="https://play.adtonos.com/100-percent-retro" />
+<outline text="10584 " title="10584 " type="rss" url="http://s1.voscast.com:10584/stream" />
+<outline text="Accent Radio" title="Accent Radio" type="rss" url="https://www.clubfmserver.be/accent.mp3" />
+<outline text="AFN 360 Benelux" title="AFN 360 Benelux" type="rss" url="http://playerservices.streamtheworld.com/m3u/AFNE_BLX.m3u" />
+<outline text="Antipode" title="Antipode" type="rss" url="https://streaming.antipode.be/antipode.mp3" />
+<outline text="Arabel" title="Arabel" type="rss" url="http://arabelfm.ice.infomaniak.ch/arabelprodcastfm.mp3" />
+<outline text="Be One - Xmas" title="Be One - Xmas" type="rss" url="http://live.radiostudio.be/beonexmas" />
+<outline text="Bel RTL" title="Bel RTL" type="rss" url="http://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3" />
+<outline text="Boo" title="Boo" type="rss" url="http://stream03.level27.be/stream.mp3" />
+<outline text="BRF1" title="BRF1" type="rss" url="http://streaming.brf.be/brf1-high.mp3" />
+<outline text="BRF1 Radio" title="BRF1 Radio" type="rss" url="https://streaming.brf.be/brf1-high.mp3" />
+<outline text="BRF2" title="BRF2" type="rss" url="http://streaming.brf.be/brf2-high.mp3" />
+<outline text="BRF2 Radio" title="BRF2 Radio" type="rss" url="https://streaming.brf.be/brf2-high.mp3" />
+<outline text="Bruce Classic Rock" title="Bruce Classic Rock" type="rss" url="http://streamingv2.shoutcast.com/bruce-classic-rock" />
+<outline text="Bruzz" title="Bruzz" type="rss" url="https://rrr.sz.xlcdn.com/?account=fmbrussel&amp;file=fmb988.mp3&amp;type=live&amp;service=icecast&amp;protocol=https&amp;port=8000&amp;output=pls" />
+<outline text="c_dance" title="c_dance" type="rss" url="http://198.100.145.187:18304/" />
+<outline text="Charleking Radio" title="Charleking Radio" type="rss" url="http://charlekingradio.ice.infomaniak.ch/ckradio-192.mp3" />
+<outline text="Chillout CROOZE" title="Chillout CROOZE" type="rss" url="http://streams.crooze.fm:8006/stream/1/" />
+<outline text="Classic 21 80&apos;s New Wave" title="Classic 21 80&apos;s New Wave" type="rss" url="https://radio.rtbf.be/c21-80nw/mp3-128/me" />
+<outline text="Classic 21 80’s Hits" title="Classic 21 80’s Hits" type="rss" url="https://radio.rtbf.be/c21-80s/mp3-128/me" />
+<outline text="Classic 21 Blues" title="Classic 21 Blues" type="rss" url="http://radios.rtbf.be/wr-c21-blues-128.mp3" />
+<outline text="Classic21" title="Classic21" type="rss" url="http://radios.rtbf.be/classic21-128.mp3" />
+<outline text="ClubFM" title="ClubFM" type="rss" url="http://www.clubfmserver.be:8000/clubfm.mp3" />
+<outline text="ClubFM Oost-Vlaanderen" title="ClubFM Oost-Vlaanderen" type="rss" url="http://www.clubfmserver.be:8000/radioclubfm.mp3" />
+<outline text="De Jukebox" title="De Jukebox" type="rss" url="http://s35.myradiostream.com:14472/" />
+<outline text="depechemode.be" title="depechemode.be" type="rss" url="https://c2.radioboss.fm:8494/stream" />
+<outline text="Emotion" title="Emotion" type="rss" url="http://stream.radioemotion.be/stream.mp3" />
+<outline text="Equinoxe FM 100.1" title="Equinoxe FM 100.1" type="rss" url="http://equinoxefm.ddns.net:8000/stream.ogg" />
+<outline text="familieradio enjoy fm" title="familieradio enjoy fm" type="rss" url="http://live.radiostudio.be/enjoyfm" />
+<outline text="Family Radio (België/Belgique/Belgien)" title="Family Radio (België/Belgique/Belgien)" type="rss" url="http://www.clubfmserver.be:8000/family.mp3" />
+<outline text="FM Goud Limburg" title="FM Goud Limburg" type="rss" url="https://streamingv2.shoutcast.com/fm-goud-noord-limburg" />
+<outline text="FM Goud Maasland" title="FM Goud Maasland" type="rss" url="https://streamingv2.shoutcast.com/fm-goud-maasland" />
+<outline text="FM Goud Tenerife" title="FM Goud Tenerife" type="rss" url="https://ex52.voordeligstreamen.nl/8050/stream" />
+<outline text="Fun Radio" title="Fun Radio" type="rss" url="http://statslive.infomaniak.ch/playlist/funradiobe/funradiobe-high.mp3/playlist.pls" />
+<outline text="Gaveromroep" title="Gaveromroep" type="rss" url="http://s43.myradiostream.com:18192/" />
+<outline text="Geel fm" title="Geel fm" type="rss" url="http://geelfm.nsupdate.info:8080/geelfm.mp3" />
+<outline text="Gold FM" title="Gold FM" type="rss" url="http://www.goldfm.be/live/playlist.php?name=listen.pls" />
+<outline text="Goldies Radio" title="Goldies Radio" type="rss" url="http://www.goldiesradio.be/live/playlist.pls" />
+<outline text="GothVille Radio" title="GothVille Radio" type="rss" url="https://gothville.radio/radio/8000/stream" />
+<outline text="Instrumentals Forever" title="Instrumentals Forever" type="rss" url="http://quincy.torontocast.com:1910/stream" />
+<outline text="Islam en français " title="Islam en français " type="rss" url="http://104.7.66.64:8099/stream/1/" />
+<outline text="Joe" title="Joe" type="rss" url="https://20723.live.streamtheworld.com/JOE.mp3" />
+<outline text="Joe - All the way" title="Joe - All the way" type="rss" url="https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3" />
+<outline text="Joe 60&apos;s &amp; 70&apos;s" title="Joe 60&apos;s &amp; 70&apos;s" type="rss" url="https://icecast-qmusicbe-cdp.triple-it.nl/joe_60s_70s.mp3" />
+<outline text="Joe 80&apos;s &amp; 90&apos;s" title="Joe 80&apos;s &amp; 90&apos;s" type="rss" url="https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.mp3" />
+<outline text="Joe FM" title="Joe FM" type="rss" url="https://25593.live.streamtheworld.com/JOE.mp3" />
+<outline text="Jouwradio" title="Jouwradio" type="rss" url="https://jouwradio.live-streams.nl/" />
+<outline text="Ketnet Hits" title="Ketnet Hits" type="rss" url="https://icecast.vrtcdn.be/ketnetradio-high.mp3?dist=belgiefm" />
+<outline text="Klara" title="Klara" type="rss" url="http://icecast.vrtcdn.be/klara-high.mp3" />
+<outline text="Klara Continuo" title="Klara Continuo" type="rss" url="https://icecast.vrtcdn.be/klaracontinuo-high.mp3?dist=belgiefm" />
+<outline text="KOMILFOO FM" title="KOMILFOO FM" type="rss" url="http://www.komilfoo.be/live/komilfoo.pls" />
+<outline text="La Classica" title="La Classica" type="rss" url="http://stream.laclassica.be:8023/stream" />
+<outline text="La Première - Bruxelles" title="La Première - Bruxelles" type="rss" url="http://radios.rtbf.be/laprem1erebxl-128.mp3" />
+<outline text="Lazer Hot Hits" title="Lazer Hot Hits" type="rss" url="http://streams.servicehosting.be:3730/" />
+<outline text="Majapca Radio" title="Majapca Radio" type="rss" url="https://server2.inetcast.nl:2275/stream" />
+<outline text="MelindaFM" title="MelindaFM" type="rss" url="http://stream.decibelhuis.be:8000/1" />
+<outline text="Mélodie FM" title="Mélodie FM" type="rss" url="http://188.165.35.60:8008/" />
+<outline text="Metropole Radio" title="Metropole Radio" type="rss" url="http://metropoleradio.ice.infomaniak.ch/metropoleradio-192.mp3" />
+<outline text="Mint" title="Mint" type="rss" url="https://mint.ice.infomaniak.ch/mint-mp3-128.mp3" />
+<outline text="Mint Radio" title="Mint Radio" type="rss" url="https://mint.ice.infomaniak.ch/mint-mp3-128.mp3" />
+<outline text="MNM" title="MNM" type="rss" url="http://icecast.vrtcdn.be/mnm-high.mp3" />
+<outline text="MNM 90&apos;s &amp; 00&apos;s" title="MNM 90&apos;s &amp; 00&apos;s" type="rss" url="http://icecast.vrtcdn.be/mnm_90s00s-high.mp3" />
+<outline text="MNM big hits" title="MNM big hits" type="rss" url="http://icecast.vrtcdn.be/mnm_hits-high.mp3" />
+<outline text="MNM UrbaNice" title="MNM UrbaNice" type="rss" url="http://icecast.vrtcdn.be/mnm_urb-high.mp3" />
+<outline text="Musiq3 Baroque" title="Musiq3 Baroque" type="rss" url="https://radios.rtbf.be/wr-m3-baroque-128.mp3" />
+<outline text="Musiq3 Jazz" title="Musiq3 Jazz" type="rss" url="https://radios.rtbf.be/wr-m3-baroque-128.mp3" />
+<outline text="MyNoise Drone Zone" title="MyNoise Drone Zone" type="rss" url="http://dronezone-mynoise.radioca.st/stream" />
+<outline text="MyNoise Ocean Waves" title="MyNoise Ocean Waves" type="rss" url="http://oceanwaves.radio.mynoise.net/" />
+<outline text="MyNoise Pure Nature" title="MyNoise Pure Nature" type="rss" url="https://purenature-mynoise.radioca.st/stream" />
+<outline text="MyNoise Rainy Day" title="MyNoise Rainy Day" type="rss" url="http://rainyday.radio.mynoise.net/" />
+<outline text="MyNoise Siren Songs" title="MyNoise Siren Songs" type="rss" url="http://sirensongs-mynoise.radioca.st/stream" />
+<outline text="MyNoise Space Odyssey" title="MyNoise Space Odyssey" type="rss" url="http://spaceodyssey-mynoise.radioca.st/stream" />
+<outline text="MyNoise Zen Garden" title="MyNoise Zen Garden" type="rss" url="http://zengarden.radio.mynoise.net/" />
+<outline text="Nostalgie - what a feeling!" title="Nostalgie - what a feeling!" type="rss" url="https://22673.live.streamtheworld.com/NOSTALGIEWHATAFEELING.mp3" />
+<outline text="Nostalgie 80&apos;s" title="Nostalgie 80&apos;s" type="rss" url="https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAF80.mp3" />
+<outline text="Nostalgie Extra (New Wave)" title="Nostalgie Extra (New Wave)" type="rss" url="https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFNEWWAVE.mp3" />
+<outline text="Nostalgie Extra (What a Feeling)" title="Nostalgie Extra (What a Feeling)" type="rss" url="https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFEXTRA.mp3" />
+<outline text="Nostalgie Extra Disco" title="Nostalgie Extra Disco" type="rss" url="https://22193.live.streamtheworld.com/NOSTALGIEWAFPARTY_SC?dist=radiomap" />
+<outline text="Nostalgie Vlaanderen" title="Nostalgie Vlaanderen" type="rss" url="https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3?dist=radiobrowser" />
+<outline text="Nostalgie+" title="Nostalgie+" type="rss" url="https://22673.live.streamtheworld.com/NOSTALGIEWAF6070.mp3" />
+<outline text="NRJ België" title="NRJ België" type="rss" url="https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3?dist=radiobrowser" />
+<outline text="NRJ Nouveautés Belgique" title="NRJ Nouveautés Belgique" type="rss" url="http://cdn.nrjaudio.fm/adwz1/be/34017/mp3_128.mp3" />
+<outline text="Ocean Waves (myNoise Radio)" title="Ocean Waves (myNoise Radio)" type="rss" url="http://oceanwaves.radio.mynoise.net/" />
+<outline text="Orgelradio" title="Orgelradio" type="rss" url="http://radio.organroxx.com:8000/freestream.mp3" />
+<outline text="Pep&apos;s Radio" title="Pep&apos;s Radio" type="rss" url="https://behofm.ice.infomaniak.ch/behofm.mp3" />
+<outline text="PINK" title="PINK" type="rss" url="https://www.clubfmserver.be/pink.mp3" />
+<outline text="PINK 90&apos;s Rewind" title="PINK 90&apos;s Rewind" type="rss" url="https://www.clubfmserver.be/pink90.mp3" />
+<outline text="PINK!" title="PINK!" type="rss" url="https://www.clubfmserver.be/pink.mp3" />
+<outline text="Potz" title="Potz" type="rss" url="https://radio.potz.be/omnia" />
+<outline text="Pure (FM)" title="Pure (FM)" type="rss" url="https://radios.rtbf.be/pure-128.mp3" />
+<outline text="Pure FM - 128" title="Pure FM - 128" type="rss" url="http://radios.rtbf.be/pure-128.mp3" />
+<outline text="Q Music" title="Q Music" type="rss" url="https://21293.live.streamtheworld.com/QMUSIC.mp3" />
+<outline text="Q Music Maximum Hits " title="Q Music Maximum Hits " type="rss" url="https://streams.radio.dpgmedia.cloud/redirect/qbe_nonstop/mp3" />
+<outline text="Q-Foute Radio" title="Q-Foute Radio" type="rss" url="https://streams.radio.dpgmedia.cloud/redirect/foute_radio_be/mp3" />
+<outline text="Q-Music" title="Q-Music" type="rss" url="https://21293.live.streamtheworld.com/QMUSIC.mp3" />
+<outline text="Q-Music " title="Q-Music " type="rss" url="https://21293.live.streamtheworld.com/QMUSIC.mp3" />
+<outline text="Radio 1" title="Radio 1" type="rss" url="http://icecast.vrtcdn.be/radio1-high.mp3" />
+<outline text="Radio 100%" title="Radio 100%" type="rss" url="http://live2.radiostudio.be:8000/pros" />
+<outline text="Radio 2 Antwerpen" title="Radio 2 Antwerpen" type="rss" url="http://icecast.vrtcdn.be/ra2ant-high.mp3" />
+<outline text="Radio 2 Bene Bene" title="Radio 2 Bene Bene" type="rss" url="http://icecast.vrtcdn.be/radio2_benebene-high.mp3" />
+<outline text="Radio 2 Limburg" title="Radio 2 Limburg" type="rss" url="http://icecast.vrtcdn.be/ra2lim-high.mp3" />
+<outline text="Radio 2 Oost-Vlaanderen" title="Radio 2 Oost-Vlaanderen" type="rss" url="http://icecast.vrtcdn.be/ra2ovl-high.mp3" />
+<outline text="Radio 2 Vlaams-Brabant" title="Radio 2 Vlaams-Brabant" type="rss" url="http://icecast.vrtcdn.be/ra2vlb-high.mp3" />
+<outline text="Radio Bonheur (BE)" title="Radio Bonheur (BE)" type="rss" url="https://france1.coollabel-productions.com/proxy/radiobonheur317/stream" />
+<outline text="radio campus" title="radio campus" type="rss" url="http://streamer.radiocampus.be/stream.mp3" />
+<outline text="radio centraal" title="radio centraal" type="rss" url="http://streams.movemedia.eu/centraal" />
+<outline text="Radio Centraal 106.7FM" title="Radio Centraal 106.7FM" type="rss" url="http://streams.movemedia.eu:8530/" />
+<outline text="radio chrétienne francophone Belgique" title="radio chrétienne francophone Belgique" type="rss" url="http://rcf.streamakaci.com/rcfbe.mp3" />
+<outline text="Radio Eagle" title="Radio Eagle" type="rss" url="https://antares.dribbcast.com:2199/tunein/puurtren.pls" />
+<outline text="Radio Emotion Belgique" title="Radio Emotion Belgique" type="rss" url="https://stream1.dgnet.be/1" />
+<outline text="Radio Equinoxe" title="Radio Equinoxe" type="rss" url="http://live.equinoxenamur.be:8000/Equinoxe.mp3" />
+<outline text="Radio Eurodance Classic" title="Radio Eurodance Classic" type="rss" url="http://listen.shoutcast.com/radioeurodanceclassic" />
+<outline text="Radio Expres (Antwerpen)" title="Radio Expres (Antwerpen)" type="rss" url="http://www.clubfmserver.be:8000/expres.mp3" />
+<outline text="Radio FM Gold" title="Radio FM Gold" type="rss" url="http://fmgold.mvserver.be:3181/" />
+<outline text="Radio Folie" title="Radio Folie" type="rss" url="https://listen.radioking.com/radio/378724/stream/429523" />
+<outline text="Radio Internazionale" title="Radio Internazionale" type="rss" url="http://str01.fluidstream.net/fluid06.mp3" />
+<outline text="Radio Italia Charleroi" title="Radio Italia Charleroi" type="rss" url="http://str01.fluidstream.net:7170/listen.pls" />
+<outline text="Radio Judaïca" title="Radio Judaïca" type="rss" url="http://radiojudaica.ice.infomaniak.ch/radiojudaica-128.mp3?_=1" />
+<outline text="Radio Land Van Waas (Stream)" title="Radio Land Van Waas (Stream)" type="rss" url="http://stream.rlvw.be:8480/stream" />
+<outline text="Radio M FM" title="Radio M FM" type="rss" url="http://149.202.22.75:8248/" />
+<outline text="Radio Magic Europ" title="Radio Magic Europ" type="rss" url="http://s4.yesstreaming.net:7162/stream" />
+<outline text="Radio Maria" title="Radio Maria" type="rss" url="http://stream.radiomaria.be/RadioMaria-96.pls" />
+<outline text="Radio Minerva" title="Radio Minerva" type="rss" url="http://streaming.radiominerva.be/minerva" />
+<outline text="Radio Mol" title="Radio Mol" type="rss" url="http://radiomol.ice.infomaniak.ch/radiomol-192.mp3" />
+<outline text="Radio Music Sambre" title="Radio Music Sambre" type="rss" url="http://radiomusicsambre.ice.infomaniak.ch/radiomusicsambre-128.mp3" />
+<outline text="Radio Pallieter" title="Radio Pallieter" type="rss" url="http://s39.myradiostream.com:14494/listen.mp3" />
+<outline text="Radio Park FM" title="Radio Park FM" type="rss" url="http://streams.movemedia.eu:8054/" />
+<outline text="Radio Plus Gent" title="Radio Plus Gent" type="rss" url="http://live.radiostudio.be/plus" />
+<outline text="Radio Quartz" title="Radio Quartz" type="rss" url="http://manager2.streaming-ingenierie.fr:8026/stream.mp3" />
+<outline text="radio qui chifel" title="radio qui chifel" type="rss" url="https://stream.rqc.be/listen.pls?sid=1" />
+<outline text="Radio Sud" title="Radio Sud" type="rss" url="http://streaming.domainepublic.net:8000/radiosud.mp3" />
+<outline text="Radio Sunshine 97,5 Ostbelgien" title="Radio Sunshine 97,5 Ostbelgien" type="rss" url="http://streamlive.syndicationradio.fr:8158/stream" />
+<outline text="Radio Tamara" title="Radio Tamara" type="rss" url="http://audiostreamen.nl:8006/" />
+<outline text="Radio Valencia" title="Radio Valencia" type="rss" url="https://cloud-faro.beheerstream.com/proxy/radiovalenciafm?mp=/stream" />
+<outline text="Radio1 Lage Landenlijst" title="Radio1 Lage Landenlijst" type="rss" url="http://icecast.vrtcdn.be/radio1_lagelanden-high.mp3" />
+<outline text="Radyo Gar" title="Radyo Gar" type="rss" url="https://gargara.net/listen/zana/radio.mp3" />
+<outline text="Rainy Day (myNoise Radio)" title="Rainy Day (myNoise Radio)" type="rss" url="http://rainyday.radio.mynoise.net/" />
+<outline text="RBL" title="RBL" type="rss" url="https://radios.rtbf.be/laprem1ere-128.mp3" />
+<outline text="RBS Radio" title="RBS Radio" type="rss" url="http://streams.movemedia.eu/rbs" />
+<outline text="RCF Bruxelles" title="RCF Bruxelles" type="rss" url="http://rcf.streamakaci.com/rcfbruxelles.mp3" />
+<outline text="RCF Liège" title="RCF Liège" type="rss" url="http://rcf.streamakaci.com/rcfliege.mp3" />
+<outline text="RCF Sud Belgique" title="RCF Sud Belgique" type="rss" url="http://rcf.streamakaci.com/rcfsudbe.mp3" />
+<outline text="Retro Radio Singjaal" title="Retro Radio Singjaal" type="rss" url="http://ice.cr1.streamzilla.xlcdn.com:8000/sz=radiosingjaal=radiostream" />
+<outline text="RGR Classic Hits" title="RGR Classic Hits" type="rss" url="https://stream1.rgrfm.be/" />
+<outline text="Roa" title="Roa" type="rss" url="https://live.roa.be:8000/roa1062fm-128.mp3" />
+<outline text="roxx" title="roxx" type="rss" url="http://www.clubfmserver.be:8000/roxx.mp3" />
+<outline text="RTBF Classic 21" title="RTBF Classic 21" type="rss" url="https://radios.rtbf.be/classic21-128.mp3" />
+<outline text="RTBF Classic 21 - 60&apos;s" title="RTBF Classic 21 - 60&apos;s" type="rss" url="https://radios.rtbf.be/wr-c21-60-128.mp3" />
+<outline text="RTBF Classic 21 - 70&apos;s" title="RTBF Classic 21 - 70&apos;s" type="rss" url="https://radios.rtbf.be/wr-c21-70-128.mp3" />
+<outline text="RTBF Classic 21 - 80&apos;s" title="RTBF Classic 21 - 80&apos;s" type="rss" url="https://radios.rtbf.be/wr-c21-80-128.mp3" />
+<outline text="RTBF Classic 21 - 90&apos;s" title="RTBF Classic 21 - 90&apos;s" type="rss" url="https://radios.rtbf.be/wr-c21-90-128.mp3" />
+<outline text="RTBF Classic 21 - Live" title="RTBF Classic 21 - Live" type="rss" url="https://radios.rtbf.be/wr-c21-live-128.mp3" />
+<outline text="RTBF Classic 21 - Metal" title="RTBF Classic 21 - Metal" type="rss" url="https://radios.rtbf.be/wr-c21-metal-128.mp3" />
+<outline text="RTBF Classic 21 - Reggae" title="RTBF Classic 21 - Reggae" type="rss" url="https://radios.rtbf.be/wr-eventradio-128.mp3" />
+<outline text="RTBF Classic 21 - Route 66" title="RTBF Classic 21 - Route 66" type="rss" url="https://radios.rtbf.be/wr-c21-route66-128.mp3" />
+<outline text="RTBF Classic 21 - Soul Power" title="RTBF Classic 21 - Soul Power" type="rss" url="https://radios.rtbf.be/wr-c21-soul-128.mp3" />
+<outline text="RTBF Classic 21 - Underground" title="RTBF Classic 21 - Underground" type="rss" url="https://radios.rtbf.be/wr-c21-underground-128.mp3" />
+<outline text="RTBF Jam." title="RTBF Jam." type="rss" url="https://radios.rtbf.be/jam-128.mp3" />
+<outline text="RTBF La Première" title="RTBF La Première" type="rss" url="https://radios.rtbf.be/laprem1ere-64.aac" />
+<outline text="RTBF Musiq3" title="RTBF Musiq3" type="rss" url="https://radios.rtbf.be/musiq3-128.aac" />
+<outline text="RTBF Pure FM" title="RTBF Pure FM" type="rss" url="https://radios.rtbf.be/pure-64.aac" />
+<outline text="RTBF Tarmac" title="RTBF Tarmac" type="rss" url="https://radios.rtbf.be/tarmac-128.mp3" />
+<outline text="RTBF Viva+" title="RTBF Viva+" type="rss" url="https://radios.rtbf.be/vivaplus-128.mp3" />
+<outline text="RTBF VivaCité Bruxelles" title="RTBF VivaCité Bruxelles" type="rss" url="https://radios.rtbf.be/vivabxl-64.aac" />
+<outline text="RTBF VivaCité Charleroi" title="RTBF VivaCité Charleroi" type="rss" url="https://radios.rtbf.be/vivacharleroi-64.aac" />
+<outline text="RTBF VivaCité Hainaut" title="RTBF VivaCité Hainaut" type="rss" url="https://radios.rtbf.be/vivahainaut-64.aac" />
+<outline text="RTBF VivaCité Liège" title="RTBF VivaCité Liège" type="rss" url="https://radios.rtbf.be/vivaliege-64.aac" />
+<outline text="RTBF VivaCité Luxembourg" title="RTBF VivaCité Luxembourg" type="rss" url="https://radios.rtbf.be/vivalux-64.aac" />
+<outline text="RTBF VivaCité Namur &amp; Brabant Wallon" title="RTBF VivaCité Namur &amp; Brabant Wallon" type="rss" url="https://radios.rtbf.be/vivanamurbw-64.aac" />
+<outline text="scorpio" title="scorpio" type="rss" url="https://stream.radioscorpio.be/stream" />
+<outline text="Slow Radio" title="Slow Radio" type="rss" url="https://streams.slowradio.com/slowradio192.m3u" />
+<outline text="Stadsradio Vlaanderen" title="Stadsradio Vlaanderen" type="rss" url="http://randstad.wirelessbelgie.be:8330/stream.mp3" />
+<outline text="StuBru the Greatest Switch" title="StuBru the Greatest Switch" type="rss" url="http://icecast.vrtcdn.be/stubru_tgs-high.mp3" />
+<outline text="stubru_untz-high.mp3 " title="stubru_untz-high.mp3 " type="rss" url="http://icecast.vrtcdn.be/stubru_untz-high.mp3" />
+<outline text="Studio Brussel" title="Studio Brussel" type="rss" url="http://icecast.vrtcdn.be/stubru-high.mp3" />
+<outline text="Studio Brussel - De Tijdloze" title="Studio Brussel - De Tijdloze" type="rss" url="http://icecast.vrtcdn.be/stubru_tijdloze-high.mp3" />
+<outline text="Studio Brussel (low)" title="Studio Brussel (low)" type="rss" url="http://icecast.vrtcdn.be/stubru-mid.mp3" />
+<outline text="Sud Radio" title="Sud Radio" type="rss" url="http://sudradio.ice.infomaniak.ch/sudradio-96.aac" />
+<outline text="The Funky Channel" title="The Funky Channel" type="rss" url="https://cast3.asurahosting.com/proxy/breakou1/stream" />
+<outline text="Tip!k" title="Tip!k" type="rss" url="https://radios.rtbf.be/pure-128.mp3" />
+<outline text="Tipik" title="Tipik" type="rss" url="https://radios.rtbf.be/pure-128.mp3" />
+<outline text="Tipik à l&apos;ancienne (RTBF)" title="Tipik à l&apos;ancienne (RTBF)" type="rss" url="http://radio.rtbf.be/tipik-al/mp3-128/rb" />
+<outline text="Tomorrowland Anthems " title="Tomorrowland Anthems " type="rss" url="https://22673.live.streamtheworld.com/OWR_DAB.mp3" />
+<outline text="Tomorrowland One World Radio" title="Tomorrowland One World Radio" type="rss" url="http://20853.live.streamtheworld.com/OWR_INTERNATIONAL.mp3" />
+<outline text="top radio retro" title="top radio retro" type="rss" url="https://str.topradio.be/topradioretroarena.mp3" />
+<outline text="TOPradio Belgium" title="TOPradio Belgium" type="rss" url="http://str.topradio.be/topradio.mp3" />
+<outline text="Topradio one world radio" title="Topradio one world radio" type="rss" url="https://22193.live.streamtheworld.com/OWR_DAB.mp3" />
+<outline text="Topradio TopBam" title="Topradio TopBam" type="rss" url="https://playerservices.streamtheworld.com/api/livestream-redirect/TOPBAM.mp3" />
+<outline text="Trendy FM" title="Trendy FM" type="rss" url="http://stream.trendyfm.be/" />
+<outline text="TSF Radio Allround" title="TSF Radio Allround" type="rss" url="http://ec5.yesstreaming.net:3430/stream" />
+<outline text="ULTRASON" title="ULTRASON" type="rss" url="http://broadcast.infomaniak.ch/ultrason-high.mp3" />
+<outline text="urgent.fm" title="urgent.fm" type="rss" url="http://urgentstream.radiostudio.be:8000/live" />
+<outline text="VBRO Evergreen" title="VBRO Evergreen" type="rss" url="http://stream.vbro.be:9400/evergreen" />
+<outline text="VBRO Radio" title="VBRO Radio" type="rss" url="http://stream.vbro.be:9100/vbro" />
+<outline text="Versuz" title="Versuz" type="rss" url="https://playerservices.streamtheworld.com/api/livestream-redirect/TOPVERSUZ.mp3" />
+<outline text="Versuz Radio" title="Versuz Radio" type="rss" url="https://22653.live.streamtheworld.com/TOPVERSUZ.mp3" />
+<outline text="Villa Bota" title="Villa Bota" type="rss" url="https://caster04.streampakket.com/proxy/8186/stream" />
+<outline text="Vlaamse Wonderjaren" title="Vlaamse Wonderjaren" type="rss" url="https://cast1.torontocast.com:3305/stream" />
+<outline text="VRT NWS" title="VRT NWS" type="rss" url="http://progressive-audio.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3" />
+<outline text="VRT Radio 1" title="VRT Radio 1" type="rss" url="http://icecast.vrtcdn.be/radio1-high.mp3" />
+<outline text="VRT Radio 1  - De LageLandenLijst" title="VRT Radio 1  - De LageLandenLijst" type="rss" url="http://icecast.vrtcdn.be/radio1_lagelanden-high.mp3" />
+<outline text="VRT Radio 1 (low)" title="VRT Radio 1 (low)" type="rss" url="http://icecast.vrtcdn.be/radio1-mid.mp3" />
+<outline text="VRT Radio 1 Classics" title="VRT Radio 1 Classics" type="rss" url="http://icecast.vrtcdn.be/radio1_classics-high.mp3" />
+<outline text="VRT Radio 2 Bene Bene" title="VRT Radio 2 Bene Bene" type="rss" url="http://icecast.vrtcdn.be/radio2_benebene-high.mp3" />
+<outline text="VRT Radio 2 Unwind" title="VRT Radio 2 Unwind" type="rss" url="http://icecast.vrtcdn.be/radio2_unwind-high.mp3" />
+<outline text="VRT Radio 2 West-Vlaanderen" title="VRT Radio 2 West-Vlaanderen" type="rss" url="http://icecast.vrtcdn.be/ra2wvl-high.mp3" />
+<outline text="VRT Studio Brussel - Bruut" title="VRT Studio Brussel - Bruut" type="rss" url="http://icecast.vrtcdn.be/stubru_bruut-high.mp3" />
+<outline text="VRT Studio Brussel - De Tijdloze" title="VRT Studio Brussel - De Tijdloze" type="rss" url="http://icecast.vrtcdn.be/stubru_tijdloze-high.mp3" />
+<outline text="VRT Studio Brussel Untz" title="VRT Studio Brussel Untz" type="rss" url="http://icecast.vrtcdn.be/stubru_untz-high.mp3" />
+<outline text="Warm FM 104.2" title="Warm FM 104.2" type="rss" url="http://stream05.warm.fm:9002/warm" />
+<outline text="Willy" title="Willy" type="rss" url="https://icecast-qmusicbe-cdp.triple-it.nl/willy.mp3" />
+<outline text="Willy Classix" title="Willy Classix" type="rss" url="https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/mp3" />
+<outline text="Willy Radio" title="Willy Radio" type="rss" url="https://icecast-qmusicbe-cdp.triple-it.nl/willy.mp3" />
+<outline text="WRadio" title="WRadio" type="rss" url="http://stream.wradio.es:9000/stream/1" />
+<outline text="Xmas Crooze" title="Xmas Crooze" type="rss" url="https://streaming.shoutcast.com/xmas-crooze-mp3-128" />
+<outline text="YOLO - Life is like a dance" title="YOLO - Life is like a dance" type="rss" url="https://streamingv2.shoutcast.com/yolo-life-is-like-a-dance" />
+<outline text="Zen Garden (myNoise Radio)" title="Zen Garden (myNoise Radio)" type="rss" url="https://zengarden-mynoise.radioca.st/stream" />
+<outline text="ZenFm" title="ZenFm" type="rss" url="http://str.topradio.be/zenfm.mp3" />
+<outline text="Zoe FM" title="Zoe FM" type="rss" url="http://streams.movemedia.eu:8000/zoefmmp3" />
+</body>
+</opml>

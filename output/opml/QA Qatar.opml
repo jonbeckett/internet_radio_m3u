@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for QA Qatar</title>
+</head>
+<body>
+<outline text=". Islam call " title=". Islam call " type="rss" url="https://n0c.radiojar.com/59096z743d0uv?rj-ttl=5&amp;rj-tok=AAABhd07tHIAJ2GRl2KNynaKow" />
+<outline text=". القارئ محمد أيوب " title=". القارئ محمد أيوب " type="rss" url="https://qurango.net/radio/mohammed_ayyub" />
+<outline text=".. مختصر التفسير " title=".. مختصر التفسير " type="rss" url="https://qurango.net/radio/mukhtasartafsir" />
+<outline text="Qabayan Radio 94.3 FM" title="Qabayan Radio 94.3 FM" type="rss" url="http://c2.radioboss.fm:8478/live" />
+<outline text="Suno Malayalam FM" title="Suno Malayalam FM" type="rss" url="https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3" />
+<outline text="إذاعة طريق السلف
+
+" title="إذاعة طريق السلف
+
+" type="rss" url="https://airtime.salafwayfm.ly/" />
+<outline text="اذاعة القرآن الكريم" title="اذاعة القرآن الكريم" type="rss" url="http://stream.radiojar.com/0tpy1h0kxtzuv" />
+<outline text="تفسير بن عثيمين رحمه الله" title="تفسير بن عثيمين رحمه الله" type="rss" url="https://qurango.net/radio/tafseer" />
+</body>
+</opml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for MU Mauritius</title>
+</head>
+<body>
+<outline text="NRJ Maurice 92,4 FM" title="NRJ Maurice 92,4 FM" type="rss" url="http://cdn.nrjaudio.fm/adwz1/mu/55802/mp3_128.mp3" />
+<outline text="Radio One" title="Radio One" type="rss" url="https://webstream.r1.mu/proxy/r1stream128fm/stream" />
+<outline text="Radio Plus Mauritius" title="Radio Plus Mauritius" type="rss" url="http://s4.voscast.com:8432/?icy=http" />
+<outline text="Radioplus Fever" title="Radioplus Fever" type="rss" url="https://streamer.radio.co/s3fe39a4a4/listen" />
+<outline text="SENSUELLE RADIO" title="SENSUELLE RADIO" type="rss" url="https://forwardmystream.com/sensuelleradio" />
+<outline text="Tamizen" title="Tamizen" type="rss" url="https://c34.radioboss.fm:18023/stream" />
+<outline text="Top FM" title="Top FM" type="rss" url="https://s1.radioforge.com:4433/topfmlive/stream?hash=1663883843609.mp3" />
+</body>
+</opml>

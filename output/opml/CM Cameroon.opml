@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for CM Cameroon</title>
+</head>
+<body>
+<outline text="ABK Radio 89.9 Douala" title="ABK Radio 89.9 Douala" type="rss" url="http://46.105.111.94:8077/" />
+<outline text="Balla Radio" title="Balla Radio" type="rss" url="http://167.114.11.79:5730/stream/1" />
+<outline text="Equinoxe Radio" title="Equinoxe Radio" type="rss" url="https://listen.radioking.com/radio/39218/stream/76118" />
+<outline text="Radio Balafon" title="Radio Balafon" type="rss" url="http://usa1-vn.mixstream.net:8110/" />
+</body>
+</opml>

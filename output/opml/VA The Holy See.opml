@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for VA The Holy See</title>
+</head>
+<body>
+<outline text="Radio Vaticana Belarus" title="Radio Vaticana Belarus" type="rss" url="https://radio.vaticannews.va/stream-be" />
+<outline text="Radio Vaticana Bulgaria" title="Radio Vaticana Bulgaria" type="rss" url="https://radio.vaticannews.va/stream-bg" />
+<outline text="Radio Vaticana Čeština" title="Radio Vaticana Čeština" type="rss" url="https://radio.vaticannews.va/stream-cs" />
+<outline text="Radio Vaticana Deutsch" title="Radio Vaticana Deutsch" type="rss" url="https://radio.vaticannews.va/stream-de" />
+<outline text="Radio Vaticana English" title="Radio Vaticana English" type="rss" url="https://radio.vaticannews.va/stream-en" />
+<outline text="Radio Vaticana Hrvatski" title="Radio Vaticana Hrvatski" type="rss" url="https://radio.vaticannews.va/stream-hr" />
+<outline text="Radio Vaticana Italia" title="Radio Vaticana Italia" type="rss" url="https://radio.vaticannews.va/stream-it" />
+<outline text="Radio Vaticana Polska" title="Radio Vaticana Polska" type="rss" url="https://radio.vaticannews.va/stream-pl" />
+<outline text="Radio Vaticana România" title="Radio Vaticana România" type="rss" url="https://radio.vaticannews.va/stream-ro" />
+<outline text="Radio Vaticana Slovenščina" title="Radio Vaticana Slovenščina" type="rss" url="https://radio.vaticannews.va/stream-sl" />
+<outline text="Radio Vaticana Solvenčina" title="Radio Vaticana Solvenčina" type="rss" url="https://radio.vaticannews.va/stream-sk" />
+<outline text="Radio Vaticana Ukraine" title="Radio Vaticana Ukraine" type="rss" url="https://radio.vaticannews.va/stream-uk" />
+</body>
+</opml>

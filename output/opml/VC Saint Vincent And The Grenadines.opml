@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for VC Saint Vincent And The Grenadines</title>
+</head>
+<body>
+<outline text="Reggae141" title="Reggae141" type="rss" url="http://hestia2.cdnstream.com/1301_128" />
+<outline text="Star FM 98.3 &amp; 104.7 Kingstown" title="Star FM 98.3 &amp; 104.7 Kingstown" type="rss" url="http://starradio.serverroom.net:6688/" />
+<outline text="We FM 99.9 Kingstown" title="We FM 99.9 Kingstown" type="rss" url="http://mountain2.serverroom.net:6266/" />
+<outline text="Xtreme FM 104.3 Kingstown" title="Xtreme FM 104.3 Kingstown" type="rss" url="http://s10.voscast.com:9498/" />
+</body>
+</opml>

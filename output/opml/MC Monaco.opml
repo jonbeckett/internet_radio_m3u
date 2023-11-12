@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for MC Monaco</title>
+</head>
+<body>
+<outline text="chilli moje" title="chilli moje" type="rss" url="https://media-ssl.musicradio.com/ChillMP3" />
+<outline text="Hits 1 Monaco" title="Hits 1 Monaco" type="rss" url="https://player.mc.hits1radio.com/" />
+<outline text="Hits1 Monaco" title="Hits1 Monaco" type="rss" url="https://player.mc.hits1radio.com/" />
+<outline text="Radio Monaco 98.2" title="Radio Monaco 98.2" type="rss" url="http://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3" />
+<outline text="Radio Monte Carlo" title="Radio Monte Carlo" type="rss" url="http://edge.radiomontecarlo.net/RMC.mp3" />
+<outline text="Radio Monte Carlo Italia" title="Radio Monte Carlo Italia" type="rss" url="https://icy.unitedradio.it/rmcweb005" />
+<outline text="Yellow.radio" title="Yellow.radio" type="rss" url="https://yellowradio.ice.infomaniak.ch/yellowradio.mp3" />
+</body>
+</opml>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for MK Republic Of North Macedonia</title>
+</head>
+<body>
+<outline text="Bum Kumanovo" title="Bum Kumanovo" type="rss" url="http://iandonov.radioca.st/stream/1" />
+<outline text="City Radio | 94.7FM" title="City Radio | 94.7FM" type="rss" url="http://176.9.117.123:9998/stream/1" />
+<outline text="City Radio Macedonia" title="City Radio Macedonia" type="rss" url="http://176.9.117.123:9998/stream/1" />
+<outline text="Club FM" title="Club FM" type="rss" url="http://176.9.117.123:9996/stream/1" />
+<outline text="Just Music Radio" title="Just Music Radio" type="rss" url="https://radiostream.neotel.mk/justmusicradio" />
+<outline text="Kanal 103" title="Kanal 103" type="rss" url="http://radiostream.neotel.mk/kanal103" />
+<outline text="Lider FM 107,4" title="Lider FM 107,4" type="rss" url="https://liderfm.ipradio.mk/" />
+<outline text="Metropolis Radio Network" title="Metropolis Radio Network" type="rss" url="https://eu4.fastcast4u.com/proxy/metradio?mp=/1" />
+<outline text="Radio Buba Mara 105.2 FM" title="Radio Buba Mara 105.2 FM" type="rss" url="http://88.85.99.2/live-128.mp3" />
+<outline text="Radio Maria Macedonia" title="Radio Maria Macedonia" type="rss" url="http://dreamsiteradiocp.com:8118/stream" />
+<outline text="Radio Meff" title="Radio Meff" type="rss" url="https://s32.myradiostream.com:16040/?type=http&amp;nocache=1688299470?0.591044522318551" />
+<outline text="Samo MK" title="Samo MK" type="rss" url="https://radiostream.neotel.mk/samomk" />
+<outline text="Time FM Gevgelija" title="Time FM Gevgelija" type="rss" url="https://s2.free-shoutcast.com/stream/18058" />
+<outline text="Urban FM 90.8 Skopje" title="Urban FM 90.8 Skopje" type="rss" url="https://securestreams4.autopo.st:1668/stream" />
+<outline text="Експрес Радио 101.1 Струмица, Македонија" title="Експрес Радио 101.1 Струмица, Македонија" type="rss" url="http://ekspresradio.dyndns.org:8000/" />
+<outline text="Канал 77" title="Канал 77" type="rss" url="https://radiocnd.mms.mk/proxy/web/stream" />
+<outline text="Скај Радио" title="Скај Радио" type="rss" url="https://skyradio.com.mk/listen.m3u" />
+</body>
+</opml>

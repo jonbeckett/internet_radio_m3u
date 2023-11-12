@@ -36,7 +36,6 @@ CA Canada
 CC The Cocos Keeling Islands
 CD The Democratic Republic Of The Congo
 CF The Central African Republic
-CG The Congo
 CH Switzerland
 CI Coted Ivoire
 CK The Cook Islands
@@ -80,7 +79,6 @@ GQ Equatorial Guinea
 GR Greece
 GS South Georgia And The South Sandwich Islands
 GT Guatemala
-GU Guam
 GW Guinea Bissau
 GY Guyana
 HK Hong Kong
@@ -102,9 +100,7 @@ JM Jamaica
 JO Jordan
 JP Japan
 KE Kenya
-KG Kyrgyzstan
 KH Cambodia
-KM The Comoros
 KN Saint Kitts And Nevis
 KP The Democratic Peoples Republic Of Korea
 KR The Republic Of Korea
@@ -204,7 +200,6 @@ UZ Uzbekistan
 VA The Holy See
 VC Saint Vincent And The Grenadines
 VE Bolivarian Republic Of Venezuela
-VG British Virgin Islands
 VI US Virgin Islands
 VN Vietnam
 VU Vanuatu

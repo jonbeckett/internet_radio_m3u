@@ -1,0 +1,100 @@
+#EXTM3U
+#PLAYLIST:Internet Radio Stations for LT Lithuania
+#EXTINF:-1 100 HITŲ
+https://transliacija.relaxfm.lt/100-hitu
+#EXTINF:-1 Beveik Radijas
+https://azura.shoutca.st/radio/8420/radio.mp3
+#EXTINF:-1 Easy FM
+https://netradio.ziniur.lt/easyfm.mp3
+#EXTINF:-1 European Hit Radio
+http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-european-hit-radio.pls
+#EXTINF:-1 EXTRA FM
+http://82.135.234.195:8000/extrafm.mp3
+#EXTINF:-1 Geras FM
+http://82.135.234.195:8000/gerasfm.mp3.m3u
+#EXTINF:-1 Kapsai
+http://91.211.246.42:8000/Kapsai
+#EXTINF:-1 Kelyje
+http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-kelyje-klaipeda.pls
+#EXTINF:-1 Kelyje 
+http://82.135.234.195:8000/kelyje_kaunas.mp3
+#EXTINF:-1 Kelyje Kaunas
+http://82.135.234.195:8000/kelyje_kaunas.mp3
+#EXTINF:-1 Kelyje Klaipeda 
+http://82.135.234.195:8000/kelyje_klaipeda.mp3
+#EXTINF:-1 Laluna [MP3]
+http://stream.laluna.lt/laluna/mp3.m3u
+#EXTINF:-1 Lietus
+http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-lietus.pls
+#EXTINF:-1 m-1
+https://stream.m-1.fm/lietus/MP3320.m3u
+#EXTINF:-1 M-1
+http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-m-1.pls
+#EXTINF:-1 M-1 [AAC]
+http://stream.m-1.fm/M-1aacp
+#EXTINF:-1 M-1 Plius
+http://radio.m-1.fm/m1plius/mp3
+#EXTINF:-1 Mano
+http://klausyk.manofm.lt:8000/Icecast2
+#EXTINF:-1 MANO FM
+http://klausyk.manofm.lt:8000/Icecast2
+#EXTINF:-1 Mano FM
+http://klausyk.manofm.lt:8000/Icecast2
+#EXTINF:-1 MANO FM LT
+http://stream.manofm.lt/listen?
+#EXTINF:-1 Mantra Radio
+http://stream.mantraradio.eu:14041/stream
+#EXTINF:-1 Marijos radijas
+http://stream.marijosradijas.lt:8001/marijosradijas.mp3
+#EXTINF:-1 Mazeikiai FM
+http://91.211.246.42:8000/Mazeikiai-HD
+#EXTINF:-1 Mažeikių Aidas
+http://maidas.kli.lt:8000/admin.mp3
+#EXTINF:-1 Palanga Street Radio
+https://stream.palanga.live:8443/palanga128.mp3
+#EXTINF:-1 Pūkas [190 kbps MP3]
+http://82.135.234.195:8000/pukas.mp3.m3u
+#EXTINF:-1 Pūkas 2 [190 kbps MP3]
+http://82.135.234.195:8000/pukas2.mp3.m3u
+#EXTINF:-1 RADIO R
+https://stream1.rusradio.lt/rrb128.mp3
+#EXTINF:-1 Radiocentras
+https://stream2.rc.lt/rc128.mp3
+#EXTINF:-1 RADUGA 
+https://radio.m-1.fm/raduga/high
+#EXTINF:-1 Relax FM 100 HITU
+https://listen.radioking.com/radio/483860/stream/561907
+#EXTINF:-1 RELAX FM Lietuva
+https://stream1.relaxfm.lt/relaxfm128.mp3
+#EXTINF:-1 Relax FM Sentimental
+https://listen.radioking.com/radio/506872/stream/564496
+#EXTINF:-1 Rock radio
+https://cast2.my-control-panel.com/proxy/vladas/stream
+#EXTINF:-1 Rock Radio
+http://65.21.202.84:8026/stream
+#EXTINF:-1 Start FM 94.2 MHz Vilnius [MP3]
+http://eteris.startfm.lt/startfm.mp3
+#EXTINF:-1 Super FM
+http://82.140.131.217:8000/superfm.mp3
+#EXTINF:-1 Tau
+http://radijas.tau.lt:8000/stream
+#EXTINF:-1 Tauragės radijas
+http://stream.tauragesradijas.lt:8000/tr1.m3u
+#EXTINF:-1 Upso radijas 
+http://185.5.52.50:8000/upsas_320
+#EXTINF:-1 Vaikų radijas
+http://88.119.151.74:8001/vaikuradijas
+#EXTINF:-1 XFM Radijas
+http://88.119.151.74:8001/xfm
+#EXTINF:-1 xxl
+http://91.211.246.42:8000/XXL-FM
+#EXTINF:-1 Žinių Radijas
+http://netradio.ziniur.lt:8000/ziniur.mp3
+#EXTINF:-1 Žinių radijas [64 kbps MP3]
+http://netradio.ziniur.lt/ziniur_64.mp3
+#EXTINF:-1 ZIP FM
+https://stream1.zipfm.lt/zipfm128.mp3
+#EXTINF:-1 ZipFM
+https://stream2.zipfm.lt/zipfm128.mp3
+#EXTINF:-1 Радио Лента
+https://stream01.the-broadcasters.online/radiolenta_mp3

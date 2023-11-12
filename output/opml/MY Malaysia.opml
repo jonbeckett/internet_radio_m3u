@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for MY Malaysia</title>
+</head>
+<body>
+<outline text="Ai FM" title="Ai FM" type="rss" url="https://23683.live.streamtheworld.com/AI_FM_SC" />
+<outline text="BFM 89.9" title="BFM 89.9" type="rss" url="http://playerservices.streamtheworld.com/api/livestream-redirect/BFM.mp3" />
+<outline text="GegarFmv2" title="GegarFmv2" type="rss" url="http://51.79.240.13:8000/" />
+<outline text="Jazz Lounge" title="Jazz Lounge" type="rss" url="http://eu8.fastcast4u.com:5068/" />
+<outline text="Jei FM Klang Tamil Radio" title="Jei FM Klang Tamil Radio" type="rss" url="https://usa3.fastcast4u.com/proxy/jeifm?mp=/1" />
+<outline text="KCFM Radio" title="KCFM Radio" type="rss" url="http://www.kcfm.org:8000/stream" />
+<outline text="Klasik FM 101,1 MHz" title="Klasik FM 101,1 MHz" type="rss" url="http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIK.mp3" />
+<outline text="LTFM Radio" title="LTFM Radio" type="rss" url="http://live.ltfmonline.com:8000/stream" />
+<outline text="Nasional FM 88,5 MHz" title="Nasional FM 88,5 MHz" type="rss" url="http://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FM.mp3" />
+<outline text="RAKITA" title="RAKITA" type="rss" url="https://23743.live.streamtheworld.com/RAKITA_SC" />
+<outline text="SkyChatzFM" title="SkyChatzFM" type="rss" url="http://java.skychatz.org:8080/stream/1" />
+<outline text="اذاعة القرآن الكريم" title="اذاعة القرآن الكريم" type="rss" url="http://stream.radiojar.com/0tpy1h0kxtzuv" />
+</body>
+</opml>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for PM Saint Pierre And Miquelon</title>
+</head>
+<body>
+<outline text="Archipel FM SPM (975) 103.3" title="Archipel FM SPM (975) 103.3" type="rss" url="http://radioarchipelfm.ice.infomaniak.ch/radioarchipelfm-64.mp3?token=a73d3f78786d4e7faba5a9e35eaed5bb%2Fe5c8c5d1?retry=0" />
+<outline text="La 1ere Saint Pierre et Miquelon (975)" title="La 1ere Saint Pierre et Miquelon (975)" type="rss" url="https://saint-pierreetmiquelon.ice.infomaniak.ch/saint-pierreetmiquelon-128.mp3" />
+</body>
+</opml>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for MG Madagascar</title>
+</head>
+<body>
+<outline text="Dago Radio" title="Dago Radio" type="rss" url="http://51.75.24.191:8011/" />
+<outline text="Paradisagasy" title="Paradisagasy" type="rss" url="http://www.radioparadisagasy.com/stream/radioparadisagasy.m3u" />
+<outline text="Radio des jeunes (RDJ)" title="Radio des jeunes (RDJ)" type="rss" url="http://rdj966.net:8000/rdj966.mp3" />
+<outline text="Radio Don Bosco" title="Radio Don Bosco" type="rss" url="http://onair15.xdevel.com:9248/" />
+<outline text="Radio Fahazavana" title="Radio Fahazavana" type="rss" url="https://listen.radioking.com/radio/3657/stream/11144" />
+<outline text="Radio Maria Madagascar (AAC 48k)" title="Radio Maria Madagascar (AAC 48k)" type="rss" url="http://dreamsiteradiocp4.com:8108/stream" />
+<outline text="RADIO VAOVAO MAHASOA" title="RADIO VAOVAO MAHASOA" type="rss" url="http://91.121.148.49:7777/" />
+<outline text="RDJ" title="RDJ" type="rss" url="http://rdj966.net:8000/rdj966.mp3" />
+<outline text="RNA Madagascar" title="RNA Madagascar" type="rss" url="http://drs-live-rna.gasy-internet.info:9001/" />
+</body>
+</opml>

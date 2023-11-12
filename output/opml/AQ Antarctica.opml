@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for AQ Antarctica</title>
+</head>
+<body>
+<outline text="A Net Station" title="A Net Station" type="rss" url="http://anetstation.com/MP3/ANETSTATIONDOTCOM.m3u" />
+<outline text="Doujindance" title="Doujindance" type="rss" url="http://radio.funkot.net:8010/playlist" />
+<outline text="lassulus radio" title="lassulus radio" type="rss" url="http://lassul.us:8000/radio.mp3" />
+<outline text="Radio Nacional Arcangel San Gabriel - LRA 36 Antartida" title="Radio Nacional Arcangel San Gabriel - LRA 36 Antartida" type="rss" url="https://sa.mp3.icecast.magma.edge-access.net/sc_rad32" />
+<outline text="UKNova" title="UKNova" type="rss" url="http://uknr.org:8000/" />
+</body>
+</opml>

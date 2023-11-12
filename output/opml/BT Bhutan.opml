@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for BT Bhutan</title>
+</head>
+<body>
+<outline text="BBS1" title="BBS1" type="rss" url="http://202.144.155.12/radio1" />
+<outline text="BBS2" title="BBS2" type="rss" url="http://202.144.155.12/radio2" />
+</body>
+</opml>

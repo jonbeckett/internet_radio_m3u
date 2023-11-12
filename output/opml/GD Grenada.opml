@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for GD Grenada</title>
+</head>
+<body>
+<outline text="Boss FM 104.1-104.9 - Grenada" title="Boss FM 104.1-104.9 - Grenada" type="rss" url="https://usa8.fastcast4u.com/proxy/bossfm2?mp=/1" />
+<outline text="Boss FM Grenada" title="Boss FM Grenada" type="rss" url="http://cp.usa8.fastcast4u.com:5195/" />
+<outline text="City Sound 97.5 - St. Georges" title="City Sound 97.5 - St. Georges" type="rss" url="http://auds1.intacs.com/citysoundfm" />
+<outline text="City Sound 97.5-96.5 FM - Grenada" title="City Sound 97.5-96.5 FM - Grenada" type="rss" url="http://auds1.intacs.com/citysoundfm.m3u" />
+<outline text="Harbour Light Radio" title="Harbour Light Radio" type="rss" url="http://harbourlight.servemp3.com:8000/stream.mp3" />
+<outline text="Hot Shotz Radio - Grenada" title="Hot Shotz Radio - Grenada" type="rss" url="http://usa1.fastcast4u.com:3292/stream" />
+<outline text="KYAK 106.3 FM Carriacou" title="KYAK 106.3 FM Carriacou" type="rss" url="http://74.122.88.5:3333/listen.pls?sid=1" />
+<outline text="Real FM - Grenada" title="Real FM - Grenada" type="rss" url="https://free.rcast.net/69262" />
+<outline text="Star FM 101.9" title="Star FM 101.9" type="rss" url="https://starchild.radioca.st/" />
+<outline text="Star FM 101.9 Grenada" title="Star FM 101.9 Grenada" type="rss" url="https://starchild.radioca.st:2199/tunein/starchild-stream.pls" />
+<outline text="Vibes 101.3 - Hillsborough" title="Vibes 101.3 - Hillsborough" type="rss" url="http://s2.viastreaming.net:6395/" />
+</body>
+</opml>

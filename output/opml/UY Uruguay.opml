@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for UY Uruguay</title>
+</head>
+<body>
+<outline text="24 de Agosto" title="24 de Agosto" type="rss" url="https://24deagosto-zikoxweb.radioca.st/stream" />
+<outline text="Babel" title="Babel" type="rss" url="https://radios.iwstreaming.uy/8030/stream" />
+<outline text="Clásica 650 AM" title="Clásica 650 AM" type="rss" url="https://radios.iwstreaming.uy/8032/stream" />
+<outline text="Conaicop" title="Conaicop" type="rss" url="http://stream.zeno.fm/w5k0y0qbft5tv" />
+<outline text="Concierto FM 95.1" title="Concierto FM 95.1" type="rss" url="https://conectperu.com/8012/stream" />
+<outline text="CX12 Radio Oriental 770 AM" title="CX12 Radio Oriental 770 AM" type="rss" url="http://radiolatina.live:7906/1" />
+<outline text="Del Sol FM" title="Del Sol FM" type="rss" url="http://radio.dl.uy:9950/radio" />
+<outline text="El Aguantadero" title="El Aguantadero" type="rss" url="https://vps-6de10815.vps.ovh.ca:10943/" />
+<outline text="El Espectador 810" title="El Espectador 810" type="rss" url="https://espectador-1.nty.uy/" />
+<outline text="Emisora del Sur" title="Emisora del Sur" type="rss" url="https://radios.iwstreaming.uy/8034/stream" />
+<outline text="La Isla Radio Online Del Uruguay" title="La Isla Radio Online Del Uruguay" type="rss" url="http://lirodu.zapto.org:8000/laislaradio" />
+<outline text="La Nueva del Sur" title="La Nueva del Sur" type="rss" url="http://stream.zeno.fm/s6hdmgb9na0uv.m3u" />
+<outline text="M24" title="M24" type="rss" url="https://streaming2.hostingmontevideo.com:7003/" />
+<outline text="Montevideo Jazz Radio" title="Montevideo Jazz Radio" type="rss" url="http://node-34.zeno.fm/2ykx0xbm6gruv?rj-ttl=5&amp;amp=&amp;rj-tok=AAABgdsb5DoAz8MV8KJpNVyteA" />
+<outline text="Mundo fm" title="Mundo fm" type="rss" url="http://emisiones.com.uy:8088/mundo" />
+<outline text="mundo fm uruguay" title="mundo fm uruguay" type="rss" url="http://emisiones.com.uy:8088/mundo" />
+<outline text="Radio 1010 AM" title="Radio 1010 AM" type="rss" url="https://radiolatina.live/9204/stream.mp3" />
+<outline text="Radio 41 1360 AM" title="Radio 41 1360 AM" type="rss" url="http://radios-online.info:2990/" />
+<outline text="Radio Carve" title="Radio Carve" type="rss" url="http://radiolatina.live:9202/stream/1/" />
+<outline text="Radio Centenario CX36 1250 AM" title="Radio Centenario CX36 1250 AM" type="rss" url="http://rfm.radio.netgate.com.uy:8000/centenario" />
+<outline text="radio cero" title="radio cero" type="rss" url="https://radiolatina.live/7902/stream" />
+<outline text="Radio Chiveo" title="Radio Chiveo" type="rss" url="https://comodin.uy/listen/chiveo/128.mp3" />
+<outline text="Radio Clarín AM 580" title="Radio Clarín AM 580" type="rss" url="http://usa15.ciudaddigital.com.uy:8032/ClarinAM" />
+<outline text="Radio Cultura 1290 AM" title="Radio Cultura 1290 AM" type="rss" url="https://radios.iwstreaming.uy/8034/stream" />
+<outline text="Radio Cultura AM 1280" title="Radio Cultura AM 1280" type="rss" url="https://radios.iwstreaming.uy/8034/stream" />
+<outline text="RADIO MARIA URUGUAY" title="RADIO MARIA URUGUAY" type="rss" url="http://dreamsiteradiocp.com:8088/stream" />
+<outline text="Radio Montecarlo" title="Radio Montecarlo" type="rss" url="https://radiolatina.live/7900/stream" />
+<outline text="Radio Nacional - Uruguay (AM 1130)" title="Radio Nacional - Uruguay (AM 1130)" type="rss" url="https://stream-155.zeno.fm/gl6lqyahef5tv?zs=5yoNAb0PTEyc2sYBEBYPcQ" />
+<outline text="Radio Pedal" title="Radio Pedal" type="rss" url="https://streaming1.hostingmontevideo.com:7003/stream.mp3" />
+<outline text="Radio Pipí Cucú" title="Radio Pipí Cucú" type="rss" url="https://comodin.uy/radio/8000/320.mp3" />
+<outline text="Radio Pipí Cucú (128 kbps)" title="Radio Pipí Cucú (128 kbps)" type="rss" url="https://comodin.uy/radio/8000/128.mp3" />
+<outline text="Radio Prado Sur" title="Radio Prado Sur" type="rss" url="https://usa2.fastcast4u.com/proxy/wqzjjais?mp=/" />
+<outline text="Radio Rivera CX144 AM 1440" title="Radio Rivera CX144 AM 1440" type="rss" url="http://usa15.ciudaddigital.com.uy:8060/RiveraAM" />
+<outline text="Radio Uruguay 1050" title="Radio Uruguay 1050" type="rss" url="https://radios.iwstreaming.uy/8036/stream" />
+<outline text="siglo 21 fm" title="siglo 21 fm" type="rss" url="https://emisiones.com.uy:5120/siglo" />
+<outline text="sport890+" title="sport890+" type="rss" url="http://stream3.sport890.com.uy:8032/" />
+<outline text="UNI Radio 89.1" title="UNI Radio 89.1" type="rss" url="http://uniradio.edu.uy:8008/uniradio" />
+</body>
+</opml>

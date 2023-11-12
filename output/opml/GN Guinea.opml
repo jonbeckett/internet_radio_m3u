@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for GN Guinea</title>
+</head>
+<body>
+<outline text="Radio RKS Guinee 94.9 Conakry" title="Radio RKS Guinee 94.9 Conakry" type="rss" url="https://stream-156.zeno.fm/y20ggs5k5ehvv" />
+<outline text="RTG Radio Nationale Guinéenne" title="RTG Radio Nationale Guinéenne" type="rss" url="https://node-23.zeno.fm/4bz4xabr2ehvv" />
+<outline text="Soleil FM 93.5 Conakry" title="Soleil FM 93.5 Conakry" type="rss" url="http://stream.radiojar.com/7cu7t0tnr68uv" />
+</body>
+</opml>

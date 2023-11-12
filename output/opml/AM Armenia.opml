@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for AM Armenia</title>
+</head>
+<body>
+<outline text="Armenian Christian Radio - Bashde Radio" title="Armenian Christian Radio - Bashde Radio" type="rss" url="https://streams.radio.co/sa0bf8ec29/listen?sid=1" />
+<outline text="Fama" title="Fama" type="rss" url="http://eu.stream4cast.com:8036/stream/" />
+<outline text="Lratvakan Radio 106.5 FM" title="Lratvakan Radio 106.5 FM" type="rss" url="http://212.34.233.78:8000/live" />
+<outline text="MFM Music Radio" title="MFM Music Radio" type="rss" url="https://eu.stream4cast.com/proxy/mfmradio/stream" />
+<outline text="Radio AYK" title="Radio AYK" type="rss" url="http://s3.streammonster.com:8117/" />
+<outline text="Radio Mariam Armenia" title="Radio Mariam Armenia" type="rss" url="http://dreamsiteradiocp.com:8056/stream" />
+<outline text="Radio Van" title="Radio Van" type="rss" url="http://media.radiovan.am:8000/96_stereo.m3u" />
+<outline text="Radio YAN" title="Radio YAN" type="rss" url="http://83.169.36.75:8000/stream" />
+</body>
+</opml>

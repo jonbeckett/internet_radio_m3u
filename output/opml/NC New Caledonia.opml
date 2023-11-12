@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for NC New Caledonia</title>
+</head>
+<body>
+<outline text="Nouvelle-Calédonie La Première" title="Nouvelle-Calédonie La Première" type="rss" url="https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3" />
+<outline text="NRJ Nouvelle Calédonie 93,5 FM" title="NRJ Nouvelle Calédonie 93,5 FM" type="rss" url="http://testradio01.ice.infomaniak.ch/testradio01-192.mp3" />
+<outline text="Radio Djiido" title="Radio Djiido" type="rss" url="http://radiodjiido.nc:8002/" />
+<outline text="RRB" title="RRB" type="rss" url="http://radio.lagoon.nc/rrb" />
+</body>
+</opml>

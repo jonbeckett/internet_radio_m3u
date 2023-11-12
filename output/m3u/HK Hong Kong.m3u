@@ -1,0 +1,22 @@
+#EXTM3U
+#PLAYLIST:Internet Radio Stations for HK Hong Kong
+#EXTINF:-1 Apple FM
+http://sc.apple-fm.net:9020/listen.pls
+#EXTINF:-1 Fing Radio
+https://bluesfan.stream.laut.fm/bluesfan?t302=2020-11-06_13-46-59&uuid=28a2f040-51e1-44fe-899f-3519cbd5d4e9
+#EXTINF:-1 La French Radio Honk-Kong et Macao
+https://listen.radioking.com/radio/333865/stream/382282
+#EXTINF:-1 Originalradio
+https://stream.zeno.fm/rzwzgu0dd8zuv
+#EXTINF:-1 Radio Lantau
+https://radio.dripfeed.net/listen/radiolantau/radio.mp3
+#EXTINF:-1 RTHK Radio 1
+http://stm1.rthk.hk/radio1
+#EXTINF:-1 RTHK Radio 2
+http://stm2.rthk.hk/radio2
+#EXTINF:-1 RTHK Radio 7 普通话台
+http://202.177.192.119/radiopth
+#EXTINF:-1 夜空傳情
+http://procyon.shoutca.st:8492/listen.mp3
+#EXTINF:-1 宗教_良友电台 第一台
+https://listen.729ly.net:8001/ly729_a

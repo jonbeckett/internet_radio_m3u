@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for VI US Virgin Islands</title>
+</head>
+<body>
+<outline text="WSTX-AM 970 Christiansted" title="WSTX-AM 970 Christiansted" type="rss" url="http://wstxradio2.serverroom.net:8340/" />
+<outline text="WSTX-FM 100.3 Christiansted" title="WSTX-FM 100.3 Christiansted" type="rss" url="http://wstxradio.serverroom.net:7490/" />
+<outline text="X Transmission FM" title="X Transmission FM" type="rss" url="http://radio.xtransmissionfm.com:8000/xtfm" />
+</body>
+</opml>

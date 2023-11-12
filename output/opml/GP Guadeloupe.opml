@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for GP Guadeloupe</title>
+</head>
+<body>
+<outline text="Guadeloupe 1ère" title="Guadeloupe 1ère" type="rss" url="https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3" />
+<outline text="Zouk Newz" title="Zouk Newz" type="rss" url="https://zouknews.ice.infomaniak.ch/zouknews-192.mp3" />
+</body>
+</opml>

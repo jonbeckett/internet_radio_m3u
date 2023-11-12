@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for FO The Faroe Islands</title>
+</head>
+<body>
+<outline text="Kringvarp Føroya (KVF)" title="Kringvarp Føroya (KVF)" type="rss" url="http://netvarp.kringvarp.fo:443/uvhm" />
+<outline text="KVF2" title="KVF2" type="rss" url="http://netvarp.kringvarp.fo:4443/kvf2_2" />
+<outline text="Rás 2" title="Rás 2" type="rss" url="http://stream.midlar.fo/ras2" />
+<outline text="VoxPop" title="VoxPop" type="rss" url="http://stream.midlar.fo/voxpop" />
+</body>
+</opml>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for BB Barbados</title>
+</head>
+<body>
+<outline text="CBC 94.7 FM" title="CBC 94.7 FM" type="rss" url="http://108.178.16.190:8000/947fm.mp3" />
+<outline text="Praise FM (Saint Vincent and the Grenadines)" title="Praise FM (Saint Vincent and the Grenadines)" type="rss" url="http://162.244.80.106:11641/live" />
+<outline text="Q 100.7 FM" title="Q 100.7 FM" type="rss" url="http://108.178.16.190:8000/1007fm.mp3" />
+<outline text="Q100.7 FM" title="Q100.7 FM" type="rss" url="http://108.178.16.190:8000/1007fm.mp3" />
+<outline text="The One 98.1 FM" title="The One 98.1 FM" type="rss" url="http://108.178.16.190:8000/981fm.mp3" />
+</body>
+</opml>

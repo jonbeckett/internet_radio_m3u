@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for PY Paraguay</title>
+</head>
+<body>
+<outline text="100% Reggaeton Radio" title="100% Reggaeton Radio" type="rss" url="https://stream-148.zeno.fm/qmhf2yd9dm0uv" />
+<outline text="Cáritas AM 680" title="Cáritas AM 680" type="rss" url="http://200.1.201.244:8000/680AM" />
+<outline text="Mix radio Sandro cd.s " title="Mix radio Sandro cd.s " type="rss" url="http://stream.zeno.fm/n6pcbk423rhvv" />
+<outline text="Radio ABC Cardinal 730 AM" title="Radio ABC Cardinal 730 AM" type="rss" url="http://sc.abc.com.py:8000/stream" />
+<outline text="RADIO EXITOS DE AYER" title="RADIO EXITOS DE AYER" type="rss" url="http://stream.zeno.fm/hvnh6d5uebruv" />
+<outline text="Radio Luz 101.5 FM" title="Radio Luz 101.5 FM" type="rss" url="http://167.114.116.223:9960/stream.nsv" />
+<outline text="RADIO MARIA PARAGUAY" title="RADIO MARIA PARAGUAY" type="rss" url="http://dreamsiteradiocp.com:8090/stream" />
+<outline text="Radio Nacional de Paraguay 95.1 FM" title="Radio Nacional de Paraguay 95.1 FM" type="rss" url="http://audio2.radionacional.gov.py:8084/951fm" />
+<outline text="Radio Nacional del Paraguay 920 AM" title="Radio Nacional del Paraguay 920 AM" type="rss" url="http://audio.radionacional.gov.py:8085/920" />
+<outline text="Radio Siete 107.7 FM" title="Radio Siete 107.7 FM" type="rss" url="https://rss1.siete.com.py:9433/stream" />
+<outline text="Radio Tu Voz" title="Radio Tu Voz" type="rss" url="https://radiotuvoz.online/listen/radio_tu_voz_/radio.mp3" />
+<outline text="RADIO VALLENATOS CLÁSICOS" title="RADIO VALLENATOS CLÁSICOS" type="rss" url="http://stream.zeno.fm/z07vyxbqz8quv" />
+<outline text="Radio ZP-30, La Voz del Chaco Paraguayo Stream" title="Radio ZP-30, La Voz del Chaco Paraguayo Stream" type="rss" url="http://184.154.43.106:8019/stream" />
+</body>
+</opml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for CR Costa Rica</title>
+</head>
+<body>
+<outline text="¡Diay Radio!" title="¡Diay Radio!" type="rss" url="https://radio.co.cr/listen/radio/radio.mp3" />
+<outline text="104.7 HIT" title="104.7 HIT" type="rss" url="http://streams.y2kwebs.com:9310/stream/1/" />
+<outline text="1047hit" title="1047hit" type="rss" url="https://live.turadio.stream:7004/stream" />
+<outline text="Bésame Costa Rica - 89.9 FM - TIRB - Multimedios Radio - San José, Costa Rica" title="Bésame Costa Rica - 89.9 FM - TIRB - Multimedios Radio - San José, Costa Rica" type="rss" url="https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_CR_SC.mp3" />
+<outline text="Dabar" title="Dabar" type="rss" url="https://a1.asurahosting.com:8720/radio.mp3" />
+<outline text="Los 40 Principales Costa Rica" title="Los 40 Principales Costa Rica" type="rss" url="http://provisioning.streamtheworld.com/pls/LOS40_CR.pls" />
+<outline text="Mundo Rock Radio CR" title="Mundo Rock Radio CR" type="rss" url="https://cloudstream2030.conectarhosting.com/8196/stream" />
+<outline text="Planet 107.5" title="Planet 107.5" type="rss" url="https://stream20.usastreams.com/8094/stream" />
+<outline text="Puerto Limón Radio" title="Puerto Limón Radio" type="rss" url="https://puertolimonradio-rowrigos.radioca.st/listen.pls?sid=1" />
+<outline text="Radio Columbia CR" title="Radio Columbia CR" type="rss" url="https://s2.radio.co/s83b86382e/listen" />
+<outline text="Radio Disney Costa Rica" title="Radio Disney Costa Rica" type="rss" url="http://ic.streann.com:8000/disneycostarica" />
+<outline text="Radio Disney Costa Rica - 101.1 FM - San José, Costa Rica" title="Radio Disney Costa Rica - 101.1 FM - San José, Costa Rica" type="rss" url="https://ic.streann.com/disneycostarica" />
+<outline text="Radio Dos" title="Radio Dos" type="rss" url="https://s5.radio.co/sd515b7b34/listen" />
+<outline text="Radio Dos - 99.5 FM - San José, Costa Rica" title="Radio Dos - 99.5 FM - San José, Costa Rica" type="rss" url="https://s5.radio.co/sd515b7b34/listen" />
+<outline text="Radio Frecuencia Tierra" title="Radio Frecuencia Tierra" type="rss" url="http://68.235.35.243:9008/stream" />
+<outline text="Radio María Costa Rica - 100.7 FM" title="Radio María Costa Rica - 100.7 FM" type="rss" url="http://dreamsiteradiocp2.com:8044/stream" />
+<outline text="Radio Mil Recuerdos Stereo" title="Radio Mil Recuerdos Stereo" type="rss" url="https://sechin.grupocentroserver.com/radio/8060/radio.mp3" />
+<outline text="Radio Nova CR" title="Radio Nova CR" type="rss" url="http://centova.hostingtico.com:8016/stream" />
+<outline text="Radio Platino" title="Radio Platino" type="rss" url="http://stream.zeno.fm/tet7d7sz2yzuv" />
+<outline text="Radio Revolución" title="Radio Revolución" type="rss" url="https://stream.zeno.fm/ftcx2988uwzuv" />
+<outline text="Radio Sinfonola 90.3FM" title="Radio Sinfonola 90.3FM" type="rss" url="http://streams.y2kwebs.com:9972/" />
+<outline text="Radio Spectro" title="Radio Spectro" type="rss" url="https://stream20.usastreams.com/8090/stream" />
+<outline text="Tamarindo Radio" title="Tamarindo Radio" type="rss" url="http://s1.voscast.com:11392/stream" />
+<outline text="Tiquicia Rock" title="Tiquicia Rock" type="rss" url="https://usa19.fastcast4u.com:5860/?type=http&amp;nocache=1690470873" />
+<outline text="Urbano 106 - 105.9 FM - San José, Costa Rica" title="Urbano 106 - 105.9 FM - San José, Costa Rica" type="rss" url="https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1" />
+<outline text="Zeta FM 95.1" title="Zeta FM 95.1" type="rss" url="https://virtualtronics.net/proxy/zetafm?mp=/stream" />
+</body>
+</opml>

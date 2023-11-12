@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for CW Curacao</title>
+</head>
+<body>
+<outline text="Dolfijn FM" title="Dolfijn FM" type="rss" url="http://85.214.231.253:8080/" />
+<outline text="Dolfijn FM 97.3 Seaquarium Beach" title="Dolfijn FM 97.3 Seaquarium Beach" type="rss" url="http://85.214.231.253:8080/stream.mp3" />
+<outline text="Easy FM 79.9" title="Easy FM 79.9" type="rss" url="http://64.150.176.42:8011/live" />
+<outline text="Radio 94 Korsou - 94.5 Willemstad" title="Radio 94 Korsou - 94.5 Willemstad" type="rss" url="http://162.243.94.61:8028/stream.mp3" />
+<outline text="radio semiya FM 98.5" title="radio semiya FM 98.5" type="rss" url="http://11331.cloudrad.io:9172/live" />
+</body>
+</opml>

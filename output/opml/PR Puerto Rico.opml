@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for PR Puerto Rico</title>
+</head>
+<body>
+<outline text="95 XFM" title="95 XFM" type="rss" url="http://162.244.80.106:10913/stream" />
+<outline text="AZ Rock" title="AZ Rock" type="rss" url="http://cassini.shoutca.st:9300/stream" />
+<outline text="Catolica Radio" title="Catolica Radio" type="rss" url="https://live.turadio.stream:7017/catolicaradiopr" />
+<outline text="Club One World" title="Club One World" type="rss" url="https://streams.radio.co/sa0b5d970a/listen" />
+<outline text="Echo 355" title="Echo 355" type="rss" url="http://stream.zeno.fm/hssq9ydayf9uv" />
+<outline text="Fidelity 95.7 fm PR" title="Fidelity 95.7 fm PR" type="rss" url="https://server7.servistreaming.com/proxy/fidelity?mp=%2Fstream%3Ftype%3D.mp3&amp;_=1" />
+<outline text="FM 96" title="FM 96" type="rss" url="http://149.56.155.73:8105/stream" />
+<outline text="Hot 102" title="Hot 102" type="rss" url="https://server7.servistreaming.com/proxy/hot?mp=%2Fstream%3Ftype%3D.mp3&amp;_=1" />
+<outline text="Pura Gracia" title="Pura Gracia" type="rss" url="https://26383.live.streamtheworld.com/SAM05AAC459_SC" />
+<outline text="Pura Gracia Radio" title="Pura Gracia Radio" type="rss" url="https://26383.live.streamtheworld.com/SAM05AAC459_SC" />
+<outline text="Radio Atenas 1500 AM" title="Radio Atenas 1500 AM" type="rss" url="https://radioatenas-webctgena.radioca.st/stream" />
+<outline text="Radio Casa Pueblo" title="Radio Casa Pueblo" type="rss" url="http://s1.voscast.com:9906/stream1523840050300/1" />
+<outline text="Radio Costa Calidad Normal" title="Radio Costa Calidad Normal" type="rss" url="https://radio.archipielago.uno/radiocosta" />
+<outline text="RadioORO PR" title="RadioORO PR" type="rss" url="https://us2.internet-radio.com/proxy/woro?mp=/stream" />
+<outline text="Spot Radio" title="Spot Radio" type="rss" url="https://c9.radioboss.fm/stream/141" />
+<outline text="WALO 1240 &quot;Radio Oriental&quot; Humacao" title="WALO 1240 &quot;Radio Oriental&quot; Humacao" type="rss" url="http://68.235.35.243:9031/stream?type=.mp3" />
+<outline text="WIPR &quot;Allegro 91.3&quot; San Juan" title="WIPR &quot;Allegro 91.3&quot; San Juan" type="rss" url="http://192.254.105.36:8080/broadwavehigh.mp3?src=1" />
+<outline text="WKVM Radio Paz 810" title="WKVM Radio Paz 810" type="rss" url="http://us2.internet-radio.com:8085/" />
+<outline text="WPAB 550 PONCE" title="WPAB 550 PONCE" type="rss" url="http://68.235.35.243:9059/stream" />
+<outline text="WRTU 89.7 Radio Universidad de Puerto Rico, San Juan" title="WRTU 89.7 Radio Universidad de Puerto Rico, San Juan" type="rss" url="http://streaming.radiouniversidad.pr:8062/" />
+<outline text="WSKN Radio Isla1320 am" title="WSKN Radio Isla1320 am" type="rss" url="http://server7.servistreaming.com:10070/stream" />
+<outline text="WUNO 630 &quot;Noti Uno&quot; San Juan" title="WUNO 630 &quot;Noti Uno&quot; San Juan" type="rss" url="http://68.235.35.243:9027/stream.mp3" />
+<outline text="WUPR Éxitos 1530" title="WUPR Éxitos 1530" type="rss" url="https://exitos1530.radioca.st/stream" />
+<outline text="Yunque93" title="Yunque93" type="rss" url="http://server7.servistreaming.com:10021/stream?type=.mp3" />
+</body>
+</opml>

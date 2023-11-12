@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for KH Cambodia</title>
+</head>
+<body>
+<outline text="National Radio of Kampuchea" title="National Radio of Kampuchea" type="rss" url="http://119.82.252.6:8080/broadwave.mp3" />
+<outline text="Vayo FM" title="Vayo FM" type="rss" url="http://50.21.176.38:8010/vayofm" />
+</body>
+</opml>

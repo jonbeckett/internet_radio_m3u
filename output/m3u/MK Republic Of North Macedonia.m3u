@@ -1,0 +1,36 @@
+#EXTM3U
+#PLAYLIST:Internet Radio Stations for MK Republic Of North Macedonia
+#EXTINF:-1 Bum Kumanovo
+http://iandonov.radioca.st/stream/1
+#EXTINF:-1 City Radio | 94.7FM
+http://176.9.117.123:9998/stream/1
+#EXTINF:-1 City Radio Macedonia
+http://176.9.117.123:9998/stream/1
+#EXTINF:-1 Club FM
+http://176.9.117.123:9996/stream/1
+#EXTINF:-1 Just Music Radio
+https://radiostream.neotel.mk/justmusicradio
+#EXTINF:-1 Kanal 103
+http://radiostream.neotel.mk/kanal103
+#EXTINF:-1 Lider FM 107,4
+https://liderfm.ipradio.mk/
+#EXTINF:-1 Metropolis Radio Network
+https://eu4.fastcast4u.com/proxy/metradio?mp=/1
+#EXTINF:-1 Radio Buba Mara 105.2 FM
+http://88.85.99.2/live-128.mp3
+#EXTINF:-1 Radio Maria Macedonia
+http://dreamsiteradiocp.com:8118/stream
+#EXTINF:-1 Radio Meff
+https://s32.myradiostream.com:16040/?type=http&nocache=1688299470?0.591044522318551
+#EXTINF:-1 Samo MK
+https://radiostream.neotel.mk/samomk
+#EXTINF:-1 Time FM Gevgelija
+https://s2.free-shoutcast.com/stream/18058
+#EXTINF:-1 Urban FM 90.8 Skopje
+https://securestreams4.autopo.st:1668/stream
+#EXTINF:-1 Експрес Радио 101.1 Струмица, Македонија
+http://ekspresradio.dyndns.org:8000/
+#EXTINF:-1 Канал 77
+https://radiocnd.mms.mk/proxy/web/stream
+#EXTINF:-1 Скај Радио
+https://skyradio.com.mk/listen.m3u

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for NF Norfolk Island</title>
+</head>
+<body>
+<outline text="Norfolk Radio" title="Norfolk Radio" type="rss" url="http://radio.nf:2899/vl2ni" />
+</body>
+</opml>

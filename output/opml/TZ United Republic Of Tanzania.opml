@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for TZ United Republic Of Tanzania</title>
+</head>
+<body>
+<outline text="Bongo Radio" title="Bongo Radio" type="rss" url="http://www.bongoradio.com/listen128k.pls" />
+<outline text="Bongo Radio – African Grooves Channel" title="Bongo Radio – African Grooves Channel" type="rss" url="http://www.bongoradio.com:8000/dance.mp3" />
+<outline text="Bongo Radio – East African Music Channel" title="Bongo Radio – East African Music Channel" type="rss" url="http://bongoradio.com:8000/african.mp3" />
+<outline text="Bongo Radio – Taarab &amp; Mduara Channel" title="Bongo Radio – Taarab &amp; Mduara Channel" type="rss" url="http://www.bongoradio.com:8000/taarab.mp3" />
+<outline text="Capital Radio" title="Capital Radio" type="rss" url="https://capitalradio.radioca.st/stream" />
+<outline text="Christian FM Radio" title="Christian FM Radio" type="rss" url="http://stream.zeno.fm/eequgfw72hhvv" />
+<outline text="Clouds FM" title="Clouds FM" type="rss" url="http://eu6.fastcast4u.com:5306/" />
+<outline text="Daniel Edward " title="Daniel Edward " type="rss" url="http://stream.zeno.fm/ex6ng25chfhvv" />
+<outline text="East Africa Radio FM" title="East Africa Radio FM" type="rss" url="https://eatv.radioca.st/stream" />
+<outline text="Heaven FM Radio" title="Heaven FM Radio" type="rss" url="http://stream.zeno.fm/eequgfw72hhvv" />
+<outline text="Heaven Radio" title="Heaven Radio" type="rss" url="http://stream.zeno.fm/eequgfw72hhvv" />
+<outline text="Kipiti Radio" title="Kipiti Radio" type="rss" url="http://stream.zeno.fm/7ebq5q3tcv8uv" />
+<outline text="Ml Christian Radio online " title="Ml Christian Radio online " type="rss" url="http://stream.zeno.fm/wq22xu1u0uhvv" />
+<outline text="Qiblaten FM" title="Qiblaten FM" type="rss" url="http://s36.myradiostream.com:20772/" />
+<outline text="Radio Kwizera" title="Radio Kwizera" type="rss" url="http://uk4-vn.mixstream.net:8052/listen.mp3" />
+<outline text="Radio Mbiu" title="Radio Mbiu" type="rss" url="http://dreamsiteradiocp5.com:8004/stream.mp3" />
+<outline text="Radio Ngamia" title="Radio Ngamia" type="rss" url="http://stream.zeno.fm/41e3gsdgmdouv" />
+<outline text="Radio One Stereo" title="Radio One Stereo" type="rss" url="https://radioonetanzania.radioca.st/stream" />
+<outline text="street One radio" title="street One radio" type="rss" url="http://stream.zeno.fm/d3as2fmadnruv" />
+<outline text="Wasafi Fm" title="Wasafi Fm" type="rss" url="http://streaming.radionomy.com/JamendoLounge" />
+</body>
+</opml>

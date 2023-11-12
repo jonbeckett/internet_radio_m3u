@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for KZ Kazakhstan</title>
+</head>
+<body>
+<outline text="Auto Radio Kazakhstan" title="Auto Radio Kazakhstan" type="rss" url="http://178.88.167.62:8080/AVTORADIO_192" />
+<outline text="Avtoradio" title="Avtoradio" type="rss" url="http://178.88.167.62:8080/AVTORADIO_192" />
+<outline text="Business FM 89.6" title="Business FM 89.6" type="rss" url="http://94.247.130.243:5050/business" />
+<outline text="Love Radio KZ" title="Love Radio KZ" type="rss" url="https://stream.gakku.tv:8443/love128.mp3" />
+<outline text="LuxFM" title="LuxFM" type="rss" url="https://icecast.luxfm.kz/luxfm" />
+<outline text="NS 106 FM" title="NS 106 FM" type="rss" url="http://89.219.35.26:8000/radions" />
+<outline text="NS-Lounge" title="NS-Lounge" type="rss" url="https://icecast.ns.kz/radions-lounge" />
+<outline text="NS-Rock" title="NS-Rock" type="rss" url="https://icecast.ns.kz/radions" />
+<outline text="Orda FM" title="Orda FM" type="rss" url="https://85.29.129.134:8443/orda" />
+<outline text="Pioner FM" title="Pioner FM" type="rss" url="https://live.zhanafm.kz:8443/pionerfm" />
+<outline text="Qazaq radiosy" title="Qazaq radiosy" type="rss" url="https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio" />
+<outline text="Radio 90s Eurodance" title="Radio 90s Eurodance" type="rss" url="https://listen1.myradio24.com/5967" />
+<outline text="Radio Astana" title="Radio Astana" type="rss" url="https://radio-streams.kaztrk.kz/astana/astana/icecast.audio" />
+<outline text="Radio Azamat" title="Radio Azamat" type="rss" url="https://listen4.myradio24.com/8162" />
+<outline text="Radio Bulbul" title="Radio Bulbul" type="rss" url="https://radiobulbul.stream.laut.fm/radiobulbul" />
+<outline text="Radio City" title="Radio City" type="rss" url="https://kvs01.businessfm.kz/city" />
+<outline text="Radio Nostalgie (Kazakhstan)" title="Radio Nostalgie (Kazakhstan)" type="rss" url="https://listen7.myradio24.com/alexx333" />
+<outline text="Russian Dance Radio" title="Russian Dance Radio" type="rss" url="https://lux-radio.com:8015/stream" />
+<outline text="Russkoye Radio Asia 104.7 FM" title="Russkoye Radio Asia 104.7 FM" type="rss" url="http://31.148.22.35:9000/stream" />
+<outline text="Shalqar" title="Shalqar" type="rss" url="https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio" />
+<outline text="Space Beat" title="Space Beat" type="rss" url="http://95.182.123.100/listen/space_beat/radio.mp3" />
+<outline text="Tengri FM" title="Tengri FM" type="rss" url="http://91.201.214.229:8000/tengrifm" />
+<outline text="ЖАНА FM" title="ЖАНА FM" type="rss" url="https://live.zhanafm.kz:8443/zhanafm_onair" />
+<outline text="Народное Радио" title="Народное Радио" type="rss" url="http://178.88.167.62:8080/DALA_192" />
+<outline text="Радио 7 (Казахстан)" title="Радио 7 (Казахстан)" type="rss" url="https://listen2.myradio24.com/8334" />
+<outline text="Радио Classic" title="Радио Classic" type="rss" url="https://radio-streams.kaztrk.kz/classic/classic/icecast.audio" />
+<outline text="Радио SANA" title="Радио SANA" type="rss" url="https://listen4.myradio24.com/radiosana" />
+<outline text="Радио Алау" title="Радио Алау" type="rss" url="https://s0.radioheart.ru:8000/RH67172" />
+<outline text="Радио Микс Казахстан" title="Радио Микс Казахстан" type="rss" url="http://streaming.radionomy.com/JamendoLounge" />
+<outline text="Радио Рауан" title="Радио Рауан" type="rss" url="https://listen4.myradio24.com/rauan" />
+<outline text="Радио Талап" title="Радио Талап" type="rss" url="https://okeyradio.ru/okey" />
+<outline text="Той Думан" title="Той Думан" type="rss" url="https://stream.gakku.tv:8443/live.mp3" />
+</body>
+</opml>

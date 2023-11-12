@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for CF The Central African Republic</title>
+</head>
+<body>
+<outline text="Radio Ndeke Luka FM" title="Radio Ndeke Luka FM" type="rss" url="http://stream.radiondekeluka.org:8001/ndekeluka" />
+<outline text="Truth FM 90.7" title="Truth FM 90.7" type="rss" url="http://uk1-vn.mixstream.net:10104/stream.mp3" />
+</body>
+</opml>

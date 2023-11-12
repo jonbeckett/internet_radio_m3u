@@ -1,0 +1,8 @@
+#EXTM3U
+#PLAYLIST:Internet Radio Stations for VI US Virgin Islands
+#EXTINF:-1 WSTX-AM 970 Christiansted
+http://wstxradio2.serverroom.net:8340/
+#EXTINF:-1 WSTX-FM 100.3 Christiansted
+http://wstxradio.serverroom.net:7490/
+#EXTINF:-1 X Transmission FM
+http://radio.xtransmissionfm.com:8000/xtfm

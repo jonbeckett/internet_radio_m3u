@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for AZ Azerbaijan</title>
+</head>
+<body>
+<outline text="105 fm" title="105 fm" type="rss" url="http://85.132.27.212:8888/azradio?listening-from-radio-radio-garden=1654328466" />
+<outline text="Anti Radio" title="Anti Radio" type="rss" url="https://stream.antiradio.net/radio/8000/mp3" />
+<outline text="Araz fm 103.3" title="Araz fm 103.3" type="rss" url="http://s39.myradiostream.com/5458/listen.mp3" />
+<outline text="Asan Radio" title="Asan Radio" type="rss" url="http://94.20.74.206:4448/stream1" />
+<outline text="ASAN Radio" title="ASAN Radio" type="rss" url="https://play.asanradio.az/" />
+<outline text="AutoLife Radio Azerbaijan" title="AutoLife Radio Azerbaijan" type="rss" url="http://radio.autoliferadio.com:8090/radio" />
+<outline text="AVTO FM" title="AVTO FM" type="rss" url="http://5.191.241.101:8000/avtofm" />
+<outline text="Azad Azərbaycan radiosu" title="Azad Azərbaycan radiosu" type="rss" url="https://audiostr.atv.az/106.3fm" />
+<outline text="Baku Jukebox" title="Baku Jukebox" type="rss" url="http://78.109.52.73:8000/listening-from-radio-garden-1696020096" />
+<outline text="Cipcip" title="Cipcip" type="rss" url="https://stream.zeno.fm/bqrnn6cx868uv" />
+<outline text="Media FM 105.5" title="Media FM 105.5" type="rss" url="http://95.217.196.109:8000/mediafm" />
+<outline text="Muğam" title="Muğam" type="rss" url="http://95.217.196.109:8000/mediamugam" />
+<outline text="Radio Veten" title="Radio Veten" type="rss" url="http://stream.zeno.fm/p1hx0c3y14zuv.m3u" />
+<outline text="Xezer FM" title="Xezer FM" type="rss" url="https://s40.myradiostream.com/:22546/listen.mp3?" />
+<outline text="Yurd FM" title="Yurd FM" type="rss" url="https://icecast.livetv.az/yurdfm" />
+</body>
+</opml>

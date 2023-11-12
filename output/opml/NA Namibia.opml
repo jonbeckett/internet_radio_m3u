@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for NA Namibia</title>
+</head>
+<body>
+<outline text="Hitradio Namibia" title="Hitradio Namibia" type="rss" url="https://s37.derstream.net/hitradio-namibia.mp3" />
+<outline text="Kosmos 94.1" title="Kosmos 94.1" type="rss" url="https://edge.iono.fm/xice/88_high.mp3" />
+<outline text="Nam Radio Local" title="Nam Radio Local" type="rss" url="https://music-station.live/radio/8010/radio.mp3" />
+<outline text="Nam-Radio" title="Nam-Radio" type="rss" url="https://music-station.live/radio/8000/radio.mp3" />
+<outline text="RADIO ALEX FM NAMIBIA" title="RADIO ALEX FM NAMIBIA" type="rss" url="https://stream-52.zeno.fm/sc5kf3x9hfhvv?zs=iSM_kJnQQyOi2qyimgL91g" />
+</body>
+</opml>

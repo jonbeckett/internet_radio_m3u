@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for NO Norway</title>
+</head>
+<body>
+<outline text=" 🎥 ues 🎬 " title=" 🎥 ues 🎬 " type="rss" url="https://listen.radionomy.com/unleashingepicsoundtracks" />
+<outline text="Arctic Outpost Radio" title="Arctic Outpost Radio" type="rss" url="https://radio.streemlion.com:3715/stream" />
+<outline text="Bandit" title="Bandit" type="rss" url="https://p11.p4groupaudio.com/P11_MM" />
+<outline text="Guovdageainnu Lagasradio" title="Guovdageainnu Lagasradio" type="rss" url="https://streaming.radio.co/s5b773f8d3/listen" />
+<outline text="Hamar Radioen" title="Hamar Radioen" type="rss" url="https://lyd.radioene.no/hamar.mp3" />
+<outline text="historyradio.org" title="historyradio.org" type="rss" url="http://stream.radiojar.com/6bmecgg3wd5tv" />
+<outline text="KISS" title="KISS" type="rss" url="https://live-bauerno.sharp-stream.com/kiss_no_mp3" />
+<outline text="Kiss Dance" title="Kiss Dance" type="rss" url="http://live-bauerno.sharp-stream.com/kiss_no_hq" />
+<outline text="Like It A Lot Radio" title="Like It A Lot Radio" type="rss" url="https://lial.radioca.st/stream" />
+<outline text="Metal Express Radio" title="Metal Express Radio" type="rss" url="http://s39.myradiostream.com:11590/listen.m3u" />
+<outline text="Nea Radio" title="Nea Radio" type="rss" url="http://nettradio.nearadio.no:8000/stream.m3u" />
+<outline text="Norsk Country Radio" title="Norsk Country Radio" type="rss" url="http://s6.voscast.com:10258/" />
+<outline text="NRJ Norge" title="NRJ Norge" type="rss" url="https://nrj.p4groupaudio.com/NRJ_MM" />
+<outline text="NRK Alltid Nyheter (Høy Kvalitet)" title="NRK Alltid Nyheter (Høy Kvalitet)" type="rss" url="http://nrk-mms-live.telenorcdn.net/nrk_radio_alltid_nyheter_mp3_h" />
+<outline text="NRK Alltid Nyheter (Lav Kvalitet)" title="NRK Alltid Nyheter (Lav Kvalitet)" type="rss" url="http://lyd.nrk.no/nrk_radio_alltid_nyheter_mp3_l.m3u" />
+<outline text="NRK Folkemusikk (Høy Kvalitet)" title="NRK Folkemusikk (Høy Kvalitet)" type="rss" url="http://nrk-mms-live.telenorcdn.net/nrk_radio_folkemusikk_mp3_h" />
+<outline text="NRK Folkemusikk (Lav Kvalitet)" title="NRK Folkemusikk (Lav Kvalitet)" type="rss" url="http://lyd.nrk.no/nrk_radio_folkemusikk_mp3_l.m3u" />
+<outline text="NRK Jazz" title="NRK Jazz" type="rss" url="http://lyd.nrk.no/nrk_radio_jazz_mp3_h" />
+<outline text="NRK Jazz (Høy Kvalitet)" title="NRK Jazz (Høy Kvalitet)" type="rss" url="http://lyd.nrk.no/nrk_radio_jazz_mp3_h.m3u" />
+<outline text="NRK Jazz (Lav Kvalitet)" title="NRK Jazz (Lav Kvalitet)" type="rss" url="http://lyd.nrk.no/nrk_radio_jazz_mp3_l.m3u" />
+<outline text="NRK Klassisk (Høy Kvalitet)" title="NRK Klassisk (Høy Kvalitet)" type="rss" url="http://nrk-mms-live.telenorcdn.net/nrk_radio_klassisk_mp3_h" />
+<outline text="NRK Klassisk (Lav Kvalitet)" title="NRK Klassisk (Lav Kvalitet)" type="rss" url="http://lyd.nrk.no/nrk_radio_klassisk_mp3_l.m3u" />
+<outline text="NRK MP3" title="NRK MP3" type="rss" url="http://lyd.nrk.no/nrk_radio_mp3_mp3_h" />
+<outline text="NRK mP3 (Høy Kvalitet)" title="NRK mP3 (Høy Kvalitet)" type="rss" url="http://lyd.nrk.no/nrk_radio_mp3_mp3_h.m3u" />
+<outline text="NRK mP3 (Lav Kvalitet)" title="NRK mP3 (Lav Kvalitet)" type="rss" url="http://lyd.nrk.no/nrk_radio_mp3_mp3_l.m3u" />
+<outline text="NRK P1" title="NRK P1" type="rss" url="http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_h" />
+<outline text="NRK P1 Buskerud" title="NRK P1 Buskerud" type="rss" url="http://lyd.nrk.no/nrk_radio_p1_buskerud_mp3_h.m3u" />
+<outline text="NRK P1 Finnmark" title="NRK P1 Finnmark" type="rss" url="http://lyd.nrk.no/nrk_radio_p1_finnmark_mp3_h.m3u" />
+<outline text="NRK P1 Hordaland" title="NRK P1 Hordaland" type="rss" url="http://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_h.m3u" />
+<outline text="NRK P1 Møre og Romsdal" title="NRK P1 Møre og Romsdal" type="rss" url="http://lyd.nrk.no/nrk_radio_p1_more_og_romsdal_mp3_h.m3u" />
+<outline text="NRK P1 Nordland" title="NRK P1 Nordland" type="rss" url="http://lyd.nrk.no/nrk_radio_p1_nordland_mp3_h.m3u" />
+<outline text="NRK P1 Østfold" title="NRK P1 Østfold" type="rss" url="http://lyd.nrk.no/nrk_radio_p1_ostfold_mp3_h.m3u" />
+<outline text="NRK P1 Rogaland" title="NRK P1 Rogaland" type="rss" url="http://lyd.nrk.no/nrk_radio_p1_rogaland_mp3_m" />
+<outline text="NRK P1 Sogn og Fjordane" title="NRK P1 Sogn og Fjordane" type="rss" url="http://lyd.nrk.no/nrk_radio_p1_sogn_og_fjordane_mp3_h.m3u" />
+<outline text="NRK P1 Sørlandet" title="NRK P1 Sørlandet" type="rss" url="http://lyd.nrk.no/nrk_radio_p1_sorlandet_mp3_h.m3u" />
+<outline text="NRK P1 Stor Oslo" title="NRK P1 Stor Oslo" type="rss" url="https://lyd.nrk.no/nrk_radio_p1_stor-oslo_mp3_h.m3u" />
+<outline text="NRK P1 Telemark" title="NRK P1 Telemark" type="rss" url="http://lyd.nrk.no/nrk_radio_p1_telemark_mp3_h.m3u" />
+<outline text="NRK P1 Troms" title="NRK P1 Troms" type="rss" url="http://lyd.nrk.no/nrk_radio_p1_troms_mp3_h.m3u" />
+<outline text="NRK P1 Trøndelag" title="NRK P1 Trøndelag" type="rss" url="http://lyd.nrk.no/nrk_radio_p1_trondelag_mp3_h.m3u" />
+<outline text="NRK P1 Vestfold" title="NRK P1 Vestfold" type="rss" url="http://lyd.nrk.no/nrk_radio_p1_vestfold_mp3_h.m3u" />
+<outline text="NRK P1+ (Høy Kvalitet)" title="NRK P1+ (Høy Kvalitet)" type="rss" url="http://lyd.nrk.no/nrk_radio_p1pluss_mp3_h.m3u" />
+<outline text="NRK P1+ (Lav Kvalitet)" title="NRK P1+ (Lav Kvalitet)" type="rss" url="http://lyd.nrk.no/nrk_radio_p1pluss_mp3_l.m3u" />
+<outline text="NRK P13 (Høy Kvalitet)" title="NRK P13 (Høy Kvalitet)" type="rss" url="http://lyd.nrk.no/nrk_radio_p13_mp3_h" />
+<outline text="NRK P13 (Lav Kvalitet)" title="NRK P13 (Lav Kvalitet)" type="rss" url="http://lyd.nrk.no/nrk_radio_p13_mp3_l" />
+<outline text="NRK P2" title="NRK P2" type="rss" url="http://lyd.nrk.no/nrk_radio_p2_mp3_h" />
+<outline text="NRK P2 (Høy Kvalitet)" title="NRK P2 (Høy Kvalitet)" type="rss" url="http://nrk-mms-live.telenorcdn.net/nrk_radio_p2_mp3_h" />
+<outline text="NRK P2 (Lav Kvalitet)" title="NRK P2 (Lav Kvalitet)" type="rss" url="http://lyd.nrk.no/nrk_radio_p2_mp3_l.m3u" />
+<outline text="NRK P3" title="NRK P3" type="rss" url="http://lyd.nrk.no/nrk_radio_p3_mp3_h" />
+<outline text="NRK P3 (Høy Kvalitet)" title="NRK P3 (Høy Kvalitet)" type="rss" url="http://lyd.nrk.no/nrk_radio_p3_mp3_h.m3u" />
+<outline text="NRK P3 (Lav Kvalitet)" title="NRK P3 (Lav Kvalitet)" type="rss" url="http://lyd.nrk.no/nrk_radio_p3_mp3_l.m3u" />
+<outline text="NRK P3 Urørt" title="NRK P3 Urørt" type="rss" url="http://lyd.nrk.no/nrk_radio_p3_urort_mp3_h.m3u" />
+<outline text="NRK Sport" title="NRK Sport" type="rss" url="http://lyd.nrk.no/nrk_radio_sport_mp3_m" />
+<outline text="Ordentlig Radio" title="Ordentlig Radio" type="rss" url="http://mms-live.online.no/oradio_mp3_m" />
+<outline text="P24-7 JuleRadioen" title="P24-7 JuleRadioen" type="rss" url="https://live-bauerno.sharp-stream.com/station17_no_mp3" />
+<outline text="P24-7 Kos" title="P24-7 Kos" type="rss" url="https://live-bauerno.sharp-stream.com/p247kos_no_hq?direct=true" />
+<outline text="P24-7 Mix" title="P24-7 Mix" type="rss" url="https://live-bauerno.sharp-stream.com/p247mix_no_mp3" />
+<outline text="P4 Lyden av Norge" title="P4 Lyden av Norge" type="rss" url="https://p4.p4groupaudio.com/P04_MM" />
+<outline text="P5 Hits" title="P5 Hits" type="rss" url="https://p4.p4groupaudio.com/P05_MM" />
+<outline text="P6 Rock" title="P6 Rock" type="rss" url="https://p6.p4groupaudio.com/P06_MM" />
+<outline text="P7" title="P7" type="rss" url="https://radio.p7.no/listen/p7_kristen_riksradio/kristen_riksradio.xspf" />
+<outline text="P7 Kristen Pop" title="P7 Kristen Pop" type="rss" url="https://radio.p7.no/listen/p7_kristen_pop/kristen_pop.xspf" />
+<outline text="P8 Pop" title="P8 Pop" type="rss" url="https://p8.p4groupaudio.com/P08_MM" />
+<outline text="P8 Pop Radio" title="P8 Pop Radio" type="rss" url="https://p8.p4groupaudio.com/P08_MM" />
+<outline text="P9 Retro" title="P9 Retro" type="rss" url="https://p9.p4groupaudio.com/P09_MH" />
+<outline text="Radio Alta" title="Radio Alta" type="rss" url="https://stream02.nordavis.no/radioalta-128k" />
+<outline text="Radio Metro Oslo" title="Radio Metro Oslo" type="rss" url="http://stream.oneplay.no/oslo128" />
+<outline text="Radio Metro Sørlandet" title="Radio Metro Sørlandet" type="rss" url="https://stream.oneplay.no/sorlandet128" />
+<outline text="Radio Norge" title="Radio Norge" type="rss" url="http://live-bauerno.sharp-stream.com/radionorge_no_hq" />
+<outline text="Radio Northern Star" title="Radio Northern Star" type="rss" url="http://5866.cloudrad.io:8018/northernstar.mp3" />
+<outline text="Radio Nova" title="Radio Nova" type="rss" url="http://stream.radionova.no/mp3" />
+<outline text="Radio Randsfjord" title="Radio Randsfjord" type="rss" url="http://stream.radiorandsfjord.no/randsfjord128.mp3" />
+<outline text="Radio Rock" title="Radio Rock" type="rss" url="http://tx-bauerno.sharp-stream.com/http_live.php?i=radiorock_no_hq" />
+<outline text="Radio Rox" title="Radio Rox" type="rss" url="http://stream.radiometro.no/rox128" />
+<outline text="Radio Sotra" title="Radio Sotra" type="rss" url="https://streaming.radiosotra.no:8443/radiosotra" />
+<outline text="RADIO Trøndelag" title="RADIO Trøndelag" type="rss" url="https://nettradio.radiotrondelag.no:8443/radio_trondelag" />
+<outline text="Radio Vinyl" title="Radio Vinyl" type="rss" url="http://live-bauerno.sharp-stream.com/vinyl_no_hq" />
+<outline text="Radio-Rock (NOR)" title="Radio-Rock (NOR)" type="rss" url="http://live-bauerno.sharp-stream.com/radiorock_no_mp3" />
+<outline text="Radio102" title="Radio102" type="rss" url="https://stream.radio102.no/radio102_hq" />
+<outline text="radiolatinamerika" title="radiolatinamerika" type="rss" url="https://stream.radiolatinamerika.no/latam_hq" />
+<outline text="radiOrakel" title="radiOrakel" type="rss" url="https://stream.radiorakel.no/fm993.mp3" />
+<outline text="Radiø Bø" title="Radiø Bø" type="rss" url="https://nettradio.radiobo.com/radiobo-high" />
+<outline text="RRA" title="RRA" type="rss" url="http://remote.remoy.org:59913/rasta2" />
+<outline text="Topp 40" title="Topp 40" type="rss" url="http://live-bauerno.sharp-stream.com/top40_no_mp3" />
+<outline text="Toten radio" title="Toten radio" type="rss" url="http://streamer.nextnet.no/radiototen-mp3" />
+<outline text="Trysilradioen" title="Trysilradioen" type="rss" url="https://lyd.radioene.no/trysil.mp3" />
+</body>
+</opml>

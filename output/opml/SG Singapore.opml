@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for SG Singapore</title>
+</head>
+<body>
+<outline text="963 Hao FM" title="963 Hao FM" type="rss" url="https://23683.live.streamtheworld.com/HAO_963_SC" />
+<outline text="987" title="987" type="rss" url="https://14033.live.streamtheworld.com/987FM_SC" />
+<outline text="AXR Manila" title="AXR Manila" type="rss" url="https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_MANILA.mp3" />
+<outline text="AXR Singapore" title="AXR Singapore" type="rss" url="http://provisioning.streamtheworld.com/pls/AXR_SINGAPORE.pls" />
+<outline text="CNA 938" title="CNA 938" type="rss" url="https://22893.live.streamtheworld.com/938NOW_SC" />
+<outline text="GOLD 905" title="GOLD 905" type="rss" url="https://22403.live.streamtheworld.com/GOLD905_SC" />
+<outline text="Radio Melody with Brother Bjorn" title="Radio Melody with Brother Bjorn" type="rss" url="http://ssl.geckohost.nz:9191/autodj" />
+<outline text="RIA 897" title="RIA 897" type="rss" url="https://22393.live.streamtheworld.com/RIA897FM_SC" />
+<outline text="XRadio" title="XRadio" type="rss" url="http://xradio.zone:9420/stream" />
+</body>
+</opml>

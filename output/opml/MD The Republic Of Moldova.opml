@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for MD The Republic Of Moldova</title>
+</head>
+<body>
+<outline text="Aquarelle FM" title="Aquarelle FM" type="rss" url="http://93.115.137.75:8000/aquarellefm.mp3" />
+<outline text="Crucial Velocity Radio" title="Crucial Velocity Radio" type="rss" url="http://ais-sa2.cdnstream1.com/1369_128" />
+<outline text="Dance Fm Moldova" title="Dance Fm Moldova" type="rss" url="http://37.233.41.76:8000/dancefm" />
+<outline text="Diaspora Media" title="Diaspora Media" type="rss" url="https://n01.radiojar.com/58ts0hd5hrquv?rj-ttl=5&amp;rj-tok=AAABbdDdznQAS4mz5X2BNKzzdA" />
+<outline text="Drive FM" title="Drive FM" type="rss" url="http://109.185.236.241:8000/DriveFM" />
+<outline text="Eco FM" title="Eco FM" type="rss" url="http://188.138.204.98:8080/ecoFM" />
+<outline text="HIT FM 200s Hits" title="HIT FM 200s Hits" type="rss" url="https://stream.hitfm.md:8443/00_hits_mp3_320" />
+<outline text="Hit FM Moldova" title="Hit FM Moldova" type="rss" url="https://stream.hitfm.md:8443/HitFM_mp3" />
+<outline text="imago.fm" title="imago.fm" type="rss" url="http://109.233.192.78:8000/_a" />
+<outline text="LOVE PRO Dj Radio Chisinau" title="LOVE PRO Dj Radio Chisinau" type="rss" url="http://live.prodjradio.net:8000/" />
+<outline text="love radio" title="love radio" type="rss" url="http://37.233.41.76:8000/lovefm" />
+<outline text="Love Radio Moldova" title="Love Radio Moldova" type="rss" url="http://37.233.41.76:8000/lovefm" />
+<outline text="Maestro FM" title="Maestro FM" type="rss" url="http://live.maestrofm.md:8000/maestro" />
+<outline text="MaestroFM" title="MaestroFM" type="rss" url="http://live.maestrofm.md:8000/maestro" />
+<outline text="Megapolis Fm" title="Megapolis Fm" type="rss" url="https://megapolisfm.md:8443/886" />
+<outline text="Megapolis FM Moldova" title="Megapolis FM Moldova" type="rss" url="https://megapolisfm.md:8443/886" />
+<outline text="Moldova Radio One " title="Moldova Radio One " type="rss" url="http://live.maestrofm.md:8000/r1" />
+<outline text="POLI DISC - Новое радио" title="POLI DISC - Новое радио" type="rss" url="http://77.89.206.126:7030/live" />
+<outline text="PRODj Radio" title="PRODj Radio" type="rss" url="http://live.prodjradio.net:8000/?type=http&amp;nocache=4585" />
+<outline text="Radio Albena Taraclia" title="Radio Albena Taraclia" type="rss" url="http://109.185.191.129:49400/" />
+<outline text="Radio DAR" title="Radio DAR" type="rss" url="http://188.138.191.214/RadioDar" />
+<outline text="Radio Logos" title="Radio Logos" type="rss" url="http://asculta.logos.md:10000/live256.m3u" />
+<outline text="Radio Micul Samaritean" title="Radio Micul Samaritean" type="rss" url="https://s5.radio.co/sfff7b7e97/listen" />
+<outline text="Radio Moldova Tineret" title="Radio Moldova Tineret" type="rss" url="http://radiolive.trm.md:8000/RM-Tineret-320" />
+<outline text="RADIO NOROC" title="RADIO NOROC" type="rss" url="http://live.noroc.tv:8000/radionoroc.mp3" />
+<outline text="Radio One Moldova" title="Radio One Moldova" type="rss" url="http://live.maestrofm.md:8000/r1" />
+<outline text="Radio Orhei FM" title="Radio Orhei FM" type="rss" url="http://live.prodjradio.net:8030/" />
+<outline text="RADIO PLAI" title="RADIO PLAI" type="rss" url="http://stream.radioplai.md:8000/live" />
+<outline text="Radio Relax" title="Radio Relax" type="rss" url="https://stream.hitfm.md:8443/Relax_mp3_320" />
+<outline text="Radio Relax Moldova" title="Radio Relax Moldova" type="rss" url="https://stream.hitfm.md:8443/Relax_mp3_320" />
+<outline text="Radio RFI Moldova" title="Radio RFI Moldova" type="rss" url="https://asculta.radiorfi.ro/live.mp3" />
+<outline text="Radio Studentus" title="Radio Studentus" type="rss" url="http://radiolive.studentus.md:8000/live" />
+<outline text="RadioRetroFM Moldova" title="RadioRetroFM Moldova" type="rss" url="https://europaplus.hostingradio.ru:8014/retro320.mp3" />
+<outline text="Retro FM" title="Retro FM" type="rss" url="http://retroserver.streamr.ru:8043/retro256.mp3" />
+<outline text="RetroFM" title="RetroFM" type="rss" url="http://retro256.streamr.ru/" />
+</body>
+</opml>

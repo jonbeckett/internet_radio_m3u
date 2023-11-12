@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for CI Coted Ivoire</title>
+</head>
+<body>
+<outline text="Radio Alpha Blondy 97.9 Abidjan" title="Radio Alpha Blondy 97.9 Abidjan" type="rss" url="https://www.radioking.com/play/alphablondyfm" />
+<outline text="Radio Nostalgie 101.1 Abidjan" title="Radio Nostalgie 101.1 Abidjan" type="rss" url="http://213.136.96.14:8000/nostalgie2.mp3" />
+</body>
+</opml>

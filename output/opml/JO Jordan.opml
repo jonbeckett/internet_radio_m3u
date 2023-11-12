@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for JO Jordan</title>
+</head>
+<body>
+<outline text=". القارئ محمد أيوب " title=". القارئ محمد أيوب " type="rss" url="https://qurango.net/radio/mohammed_ayyub" />
+<outline text=".. مختصر التفسير " title=".. مختصر التفسير " type="rss" url="https://qurango.net/radio/mukhtasartafsir" />
+<outline text="#إذاعة القرآن الكريم" title="#إذاعة القرآن الكريم" type="rss" url="https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&amp;rj-tok=AAABhdgGORQA-2acfyF3_4WY2g" />
+<outline text="Hussain fm" title="Hussain fm" type="rss" url="http://s2.voscast.com:10444/stream" />
+<outline text="Jordan Melody FM" title="Jordan Melody FM" type="rss" url="http://s3.voscast.com:9966/" />
+<outline text="Mazaj FM" title="Mazaj FM" type="rss" url="https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3" />
+<outline text="Melody Jordan Radio" title="Melody Jordan Radio" type="rss" url="http://s3.voscast.com:9966/stream1686938227998" />
+<outline text="Mood Fm 92 Amman" title="Mood Fm 92 Amman" type="rss" url="https://securestreams2.autopo.st:1241/live" />
+<outline text="Watar FM" title="Watar FM" type="rss" url="https://securestreams2.autopo.st:1243/live" />
+<outline text="تفسير بن عثيمين" title="تفسير بن عثيمين" type="rss" url="https://qurango.net/radio/tafseer" />
+</body>
+</opml>

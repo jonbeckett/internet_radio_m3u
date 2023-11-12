@@ -1,0 +1,56 @@
+#EXTM3U
+#PLAYLIST:Internet Radio Stations for GT Guatemala
+#EXTINF:-1 Actitud 100.9
+https://ss.redradios.net:8002/stream?type=.mp3
+#EXTINF:-1 Atmósfera 96.5
+https://stream.zenolive.com/wbqp37gm8ueuv
+#EXTINF:-1 Emisoras Unidas 89.7
+https://stream.zenolive.com/z96sq8tndseuv
+#EXTINF:-1 Exa FM 101.7 Guatemala
+https://stream.zeno.fm/czdkk32qduhvv
+#EXTINF:-1 Exa FM Guatemala
+https://stream.zeno.fm/czdkk32qduhvv
+#EXTINF:-1 FeLove Biblia en Quiché
+http://radio.produccionescasaverde.com:8788/autodj
+#EXTINF:-1 Ke Buena Guatemala
+https://stream.zeno.fm/m5p5sfrywhhvv
+#EXTINF:-1 Kiss FM 97.7
+https://stream.zenolive.com/1sgzkhhm8ueuv
+#EXTINF:-1 La Voz de La Buena Nueva
+http://stream-150.zeno.fm/gtxcmw2851zuv?zs=iS5CzxAFQ1ugzhDTJgY8fg
+#EXTINF:-1 La Voz de La Buena Nueva 91.9 FM
+http://stream-150.zeno.fm/gtxcmw2851zuv?zs=iS5CzxAFQ1ugzhDTJgY8fg
+#EXTINF:-1 La Voz de La Buena Nueva 91.9FM
+http://stream.zeno.fm/gtxcmw2851zuv
+#EXTINF:-1 La Voz del Hogar 96.7 
+https://servidor34.brlogic.com:7230/live
+#EXTINF:-1 palabra miel
+http://juventudpalabramiel.org:8000/radio
+#EXTINF:-1 Panamericana Internacional
+http://5.79.86.14:8011/live
+#EXTINF:-1 Rabito Valle
+https://servidor34.brlogic.com:7230/live
+#EXTINF:-1 Radical Radiogt
+https://cdn4.onstream.audio/proxy/radical/stream
+#EXTINF:-1 Radio Actitud
+https://ss.redradios.net:8002/stream?type=.mp3
+#EXTINF:-1 Radio Alegria
+http://radio.produccionescasaverde.com:8713/stream
+#EXTINF:-1 Radio Camino Santidad
+http://audio.livecastnet.com:1290/stream
+#EXTINF:-1 Radio Fabulosa 88.9 FM
+http://s4.voscast.com:8908/Fabulosa_Capital
+#EXTINF:-1 Radio Infinita
+https://streams.radio.co/see730c7ab/listen
+#EXTINF:-1 Radio Nacional Guatemala - La Voz de Guatemala
+https://usa3.lhdserver.es:8225/stream
+#EXTINF:-1 Radio Planeta Guatemala
+https://cast.az-streamingserver.com/proxy/lhufblaq?mp=/stream
+#EXTINF:-1 Radio Universidad
+https://stream.zeno.fm/xqbz7b86a0quv
+#EXTINF:-1 TGSM San Marcos
+https://usa3.lhdserver.es:8227/stream
+#EXTINF:-1 TGTU Totonicapan
+https://usa3.lhdserver.es:8233/stream
+#EXTINF:-1 TGW
+https://usa3.lhdserver.es:8225/stream

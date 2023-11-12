@@ -1,0 +1,6 @@
+#EXTM3U
+#PLAYLIST:Internet Radio Stations for QA Qatar
+#EXTINF:-1 Qabayan Radio 94.3 FM
+http://c2.radioboss.fm:8478/live
+#EXTINF:-1 Suno Malayalam FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3

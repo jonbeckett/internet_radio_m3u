@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for MN Mongolia</title>
+</head>
+<body>
+<outline text="Family Radio FM" title="Family Radio FM" type="rss" url="https://c2.radioboss.fm/stream/394" />
+<outline text="MGL Radio" title="MGL Radio" type="rss" url="http://stream17.shoutcastsolutions.com:8096/" />
+</body>
+</opml>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for SI Slovenia</title>
+</head>
+<body>
+<outline text="BestFM" title="BestFM" type="rss" url="https://live.radio.si/BestFM" />
+<outline text="Hit Radio Center (Ljubljana - 102.4MHz)" title="Hit Radio Center (Ljubljana - 102.4MHz)" type="rss" url="http://stream3.radiocenter.si:8000/center/1" />
+<outline text="Hitradio Center" title="Hitradio Center" type="rss" url="http://stream3.radiocenter.si:8000/center" />
+<outline text="Hitradio center 80&apos;s" title="Hitradio center 80&apos;s" type="rss" url="http://stream3.radiocenter.si:8064/stream/1" />
+<outline text="Hitradio center fresh pop" title="Hitradio center fresh pop" type="rss" url="http://stream3.radiocenter.si:8058/stream/1" />
+<outline text="Hitradio center latin" title="Hitradio center latin" type="rss" url="http://stream3.radiocenter.si:8200/stream/1" />
+<outline text="Hitradio center love" title="Hitradio center love" type="rss" url="http://stream3.radiocenter.si:8060/stream/1" />
+<outline text="Hitradio center megamix" title="Hitradio center megamix" type="rss" url="http://stream3.radiocenter.si:8066/stream/1" />
+<outline text="Hitradio center rock" title="Hitradio center rock" type="rss" url="http://stream.rockradio.si:9034/stream/1" />
+<outline text="Hitradio center top 100" title="Hitradio center top 100" type="rss" url="http://stream3.radiocenter.si:9020/stream/1" />
+<outline text="Hitradio center yu" title="Hitradio center yu" type="rss" url="http://stream3.radiocenter.si:8100/stream/1" />
+<outline text="Neodvisni obalni radio" title="Neodvisni obalni radio" type="rss" url="http://tigr.no-ip.org:8000/noradio.mp3" />
+<outline text="Primorski val" title="Primorski val" type="rss" url="http://shoutcast.controlpanel.si:2199/tunein/primorskival-stream.pls" />
+<outline text="Radio 1" title="Radio 1" type="rss" url="http://live.radio.si/Radio1" />
+<outline text="Radio 1 - Maribor (107.9MHz)" title="Radio 1 - Maribor (107.9MHz)" type="rss" url="https://live.radio1.si/Radio1" />
+<outline text="Radio 2" title="Radio 2" type="rss" url="http://live.radio2.si/Radio2?1448457274706.mo3" />
+<outline text="Radio 94" title="Radio 94" type="rss" url="http://77.38.12.198:8000/radio94" />
+<outline text="Radio Aktual" title="Radio Aktual" type="rss" url="http://195.95.158.131:9080/" />
+<outline text="Radio Antena" title="Radio Antena" type="rss" url="http://live.radioantena.si/Antena" />
+<outline text="Radio Antena (105.2MHz)" title="Radio Antena (105.2MHz)" type="rss" url="https://live.radio.si/Antena" />
+<outline text="Radio BOB" title="Radio BOB" type="rss" url="http://live6.infonetmedia.si/Europa05" />
+<outline text="Radio Bob" title="Radio Bob" type="rss" url="https://live.radio.si/BOB" />
+<outline text="Radio Capris 80" title="Radio Capris 80" type="rss" url="http://stream02.exit.si:8000/80?" />
+<outline text="Radio Capris 90 DANCE" title="Radio Capris 90 DANCE" type="rss" url="http://stream02.exit.si:8000/MEGAMIX?" />
+<outline text="Radio Capris 90 POP" title="Radio Capris 90 POP" type="rss" url="http://stream02.exit.si:8000/90?" />
+<outline text="Radio Capris Dalmacija" title="Radio Capris Dalmacija" type="rss" url="http://stream02.exit.si:8000/DALMACIJA?" />
+<outline text="Radio Capris EX - YU" title="Radio Capris EX - YU" type="rss" url="http://stream02.exit.si:8000/EXYU?" />
+<outline text="Radio Capris Hits" title="Radio Capris Hits" type="rss" url="http://stream02.exit.si:8000/HITS?" />
+<outline text="Radio Capris ITALIA" title="Radio Capris ITALIA" type="rss" url="http://stream02.exit.si:8000/ITA?" />
+<outline text="Radio Capris LOVE" title="Radio Capris LOVE" type="rss" url="http://stream02.exit.si:8000/LOVE?" />
+<outline text="Radio Capris POLETJE" title="Radio Capris POLETJE" type="rss" url="http://stream02.exit.si:8000/POLETJE?" />
+<outline text="Radio Capris Rock" title="Radio Capris Rock" type="rss" url="http://stream02.exit.si:8000/ROCK?" />
+<outline text="Radio Capris SLO" title="Radio Capris SLO" type="rss" url="http://stream02.exit.si:8000/SLO?" />
+<outline text="Radio Celje" title="Radio Celje" type="rss" url="http://online-radio.eu/export/winamp/110935-radio-celje" />
+<outline text="Radio City" title="Radio City" type="rss" url="https://stream1.radiocity.si/CityMp3128.mp3" />
+<outline text="Radio City (Maribor) 100.6 FM" title="Radio City (Maribor) 100.6 FM" type="rss" url="http://82.149.22.34:8000/CityMp364mono.mp3" />
+<outline text="Radio City MB" title="Radio City MB" type="rss" url="http://82.149.22.34:8000/CityMp3128.mp3" />
+<outline text="Radio Ekspres" title="Radio Ekspres" type="rss" url="http://93.103.13.156:8000/" />
+<outline text="Radio Expres" title="Radio Expres" type="rss" url="http://stream2.radioekspres.si:8016/stream?type=http&amp;nocache=138" />
+<outline text="Radio Gorenc" title="Radio Gorenc" type="rss" url="http://stream.radiogorenc.si:8000/radiogorenc.mp3" />
+<outline text="Radio Hit" title="Radio Hit" type="rss" url="http://stream03.exit.si:8000/radiohit" />
+<outline text="Radio HIT Domzale" title="Radio HIT Domzale" type="rss" url="http://stream03.exit.si:8000/radiohit" />
+<outline text="Radio KRka" title="Radio KRka" type="rss" url="https://live.radio.si/Krka" />
+<outline text="Radio MARŠ" title="Radio MARŠ" type="rss" url="http://frekvenca.eu:8000/radiomars.mp3.m3u" />
+<outline text="Radio Maxi" title="Radio Maxi" type="rss" url="http://live2.infonetmedia.si:8000/Maxi" />
+<outline text="Radio Meteor" title="Radio Meteor" type="rss" url="http://eu1.fastcast4u.com:20052/stream" />
+<outline text="Radio Mister Deejay" title="Radio Mister Deejay" type="rss" url="http://stream.mister-deejay.com:9008/" />
+<outline text="Radio Murski Val" title="Radio Murski Val" type="rss" url="http://live.radio.si/murskival" />
+<outline text="Radio Nula" title="Radio Nula" type="rss" url="https://strm.radionula.com/classics" />
+<outline text="radio nula 2" title="radio nula 2" type="rss" url="http://streaming.radionula.com:8800/channel2" />
+<outline text="Radio Nula Beatz" title="Radio Nula Beatz" type="rss" url="https://strm.radionula.com/lounge" />
+<outline text="Radio Nula Classic" title="Radio Nula Classic" type="rss" url="https://strm.radionula.com/classics" />
+<outline text="Radio Nula Classics" title="Radio Nula Classics" type="rss" url="http://streaming.radionula.com:8800/classics" />
+<outline text="radio nula lounge" title="radio nula lounge" type="rss" url="http://streaming.radionula.com:8800/lounge" />
+<outline text="Radio Nula Organic" title="Radio Nula Organic" type="rss" url="https://strm.radionula.com/channel2" />
+<outline text="Radio Ognjišče " title="Radio Ognjišče " type="rss" url="https://live.radio.si/ognjisce.mp3" />
+<outline text="Radio Ognjišče - mp3 stream" title="Radio Ognjišče - mp3 stream" type="rss" url="http://radio.ognjisce.si/ognjisce/iradio/ognjiscemp3.m3u" />
+<outline text="Radio Put Sreće " title="Radio Put Sreće " type="rss" url="https://stream.master-dizajn.com/8004/stream" />
+<outline text="Radio Rogla" title="Radio Rogla" type="rss" url="http://193.105.67.24:8010/?type=http&amp;nocache=3804" />
+<outline text="Radio Roška" title="Radio Roška" type="rss" url="http://stream.zeno.fm/q7300aptbwzuv" />
+<outline text="Radio Salomon" title="Radio Salomon" type="rss" url="http://84.52.138.44/Salomon" />
+<outline text="Radio Salomon Back In Time" title="Radio Salomon Back In Time" type="rss" url="https://live.radio.si/SalomonBIT" />
+<outline text="Radio Sora" title="Radio Sora" type="rss" url="http://radio-sora.si:8000/radio-sora.mp3" />
+<outline text="Radio Sraka" title="Radio Sraka" type="rss" url="http://193.105.67.24:8006/" />
+<outline text="Radio Študent" title="Radio Študent" type="rss" url="http://kruljo.radiostudent.si:8000/hiq.m3u" />
+<outline text="Radio Student" title="Radio Student" type="rss" url="http://kruljo.radiostudent.si:8000/ehiq" />
+<outline text="Radio Študent" title="Radio Študent" type="rss" url="http://kruljo.radiostudent.si:8000/loq.m3u" />
+<outline text="Radio Terminal" title="Radio Terminal" type="rss" url="https://air.radioterminal.si/live" />
+<outline text="Rádio Timea" title="Rádio Timea" type="rss" url="http://evcast.mediacp.eu:1480/stream" />
+<outline text="Radio Tomi" title="Radio Tomi" type="rss" url="http://93.103.130.12:8080/tomi.mp3" />
+<outline text="Radio Triglav" title="Radio Triglav" type="rss" url="http://live.radiotriglav.si/Triglav" />
+<outline text="Radio Velenje" title="Radio Velenje" type="rss" url="http://212.18.39.42:8000/radiovelenje.mp3" />
+<outline text="Radio Veseljak" title="Radio Veseljak" type="rss" url="http://195.95.158.131:9060/" />
+<outline text="Radio Veseljak-Pumpa" title="Radio Veseljak-Pumpa" type="rss" url="http://live.radio.si/VeseljakPumpa" />
+<outline text="Radio Zica" title="Radio Zica" type="rss" url="http://live.1chi.si/zica" />
+<outline text="Retro Radio" title="Retro Radio" type="rss" url="https://zvok.ragla.si/gr?1670057106819" />
+<outline text="Rock Maribor" title="Rock Maribor" type="rss" url="http://live.rockmaribor.si/RockMB" />
+<outline text="Rock Radio" title="Rock Radio" type="rss" url="https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock" />
+<outline text="ROCK RADIO SI" title="ROCK RADIO SI" type="rss" url="http://stream.rockradio.si:9034/" />
+<outline text="STUDIO-S" title="STUDIO-S" type="rss" url="http://31.15.203.137:8000/" />
+<outline text="Toti Radio" title="Toti Radio" type="rss" url="https://live.radio.si/Toti" />
+<outline text="Zeleni val" title="Zeleni val" type="rss" url="https://jurepeterka.radioca.st/stream" />
+</body>
+</opml>

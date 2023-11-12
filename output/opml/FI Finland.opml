@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for FI Finland</title>
+</head>
+<body>
+<outline text="	Tick Tock Radio - 1950" title="	Tick Tock Radio - 1950" type="rss" url="https://streaming.ticktock.radio/tt/1950/icecast.audio" />
+<outline text="Doubleclap Radio" title="Doubleclap Radio" type="rss" url="https://s3.radio.co/scfd7273b2/listen" />
+<outline text="Finest Fm" title="Finest Fm" type="rss" url="http://212.47.220.188:8000/listen.mp3" />
+<outline text="Iskelmä" title="Iskelmä" type="rss" url="https://stream.bauermedia.fi/iskelma/iskelma_128.mp3" />
+<outline text="Järviradio" title="Järviradio" type="rss" url="https://jarviradio.radiotaajuus.fi:9000/jr" />
+<outline text="Jouluradio" title="Jouluradio" type="rss" url="https://c0.toivon.net/toivon/toivon_0?mp=/stream" />
+<outline text="Kaaos Radio 24h Chill" title="Kaaos Radio 24h Chill" type="rss" url="http://stream.kaaosradio.fi:8000/chill" />
+<outline text="Kaaos Radio Chiptune" title="Kaaos Radio Chiptune" type="rss" url="http://stream.kaaosradio.fi:8000/chip" />
+<outline text="Kaaos Radio Techno Electro" title="Kaaos Radio Techno Electro" type="rss" url="http://stream.kaaosradio.fi:8000/stream2" />
+<outline text="Kaaosradio - 24h" title="Kaaosradio - 24h" type="rss" url="http://stream.kaaosradio.fi:8000/stream.m3u" />
+<outline text="Kaaosradio - 24h Chill" title="Kaaosradio - 24h Chill" type="rss" url="http://stream.kaaosradio.fi:8000/chill" />
+<outline text="Karjalainen Syke" title="Karjalainen Syke" type="rss" url="https://stream.radiorex.fi:8000/radiorex" />
+<outline text="Kauneimmat Joululaulut" title="Kauneimmat Joululaulut" type="rss" url="https://stream.toivon.net/toivon/toivon_2" />
+<outline text="Mökkiradio" title="Mökkiradio" type="rss" url="https://stream.mokkiradio.fi:18008/mokkiradio" />
+<outline text="NRJ Suomi" title="NRJ Suomi" type="rss" url="https://stream.bauermedia.fi/nrj/nrj_128.mp3?aw_0_1st.bauer_loggedin=false&amp;aw_0_1st.playerid=BMUK_tunein&amp;aw_0_1st.skey=1667679042www" />
+<outline text="Radio Classic 128kbps" title="Radio Classic 128kbps" type="rss" url="https://stream.bauermedia.fi/classic/classic_128.mp3" />
+<outline text="Radio Dei" title="Radio Dei" type="rss" url="http://isojako.radiodei.fi:8000/yleisohjelma" />
+<outline text="Radio Dei Helsinki" title="Radio Dei Helsinki" type="rss" url="http://isojako.radiodei.fi:8000/helsinki" />
+<outline text="Radio Dei Kajaani" title="Radio Dei Kajaani" type="rss" url="https://stream.dei.fi:8443/kajaani" />
+<outline text="Radio Dei Kemi" title="Radio Dei Kemi" type="rss" url="http://isojako.radiodei.fi:8000/tornio" />
+<outline text="Radio Dei Kokkola" title="Radio Dei Kokkola" type="rss" url="http://isojako.radiodei.fi:8000/kruunupyy" />
+<outline text="Radio Dei Kristiinankaupunki" title="Radio Dei Kristiinankaupunki" type="rss" url="http://isojako.radiodei.fi:8000/kristiinankaupunki" />
+<outline text="Radio Dei Lahti" title="Radio Dei Lahti" type="rss" url="https://stream.dei.fi:8443/lahti" />
+<outline text="Radio Dei Oulu" title="Radio Dei Oulu" type="rss" url="http://isojako.radiodei.fi:8000/oulu" />
+<outline text="Radio Dei Pohjanmaa" title="Radio Dei Pohjanmaa" type="rss" url="http://isojako.radiodei.fi:8000/lapua" />
+<outline text="Radio Dei Rovaniemi" title="Radio Dei Rovaniemi" type="rss" url="http://isojako.radiodei.fi:8000/rovaniemi" />
+<outline text="Radio Dei Turku ja Eurajoki" title="Radio Dei Turku ja Eurajoki" type="rss" url="http://isojako.radiodei.fi:8000/turkueurajoki" />
+<outline text="Radio Gramofoni" title="Radio Gramofoni" type="rss" url="https://solid9.streamupsolutions.com/proxy/kookmuod?mp=/stream" />
+<outline text="Radio Hear" title="Radio Hear" type="rss" url="http://hear.fi:8000/hear.mp3" />
+<outline text="Radio Helsinki (128 kb/s)" title="Radio Helsinki (128 kb/s)" type="rss" url="http://radio.radiohelsinki.fi/" />
+<outline text="Radio Helsinki (256 kb/s)" title="Radio Helsinki (256 kb/s)" type="rss" url="http://77.86.233.1:8002/" />
+<outline text="Radio Helsinki 98,5 Mhz" title="Radio Helsinki 98,5 Mhz" type="rss" url="http://opml.radiotime.com/Tune.ashx?id=s97243&amp;formats=aac,ogg,mp3&amp;partnerId=16&amp;serial=afe4c1a95cc7f3a92c47dbad1b283293" />
+<outline text="Radio Keskisuomalainen" title="Radio Keskisuomalainen" type="rss" url="https://cast.radiokeskisuomalainen.fi/radiokeskisuomalainen" />
+<outline text="Radio Moreeni" title="Radio Moreeni" type="rss" url="http://153.1.15.29:8080/moreeni.mp3" />
+<outline text="Radio Musa" title="Radio Musa" type="rss" url="http://n09.radiojar.com/n6yg5q0z8vzuv.m4a" />
+<outline text="Radio Natale" title="Radio Natale" type="rss" url="https://streaming.radiostreamlive.com/radionatale_devices" />
+<outline text="Radio Nova" title="Radio Nova" type="rss" url="https://stream.bauermedia.fi/radionova/radionova_128.mp3" />
+<outline text="Radio nova" title="Radio nova" type="rss" url="http://stream.bauermedia.fi/radionova/radionova_128.mp3" />
+<outline text="Radio Patmos" title="Radio Patmos" type="rss" url="https://s3.yesstreaming.net:7011/radio" />
+<outline text="Radio Pooki" title="Radio Pooki" type="rss" url="https://stream.bauermedia.fi/radiopooki/radiopooki_128.mp3?aw_0_1st.bauer_loggedin=false&amp;aw_0_1st.playerid=BMUK_tunein&amp;aw_0_1st.skey=1697625781" />
+<outline text="Radio Ramona" title="Radio Ramona" type="rss" url="http://185.123.117.122:8000/ramona.mp3" />
+<outline text="Radio Ramona - Joulurauma" title="Radio Ramona - Joulurauma" type="rss" url="http://c0.toivon.net:8100/stream" />
+<outline text="Radio Sandels" title="Radio Sandels" type="rss" url="http://suomiradio.pro:8080/" />
+<outline text="Radio Santa Claus" title="Radio Santa Claus" type="rss" url="https://streaming.radiostreamlive.com/radiosantaclaus_devices" />
+<outline text="Radio SUN" title="Radio SUN" type="rss" url="http://st.downtime.fi/sun.mp3" />
+<outline text="Radio SuomiRock" title="Radio SuomiRock" type="rss" url="https://stream.bauermedia.fi/suomirock/suomirock_128.mp3" />
+<outline text="Radio Tuottaja1" title="Radio Tuottaja1" type="rss" url="https://kaupunkiradio.radiotaajuus.fi:9013/radio" />
+<outline text="Radio Voima" title="Radio Voima" type="rss" url="https://cast2.radiovoima.fi/voima.mp3" />
+<outline text="Radioverkko" title="Radioverkko" type="rss" url="http://kuuntele.radioverkko.fi:8000/live" />
+<outline text="Roll FM" title="Roll FM" type="rss" url="http://stream.rollfm.fi/" />
+<outline text="Rondo Classic" title="Rondo Classic" type="rss" url="http://rondo.iradio.fi:8000/klasupro-hi.mp3" />
+<outline text="Savon Aallot" title="Savon Aallot" type="rss" url="https://cast.savonaallot.fi/savonaallot" />
+<outline text="Sea FM" title="Sea FM" type="rss" url="https://s3.myradiostream.com/4976/listen.mp3" />
+<outline text="Sea fm" title="Sea fm" type="rss" url="http://s3.myradiostream.com:4976/listen.pls" />
+<outline text="Sea FM Radio" title="Sea FM Radio" type="rss" url="http://s3.myradiostream.com:4976/" />
+<outline text="Synthwave Radio" title="Synthwave Radio" type="rss" url="https://icecast.synthwaveradio.eu:8000/live?nocache=122809" />
+</body>
+</opml>

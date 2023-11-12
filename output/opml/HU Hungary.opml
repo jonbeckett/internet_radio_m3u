@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for HU Hungary</title>
+</head>
+<body>
+<outline text="103.9 rock" title="103.9 rock" type="rss" url="https://icast.connectmedia.hu/5301/live.mp3" />
+<outline text="Aktív Rádió" title="Aktív Rádió" type="rss" url="http://aktivradio.hu:8000/aktiv.mp3" />
+<outline text="Balaton Rádió" title="Balaton Rádió" type="rss" url="http://91.82.85.41:8200/" />
+<outline text="BALATONICA RADIO" title="BALATONICA RADIO" type="rss" url="http://balatonica.hu:8000/stream_high" />
+<outline text="Bartók Rádió" title="Bartók Rádió" type="rss" url="http://mr-stream.mediaconnect.hu/4742/mr3hq.mp3" />
+<outline text="Base FM" title="Base FM" type="rss" url="https://icast.connectmedia.hu/5401/live.mp3" />
+<outline text="BDPST ROCK -  192 kbit/s" title="BDPST ROCK -  192 kbit/s" type="rss" url="https://bdpstrock.hu/live.mp3" />
+<outline text="BDPST ROCK -  320 kbit/s" title="BDPST ROCK -  320 kbit/s" type="rss" url="https://bdpstrock.hu/live_320.mp3" />
+<outline text="BDPST ROCK -  96 kbit/s;" title="BDPST ROCK -  96 kbit/s;" type="rss" url="https://bdpstrock.hu/live_128.mp3" />
+<outline text="Beat Rádió" title="Beat Rádió" type="rss" url="https://stream.nmih.hu:9012/live.mp3" />
+<outline text="Best FM" title="Best FM" type="rss" url="http://stream.webthings.hu:8000/fm95-x-128.mp3" />
+<outline text="Best FM - Budapest" title="Best FM - Budapest" type="rss" url="https://icast.connectmedia.hu/5101/live.mp3/" />
+<outline text="Best FM - Debrecen" title="Best FM - Debrecen" type="rss" url="http://stream.webthings.hu:8000/fm95-x-128.mp3" />
+<outline text="Best FM - Eger" title="Best FM - Eger" type="rss" url="https://icast.connectmedia.hu/5116/live.mp3" />
+<outline text="Best FM - Nyíregyháza" title="Best FM - Nyíregyháza" type="rss" url="https://icast.connectmedia.hu/5115/live.mp3" />
+<outline text="Best FM - Pécs" title="Best FM - Pécs" type="rss" url="https://icast.connectmedia.hu/5128/live.mp3" />
+<outline text="Best FM - Székesfehérvár" title="Best FM - Székesfehérvár" type="rss" url="http://icast.connectmedia.hu/5113/live.mp3" />
+<outline text="Best FM - Szolnok" title="Best FM - Szolnok" type="rss" url="http://icast.connectmedia.hu/5112/live.mp3/" />
+<outline text="Best FM - Zalaegerszeg" title="Best FM - Zalaegerszeg" type="rss" url="http://icast.connectmedia.hu/5111/live.mp3/" />
+<outline text="Best Of Rádió" title="Best Of Rádió" type="rss" url="https://stream.phost.hu:8000/bestofradio_hq.xspf" />
+<outline text="Bithang Yoo Rádió" title="Bithang Yoo Rádió" type="rss" url="http://stream.diazol.hu:35160/live.mp3" />
+<outline text="Buddha FM" title="Buddha FM" type="rss" url="http://libretime.buddhafm.hu:4000/buddhafm" />
+<outline text="Callisto" title="Callisto" type="rss" url="http://188.165.11.30:4500/live.mp3" />
+<outline text="Callisto Radio" title="Callisto Radio" type="rss" url="http://adas.poptarisznya.hu:4500/live.mp3" />
+<outline text="Campus Rádió FM90" title="Campus Rádió FM90" type="rss" url="https://stream.fm90.hu:8000/" />
+<outline text="CEU Medieval Radio" title="CEU Medieval Radio" type="rss" url="http://137.74.85.85:7020/stream" />
+<outline text="Civil Rádió" title="Civil Rádió" type="rss" url="http://civilradio.hu:8000/stream" />
+<outline text="Cool FM" title="Cool FM" type="rss" url="http://mediagw.e-tiger.net/stream/cfmhq" />
+<outline text="Cool FM - Goldie&apos;S" title="Cool FM - Goldie&apos;S" type="rss" url="http://mediagw.e-tiger.net:8000/stream/goldhq" />
+<outline text="Cool FM - kultX" title="Cool FM - kultX" type="rss" url="http://mediagw.e-tiger.net/stream/krehq" />
+<outline text="Cool FM - Xbeat" title="Cool FM - Xbeat" type="rss" url="http://mediagw.e-tiger.net/stream/xbeathq" />
+<outline text="Cool.FM DANCE 2000&apos;s" title="Cool.FM DANCE 2000&apos;s" type="rss" url="https://mediagw.e-tiger.net/stream/zc04?ver=209775" />
+<outline text="Cool.FM GIRL POWER" title="Cool.FM GIRL POWER" type="rss" url="https://mediagw.e-tiger.net/stream/zc15?ver=58649" />
+<outline text="Cool.FM PARTY Hits" title="Cool.FM PARTY Hits" type="rss" url="https://mediagw.e-tiger.net/stream/zc18?ver=975254" />
+<outline text="Cool.FM REMIX MUSIC" title="Cool.FM REMIX MUSIC" type="rss" url="https://mediagw.e-tiger.net/stream/zc23?ver=266114" />
+<outline text="COOLFM (Classic) Rock" title="COOLFM (Classic) Rock" type="rss" url="https://mediagw.e-tiger.net/stream/zc10" />
+<outline text="COOLFM 2000-es évek" title="COOLFM 2000-es évek" type="rss" url="https://mediagw.e-tiger.net/stream/zc03" />
+<outline text="COOLFM 2010-es évek" title="COOLFM 2010-es évek" type="rss" url="https://mediagw.e-tiger.net/stream/zc02" />
+<outline text="COOLFM 90-es évek" title="COOLFM 90-es évek" type="rss" url="https://mediagw.e-tiger.net/stream/zc05" />
+<outline text="COOLFM Acoustic" title="COOLFM Acoustic" type="rss" url="https://mediagw.e-tiger.net/stream/zc12" />
+<outline text="COOLFM Best Hits EVER" title="COOLFM Best Hits EVER" type="rss" url="https://mediagw.e-tiger.net/stream/zc11" />
+<outline text="COOLFM Bside/Alternative" title="COOLFM Bside/Alternative" type="rss" url="https://mediagw.e-tiger.net/stream/zc16" />
+<outline text="COOLFM Chill" title="COOLFM Chill" type="rss" url="https://mediagw.e-tiger.net/stream/zc24" />
+<outline text="COOLFM Country" title="COOLFM Country" type="rss" url="http://mediagw.viacomkft.hu:8000/stream/zc17" />
+<outline text="COOLFM Filmzenék" title="COOLFM Filmzenék" type="rss" url="https://mediagw.e-tiger.net/stream/zc01?ver=753658" />
+<outline text="COOLFM Funky&amp;Soul" title="COOLFM Funky&amp;Soul" type="rss" url="https://mediagw.e-tiger.net/stream/zc25" />
+<outline text="COOLFM Hazai Kedvencek" title="COOLFM Hazai Kedvencek" type="rss" url="https://mediagw.e-tiger.net/stream/zc19" />
+<outline text="COOLFM Jazz" title="COOLFM Jazz" type="rss" url="https://mediagw.e-tiger.net/stream/zc13" />
+<outline text="COOLFM Karácsonyi Dalok" title="COOLFM Karácsonyi Dalok" type="rss" url="https://mediagw.e-tiger.net/stream/zc27" />
+<outline text="COOLFM Love Songs" title="COOLFM Love Songs" type="rss" url="https://mediagw.e-tiger.net/stream/zc28" />
+<outline text="COOLFM Nyári Slágerek" title="COOLFM Nyári Slágerek" type="rss" url="https://mediagw.e-tiger.net/stream/zc09" />
+<outline text="COOLFM Party" title="COOLFM Party" type="rss" url="https://mediagw.e-tiger.net/stream/zc18" />
+<outline text="COOLFM Sportoláshoz" title="COOLFM Sportoláshoz" type="rss" url="https://mediagw.e-tiger.net/stream/zc20" />
+<outline text="COOLFM World Music" title="COOLFM World Music" type="rss" url="https://mediagw.e-tiger.net/stream/zc26" />
+<outline text="COOLFM YouTube HOT HITS!" title="COOLFM YouTube HOT HITS!" type="rss" url="https://mediagw.e-tiger.net/stream/zc22" />
+<outline text="coronita fm" title="coronita fm" type="rss" url="http://stream.zeno.fm/ktzdc7rf7f0uv" />
+<outline text="DANCE 90&apos;S" title="DANCE 90&apos;S" type="rss" url="https://mediagw.e-tiger.net/stream/zc06?ver=887687" />
+<outline text="Dance Wave Retro!" title="Dance Wave Retro!" type="rss" url="http://retro.dancewave.online/retrodance.mp3.pls" />
+<outline text="Dance Wave!" title="Dance Wave!" type="rss" url="http://stream.dancewave.online:8080/dance.mp3" />
+<outline text="Danubius" title="Danubius" type="rss" url="https://stream.danubiusradio.hu/danubius_320k" />
+<outline text="Danubius Rádió" title="Danubius Rádió" type="rss" url="http://stream.danubiusradio.hu/danubius_128k" />
+<outline text="Deejay Rádió" title="Deejay Rádió" type="rss" url="http://stream.diazol.hu:31040/autodj.mp3" />
+<outline text="DEEPHOUSE" title="DEEPHOUSE" type="rss" url="https://stream1.rdstrm.com/deep-house-radio-dance-music.mp3" />
+<outline text="disco diamond 2" title="disco diamond 2" type="rss" url="http://discodiamond.radioca.st/stream" />
+<outline text="Enying FM Hungary" title="Enying FM Hungary" type="rss" url="http://radioe.net:8080/efm_hd" />
+<outline text="FM 103.9 A Rock" title="FM 103.9 A Rock" type="rss" url="https://stream.rockradio.hu/" />
+<outline text="FM90 Campus Rádió" title="FM90 Campus Rádió" type="rss" url="http://stream.fm90.hu:8000/" />
+<outline text="Folkrádio" title="Folkrádio" type="rss" url="https://stream.folkradio.hu/folkradio.mp3" />
+<outline text="Folkrádió" title="Folkrádió" type="rss" url="https://stream.folkradio.hu/folkradio.mp3" />
+<outline text="Forrás Rádió" title="Forrás Rádió" type="rss" url="http://91.82.85.44:9000/stream" />
+<outline text="Forrás radio" title="Forrás radio" type="rss" url="http://91.82.85.44:1630/forrasradio.mp3" />
+<outline text="Friss FM 93.4" title="Friss FM 93.4" type="rss" url="http://stream.frissfm.hu:10050/" />
+<outline text="Gong Rádió" title="Gong Rádió" type="rss" url="http://stream.gongradio.hu:8000/gong-fm.mp3" />
+<outline text="Győr+" title="Győr+" type="rss" url="https://stream.42netmedia.com:8443/sc_gyor1" />
+<outline text="Hangulat disco" title="Hangulat disco" type="rss" url="http://79.139.60.24:8000/mixfm" />
+<outline text="Hangulat retró" title="Hangulat retró" type="rss" url="http://79.139.60.24:8000/telstar" />
+<outline text="Hobby Rádió" title="Hobby Rádió" type="rss" url="http://www.hobbyradio.hu:8000/hobbyradio.mp3" />
+<outline text="I Love Pécs Rádió" title="I Love Pécs Rádió" type="rss" url="http://radio.ilovepecs.hu:8200/ilp.mp3" />
+<outline text="Inforádió" title="Inforádió" type="rss" url="http://stream.infostart.hu/lejatszo/index.html?sid=1" />
+<outline text="insane" title="insane" type="rss" url="https://newinsane.info/ochi/insane.m3u" />
+<outline text="Jazzy Cool" title="Jazzy Cool" type="rss" url="https://radio.musorok.org/listen/jazzycool/jazzycool.mp3" />
+<outline text="Jazzy Groove" title="Jazzy Groove" type="rss" url="https://jazzy.hu/jazzygroove.mp3" />
+<outline text="Jazzy Rádió" title="Jazzy Rádió" type="rss" url="https://radio.musorok.org/listen/jazzy/jazzy.mp3" />
+<outline text="Jazzy Soul" title="Jazzy Soul" type="rss" url="https://radio.musorok.org/listen/jazzysoul/jazzysoul.mp3" />
+<outline text="JUVENTUS Rádió" title="JUVENTUS Rádió" type="rss" url="https://radiojuventus.hu/stream_320k" />
+<outline text="Klasszik Rádió 92.1" title="Klasszik Rádió 92.1" type="rss" url="http://www.klasszikradio.hu/klasszik.mp3" />
+<outline text="Klubrádió" title="Klubrádió" type="rss" url="http://stream.klubradio.hu:8080/bpstream" />
+<outline text="Klubrádio" title="Klubrádio" type="rss" url="https://hu-stream02.klubradio.hu:8443/bpstream" />
+<outline text="Klubrádió 32kbps" title="Klubrádió 32kbps" type="rss" url="http://hu-stream02.klubradio.hu:8080/32kbit" />
+<outline text="Klubrádió V2" title="Klubrádió V2" type="rss" url="https://hu-stream05.klubradio.hu:8443/bpstream" />
+<outline text="KORONAfm100" title="KORONAfm100" type="rss" url="http://82.141.165.6:8000/stream" />
+<outline text="Kossuth" title="Kossuth" type="rss" url="https://icast.connectmedia.hu/4736/mr1.mp3" />
+<outline text="Lahmacun Radio" title="Lahmacun Radio" type="rss" url="https://streaming.lahmacun.hu/radio/8000/radio.mp3" />
+<outline text="Lépés - Sláger Rádió" title="Lépés - Sláger Rádió" type="rss" url="http://lepesradio.hu/slager.mp3" />
+<outline text="Lépés Rádió" title="Lépés Rádió" type="rss" url="http://stream.lepesradio.hu:4000/live.mp3" />
+<outline text="Live radio" title="Live radio" type="rss" url="http://radio.nnkcrazyclub.hu:7163/crazyklub" />
+<outline text="Luxfunk Blackmix" title="Luxfunk Blackmix" type="rss" url="http://188.165.11.30:5000/luxfunkblackmix.mp3" />
+<outline text="Luxfunk Dance" title="Luxfunk Dance" type="rss" url="http://188.165.11.30:5000/luxfunkdance.mp3" />
+<outline text="Luxfunk Radio" title="Luxfunk Radio" type="rss" url="http://188.165.11.30:5000/luxfunkradio.mp3" />
+<outline text="magic disco" title="magic disco" type="rss" url="http://stream1.virtualisan.net:4420/live.mp3" />
+<outline text="Magic Disco Rádió" title="Magic Disco Rádió" type="rss" url="http://live2.magicdiscoradio.com:4420/live.mp3" />
+<outline text="Magic Disco Radio" title="Magic Disco Radio" type="rss" url="http://188.165.11.30:4420/live.mp3" />
+<outline text="Magyar Katolikus Rádió" title="Magyar Katolikus Rádió" type="rss" url="http://katolikusradio.hu:9000/live_hi.mp3" />
+<outline text="Manna FM 98.6" title="Manna FM 98.6" type="rss" url="http://icast.connectmedia.hu/4780/live.mp3" />
+<outline text="Mária Rádió" title="Mária Rádió" type="rss" url="http://honlap.mariaradio.hu:8000/mr" />
+<outline text="Maxi rádió" title="Maxi rádió" type="rss" url="http://46.107.212.101:9240/live" />
+<outline text="Mega Rádió" title="Mega Rádió" type="rss" url="http://megaradio.hu/megastream" />
+<outline text="MegaDance Rádió" title="MegaDance Rádió" type="rss" url="http://megadanceradio.hopto.org:8000/livemega.mp3" />
+<outline text="Megadance Rádió" title="Megadance Rádió" type="rss" url="http://gamershouse.hu:8000/livemega.mp3" />
+<outline text="MegaLive" title="MegaLive" type="rss" url="https://mega-live.net:2053/live.mp3" />
+<outline text="Mera" title="Mera" type="rss" url="https://stream.radio.co/s3fd8d173f/listen" />
+<outline text="Mercy Rádió" title="Mercy Rádió" type="rss" url="http://stream.mercyradio.eu/mercyradio.mp3" />
+<outline text="Mercy Rádió - Kabaré" title="Mercy Rádió - Kabaré" type="rss" url="http://stream.mercyradio.eu/kabare.mp3" />
+<outline text="Mercy Rádió - Mulatós" title="Mercy Rádió - Mulatós" type="rss" url="http://stream.mercyradio.eu/mulatos.mp3" />
+<outline text="Mex Deejay" title="Mex Deejay" type="rss" url="http://stream.diazol.hu:31040/deejay.mp3" />
+<outline text="miradionk.hu" title="miradionk.hu" type="rss" url="http://92.61.114.191:6030/" />
+<outline text="Mixradio fresh" title="Mixradio fresh" type="rss" url="http://adas.adasszerver.hu/live" />
+<outline text="MixradioRetro" title="MixradioRetro" type="rss" url="https://stream.phost.hu:8004/retro" />
+<outline text="Momo Rádió " title="Momo Rádió " type="rss" url="https://s03.diazol.hu:7092/zene.mp3" />
+<outline text="Momó Rádió" title="Momó Rádió" type="rss" url="https://stream.diazol.hu:7092/zene.mp3" />
+<outline text="Momó Rádió Mese" title="Momó Rádió Mese" type="rss" url="https://stream.diazol.hu:7092/mese.mp3" />
+<outline text="Mustár Rádió" title="Mustár Rádió" type="rss" url="http://193.138.125.14:8500/" />
+<outline text="Next FM" title="Next FM" type="rss" url="https://stream.nextfm.hu/radio/8000/nextfmhu.mp3?1590416039" />
+<outline text="Nóta FM - 128k MP3" title="Nóta FM - 128k MP3" type="rss" url="http://notafm.hu/media/notafm_mp3.m3u" />
+<outline text="NST Music FM" title="NST Music FM" type="rss" url="http://109.169.23.17:8428/nstmusicfm" />
+<outline text="Open Air Radio" title="Open Air Radio" type="rss" url="http://79.172.209.223:9200/stream" />
+<outline text="oxigen" title="oxigen" type="rss" url="https://oxygenmusic.hu:8443/oxygenmusic" />
+<outline text="Oxygen Black Music" title="Oxygen Black Music" type="rss" url="https://oxygenmusic.hu:8443/blackmusic_128" />
+<outline text="Oxygen Classic Rock" title="Oxygen Classic Rock" type="rss" url="https://oxygenmusic.hu:8443/oxygenclassicrock" />
+<outline text="Oxygen Classics" title="Oxygen Classics" type="rss" url="https://oxygenmusic.hu:8443/Classic_128" />
+<outline text="Oxygen Fitness" title="Oxygen Fitness" type="rss" url="https://oxygenmusic.hu:8443/oxygenfitness" />
+<outline text="Oxygen Happy" title="Oxygen Happy" type="rss" url="https://oxygenmusic.hu:8443/oxygenhappy" />
+<outline text="Oxygen Indie" title="Oxygen Indie" type="rss" url="https://oxygenmusic.hu:8443/oxygenindie" />
+<outline text="Oxygen Italo Hits" title="Oxygen Italo Hits" type="rss" url="https://oxygenmusic.hu:8443/oxygenitalohits" />
+<outline text="Oxygen Kids" title="Oxygen Kids" type="rss" url="https://oxygenmusic.hu:8443/oxygenkids" />
+<outline text="Oxygen Lounge" title="Oxygen Lounge" type="rss" url="https://oxygenmusic.hu:8443/oxygenlounge" />
+<outline text="Oxygen Love Songs" title="Oxygen Love Songs" type="rss" url="https://oxygenmusic.hu:8443/oxygenlovesongs" />
+<outline text="Oxygen Magyar Zene" title="Oxygen Magyar Zene" type="rss" url="https://oxygenmusic.hu:8443/oxygenmagyarzene" />
+<outline text="Oxygen Music" title="Oxygen Music" type="rss" url="https://oxygenmusic.hu:8443/oxygenmusic_192" />
+<outline text="Oxygen Oldies" title="Oxygen Oldies" type="rss" url="https://oxygenmusic.hu:8443/oxygenoldies" />
+<outline text="Oxygen Spencer-Hill" title="Oxygen Spencer-Hill" type="rss" url="https://oxygenmusic.hu:8443/oxygenspencerhillzenek" />
+<outline text="Oxygen The 00s Hits" title="Oxygen The 00s Hits" type="rss" url="https://oxygenmusic.hu:8443/oxygenthe00shits" />
+<outline text="Oxygen The 80s Hits" title="Oxygen The 80s Hits" type="rss" url="https://oxygenmusic.hu:8443/oxygenthe80shits" />
+<outline text="Oxygen The 90s Hits" title="Oxygen The 90s Hits" type="rss" url="https://oxygenmusic.hu:8443/oxygenthe90shits" />
+<outline text="Ozone FM" title="Ozone FM" type="rss" url="https://oxygenmusic.hu:8443/ozonefm_128.mp3" />
+<outline text="Ozonefm" title="Ozonefm" type="rss" url="https://oxygenmusic.hu:8443/ozonefm_320" />
+<outline text="Pannónia Rádió" title="Pannónia Rádió" type="rss" url="http://kft.kesintisizyayin.com:8130/stream" />
+<outline text="Pécs Aktuál Rádió" title="Pécs Aktuál Rádió" type="rss" url="https://stream.pecsaktual.hu/paradio.mp3" />
+<outline text="Petőfi" title="Petőfi" type="rss" url="https://icast.connectmedia.hu/4738/mr2.mp3" />
+<outline text="Petőfi Rádió" title="Petőfi Rádió" type="rss" url="https://icast.connectmedia.hu/4738/mr2.mp3" />
+<outline text="Poptarisznya" title="Poptarisznya" type="rss" url="http://adas.poptarisznya.hu:8200/live.mp3" />
+<outline text="Poptarisznya Blues24" title="Poptarisznya Blues24" type="rss" url="http://adas.poptarisznya.hu:8200/blues.mp3" />
+<outline text="Poptarisznya Oldies" title="Poptarisznya Oldies" type="rss" url="http://adas.poptarisznya.hu:8200/oldies.mp3" />
+<outline text="Power FM - Rock FM" title="Power FM - Rock FM" type="rss" url="http://s39.myradiostream.com:11590/listen/.mp3" />
+<outline text="Rádió 1" title="Rádió 1" type="rss" url="https://icast.connectmedia.hu/5201/live.mp3" />
+<outline text="Radio 1" title="Radio 1" type="rss" url="https://icast.connectmedia.hu/5201/live.mp3" />
+<outline text="Rádió 1" title="Rádió 1" type="rss" url="https://icast.connectmedia.hu/5201/live.mp3" />
+<outline text="Rádió 1 - Békéscsaba" title="Rádió 1 - Békéscsaba" type="rss" url="https://icast.connectmedia.hu/5233/live.mp3" />
+<outline text="Rádió 1 - Budapest" title="Rádió 1 - Budapest" type="rss" url="http://icast.connectmedia.hu/5201/live.mp3" />
+<outline text="Rádió 1 - Gyöngyös" title="Rádió 1 - Gyöngyös" type="rss" url="https://icast.connectmedia.hu/5039/live.mp3" />
+<outline text="Rádió 1 Debrecen" title="Rádió 1 Debrecen" type="rss" url="http://91.82.85.44:8080/debrecenradiofm95" />
+<outline text="Rádió 1 Kiskunfélegyháza" title="Rádió 1 Kiskunfélegyháza" type="rss" url="http://siriusradio.hu:8500/relay_mobile_911" />
+<outline text="Rádió 1 Miskolc" title="Rádió 1 Miskolc" type="rss" url="https://icast.connectmedia.hu/5211/live.mp3" />
+<outline text="Rádió 1 Pécs" title="Rádió 1 Pécs" type="rss" url="http://stream.radio1pecs.hu:8200/pecs.mp3" />
+<outline text="Rádió 1 Szeged" title="Rádió 1 Szeged" type="rss" url="http://icast.connectmedia.hu/5232/live.mp3" />
+<outline text="Rádió 1 Szombathely" title="Rádió 1 Szombathely" type="rss" url="http://77.221.39.23:8000/" />
+<outline text="Rádió 7" title="Rádió 7" type="rss" url="http://netradio.radio7.hu:8300/stream.mp3" />
+<outline text="Rádió 88" title="Rádió 88" type="rss" url="http://stream.radio88.hu:8000/" />
+<outline text="Rádió 88 Club" title="Rádió 88 Club" type="rss" url="http://stream2.radio88.hu:8400/stream" />
+<outline text="Rádió 88 Top" title="Rádió 88 Top" type="rss" url="http://stream3.radio88.hu:8500/stream" />
+<outline text="Rádió Antritt" title="Rádió Antritt" type="rss" url="http://stream.radioantritt.hu:8000/Antritt" />
+<outline text="Rádió Bézs" title="Rádió Bézs" type="rss" url="http://195.210.29.82:8001/bezs" />
+<outline text="Rádió Bézs 2" title="Rádió Bézs 2" type="rss" url="http://195.210.29.82:8002/bezs2" />
+<outline text="Rádió Dabas" title="Rádió Dabas" type="rss" url="http://stream3.virtualisan.net:7040/" />
+<outline text="Rádió Dikh" title="Rádió Dikh" type="rss" url="http://icast.connectmedia.hu/6121/live.mp3" />
+<outline text="Radio E" title="Radio E" type="rss" url="http://radioe.net:8080/efm_high" />
+<outline text="Radio face black" title="Radio face black" type="rss" url="http://ca3.rcast.net:8016/" />
+<outline text="RADIO INSIDE" title="RADIO INSIDE" type="rss" url="https://radioinside.eu/live.mp3" />
+<outline text="Radio Kaleid" title="Radio Kaleid" type="rss" url="https://cast4.my-control-panel.com/proxy/misli/stream" />
+<outline text="Rádió Like" title="Rádió Like" type="rss" url="https://cdn-node-44.hififm.hu:8080/stream001.mp3" />
+<outline text="Rádió M" title="Rádió M" type="rss" url="http://hosting2.42netmedia.com:10060/stream.mp3" />
+<outline text="RADIO MARIA HUNGARY" title="RADIO MARIA HUNGARY" type="rss" url="http://dreamsiteradiocp.com:8032/stream" />
+<outline text="Rádió Most" title="Rádió Most" type="rss" url="http://stream.radiomost.hu:8200/live.mp3" />
+<outline text="Radio Ozora" title="Radio Ozora" type="rss" url="https://trance.out.airtime.pro/trance_a" />
+<outline text="Rádió Pápa" title="Rádió Pápa" type="rss" url="https://oxygenmusic.hu:8443/radiopapa.mp3" />
+<outline text="Radio Sense" title="Radio Sense" type="rss" url="http://s03.diazol.hu:7010/stream.mp3" />
+<outline text="Rádió Smile" title="Rádió Smile" type="rss" url="http://radiosmile.hu:8010/stream" />
+<outline text="Radio1" title="Radio1" type="rss" url="https://icast.connectmedia.hu/5202/live.mp3" />
+<outline text="Radio1 - Paks" title="Radio1 - Paks" type="rss" url="http://icast.connectmedia.hu/5222/live.mp3" />
+<outline text="Radiobrand" title="Radiobrand" type="rss" url="http://radiobrand.es:8084/" />
+<outline text="radiocafé 98" title="radiocafé 98" type="rss" url="https://radio.radiocafe98.hu/radiocafe98_192k" />
+<outline text="radiocafé 98.0. - Van barátod." title="radiocafé 98.0. - Van barátod." type="rss" url="https://radio.ch3.hu:8050/cafe98.mp3" />
+<outline text="RadiOzora" title="RadiOzora" type="rss" url="http://trance.out.airtime.pro:8000/trance_a" />
+<outline text="RadiOzora Chill" title="RadiOzora Chill" type="rss" url="http://chill.out.airtime.pro:8000/chill_a" />
+<outline text="retro radio" title="retro radio" type="rss" url="https://icast.connectmedia.hu/5002/live.mp3" />
+<outline text="Retro rádió " title="Retro rádió " type="rss" url="https://icast.connectmedia.hu/5001/live.mp3" />
+<outline text="Rise FM" title="Rise FM" type="rss" url="http://risefm1.stereoplayer.hu:8080/risefm_hq" />
+<outline text="risefm" title="risefm" type="rss" url="http://188.165.11.30:8080/risefm_rnb_hq" />
+<outline text="risefm classik" title="risefm classik" type="rss" url="http://188.165.11.30:8080/risefm_classic_hq" />
+<outline text="Risefm deep" title="Risefm deep" type="rss" url="https://stream1.virtualisan.net/prx/8080/risefm_deephouse_hq" />
+<outline text="risefm deep" title="risefm deep" type="rss" url="https://stream1.virtualisan.net/prx/8080/risefm_deephouse_hq" />
+<outline text="risefm hithouse" title="risefm hithouse" type="rss" url="http://188.165.11.30:8080/risefm_hithouse_lq" />
+<outline text="Rock Paradicsom" title="Rock Paradicsom" type="rss" url="http://stream1.virtualisan.net:6590/live.mp3" />
+<outline text="Rocker Rádió" title="Rocker Rádió" type="rss" url="http://rockerradio.online/live.mp3.m3u" />
+<outline text="Roxy Rádió" title="Roxy Rádió" type="rss" url="https://radioroxy.hu/stream_192k" />
+<outline text="Sárvár Rádió" title="Sárvár Rádió" type="rss" url="https://stream.42netmedia.com:8443/sarvar" />
+<outline text="Sirius Rádió" title="Sirius Rádió" type="rss" url="http://siriusradio.hu:8500/relay_911" />
+<outline text="Sláger FM" title="Sláger FM" type="rss" url="http://92.61.114.159:7812/slagerfm256.mp3" />
+<outline text="Sola Rádió" title="Sola Rádió" type="rss" url="http://188.165.11.30:7000/live.mp3" />
+<outline text="Spirit FM" title="Spirit FM" type="rss" url="https://s02.diazol.hu:10052/spweb1.mp3" />
+<outline text="Super DJ Radio" title="Super DJ Radio" type="rss" url="http://s03.diazol.hu:35150/live" />
+<outline text="superdj radio" title="superdj radio" type="rss" url="http://stream.diazol.hu:35150/stream" />
+<outline text="SuperDj Radio" title="SuperDj Radio" type="rss" url="http://stream.diazol.hu:35150/autodj" />
+<outline text="Szent István Rádió" title="Szent István Rádió" type="rss" url="http://online.szentistvanradio.hu:7000/adas" />
+<outline text="Szent Korona Rádió" title="Szent Korona Rádió" type="rss" url="http://radio.szentkoronaradio.com:8048/" />
+<outline text="SzüNet Rádió" title="SzüNet Rádió" type="rss" url="http://92.61.114.191:1101/listen.mp3" />
+<outline text="Táska Rádió" title="Táska Rádió" type="rss" url="http://live.taskaradio.com:7070/stream.nsv#.mp3" />
+<outline text="Tilos Rádió" title="Tilos Rádió" type="rss" url="http://stream.tilos.hu/tilos" />
+<outline text="Tilos Rádió - Jazz is dead?" title="Tilos Rádió - Jazz is dead?" type="rss" url="http://stream.tilos.hu/jazzisdead" />
+<outline text="Tilos Rádió 32 kbit/sec" title="Tilos Rádió 32 kbit/sec" type="rss" url="http://stream.tilos.hu/tilos_32.mp3" />
+<outline text="Tilos Rádió FM 90.3" title="Tilos Rádió FM 90.3" type="rss" url="http://stream.tilos.hu/tilos_128.mp3" />
+<outline text="Trió FM" title="Trió FM" type="rss" url="http://92.119.123.141:9090/stream" />
+<outline text="Vörösmarty Rádió" title="Vörösmarty Rádió" type="rss" url="http://217.13.100.100:8000/vorosmarty_mid.mp3" />
+<outline text="Zugrádió" title="Zugrádió" type="rss" url="http://zuglofm.netregator.hu:7812/zuglofm128.mp3.m3u" />
+</body>
+</opml>

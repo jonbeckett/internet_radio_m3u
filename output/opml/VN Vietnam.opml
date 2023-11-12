@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for VN Vietnam</title>
+</head>
+<body>
+<outline text="Current Time FM" title="Current Time FM" type="rss" url="http://stream.zeno.fm/psymefk0hd0uv" />
+<outline text="RFI Tiếng Việt" title="RFI Tiếng Việt" type="rss" url="https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3" />
+</body>
+</opml>

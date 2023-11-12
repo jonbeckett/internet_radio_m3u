@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for RE Reunion</title>
+</head>
+<body>
+<outline text="Konect Radio" title="Konect Radio" type="rss" url="https://listen.radioking.com/radio/129973/stream/169819" />
+<outline text="louange radio " title="louange radio " type="rss" url="https://radio13.pro-fhi.net:19079/" />
+<outline text="NRJ Réunion 100,0 FM" title="NRJ Réunion 100,0 FM" type="rss" url="http://cdn.nrjaudio.fm/adwz1/fr_re/55759/mp3_128.mp3" />
+<outline text="Radio Babouk" title="Radio Babouk" type="rss" url="https://listen.radioking.com/radio/244351/stream/288496" />
+<outline text="Réunion La 1ère" title="Réunion La 1ère" type="rss" url="https://reunion.ice.infomaniak.ch/reunion-128.mp3" />
+</body>
+</opml>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for BZ Belize</title>
+</head>
+<body>
+<outline text="Krem Radio" title="Krem Radio" type="rss" url="http://159.65.32.199:8016/" />
+<outline text="Love FM" title="Love FM" type="rss" url="https://s1.voscast.com:10243/lovefm" />
+<outline text="Love FM (Belize)" title="Love FM (Belize)" type="rss" url="https://s1.voscast.com:10243/lovefm" />
+<outline text="Maximum radio 104.1" title="Maximum radio 104.1" type="rss" url="http://80.67.34.162:8000/stream" />
+</body>
+</opml>

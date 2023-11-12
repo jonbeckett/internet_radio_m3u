@@ -1,0 +1,24 @@
+#EXTM3U
+#PLAYLIST:Internet Radio Stations for KW Kuwait
+#EXTINF:-1 Quran Radio راديو القرآن - Abdulbasit Abdulsamad - عبدالباسط عبدالصمد
+https://radio.naza.io/listen/abdulbasit/radio.mp3
+#EXTINF:-1 Quran Radio راديو القرآن - Abdulrahman Alsudais - عبدالرحمن السديس
+https://radio.naza.io/listen/sudais/radio.mp3
+#EXTINF:-1 Quran Radio راديو القرآن - Ali Al-Hudhaifi - علي الحذيفي
+https://radio.naza.io/listen/alhuthaifi/radio.mp3
+#EXTINF:-1 Quran Radio راديو القرآن - Kuwait الكويت
+https://radio.naza.io/listen/quran_radio/radio.mp3
+#EXTINF:-1 Quran Radio راديو القرآن - Maher Al Mueaqly - ماهر المعيقلي
+https://radio.naza.io/listen/maher/radio.mp3
+#EXTINF:-1 Quran Radio راديو القرآن - Mishary Alafasy - مشاري العفاسي
+https://radio.naza.io/listen/mishary/radio.mp3
+#EXTINF:-1 Quran Radio راديو القرآن - Mohammad Refat محمد رفعت
+https://radio.naza.io/listen/refaat/radio.mp3
+#EXTINF:-1 Quran Radio راديو القرآن - Saud Al-Shuraim سعود الشريم
+https://radio.naza.io/listen/alshuraim/radio.mp3
+#EXTINF:-1 Quran Radio راديو القرآن - Yasser AlDosari - ياسر الدوسري
+https://radio.naza.io/listen/yaser/radio.mp3
+#EXTINF:-1 Quran Recitation by Sheikh Abdulbasit
+https://server03.quran.com.kw:7000/*.mp3
+#EXTINF:-1 الكويت - البرنامج الثاني
+https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for BD Bangladesh</title>
+</head>
+<body>
+<outline text="A2Z RADIO" title="A2Z RADIO" type="rss" url="https://listen.radioking.com/radio/1743/stream/125" />
+<outline text="AL-QURAN BANGLA" title="AL-QURAN BANGLA" type="rss" url="http://66.45.232.131:9994/" />
+<outline text="banijjik" title="banijjik" type="rss" url="http://as2.digitalsynapsebd.com:8741/stream.mp3" />
+<outline text="Capital FM 94.8" title="Capital FM 94.8" type="rss" url="http://stream.zenolive.com/4nzaapqw34zuv" />
+<outline text="dhakA" title="dhakA" type="rss" url="http://118.179.219.244:8000/" />
+<outline text="Dhaka 88.8 FM" title="Dhaka 88.8 FM" type="rss" url="http://as3.digitalsynapsebd.com:8263/" />
+<outline text="Dhaka FM 90.4" title="Dhaka FM 90.4" type="rss" url="http://stream.zenolive.com/ay4pqkk604zuv" />
+<outline text="dhaka fm radio" title="dhaka fm radio" type="rss" url="http://118.179.219.244:8000/" />
+<outline text="Dhaka Ka 693KHz" title="Dhaka Ka 693KHz" type="rss" url="http://as3.digitalsynapsebd.com:8582/" />
+<outline text="Dhaka Kha 630KHz" title="Dhaka Kha 630KHz" type="rss" url="http://as2.digitalsynapsebd.com:8741/" />
+<outline text="Jago FM 94.4" title="Jago FM 94.4" type="rss" url="http://128.199.184.111:12496/stream" />
+<outline text="Khulna FM 88.8MHz" title="Khulna FM 88.8MHz" type="rss" url="http://as2.digitalsynapsebd.com:9252/" />
+<outline text="Radio Foorti" title="Radio Foorti" type="rss" url="http://119.148.23.88:1021/" />
+<outline text="Radio Foorti 88.0FM" title="Radio Foorti 88.0FM" type="rss" url="http://stream.zenolive.com/f0bfdk2w34zuv" />
+<outline text="Radio Padma 99.2 FM" title="Radio Padma 99.2 FM" type="rss" url="http://radiopadmabd.radioca.st:9109/radiopadma" />
+<outline text="Radio Shadhin Bangladesh" title="Radio Shadhin Bangladesh" type="rss" url="https://stream-23.zeno.fm/umq9q5uuva5tv?zs=Ems7uMMkR8qN8_L1cIhemg" />
+<outline text="Radio Today" title="Radio Today" type="rss" url="http://stream-25.zeno.fm/8wv4d8g4344tv?zs=S8fa0NpET3qEAr8zRdUK2w" />
+<outline text="Radio Ullash" title="Radio Ullash" type="rss" url="http://stream.zeno.fm/gpgkgp9mp18uv.mp3" />
+<outline text="Sylhet FM 88.8MHz" title="Sylhet FM 88.8MHz" type="rss" url="http://as2.digitalsynapsebd.com:8246/" />
+<outline text="Uttorbango Betar" title="Uttorbango Betar" type="rss" url="http://stream.zeno.fm/spqbxkqxdf9uv" />
+</body>
+</opml>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for NP Nepal</title>
+</head>
+<body>
+<outline text="3Angels Radio" title="3Angels Radio" type="rss" url="http://live.itech.host:7554/live" />
+<outline text="BBC Nepali" title="BBC Nepali" type="rss" url="https://stream.live.vc.bbcmedia.co.uk/bbc_nepali_radio" />
+<outline text="Bhorukwa FM" title="Bhorukwa FM" type="rss" url="https://live.itech.host:8379/stream?1686719146434" />
+<outline text="Butwal FM 94.4" title="Butwal FM 94.4" type="rss" url="http://www.surfmusic.de/m3u/butwal-fm-94-4,18031.m3u" />
+<outline text="Capital FM 92.4" title="Capital FM 92.4" type="rss" url="http://streaming.softnep.net:8037/" />
+<outline text="Chitwan Online FM" title="Chitwan Online FM" type="rss" url="https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC227_SC" />
+<outline text="Choice FM" title="Choice FM" type="rss" url="http://live.itech.host:8466/live" />
+<outline text="Good News FM" title="Good News FM" type="rss" url="http://live.itech.host:8162/live" />
+<outline text="Hits FM 91.2" title="Hits FM 91.2" type="rss" url="https://usa15.fastcast4u.com/proxy/hitsfm912?mp=/1" />
+<outline text="Kalika FM 95.2 FM" title="Kalika FM 95.2 FM" type="rss" url="http://www.surfmusic.de/m3u/kalika-fm-95-2-fm,16363.m3u" />
+<outline text="Kantipur FM" title="Kantipur FM" type="rss" url="https://radio-broadcast.ekantipur.com/stream" />
+<outline text="Madi Seti FM" title="Madi Seti FM" type="rss" url="http://live.itech.host:7036/live" />
+<outline text="Naya Radio" title="Naya Radio" type="rss" url="http://live.itech.host:1110/" />
+<outline text="Nepali Radio Network" title="Nepali Radio Network" type="rss" url="https://astream.nepalipatro.com.np:8274/" />
+<outline text="Pakhribas FM" title="Pakhribas FM" type="rss" url="http://live.itech.host:7046/live" />
+<outline text="Radio Arun" title="Radio Arun" type="rss" url="http://live.itech.host:7076/live" />
+<outline text="Radio Audio" title="Radio Audio" type="rss" url="https://stream.zeno.fm/fvrx47wpg0quv" />
+<outline text="Radio Chimkeshwori" title="Radio Chimkeshwori" type="rss" url="http://live.itech.host:7128/live" />
+<outline text="Radio Didibahini" title="Radio Didibahini" type="rss" url="http://live.itech.host:8326/live" />
+<outline text="Radio Himalaya" title="Radio Himalaya" type="rss" url="https://live.itech.host/himalayaradio?1588276425741" />
+<outline text="Radio Jaljala" title="Radio Jaljala" type="rss" url="http://live.itech.host:8144/live" />
+<outline text="Radio Kantipur" title="Radio Kantipur" type="rss" url="https://radio-broadcast.ekantipur.com/stream" />
+<outline text="Radio Kantipur FM 96.1 MHz" title="Radio Kantipur FM 96.1 MHz" type="rss" url="https://radio-broadcast.ekantipur.com/stream" />
+<outline text="Radio Nepal" title="Radio Nepal" type="rss" url="https://stream1.radionepal.gov.np/live/" />
+<outline text="Radio Paschim Today" title="Radio Paschim Today" type="rss" url="http://live.itech.host:7023/live" />
+<outline text="Radio Sahino" title="Radio Sahino" type="rss" url="http://live.itech.host:7093/live" />
+<outline text="Radio Sankhuwasava" title="Radio Sankhuwasava" type="rss" url="http://live.itech.host:7016/live" />
+<outline text="RadioSagar" title="RadioSagar" type="rss" url="https://eu1.fastcast4u.com/proxy/radiosag?mp=/stream/1/" />
+<outline text="Shuklagandaki FM" title="Shuklagandaki FM" type="rss" url="http://live.itech.host:7132/live" />
+<outline text="Swadesh 93.2 FM" title="Swadesh 93.2 FM" type="rss" url="http://216.55.141.189:8653/stream?type=http&amp;nocache=66846" />
+<outline text="Synergy FM 91.6" title="Synergy FM 91.6" type="rss" url="https://live.itech.host:3880/stream" />
+<outline text="Ujyaalo 90 Network" title="Ujyaalo 90 Network" type="rss" url="http://stream.zenolive.com/wtuvp08xq1duv" />
+<outline text="Ultimaě radio" title="Ultimaě radio" type="rss" url="https://ultimae-bofaradio.radioca.st/" />
+<outline text="कालजयी नेपाली पुराना गीतहरु" title="कालजयी नेपाली पुराना गीतहरु" type="rss" url="http://209.95.50.189:8106/stream/1/?fbclid=IwAR23mjjmHllb--s59PzUC3WueP-alzPIQcc8IGBCI7EucZ0PpFc1yQBQQBg" />
+<outline text="रेडियो हिमालय" title="रेडियो हिमालय" type="rss" url="https://live.itech.host/himalayaradio" />
+</body>
+</opml>

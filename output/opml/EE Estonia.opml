@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for EE Estonia</title>
+</head>
+<body>
+<outline text="Äripäeva Raadio" title="Äripäeva Raadio" type="rss" url="https://www.aripaev.ee/raadio/stream.mp3" />
+<outline text="DFM" title="DFM" type="rss" url="https://le10.euddn.net/6ba757fbb07c38b4203333f8da597dfe02364614545d611faee0cae3d5054c28998483e6a36ae77e8017007b680acfd8f3d9469776bc6bf03bec160af728b4e948a98efed04587b8dfe7a058ed6643a614aa6443b182f8f2ae0ccbd5fbb35c505217badbf4aff456020c96c0a214f787619f1c7ac0b589b36b9388395e577132f54b72799791f65ab27e574488f80f605c7d5d207c982f533fa02509dd85d1d6/dfm.mp3" />
+<outline text="ERR Klassikaraadio" title="ERR Klassikaraadio" type="rss" url="http://icecast.err.ee/klassikaraadio.mp3" />
+<outline text="ERR Raadio 2" title="ERR Raadio 2" type="rss" url="http://icecast.err.ee/raadio2.mp3" />
+<outline text="ERR Raadio 2 - 320kbps" title="ERR Raadio 2 - 320kbps" type="rss" url="http://icecast.err.ee/raadio2korge.mp3.m3u" />
+<outline text="ERR Raadio 4" title="ERR Raadio 4" type="rss" url="http://icecast.err.ee/raadio4.mp3?type=.mp3/stream.mp3" />
+<outline text="FinEst Radio" title="FinEst Radio" type="rss" url="https://shoutcast.finestfm.fi/stream/1/:80/stream" />
+<outline text="Happy U" title="Happy U" type="rss" url="http://www.happyu.ee/streaming/happyu.m3u" />
+<outline text="Hard FM Estonia" title="Hard FM Estonia" type="rss" url="http://s5.radio.co/s69e02764f/listen" />
+<outline text="KlaRa Jazz" title="KlaRa Jazz" type="rss" url="https://icecast.err.ee/klarajazz.mp3" />
+<outline text="KlaRa Klassika" title="KlaRa Klassika" type="rss" url="https://icecast.err.ee/klaraklassika.mp3" />
+<outline text="KlaRa Nostalgia" title="KlaRa Nostalgia" type="rss" url="https://icecast.err.ee/klaranostalgia.mp3" />
+<outline text="Kuma FM 101.0" title="Kuma FM 101.0" type="rss" url="http://5.39.16.62:8004/tre" />
+<outline text="Nõmmeraadio" title="Nõmmeraadio" type="rss" url="http://149.210.138.12:8000/nommeraadio" />
+<outline text="NRJ Tallinn" title="NRJ Tallinn" type="rss" url="https://edge03.cdn.bitflip.ee:8888/NRJ" />
+<outline text="Pereraadio Kuressaare" title="Pereraadio Kuressaare" type="rss" url="http://icecast.pereraadio.ee:8000/Kuressaare" />
+<outline text="Pereraadio Tallinn" title="Pereraadio Tallinn" type="rss" url="http://icecast.pereraadio.ee:8000/Tallinn" />
+<outline text="Pereraadio Tartu" title="Pereraadio Tartu" type="rss" url="http://icecast.pereraadio.ee:8000/Tartu" />
+<outline text="R2 Eesti" title="R2 Eesti" type="rss" url="https://icecast.err.ee/r2eestikorge.mp3" />
+<outline text="Raadio 2 (HQ)" title="Raadio 2 (HQ)" type="rss" url="http://icecast.err.ee/raadio2korge.mp3.m3u" />
+<outline text="Raadio 2 HQ" title="Raadio 2 HQ" type="rss" url="http://icecast.err.ee/raadio2korge.mp3" />
+<outline text="Raadio 7" title="Raadio 7" type="rss" url="https://edge05.cdn.bitflip.ee:8888/R7" />
+<outline text="Raadio Kuku" title="Raadio Kuku" type="rss" url="https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_high.mp3" />
+<outline text="Raadio Tallinn" title="Raadio Tallinn" type="rss" url="http://icecast.err.ee/raadiotallinn.mp3?type=.mp3/stream.mp3" />
+<outline text="Radio Eli" title="Radio Eli" type="rss" url="http://icecast.pereraadio.ee:8000/RadioEli" />
+<outline text="Retro FM Estonia" title="Retro FM Estonia" type="rss" url="https://edge02.cdn.bitflip.ee:8888/RETRO?_i=258f436b" />
+<outline text="Rock FM" title="Rock FM" type="rss" url="https://edge02.cdn.bitflip.ee:8888/rck?_i=5f5ab186" />
+<outline text="Semeinoje Radio" title="Semeinoje Radio" type="rss" url="http://icecast.pereraadio.ee:8000/Semeinoje" />
+<outline text="Sky Plus" title="Sky Plus" type="rss" url="https://stream.skymedia.ee/live/SKYPLUS" />
+<outline text="Sky Plus DnB" title="Sky Plus DnB" type="rss" url="https://edge03.cdn.bitflip.ee:8888/NRJdnb" />
+<outline text="Sky-Radio" title="Sky-Radio" type="rss" url="https://stream.skymedia.ee/live/SKY" />
+<outline text="Sooviraadio" title="Sooviraadio" type="rss" url="http://media.uunox.net:8888/listen.pls" />
+<outline text="SSS-Radio" title="SSS-Radio" type="rss" url="http://217.146.76.112:8000/sss-radio" />
+<outline text="Tartu Family Radio" title="Tartu Family Radio" type="rss" url="http://worker.pereraadio.ee:8000/" />
+<outline text="Tartu Pereraadio" title="Tartu Pereraadio" type="rss" url="http://bee.pereraadio.ee:8000/" />
+<outline text="Tre Raadio Kesk-Eesti" title="Tre Raadio Kesk-Eesti" type="rss" url="http://cdn.treraadio.ee/kesk-eesti-tre" />
+<outline text="Tre Raadio Pärnu" title="Tre Raadio Pärnu" type="rss" url="http://cdn.treraadio.ee/parnu-tre" />
+<outline text="Tre Raadio Põhja-Eesti" title="Tre Raadio Põhja-Eesti" type="rss" url="http://cdn.treraadio.ee/pohja-tre" />
+<outline text="Tre Raadio Rapla" title="Tre Raadio Rapla" type="rss" url="https://cdn.treraadio.ee/rapla-tre" />
+<outline text="Tre Raadio Ring FM" title="Tre Raadio Ring FM" type="rss" url="https://cdn.treraadio.ee/ringfm" />
+<outline text="Tre Raadio Ruut FM" title="Tre Raadio Ruut FM" type="rss" url="https://cdn.treraadio.ee/ruutfm" />
+<outline text="Tre Raadio Virumaa" title="Tre Raadio Virumaa" type="rss" url="http://sc2.treraadio.ee/viru-tre" />
+<outline text="VIKERRAADIO" title="VIKERRAADIO" type="rss" url="http://icecast.err.ee/vikerraadiokorge.mp3" />
+<outline text="Vikerraadio" title="Vikerraadio" type="rss" url="http://icecast.err.ee/vikerraadio.mp3.m3u" />
+<outline text="Võmba FM" title="Võmba FM" type="rss" url="https://c4.radioboss.fm:18123/stream.m3u" />
+</body>
+</opml>

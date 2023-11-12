@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for TT Trinidad And Tobago</title>
+</head>
+<body>
+<outline text="95 the ultimate one" title="95 the ultimate one" type="rss" url="https://www.radiomast.io/stream/aae72a18-3fa0-4b9a-a4c4-5a19655e1c68/listen" />
+<outline text="Freedom FM 106.5" title="Freedom FM 106.5" type="rss" url="https://media.slactech.com:8012/stream?1597658711680" />
+<outline text="Real Radio Trinidad &amp; Tobago - Arima" title="Real Radio Trinidad &amp; Tobago - Arima" type="rss" url="http://streaming.radio.co/s3928a1fef/listen" />
+<outline text="Red 96.7 FM - Morichal" title="Red 96.7 FM - Morichal" type="rss" url="http://104.238.99.1:8000/red967.mp3" />
+<outline text="Smash Radio TT" title="Smash Radio TT" type="rss" url="https://ep.onlineaudience.co.uk:8544/stream" />
+<outline text="Trinidad TTPP Air Traffic Control" title="Trinidad TTPP Air Traffic Control" type="rss" url="http://www.liveatc.net/play/ttpp_twr.pls" />
+<outline text="Vibe CT (Port of Spain)" title="Vibe CT (Port of Spain)" type="rss" url="https://streams.radiomast.io/c35d311e-cc60-41b9-b0c5-339e62c14dee" />
+<outline text="W107.1 The Word" title="W107.1 The Word" type="rss" url="http://104.238.99.1:8000/w107_128.mp3" />
+</body>
+</opml>
