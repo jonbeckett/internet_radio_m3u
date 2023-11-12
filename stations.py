@@ -53,6 +53,28 @@ def create_pls_file(countrycode):
       last_name = s['name']
     output_file.write("NumberOfEntries=" + str(i))
 
+def create_opml_file():
+  print("Creating OPML file")
+  with open('output/internet_radio_stations.opml', 'w', encoding='utf-8') as opml_file:
+    opml_file.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n")
+    opml_file.write("<opml version=\"1.0\">\n")
+    opml_file.write("<head>\n<title>Internet Radio Stations</title>\n</head>\n<body>\n")
+    
+    countries = ([(s['countrycode'], s['country']) for s in stations])
+    countries = sorted(list(set(countries)))
+
+    for country in countries:
+      opml_file.write("<outline title=\"" + country[1] + "\" text=\"" + country[1] + "\">\n")
+      last_name = ""
+      for s in stations:
+        if (s['name'] != last_name) and (s['lastcheckok'] == 1) and (s['countrycode'] == country[0]) and (s['codec'] == 'MP3'):
+          opml_file.write("<outline text=\"" + s['name'] + "\" title=\"" + s['name'] + "\" type=\"audio\" url=\"" + clean_url(s['url']) + "\" />\n")
+        last_name = s['name']
+
+      opml_file.write("</outline>\n")
+
+    opml_file.write("</body>\n</opml>\n")
+
 def create_html_file():
   print("Creating HTML file")
   with open('output/internet_radio_stations.htm', 'w', encoding='utf-8') as html_file:
@@ -103,6 +125,7 @@ def create_html_file():
 create_countries_csv_file()
 create_countries_txt_file()
 create_html_file()
+create_opml_file()
 
 codes = get_countrycodes()
 for code in codes:
