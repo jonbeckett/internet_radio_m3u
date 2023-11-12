@@ -7,6 +7,14 @@ with open('input/stations.json', encoding='utf-8') as stations_file:
 def clean_url(url):
   return url.replace(";","")
 
+def encodeXMLText(text):
+    text = text.replace("&", "&amp;")
+    text = text.replace("\"", "&quot;")
+    text = text.replace("'", "&apos;")
+    text = text.replace("<", "&lt;")
+    text = text.replace(">", "&gt;")
+    return text
+
 def get_countrycodes():
   codes = [s['countrycode'] for s in stations]
   return sorted(list(set(codes)))
@@ -64,11 +72,11 @@ def create_opml_file():
     countries = sorted(list(set(countries)))
 
     for country in countries:
-      opml_file.write("<outline title=\"" + country[1] + "\" text=\"" + country[1] + "\">\n")
+      opml_file.write("<outline title=\"" + encodeXMLText(country[1]) + "\" text=\"" + encodeXMLText(country[1]) + "\">\n")
       last_name = ""
       for s in stations:
         if (s['name'] != last_name) and (s['lastcheckok'] == 1) and (s['countrycode'] == country[0]) and (s['codec'] == 'MP3'):
-          opml_file.write("<outline text=\"" + s['name'] + "\" title=\"" + s['name'] + "\" type=\"audio\" url=\"" + clean_url(s['url']) + "\" />\n")
+          opml_file.write("<outline text=\"" + encodeXMLText(s['name']) + "\" title=\"" + encodeXMLText(s['name']) + "\" type=\"audio\" url=\"" + clean_url(s['url']) + "\" />\n")
         last_name = s['name']
 
       opml_file.write("</outline>\n")
