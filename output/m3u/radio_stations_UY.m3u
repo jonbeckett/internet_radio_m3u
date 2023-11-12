@@ -25,7 +25,7 @@ http://lirodu.zapto.org:8000/laislaradio
 #EXTINF:-1 La Nueva del Sur
 http://stream.zeno.fm/s6hdmgb9na0uv.m3u
 #EXTINF:-1 M24
-https://streaming2.hostingmontevideo.com:7003/;
+https://streaming2.hostingmontevideo.com:7003/
 #EXTINF:-1 Montevideo Jazz Radio
 http://node-34.zeno.fm/2ykx0xbm6gruv?rj-ttl=5&amp=&rj-tok=AAABgdsb5DoAz8MV8KJpNVyteA
 #EXTINF:-1 Mundo fm
@@ -63,7 +63,7 @@ https://comodin.uy/radio/8000/320.mp3
 #EXTINF:-1 Radio Pipí Cucú (128 kbps)
 https://comodin.uy/radio/8000/128.mp3
 #EXTINF:-1 Radio Prado Sur
-https://usa2.fastcast4u.com/proxy/wqzjjais?mp=/;
+https://usa2.fastcast4u.com/proxy/wqzjjais?mp=/
 #EXTINF:-1 Radio Rivera CX144 AM 1440
 http://usa15.ciudaddigital.com.uy:8060/RiveraAM
 #EXTINF:-1 Radio Uruguay 1050

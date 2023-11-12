@@ -11,7 +11,7 @@ File5=https://us4.internet-radio.com/proxy/andhowfm?mp=/stream
 Title5=Andhow fm
 File6=https://streamer.radio.co/s81fc850fd/listen
 Title6=Auckland 80s
-File7=https://s38.myradiostream.com:8876/;;?listening-from-radio-garden=1686796930
+File7=https://s38.myradiostream.com:8876/?listening-from-radio-garden=1686796930
 Title7=Bay FM 100.7
 File8=http://s8.myradiostream.com:58408/
 Title8=BeachFM 106.3
@@ -25,25 +25,25 @@ File12=https://s1.voscast.com:11363/live?_=994563
 Title12=Calvary Radio NZ
 File13=https://live.accessmedia.nz/Coast.stream/playlist.m3u8
 Title13=Coast Access Radio MP3
-File14=http://37.59.37.6:12364/;nocache=1625478274?0.931107896726214
+File14=http://37.59.37.6:12364/nocache=1625478274?0.931107896726214
 Title14=Coast FM 96.5 Westport - New Zealand
 File15=http://stream.compassfm.org.nz:8000/Compass_FM_104.9
 Title15=Compass FM
 File16=http://falcon.shoutca.st:8166/stream
 Title16=Cool Blue Taupo
-File17=http://countryradio2.no-ip.org:8000/;
+File17=http://countryradio2.no-ip.org:8000/
 Title17=Country Radio Invercargill 105.2FM
-File18=http://countryradio2.no-ip.org:8000/;
+File18=http://countryradio2.no-ip.org:8000/
 Title18=Country Radio Invercargilll
 File19=http://davefmradio.no-ip.org:8000/stream
 Title19=Dave FM
 File20=https://s2.radio.co/s7649837db/listen
 Title20=Drop FM
-File21=http://procyon.shoutca.st:8032/;
+File21=http://procyon.shoutca.st:8032/
 Title21=Easy 80s
-File22=http://s39.myradiostream.com:14858/;listen.mp3
+File22=http://s39.myradiostream.com:14858/listen.mp3
 Title22=Galaxy 107 FM  Kawerau
-File23=https://usa10.fastcast4u.com:6010/;?type=http&nocache=1676417570
+File23=https://usa10.fastcast4u.com:6010/?type=http&nocache=1676417570
 Title23=Gone Country
 File24=https://s2.radio.co/s2b2b68744/listen
 Title24=https://badradio.nz/ - 24/7 PHONK
@@ -73,9 +73,9 @@ File36=https://cast3.my-control-panel.com/proxy/jonatha1/escape?1664781783632
 Title36=Mushroom Escape
 File37=https://www.mushroomfm.com/media/listen.pls
 Title37=Mushroom FM
-File38=https://crnz.net:8000/;?type=http&nocache=6
+File38=https://crnz.net:8000/?type=http&nocache=6
 Title38=Nelson Community Radio 88.1FM
-File39=https://crnz.net:8000/;?type=http&nocache=6
+File39=https://crnz.net:8000/?type=http&nocache=6
 Title39=Nelson Community Radio Station 88.1 FM - New Zealand
 File40=http://www.nznetradio.net.nz:8000/stream.mp3
 Title40=New Zealand Net Radio
@@ -99,7 +99,7 @@ File49=https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AA
 Title49=Radio - X
 File50=https://listen.radioking.com/radio/106324/stream/145267
 Title50=Radio A - Nelson NZ
-File51=https://s38.myradiostream.com:8876/;;?listening-from-radio-garden=1686969300
+File51=https://s38.myradiostream.com:8876/?listening-from-radio-garden=1686969300
 Title51=Radio Bay FM 100.7
 File52=https://stream.radioapp.co.nz/radiocentral
 Title52=Radio Central
@@ -113,7 +113,7 @@ File56=http://radionz-ice.streamguys.com/national.mp3
 Title56=Radio New Zealand National
 File57=http://stream.r1.co.nz:8090/r1-high.mp3
 Title57=Radio One 91FM in Dunedin
-File58=http://123.255.61.226:8020/;?type=http&nocache=76646
+File58=http://123.255.61.226:8020/?type=http&nocache=76646
 Title58=Radio Redwood
 File59=http://www.radiorockfm.co.nz:8000/listenlive
 Title59=Radio Rock FM
@@ -129,7 +129,7 @@ File64=https://radio123-gecko.radioca.st/radioactivefm
 Title64=Radioactive.FM 88.6
 File65=https://listen.radioking.com/radio/106324/stream/145267
 Title65=Radiowave NZ
-File66=https://ssl.shoutcaststreaming.us:8138/;
+File66=https://ssl.shoutcaststreaming.us:8138/
 Title66=Rag-FM 107.7 Raglan
 File67=https://rdu985fm-gecko.radioca.st/stream
 Title67=RDU
@@ -149,13 +149,13 @@ File74=http://radionz-ice.streamguys.com/international.mp3
 Title74=RNZ Pacific
 File75=http://radionz-ice.streamguys.com/parliament.mp3
 Title75=RNZ Parliament
-File76=http://rushbroadcasting.serverroom.us:5204/;
+File76=http://rushbroadcasting.serverroom.us:5204/
 Title76=Rush FM
 File77=http://65.109.81.84:9851/stream
 Title77=sleep radio
 File78=https://cast4.asurahosting.com:2199/tunein/sleeprad.pls
 Title78=Sleep Radio
-File79=https://s19.myradiostream.com/:18892/;?type=http&nocache=1653124007?0.30724640509725076
+File79=https://s19.myradiostream.com/:18892/?type=http&nocache=1653124007?0.30724640509725076
 Title79=Smash 107FM
 File80=http://rhema-radio.streamguys1.com/rhema-star.mp3
 Title80=Star
@@ -163,11 +163,11 @@ File81=http://thecheese.ddns.net:8000/
 Title81=The Cheese
 File82=http://49.50.246.42:8020/listen.pls
 Title82=The Flea FM 88.2
-File83=https://s1.myradiostream.com/:14268/;?type=http&nocache=1608640718?0.7458407789862892
+File83=https://s1.myradiostream.com/:14268/?type=http&nocache=1608640718?0.7458407789862892
 Title83=The Generator
 File84=https://s1.myradiostream.com/14268/stream/1/
 Title84=The Generator FM
-File85=http://s45.myradiostream.com:19816/;
+File85=http://s45.myradiostream.com:19816/
 Title85=The Hawk FM
 File86=http://gordon.mostfm.com:8000/high.m3u
 Title86=The Most Fm

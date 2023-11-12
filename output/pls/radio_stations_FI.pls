@@ -83,7 +83,7 @@ File41=http://185.123.117.122:8000/ramona.mp3
 Title41=Radio Ramona
 File42=http://c0.toivon.net:8100/stream
 Title42=Radio Ramona - Joulurauma
-File43=http://suomiradio.pro:8080/;
+File43=http://suomiradio.pro:8080/
 Title43=Radio Sandels
 File44=https://streaming.radiostreamlive.com/radiosantaclaus_devices
 Title44=Radio Santa Claus
@@ -107,7 +107,7 @@ File53=https://s3.myradiostream.com/4976/listen.mp3
 Title53=Sea FM
 File54=http://s3.myradiostream.com:4976/listen.pls
 Title54=Sea fm
-File55=http://s3.myradiostream.com:4976/;
+File55=http://s3.myradiostream.com:4976/
 Title55=Sea FM Radio
 File56=https://icecast.synthwaveradio.eu:8000/live?nocache=122809
 Title56=Synthwave Radio

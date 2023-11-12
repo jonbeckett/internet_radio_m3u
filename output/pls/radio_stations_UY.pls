@@ -23,7 +23,7 @@ File11=http://lirodu.zapto.org:8000/laislaradio
 Title11=La Isla Radio Online Del Uruguay
 File12=http://stream.zeno.fm/s6hdmgb9na0uv.m3u
 Title12=La Nueva del Sur
-File13=https://streaming2.hostingmontevideo.com:7003/;
+File13=https://streaming2.hostingmontevideo.com:7003/
 Title13=M24
 File14=http://node-34.zeno.fm/2ykx0xbm6gruv?rj-ttl=5&amp=&rj-tok=AAABgdsb5DoAz8MV8KJpNVyteA
 Title14=Montevideo Jazz Radio
@@ -61,7 +61,7 @@ File30=https://comodin.uy/radio/8000/320.mp3
 Title30=Radio Pipí Cucú
 File31=https://comodin.uy/radio/8000/128.mp3
 Title31=Radio Pipí Cucú (128 kbps)
-File32=https://usa2.fastcast4u.com/proxy/wqzjjais?mp=/;
+File32=https://usa2.fastcast4u.com/proxy/wqzjjais?mp=/
 Title32=Radio Prado Sur
 File33=http://usa15.ciudaddigital.com.uy:8060/RiveraAM
 Title33=Radio Rivera CX144 AM 1440

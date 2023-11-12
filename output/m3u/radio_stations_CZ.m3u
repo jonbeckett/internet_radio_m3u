@@ -237,7 +237,7 @@ http://gw2.mysoft.cz:8000/rokec128
 #EXTINF:-1 Rádio Samson
 http://icecast8.play.cz/samsonfm128.mp3
 #EXTINF:-1 Radio Sázava
-http://sc.ipip.cz:8224/;stream
+http://sc.ipip.cz:8224/stream
 #EXTINF:-1 Radio Slobodna Evropa
 https://n08.radiojar.com/bugesa4nn3quv?rj-ttl=5&rj-tok=AAABikFH4NsAib8tua7OjeefLg
 #EXTINF:-1 Radio Svoboda (ru) (official stream)

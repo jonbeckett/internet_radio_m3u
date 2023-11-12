@@ -91,7 +91,7 @@ File45=https://cast.ner.gov.tw/9
 Title45=教育廣播電臺-花蓮分臺FM-2
 File46=https://cast.ner.gov.tw/5
 Title46=教育廣播電臺-高雄分臺
-File47=http://lizeradio.com:8080/;&type=mp3
+File47=http://lizeradio.com:8080/&type=mp3
 Title47=栗子的輕音樂
 File48=http://163.13.182.81:8001/votk
 Title48=淡江之聲
@@ -105,7 +105,7 @@ File52=http://1.34.23.16:8080/broadwavehigh.mp3
 Title52=美聲廣播電臺
 File53=http://211.20.119.103:8081/
 Title53=苗栗正義電台
-File54=http://60.249.186.105:9000/;
+File54=http://60.249.186.105:9000/
 Title54=金聲廣播電台
 File55=http://43.254.16.40:8000/TC.FM98.5
 Title55=非凡音電台

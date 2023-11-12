@@ -19,6 +19,6 @@ https://radio.naza.io/listen/alshuraim/radio.mp3
 #EXTINF:-1 Quran Radio راديو القرآن - Yasser AlDosari - ياسر الدوسري
 https://radio.naza.io/listen/yaser/radio.mp3
 #EXTINF:-1 Quran Recitation by Sheikh Abdulbasit
-https://server03.quran.com.kw:7000/;*.mp3
+https://server03.quran.com.kw:7000/*.mp3
 #EXTINF:-1 الكويت - البرنامج الثاني
 https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3

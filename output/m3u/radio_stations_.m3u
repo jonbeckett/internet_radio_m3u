@@ -13,13 +13,13 @@ http://stream.ozguruz19.org:8000/ozguruz19.m3u
 #EXTINF:-1 1 Live
 https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
 #EXTINF:-1 1.FM Bosa nova HITS
-http://sc-bossanovahits.1.fm:10068/;
+http://sc-bossanovahits.1.fm:10068/
 #EXTINF:-1 1.FM High Voltage
 http://sc-hv.1.fm:8035/
 #EXTINF:-1 100'5 Das Hitradio
 http://www.surfmusik.de/m3u/station/100-5-das-hitradio,4529.m3u
 #EXTINF:-1 1000 Hits Spain
-http://91.121.155.204:8022/stream/;
+http://91.121.155.204:8022/stream/
 #EXTINF:-1 1000 Italo Hits
 http://1000italohits.stream.laut.fm/1000italohits
 #EXTINF:-1 1000 Jazz Hits
@@ -271,7 +271,7 @@ https://anon.fm/streams/radio
 #EXTINF:-1 Another Music Project
 http://radio.anothermusicproject.com:8000/idm
 #EXTINF:-1 antena satelor
-http://stream2.srr.ro:8042/;stream.nsv
+http://stream2.srr.ro:8042/stream.nsv
 #EXTINF:-1 Antenne 1 Neckarburg
 https://stream.antenne1.de/a1nbg/livestream2.mp3
 #EXTINF:-1 Antenne 1 Plus
@@ -397,17 +397,17 @@ http://opml.radiotime.com/Tune.ashx?id=s157364
 #EXTINF:-1 Be Good Radio
 http://ors.cdnstream1.com/5212_128?companionAds=true
 #EXTINF:-1 BEAUTIFULinstrumentals
-http://198.245.60.88:8080/;
+http://198.245.60.88:8080/
 #EXTINF:-1 Best Of Rock
 http://mp3stream4.abradio.cz/bestofrock128.mp3
 #EXTINF:-1 Best Of Rock.FM Nonstop Metal
 https://bestofrockfm.stream.vip/metal/mp3-256/bestofrock.fm/
 #EXTINF:-1 Best Radio 947
-http://bestradio.net:9470/;
+http://bestradio.net:9470/
 #EXTINF:-1 BestOfRock.fm Alternative
 https://bestofrockfm.stream.vip/altrock/mp3-192/bestofrockfm.stream.vip/
 #EXTINF:-1 Beutifle Instru   256
-http://cast5.citrus3.com:8080/;
+http://cast5.citrus3.com:8080/
 #EXTINF:-1 BFBS Germany
 http://www.surfmusik.de/m3u/bfbs-germany,14440.m3u
 #EXTINF:-1 BGRadio
@@ -467,7 +467,7 @@ http://stream.laut.fm/buffalo
 #EXTINF:-1 BWR
 http://80.73.98.131:8000/bayerwaldradio
 #EXTINF:-1 C-Dance
-http://198.100.145.187:18304/;
+http://198.100.145.187:18304/
 #EXTINF:-1 C02 BACH
 http://stream.dar.fm/102665
 #EXTINF:-1 C64 radio
@@ -501,7 +501,7 @@ http://centreforce.streamgb.com:8830/320
 #EXTINF:-1 CGM UK DemoScene
 http://www.lmp.d2g.com:8040/listen.pls
 #EXTINF:-1 Charivari 2 - Rosenheims Oldiesender
-http://46.105.126.68:6390/;
+http://46.105.126.68:6390/
 #EXTINF:-1 Charivari Rosenheim
 http://s17.myradiostream.com:10938/stream.mp3
 #EXTINF:-1 Cheesy FM
@@ -591,7 +591,7 @@ https://stream.laut.fm/esprit
 #EXTINF:-1 DE Instrumentál  128
 http://android.powersender.de:8030/rmninstrumental
 #EXTINF:-1 Deepinradio
-http://94.75.227.133:8525/;
+http://94.75.227.133:8525/
 #EXTINF:-1 delta radio - anders XMas
 http://streams.deltaradio.de/x-mas/mp3-192
 #EXTINF:-1 delta radio - Buzz Beat Boutique
@@ -607,7 +607,7 @@ http://streams.deltaradio.de/delta-unplugged/mp3-192
 #EXTINF:-1 Der 70er Channel
 http://streams.fluxfm.de/70er/mp3-320/audio/play.m3u
 #EXTINF:-1 Der junge Kulturkanal Karlsruhe
-http://193.197.85.26:8000/;stream/1
+http://193.197.85.26:8000/stream/1
 #EXTINF:-1 Derhitsender 2
 http://stream.laut.fm/derhitsender2.m3u
 #EXTINF:-1 DF Kultur
@@ -621,7 +621,7 @@ http://www.surfmusik.de/m3u/station/die-neue-107-7-oldies,18979.m3u
 #EXTINF:-1 Dinner CROOZE
 http://streams.crooze.fm:8014/stream128
 #EXTINF:-1 Dixieland Oasis
-http://ca8.rcast.net:8018/;stream.mp3
+http://ca8.rcast.net:8018/stream.mp3
 #EXTINF:-1 DJ 666 Geordieblackcore
 http://stream.laut.fm/dj666geordieblackcore
 #EXTINF:-1 DJ Mimmis The Radio
@@ -671,7 +671,7 @@ http://streams.crooze.fm:8012/stream128
 #EXTINF:-1 Ed Sheeran
 https://streaming.exclusive.radio/er/edsheeran/icecast.audio
 #EXTINF:-1 Egerszeg Rádió
-http://92.61.114.191:9310/stream/3/;
+http://92.61.114.191:9310/stream/3/
 #EXTINF:-1 egoFM Flash
 http://mp3ad.egofm.c.nmdn.net/egofmflash_128/livestream.mp3
 #EXTINF:-1 egofm jazz
@@ -865,7 +865,7 @@ http://yp.shoutcast.com/sbin/tunein-station.pls?id=1627182
 #EXTINF:-1 Friede Freude Musik
 http://friede-freude-musik.stream.laut.fm/friede-freude-musik
 #EXTINF:-1 Frontera FM
-http://streaming.radiolinksmedia.com:7105/;stream.nsv&type=mp3
+http://streaming.radiolinksmedia.com:7105/stream.nsv&type=mp3
 #EXTINF:-1 Future
 http://stream.laut.fm/future
 #EXTINF:-1 Future Sounds Radio
@@ -879,7 +879,7 @@ http://de-hz-fal-stream04.rautemusik.fm/solopiano
 #EXTINF:-1 G10 CHINA SONGS
 http://lhttp.qingting.fm/live/20234/64k.mp3
 #EXTINF:-1 G12  BACH
-http://klassikr.streamabc.net/klr-purebach-mp3-192-6431132?sABC=5qnr0857%230%23o000r827s931po57p4q48q3377r73615%23jjj.xynffvxenqvb.qr&amsparams=playerid:www.klassikradio.de;skey:1571686487
+http://klassikr.streamabc.net/klr-purebach-mp3-192-6431132?sABC=5qnr0857%230%23o000r827s931po57p4q48q3377r73615%23jjj.xynffvxenqvb.qr&amsparams=playerid:www.klassikradio.deskey:1571686487
 #EXTINF:-1 G15  VENICE. CLAS
 http://144.217.49.251/stream1
 #EXTINF:-1 G18 STREAM THEWORLDS Music
@@ -961,7 +961,7 @@ http://stream.hive365.co.uk:8088/live
 #EXTINF:-1 Hollow Earth Radio
 http://centova.rockhost.com:8001/stream
 #EXTINF:-1 HOT 108 JAMZ
-http://hot108jamz.hot108.com:4040/;%20
+http://hot108jamz.hot108.com:4040/%20
 #EXTINF:-1 Hot Dance Radio - Hits with a Beat!
 http://icecast02.hotdanceradio.com/192.mp3
 #EXTINF:-1 House of Prog
@@ -1103,9 +1103,9 @@ https://us2.maindigitalstream.com/ssl/KZYR
 #EXTINF:-1 La 100 Mar del Plata
 http://buecrplb01.cienradios.com.ar/la100_mdq.mp3
 #EXTINF:-1 La estación familiar
-https://stream5.mexiserver.com:10026/;stream.mp3
+https://stream5.mexiserver.com:10026/stream.mp3
 #EXTINF:-1 La Retaguardia Radio - HD
-http://server9.veemesoft.com.ar:9456/;%20width=
+http://server9.veemesoft.com.ar:9456/%20width=
 #EXTINF:-1 LaBrujula24
 http://radios.hostingbahia.com.ar:10520/
 #EXTINF:-1 Landeswelle Thüringen - Deutsch
@@ -1219,7 +1219,7 @@ http://live.mplus.fm:8000/radio
 #EXTINF:-1 Müritzradio
 http://88.198.175.30:5574/stream.m3u/
 #EXTINF:-1 MusicArtclub
-http://178.32.107.151:8090/;
+http://178.32.107.151:8090/
 #EXTINF:-1 MusikNation
 http://stream.laut.fm/musiknation.m3u
 #EXTINF:-1 Musiq3 belge
@@ -1241,21 +1241,21 @@ https://streaming.live365.com/a51903
 #EXTINF:-1 Naxi 80
 http://naxidigital-80s128.streaming.rs:8040/
 #EXTINF:-1 naxi radio - classical
-http://naxidigital-classic128.streaming.rs:8030/;stream.nsv
+http://naxidigital-classic128.streaming.rs:8030/stream.nsv
 #EXTINF:-1 naxi radio - dance
-http://naxidigital-dance128.streaming.rs:8110/;stream.nsv
+http://naxidigital-dance128.streaming.rs:8110/stream.nsv
 #EXTINF:-1 naxi radio - fresh
-http://naxidigital-fresh128.streaming.rs:8210/;stream.nsv
+http://naxidigital-fresh128.streaming.rs:8210/stream.nsv
 #EXTINF:-1 naxi radio - gold
-http://naxidigital-gold128.streaming.rs:8060/;stream.nsv
+http://naxidigital-gold128.streaming.rs:8060/stream.nsv
 #EXTINF:-1 naxi radio - house
-http://naxidigital-house128.streaming.rs:8000/;stream.nsv
+http://naxidigital-house128.streaming.rs:8000/stream.nsv
 #EXTINF:-1 naxi radio - jazz
-http://naxidigital-jazz128.streaming.rs:8170/;stream.nsv
+http://naxidigital-jazz128.streaming.rs:8170/stream.nsv
 #EXTINF:-1 naxi radio - love
-http://naxidigital-love128.streaming.rs:8100/;stream.nsv
+http://naxidigital-love128.streaming.rs:8100/stream.nsv
 #EXTINF:-1 naxi radio - mix
-http://naxidigital-mix128.streaming.rs:8220/;stream.nsv
+http://naxidigital-mix128.streaming.rs:8220/stream.nsv
 #EXTINF:-1 NDR 1
 https://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen_ol.m3u
 #EXTINF:-1 NDR 1 Welle Nord Region Heide
@@ -1333,7 +1333,7 @@ http://radio.canstream.co.uk:8123/live.mp3
 #EXTINF:-1 Party Time
 https://www.partytime.fr/webradio/roots.m3u
 #EXTINF:-1 Party Vibe Radio - Ambient
-http://www.partyviberadio.com:8056/;stream/1
+http://www.partyviberadio.com:8056/stream/1
 #EXTINF:-1 Party Vibe Trance
 http://www.partyviberadio.com:8046/listen.pls?sid=2
 #EXTINF:-1 Partyradio24
@@ -1387,7 +1387,7 @@ http://stream.pride1.de/PRIDE1_96k_Stereo.mp3
 #EXTINF:-1 Pro FM Dance radio 24/7 Danceclassics & Dancehits
 http://stream.pro-fm.net:8200/listen.pls
 #EXTINF:-1 Program 3 (Trójka)
-http://mp3.polskieradio.pl:8904/;.mp3
+http://mp3.polskieradio.pl:8904/.mp3
 #EXTINF:-1 Progressive Voices
 https://tunein5.streamguys1.com/progressivevoices
 #EXTINF:-1 Promodj - Oldschool-192
@@ -1395,7 +1395,7 @@ http://radio.promodj.com/oldschool-192
 #EXTINF:-1 Prun`
 http://streaming.prun.net/streamprun.m3u
 #EXTINF:-1 psychoradio
-http://stream.psychoradio.org:8000/;
+http://stream.psychoradio.org:8000/
 #EXTINF:-1 PULSE 87 NY
 https://s2.yesstreaming.net:17039/PULSE-87
 #EXTINF:-1 Pulse EDM
@@ -1445,11 +1445,11 @@ http://icecast01.mycloudserver.info:18080/lsl-rocks
 #EXTINF:-1 Radio 66
 http://ice3.abradio.cz/route128.mp3
 #EXTINF:-1 Radio Andrychów
-http://s1.slotex.pl:7424/stream/1/;?type=http
+http://s1.slotex.pl:7424/stream/1/?type=http
 #EXTINF:-1 Radio Anime Stream
 https://radioanime.radioca.st/stream
 #EXTINF:-1 Radio Aparat
-http://ca3.rcast.net:8060/;stream.mp3
+http://ca3.rcast.net:8060/stream.mp3
 #EXTINF:-1 Radio Art - Cool Jazz
 http://live.radioart.com/fCool_jazz.mp3
 #EXTINF:-1 Radio Art - Current Jazz
@@ -1457,7 +1457,7 @@ http://live.radioart.com/fCurrent_jazz.mp3
 #EXTINF:-1 Radio Art Kids
 http://air.radioart.com/fGreek_art_for_kids.mp3?dlid=
 #EXTINF:-1 Radio Asia
-http://51.255.235.165:5480/;stream.mp3
+http://51.255.235.165:5480/stream.mp3
 #EXTINF:-1 Radio Babaganousha Psytrance
 http://188.68.42.236:8000/listen.mp3
 #EXTINF:-1 Radio Blaník
@@ -1505,7 +1505,7 @@ http://95.211.66.140:8253/
 #EXTINF:-1 Radio Caroline Flashback
 http://sc2.radiocaroline.net:10558/
 #EXTINF:-1 Radio Caroline UK (The Original)
-http://sc2.radiocaroline.net:8000/;stream.mp3
+http://sc2.radiocaroline.net:8000/stream.mp3
 #EXTINF:-1 Radio centras
 https://transliacija.rc.lt/rc128.mp3
 #EXTINF:-1 Radio Centro Campania 
@@ -1537,9 +1537,9 @@ http://radio-musikexpress.de:8000/
 #EXTINF:-1 Radio Eyesee
 http://icecast.bkwsu.eu/radio-eyesee.mp3
 #EXTINF:-1 Radio Fama
-http://stream2.nadaje.com:8076/;stream.mp3
+http://stream2.nadaje.com:8076/stream.mp3
 #EXTINF:-1 Radio Family 89.5 Fm
-http://193.227.111.111:8002/;
+http://193.227.111.111:8002/
 #EXTINF:-1 Radio Fm Music
 http://nr9.newradio.it:9362/
 #EXTINF:-1 Rádio Folk
@@ -1555,7 +1555,7 @@ http://209.95.50.189:8124/stream
 #EXTINF:-1 Radio Freedom
 http://freedomice.streamakaci.com/freedom.mp3
 #EXTINF:-1 Radio Frieden
-https://server33307.streamplus.de/;stream.mp3
+https://server33307.streamplus.de/stream.mp3
 #EXTINF:-1 Radio FRM
 http://icecast1.play.cz/fajnrock128.mp3
 #EXTINF:-1 Radio Galega
@@ -1577,7 +1577,7 @@ https://streaming.intereconomia.com/siliconorg
 #EXTINF:-1 Radio Israel
 http://178.21.16.124:8000/stream
 #EXTINF:-1 Radio J-Hero
-http://stm1.radiojhero.com:8008/;
+http://stm1.radiojhero.com:8008/
 #EXTINF:-1 Radio Javan
 https://rj1.rjstream.com/
 #EXTINF:-1 Radio Jazzinec
@@ -1643,7 +1643,7 @@ http://pool.radiopaloma.de/RP-Volksmusik.mp3
 #EXTINF:-1 Rádio Paulus
 http://streaming02.hstbr.net:8120/live
 #EXTINF:-1 Radio Paz 810
-http://45.79.186.124/proxy/wkvm?mp=/;
+http://45.79.186.124/proxy/wkvm?mp=/
 #EXTINF:-1 Radio Ploče
 http://178.218.163.171:8010/stream
 #EXTINF:-1 Radio ProRock
@@ -1691,7 +1691,7 @@ http://streams.regenbogen.de/rr-inthemix-128-mp3
 #EXTINF:-1 Radio Robin
 http://stream-dis.radio.si/Robin
 #EXTINF:-1 radio rociana
-http://streaming.radiorociana.com:8000/;stream.mp3
+http://streaming.radiorociana.com:8000/stream.mp3
 #EXTINF:-1 RADIO RUEDA
 https://radio.love4stream.com/radio/8000/radio.mp3
 #EXTINF:-1 Radio Rur
@@ -1731,13 +1731,13 @@ https://stream.radiotop40.de/charts/mp3-192/
 #EXTINF:-1 Radio Universidad de Guanajuato
 http://148.214.155.119:8000/
 #EXTINF:-1 Radio Universidad de Guanajuato, La colmena
-http://148.214.155.119:8000/;
+http://148.214.155.119:8000/
 #EXTINF:-1 Radio Vacio 104.1
 https://stream.zeno.fm/7qbu66b2kwzuv
 #EXTINF:-1 RADIO VERONICA TOP 1000
 http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3
 #EXTINF:-1 Radio Voceaa Ev-Oradea
-http://38.96.148.39:6700/;stream
+http://38.96.148.39:6700/stream
 #EXTINF:-1 Radio Warendorf
 http://mp3.radiowaf.c.nmdn.net/radiowaf/livestream.mp3
 #EXTINF:-1 Radio Welle Landsberg
@@ -1921,7 +1921,7 @@ http://streams.schlagerplanetradio.com/weihnachten/mp3-192
 #EXTINF:-1 SchlagerPlanet Radio - 100%Helene Fischer
 http://streams.schlagerplanetradio.com/hf/mp3-192
 #EXTINF:-1 Schranz.in
-http://schranz.in:8000/;stream/1
+http://schranz.in:8000/stream/1
 #EXTINF:-1 Schranz.in - Hardtechno
 http://schranz.in:8000/stream
 #EXTINF:-1 Schwany  1
@@ -1939,7 +1939,7 @@ http://somafm.com/defcon.pls
 #EXTINF:-1 Shamanic tunes
 http://stream.dar.fm/153255
 #EXTINF:-1 SHEMROON
-http://69.197.169.178:33640/;
+http://69.197.169.178:33640/
 #EXTINF:-1 Sikhnet Classical Raag
 http://radio2.sikhnet.com:8014/autodj
 #EXTINF:-1 Sikhnet Dukh Nivaran Sahib surrey
@@ -1999,7 +1999,7 @@ http://somafm.com/vaporwaves.pls
 #EXTINF:-1 SomaFM: Indie Pop Rocks!
 http://ice2.somafm.com/indiepop-128-mp3
 #EXTINF:-1 Sonus.fm
-http://138.201.226.83:8000/stream/2/;
+http://138.201.226.83:8000/stream/2/
 #EXTINF:-1 Soulful House
 http://pub0101.101.ru:8000/stream/trust/mp3/128/184?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ijg0LjQxLjI1LjExMCIsInVzZXJhZ2VudCI6Ik1vemlsbGFcLzUuMCAoWDExOyBMaW51eCB4ODZfNjQpIEFwcGxlV2ViS2l0XC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWVcLzc5LjAuMzk0NS4xMTcgU2FmYXJpXC81MzcuMzYgT1BSXC82Ni4wLjM1MTUuMzYiLCJ1aWRfY2hhbm5lbCI6IjE4NCIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE1ODMxMDAyMzZ9.IgICK2wYPzAfqGfoK9e8vV_1qkmU7amL8qhyj3ZqMwU
 #EXTINF:-1 Sound 9 Studio
@@ -2025,7 +2025,7 @@ http://stream.laut.fm/d-j-w
 #EXTINF:-1 StarpointRadio
 http://starpoint-tx.hippynet.co.uk:8084/stream.mp3
 #EXTINF:-1 StrefaDobrejMuzy
-http://4stream.pl:18226/;
+http://4stream.pl:18226/
 #EXTINF:-1 StuBru Hooray
 http://icecast.vrtcdn.be/stubru_hiphophooray-high.mp3
 #EXTINF:-1 Studio 3
@@ -2051,7 +2051,7 @@ http://sverigesradio.se/topsy/direkt/164-hi-mp3.m3u
 #EXTINF:-1 Sveriges radio P4+
 http://sverigesradio.se/topsy/direkt/4951-hi-mp3.m3u
 #EXTINF:-1 Svobodné Rádio
-http://svobodneradio.radioca.st:8859/;
+http://svobodneradio.radioca.st:8859/
 #EXTINF:-1 swing fm
 http://broadcast.infomaniak.ch/swingfm-128.mp3
 #EXTINF:-1 Synthetic FM
@@ -2085,7 +2085,7 @@ http://5.63.151.52:8600/
 #EXTINF:-1 The Rollye James Show
 http://server.rollyestream.net:8000/Rollyestream
 #EXTINF:-1 The Rudder
-http://radio.myocn.net:8080/;stream/1
+http://radio.myocn.net:8080/stream/1
 #EXTINF:-1 the wave - relaxing radio
 http://stream.thewaveradio.de/wave-live/mp3-192
 #EXTINF:-1 thistleradio
@@ -2131,7 +2131,7 @@ http://listen.uturnradio.com/drum_and_bass
 #EXTINF:-1 Uturn Radio - Electro House
 http://listen.uturnradio.com/electro_house
 #EXTINF:-1 VFM
-http://vfmstreaming.myvnc.com:9060/;?type=http&nocache=17&listening-from-radio-garden=1591955052006
+http://vfmstreaming.myvnc.com:9060/?type=http&nocache=17&listening-from-radio-garden=1591955052006
 #EXTINF:-1 VGM Radio
 http://radio.vgmradio.com:8040/stream
 #EXTINF:-1 Vibe of Vegas
@@ -2139,7 +2139,7 @@ http://icyrelay.181.fm/181-vibe_128k.mp3
 #EXTINF:-1 Virgin Classics
 https://ais-live.cloud-services.paris:8443/vr-wr2.mp3
 #EXTINF:-1 Virtual DJ radio
-http://virtualdjradio.com:8000/channel1.mp3/;
+http://virtualdjradio.com:8000/channel1.mp3/
 #EXTINF:-1 Voa udru
 https://voa15.akacast.akamaistream.net/7/687/437797/v1/ibb.akacast.akamaistream.net/voa15
 #EXTINF:-1 Voices From Within
@@ -2183,7 +2183,7 @@ http://www.ophanim.net:7900/stream
 #EXTINF:-1 Word of Truth Radio Instrumental
 http://wordoftruthradio.com/listen_wotr1.pls
 #EXTINF:-1 Worlds  04 SBSR PT
-http://centova.radio.com.pt:8435/;
+http://centova.radio.com.pt:8435/
 #EXTINF:-1 WORLDWIDE FM
 http://worldwidefm.out.airtime.pro:8000/worldwidefm_b
 #EXTINF:-1 WQER
@@ -2235,7 +2235,7 @@ http://server.audiopedia.su:8000/ices128
 #EXTINF:-1 Радіо Люкс
 http://icecastlv.luxnet.ua/lux_mp3
 #EXTINF:-1 Семейное радио Эли
-http://worker.pereraadio.ee:8000/;stream.nsv
+http://worker.pereraadio.ee:8000/stream.nsv
 #EXTINF:-1 Тільки Українське
 https://radio-stream-1.obozrevatel.com/onlyukraine128.mp3
 #EXTINF:-1 Шансон Радио

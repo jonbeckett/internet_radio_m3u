@@ -1,5 +1,5 @@
 [playlist]
-File1=http://136.0.17.26:8000/;stream.nsv
+File1=http://136.0.17.26:8000/stream.nsv
 Title1=Africa Online
 File2=https://radiodigitalcongofm.ice.infomaniak.ch/digitalcongofm-96.mp3
 Title2=Digital Congo 

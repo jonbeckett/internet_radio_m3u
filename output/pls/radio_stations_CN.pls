@@ -75,7 +75,7 @@ File37=https://stream.zeno.fm/r1tyr810fkhvv
 Title37=FM88888
 File38=http://lhttp.qingting.fm/live/5022382/64k.mp3
 Title38=FM89.8烟台汽车音乐广播
-File39=https://s10.webradio-hosting.com/proxy/fredradiocn/stream/;
+File39=https://s10.webradio-hosting.com/proxy/fredradiocn/stream/
 Title39=Fred Film Radio - 普通话
 File40=https://s10.webradio-hosting.com/proxy/fredradiocn/stream
 Title40=Fred Film Radio(中文)
@@ -123,7 +123,7 @@ File61=http://lhttp.qingting.fm/live/5022434/64k.mp3
 Title61=Peony River News Radio
 File62=http://www.radioking.com/play/radio-collection/296545
 Title62=Radio Collection
-File63=https://onair7.xdevel.com/proxy/xautocloud_nwct_1310?mp=/;stream/
+File63=https://onair7.xdevel.com/proxy/xautocloud_nwct_1310?mp=/stream/
 Title63=Radio Maria Chinese
 File64=https://raggakings.radio:8443/stream.ogg
 Title64=Raggakings雷鬼音乐频道
@@ -1599,7 +1599,7 @@ File799=https://lhttp.qtfm.cn/live/5022646/64k.mp3
 Title799=红安县电台
 File800=https://lhttp.qingting.fm/live/5022729/64k.mp3
 Title800=红调频·九江综合广播
-File801=http://mobilewkdm.serverroom.us:6912/;14481715552093544stream.nsv
+File801=http://mobilewkdm.serverroom.us:6912/14481715552093544stream.nsv
 Title801=纽约华语广播国语台
 File802=https://lhttp.qtfm.cn/live/20500053/64k.mp3
 Title802=经典958（内乡广播电视台）

@@ -3,7 +3,7 @@ File1=https://radio.co.cr/listen/radio/radio.mp3
 Title1=¡Diay Radio!
 File2=http://streams.y2kwebs.com:9310/stream/1/
 Title2=104.7 HIT
-File3=https://live.turadio.stream:7004/stream;
+File3=https://live.turadio.stream:7004/stream
 Title3=1047hit
 File4=https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_CR_SC.mp3
 Title4=Bésame Costa Rica - 89.9 FM - TIRB - Multimedios Radio - San José, Costa Rica
@@ -45,7 +45,7 @@ File22=https://stream20.usastreams.com/8090/stream
 Title22=Radio Spectro
 File23=http://s1.voscast.com:11392/stream
 Title23=Tamarindo Radio
-File24=https://usa19.fastcast4u.com:5860/;?type=http&nocache=1690470873
+File24=https://usa19.fastcast4u.com:5860/?type=http&nocache=1690470873
 Title24=Tiquicia Rock
 File25=https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1
 Title25=Urbano 106 - 105.9 FM - San José, Costa Rica

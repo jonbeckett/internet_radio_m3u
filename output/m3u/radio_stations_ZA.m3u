@@ -71,7 +71,7 @@ https://sv2.famcast.co.za/proxy/magakala_radio/stream
 #EXTINF:-1 Merafong 360 Online Radio
 https://sv2.famcast.co.za/proxy/merafong?mp=/live
 #EXTINF:-1 Overvaal stereo
-http://185.105.4.50:5806/;stream.mp3
+http://185.105.4.50:5806/stream.mp3
 #EXTINF:-1 Pretoria FM
 http://capeant.antfarm.co.za:8000/ptafm
 #EXTINF:-1 Radio 786

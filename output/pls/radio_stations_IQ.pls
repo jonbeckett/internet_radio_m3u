@@ -9,7 +9,7 @@ File4=http://192.99.170.8:5550/stream
 Title4=Alseraj Radio Quran
 File5=https://streams.radio.co/s0975ec186/listen
 Title5=Darusalam Radio
-File6=http://radio1.sotmasr.com:9354/;
+File6=http://radio1.sotmasr.com:9354/
 Title6=Dengi Islam-Hawler 106.1FM
 File7=http://uk3.internet-radio.com:8011/stream?type=http&nocache=74
 Title7=Dengi Kurdsat

@@ -41,7 +41,7 @@ https://bnthosting.online/listen/highlights_radio_/stream
 #EXTINF:-1 96.3 Easy Rock Manila
 https://playerservices.streamtheworld.com/api/livestream-redirect/EASYROCK_MNL.mp3
 #EXTINF:-1 96.3 WRocK CEBU
-https://air.doscast.com/proxy/wrockceb/;?1699099703703
+https://air.doscast.com/proxy/wrockceb/?1699099703703
 #EXTINF:-1 96.3 WRocK Manila
 http://radio.streemlion.com:4390/stream
 #EXTINF:-1 96.7 Bai Radio
@@ -165,9 +165,9 @@ http://sg-icecast.eradioportal.com:8000/febc_dway
 #EXTINF:-1 Catholic Media Network (CMN Radio)
 http://shout.audionow.com:8000/ANCatholicMN
 #EXTINF:-1 CH19 FM
-http://s7.reliastream.com:8003/;
+http://s7.reliastream.com:8003/
 #EXTINF:-1 Coach Eddie Mahilum Internet Radio
-https://air.doscast.com/proxy/coacheddie/;?1699099900502
+https://air.doscast.com/proxy/coacheddie/?1699099900502
 #EXTINF:-1 Cool 975 Baguio
 https://stream.zeno.fm/e6agh0c3a6quv
 #EXTINF:-1 Crossover Radio Online (Manila, Philippines)
@@ -273,7 +273,7 @@ http://192.111.140.11:8240/listen.pls?sid=1
 #EXTINF:-1 Hope Radio Davao
 https://stream.dxbh.net/hopedxma
 #EXTINF:-1 Hugot Radio
-https://cast3.asurahosting.com/proxy/istreamo/stream:8499/;stream.mp3
+https://cast3.asurahosting.com/proxy/istreamo/stream:8499/stream.mp3
 #EXTINF:-1 iFM Bacolod
 http://freeuk22.listen2myradio.com:33665/stream
 #EXTINF:-1 iFM Dagupan
@@ -281,11 +281,11 @@ http://icecast.eradioportal.com:8000/ifm_dagupan
 #EXTINF:-1 iFM Iloilo 95.1
 http://shout.audionow.com:8000/ANiFMIloilo
 #EXTINF:-1 Infinite Radio Calbayog
-http://freeuk27.listen2myradio.com:13496/;
+http://freeuk27.listen2myradio.com:13496/
 #EXTINF:-1 Infinite Radio DXSJ Surigao
 http://s9.reliastream.com:9085/xstream
 #EXTINF:-1 James Spider Kaka WebFM Internet Radio
-https://air.doscast.com/proxy/spider/;?1699100251863
+https://air.doscast.com/proxy/spider/?1699100251863
 #EXTINF:-1 KAPE NI MANOY RADIO
 http://172.105.216.148:8040/radio.mp3
 #EXTINF:-1 King Radio Tabuk City
@@ -371,11 +371,11 @@ http://magikfm.live:8030/stream
 #EXTINF:-1 Magik FM Vigan
 http://magikfm.live:8010/stream
 #EXTINF:-1 Magnum Radyo Cagayan de Oro
-http://212.84.160.187:21059/;stream.mp3
+http://212.84.160.187:21059/stream.mp3
 #EXTINF:-1 Marino News FM Zamboanga
 https://stream.zeno.fm/4xq4cb6x6k0uv
 #EXTINF:-1 MELLOW 94.7
-https://s3.free-shoutcast.com/stream/18342/;?type=http&nocache=40
+https://s3.free-shoutcast.com/stream/18342/?type=http&nocache=40
 #EXTINF:-1 MemoRieS FM 89.9 Cebu
 http://67.212.238.178:7134/listen.pls?sid=1
 #EXTINF:-1 Memories FM Baguio
@@ -407,9 +407,9 @@ https://streaming.live365.com/a31881
 #EXTINF:-1 OK-FM Legazpi
 http://server10.reliastream.com/proxy/pbnbroa6?mp=/xstream
 #EXTINF:-1 OK-FM Sogod Leyte
-https://mercury.reliastream.com/proxy/broadte3?mp=/;
+https://mercury.reliastream.com/proxy/broadte3?mp=/
 #EXTINF:-1 OK-FM Sorsogon
-https://s3.reliastream.com/proxy/jolocs03?mp=/;
+https://s3.reliastream.com/proxy/jolocs03?mp=/
 #EXTINF:-1 One FM PH
 http://122.3.31.246:88/broadwave.mp3
 #EXTINF:-1 One Radio Christmas
@@ -453,7 +453,7 @@ https://stream.zeno.fm/hwr0geklhbouv
 #EXTINF:-1 Radyo Guagua 99.9FM
 http://freeuk27.listen2myradio.com:18295/stream.m3u
 #EXTINF:-1 Radyo Magkaisa 98.1 FM
-http://91.121.195.222:7202/;?type=http&nocache=1692710648?0.5310120395313187
+http://91.121.195.222:7202/?type=http&nocache=1692710648?0.5310120395313187
 #EXTINF:-1 Radyo Natin
 https://ph-icecast-win.eradioportal.com:8443/radyo_natin
 #EXTINF:-1 Radyo Natin FM Bayombong
@@ -525,7 +525,7 @@ https://stream-31.zeno.fm/2ss1hgnu6hhvv
 #EXTINF:-1 Win Radio Cagayan de Oro 
 http://stream.zeno.fm/delhmcm1qhntv
 #EXTINF:-1 Win Radio Cebu (2)
-http://freeuk25.listen2myradio.com:11922/;
+http://freeuk25.listen2myradio.com:11922/
 #EXTINF:-1 Win Radio Davao
 https://stream-42.zeno.fm/1noxhem5qpkuv
 #EXTINF:-1 Win Radio Iloilo
@@ -533,7 +533,7 @@ https://stream.zeno.fm/vmifa1pxyjtuv
 #EXTINF:-1 Win Radio Manila
 https://stream-31.zeno.fm/2ss1hgnu6hhvv
 #EXTINF:-1 Win Radio Valencia
-http://mercury.reliastream.com:8002/;
+http://mercury.reliastream.com:8002/
 #EXTINF:-1 WRock Manila OPM
 http://radio.streemlion.com:4120/stream
 #EXTINF:-1 WXB 102

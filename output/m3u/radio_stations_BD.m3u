@@ -5,25 +5,25 @@ https://listen.radioking.com/radio/1743/stream/125
 #EXTINF:-1 AL-QURAN BANGLA
 http://66.45.232.131:9994/
 #EXTINF:-1 banijjik
-http://as2.digitalsynapsebd.com:8741/;stream.mp3
+http://as2.digitalsynapsebd.com:8741/stream.mp3
 #EXTINF:-1 Capital FM 94.8
 http://stream.zenolive.com/4nzaapqw34zuv
 #EXTINF:-1 dhakA
-http://118.179.219.244:8000/;
+http://118.179.219.244:8000/
 #EXTINF:-1 Dhaka 88.8 FM
-http://as3.digitalsynapsebd.com:8263/;
+http://as3.digitalsynapsebd.com:8263/
 #EXTINF:-1 Dhaka FM 90.4
 http://stream.zenolive.com/ay4pqkk604zuv
 #EXTINF:-1 dhaka fm radio
-http://118.179.219.244:8000/;
+http://118.179.219.244:8000/
 #EXTINF:-1 Dhaka Ka 693KHz
-http://as3.digitalsynapsebd.com:8582/;
+http://as3.digitalsynapsebd.com:8582/
 #EXTINF:-1 Dhaka Kha 630KHz
-http://as2.digitalsynapsebd.com:8741/;
+http://as2.digitalsynapsebd.com:8741/
 #EXTINF:-1 Jago FM 94.4
 http://128.199.184.111:12496/stream
 #EXTINF:-1 Khulna FM 88.8MHz
-http://as2.digitalsynapsebd.com:9252/;
+http://as2.digitalsynapsebd.com:9252/
 #EXTINF:-1 Radio Foorti
 http://119.148.23.88:1021/
 #EXTINF:-1 Radio Foorti 88.0FM
@@ -37,6 +37,6 @@ http://stream-25.zeno.fm/8wv4d8g4344tv?zs=S8fa0NpET3qEAr8zRdUK2w
 #EXTINF:-1 Radio Ullash
 http://stream.zeno.fm/gpgkgp9mp18uv.mp3
 #EXTINF:-1 Sylhet FM 88.8MHz
-http://as2.digitalsynapsebd.com:8246/;
+http://as2.digitalsynapsebd.com:8246/
 #EXTINF:-1 Uttorbango Betar
 http://stream.zeno.fm/spqbxkqxdf9uv

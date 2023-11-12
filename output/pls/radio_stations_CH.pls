@@ -227,7 +227,7 @@ File113=http://live9.avf.ch:8000/globalfm160
 Title113=Global Sport - Suisse
 File114=http://live9.avf.ch:8000/globalfmdabne
 Title114=Global Sport NFBJ
-File115=https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=61s83r32%230%2389nqs1p1q8rrq2q126260sp7877or6oo%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1643658802
+File115=https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=61s83r32%230%2389nqs1p1q8rrq2q126260sp7877or6oo%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.deskey:1643658802
 Title115=Gnu Radio - Metal FM
 File116=https://strm112.1.fm/gorillafm_mobile_mp3
 Title116=Gorilla.fm
@@ -361,7 +361,7 @@ File180=http://stream11.radiobeo.ch:8000/radiobeo.mp3
 Title180=Radio BeO
 File181=https://stream.streambase.ch/radiobern1/mp3-192/direct/
 Title181=RADIO BERN1
-File182=http://server9932.streamplus.de:27100/;listen.pls?sid=1
+File182=http://server9932.streamplus.de:27100/listen.pls?sid=1
 Title182=Radio Blitz
 File183=https://radiobollwerk.out.airtime.pro/radiobollwerk_a
 Title183=Radio Bollwerk
@@ -371,9 +371,9 @@ File185=http://stream.radiochablais.ch/chablais-100francais.mp3
 Title185=Radio Chablais - 100% Français
 File186=http://radio-drachenblut.ch:8000/stream/3/
 Title186=Radio Drachenblut
-File187=https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499o8o6%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1687795894
+File187=https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499o8o6%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:directskey:1687795894
 Title187=Radio FM1
-File188=https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499oos8%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1687796728
+File188=https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499oos8%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:directskey:1687796728
 Title188=RADIO FM1
 File189=http://radiofd.ice.infomaniak.ch/radiofd.mp3
 Title189=Radio Freundesdienst Deutsch
@@ -401,11 +401,11 @@ File200=http://streaming2.elitecomunicacion.es:9000/radiomaria_lo
 Title200=Radio Maria Schweiz
 File201=http://dreamsiteradiocp.com:8020/stream
 Title201=Radio Maria Switzerland
-File202=https://chmedia.streamabc.net/79-rm-mp3-192-7754268?sABC=64726ssr%230%23565o8622n9638n515p1pqq82pnq6q099%23zlghare&aw_0_1st.playerid=mytuner&amsparams=playerid:mytuner;skey:1685221374
+File202=https://chmedia.streamabc.net/79-rm-mp3-192-7754268?sABC=64726ssr%230%23565o8622n9638n515p1pqq82pnq6q099%23zlghare&aw_0_1st.playerid=mytuner&amsparams=playerid:mytunerskey:1685221374
 Title202=Radio Melody
 File203=http://79.143.187.96:8092/
 Title203=Radio Merak
-File204=http://streaming.radiomorcoteinternational.com:8000/;
+File204=http://streaming.radiomorcoteinternational.com:8000/
 Title204=Radio Morcote International
 File205=http://streaming.swisstxt.ch/m/radiomunot/mp3_128
 Title205=Radio Munot
@@ -433,7 +433,7 @@ File216=http://stream.srg-ssr.ch/m/rr/mp3_128
 Title216=Radio Rumantsch
 File217=http://radio-s.feste-ip.net:8000/
 Title217=Radio s
-File218=https://bienemobil.feste-ip.net/;stream.mp3
+File218=https://bienemobil.feste-ip.net/stream.mp3
 Title218=Radio S KSF
 File219=http://stream.srg-ssr.ch/m/regi_ag_so/mp3_128
 Title219=Radio SRF 1 Regionaljournal Aargau, Solothurn
@@ -555,7 +555,7 @@ File277=http://stream.srg-ssr.ch/drsvirus/mp3_128.m3u
 Title277=SRF Virus
 File278=http://www.sunradio.ch/livestream.m3u
 Title278=Sunradio - Best international Music
-File279=https://relay2.swissgroove.ch/;
+File279=https://relay2.swissgroove.ch/
 Title279=SWISS GROOVE
 File280=https://relay1.swissgroove.ch/
 Title280=Swiss Groove
@@ -625,23 +625,23 @@ File312=https://listen.radioking.com/radio/449177/stream/508205
 Title312=Varmusic
 File313=http://verticalradio.ice.infomaniak.ch/verticalradio-128.mp3
 Title313=Vertical Radio
-File314=http://vibration.stream2net.eu:8410/;stream/1
+File314=http://vibration.stream2net.eu:8410/stream/1
 Title314=Vibración Latina
 File315=http://vibration108-high.ice.infomaniak.ch/vibration108-high.mp3
 Title315=Vibration 108
-File316=http://vibration.stream2net.eu:8510/;stream/1
+File316=http://vibration.stream2net.eu:8510/stream/1
 Title316=Vibration Chanson Française
 File317=http://vibration-aac.stream2net.eu:8040/listen.pls
 Title317=Vibration FM
-File318=http://vibration.stream2net.eu:8480/;stream/1
+File318=http://vibration.stream2net.eu:8480/stream/1
 Title318=Vibration Gayradio
 File319=http://vibrationpoprock.ice.infomaniak.ch/vibrationpoprock-high.mp3
 Title319=Vibration Poprock
-File320=http://vibration.stream2net.eu:8350/;stream/1
+File320=http://vibration.stream2net.eu:8350/stream/1
 Title320=Vibration Soft Hits
 File321=http://vibrationvintage-high.ice.infomaniak.ch/vibration-vintage.mp3
 Title321=Vibration Vintage
-File322=http://vibration.stream2net.eu:8220/;stream/1
+File322=http://vibration.stream2net.eu:8220/stream/1
 Title322=Vibration Zen Relax
 File323=https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3
 Title323=Vintage Radio

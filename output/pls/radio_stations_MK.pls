@@ -1,9 +1,9 @@
 [playlist]
-File1=http://iandonov.radioca.st/;stream/1
+File1=http://iandonov.radioca.st/stream/1
 Title1=Bum Kumanovo
-File2=http://176.9.117.123:9998/;stream/1
+File2=http://176.9.117.123:9998/stream/1
 Title2=City Radio | 94.7FM
-File3=http://176.9.117.123:9998/;stream/1
+File3=http://176.9.117.123:9998/stream/1
 Title3=City Radio Macedonia
 File4=https://radiostream.neotel.mk/justmusicradio
 Title4=Just Music Radio
@@ -17,7 +17,7 @@ File8=http://88.85.99.2/live-128.mp3
 Title8=Radio Buba Mara 105.2 FM
 File9=http://dreamsiteradiocp.com:8118/stream
 Title9=Radio Maria Macedonia
-File10=https://s32.myradiostream.com:16040/;?type=http&nocache=1688299470?0.591044522318551
+File10=https://s32.myradiostream.com:16040/?type=http&nocache=1688299470?0.591044522318551
 Title10=Radio Meff
 File11=https://radiostream.neotel.mk/samomk
 Title11=Samo MK

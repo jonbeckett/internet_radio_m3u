@@ -9,7 +9,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/BFM.mp3
 #EXTINF:-1 GegarFmv2
 http://51.79.240.13:8000/
 #EXTINF:-1 Jazz Lounge
-http://eu8.fastcast4u.com:5068/;
+http://eu8.fastcast4u.com:5068/
 #EXTINF:-1 Jei FM Klang Tamil Radio
 https://usa3.fastcast4u.com/proxy/jeifm?mp=/1
 #EXTINF:-1 KCFM Radio
@@ -23,4 +23,4 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FM.mp3
 #EXTINF:-1 RAKITA
 https://23743.live.streamtheworld.com/RAKITA_SC
 #EXTINF:-1 SkyChatzFM
-http://java.skychatz.org:8080/;stream/1
+http://java.skychatz.org:8080/stream/1

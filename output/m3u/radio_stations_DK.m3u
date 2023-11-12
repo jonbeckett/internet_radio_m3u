@@ -119,7 +119,7 @@ http://78.156.96.48:1212/broadwave.mp3?src=1&rate=1
 #EXTINF:-1 Hvidovre Naerradio
 http://media.wlmm.dk/hnrmp3
 #EXTINF:-1 Jazzkanalen
-http://ca6.rcast.net:4058/;stream
+http://ca6.rcast.net:4058/stream
 #EXTINF:-1 København Jazz Radio 
 https://asima.out.airtime.pro:8000/radiojazzcopenhagen_a
 #EXTINF:-1 Limfjord Plus
@@ -143,7 +143,7 @@ http://radio.streemlion.com:1160/stream
 #EXTINF:-1 Nordsjællands Kristne Radio
 http://studie.hkr.dk:8000/stream.mp3
 #EXTINF:-1 Norea Radio
-http://radio.norea.dk:8080/;
+http://radio.norea.dk:8080/
 #EXTINF:-1 Nova
 http://live-bauerdk.sharp-stream.com/nova128.mp3
 #EXTINF:-1 Party Fm
@@ -153,11 +153,11 @@ http://stream1.partyfm.dk/Party320
 #EXTINF:-1 PartyFM
 http://stream.partyfm.dk/Party320/
 #EXTINF:-1 Psyradio - Chillout
-http://komplex2.psyradio.org:8020/chillout/;
+http://komplex2.psyradio.org:8020/chillout/
 #EXTINF:-1 Psyradio - Progressive
-http://ipx.psyradio.org:8010/;
+http://ipx.psyradio.org:8010/
 #EXTINF:-1 Psyradio - Psytrance
-http://ipx.psyradio.org:8030/;
+http://ipx.psyradio.org:8030/
 #EXTINF:-1 Radio 100
 https://edge-bauerdk-02-thn.sharp-stream.com/radio100_dk_tunein_mp3?
 #EXTINF:-1 Radio 208
@@ -181,7 +181,7 @@ https://radioserver.dk/alfaviborg
 #EXTINF:-1 Radio ALR
 http://streamer.radio.co/s6a9beb92e/listen
 #EXTINF:-1 Radio Boost
-http://6434.cloudrad.io:8066/;
+http://6434.cloudrad.io:8066/
 #EXTINF:-1 Radio Denmark FM
 https://live-bauerdk.sharp-stream.com/radio100_dk_mp3
 #EXTINF:-1 Radio Diablo
@@ -197,7 +197,7 @@ https://stream.probroadcast.dk/radioglobus
 #EXTINF:-1 Radio Haderslev 
 http://media.wlmm.dk/radiohaderslevmp3
 #EXTINF:-1 Radio Halsnæs
-http://halsstream.spdns.de/;
+http://halsstream.spdns.de/
 #EXTINF:-1 Radio Helsingør FM
 https://stream.radiohelsingor.dk/rh
 #EXTINF:-1 Radio Humleborg
@@ -207,7 +207,7 @@ http://stream.radioklitholm.dk:8000/stream
 #EXTINF:-1 Radio Klitholm - Det Ny Kanal 1
 http://stream.radioklitholm.dk:8000/stream
 #EXTINF:-1 Radio Koge
-http://stream.wlmm.dk/stream/53/;
+http://stream.wlmm.dk/stream/53/
 #EXTINF:-1 Radio Limfjord
 http://media.limfjordnetradio.dk/limfjord128
 #EXTINF:-1 Radio Loud
@@ -215,9 +215,9 @@ https://stream.radioloud.dk/loud128
 #EXTINF:-1 Radio M
 https://radioserver.dk/radiom
 #EXTINF:-1 Radio Mælkebøtten
-http://live2.rcast.net:8722/;stream
+http://live2.rcast.net:8722/stream
 #EXTINF:-1 Radio MB
-http://live2.rcast.net:8722/;stream
+http://live2.rcast.net:8722/stream
 #EXTINF:-1 Radio MFK
 https://stream1.radiomfk.dk/radiomfk
 #EXTINF:-1 Radio Midtsjælland
@@ -235,7 +235,7 @@ http://stream.radiosolutions.dk/rollo
 #EXTINF:-1 Radio Playback
 http://stream02.radioplayback.dk/stream
 #EXTINF:-1 Radio Ringkøbing
-http://netradio.radioringkobing.dk:8000/;
+http://netradio.radioringkobing.dk:8000/
 #EXTINF:-1 Radio Rollo
 http://stream.radiosolutions.dk/rollo
 #EXTINF:-1 Radio Silkeborg
@@ -287,7 +287,7 @@ http://89.249.7.68/silkeborgnr
 #EXTINF:-1 Skaga FM
 http://stream.wlmm.dk/skagafm.m3u
 #EXTINF:-1 Stina FM
-http://10312.cloudrad.io:9208/;
+http://10312.cloudrad.io:9208/
 #EXTINF:-1 Tango Copenhagen Radio
 https://tangocopenhagen.stream.laut.fm/tangocopenhagen?t302=2021-01-15_18-47-40&uuid=64db9a91-4a6e-4bc8-ba24-26a2fa7f24d0
 #EXTINF:-1 TechnoBase.FM - MP3 192k
@@ -305,7 +305,7 @@ http://89.249.7.68/viborgnr
 #EXTINF:-1 Vinylhits.dk
 http://stream.vinylhits.dk/vinylmp3
 #EXTINF:-1 VIPradio Christmas
-http://149.56.175.167:5505//;stream.mp3
+http://149.56.175.167:5505//stream.mp3
 #EXTINF:-1 Vox Pop
 http://stream.midlar.fo/voxpop-128
 #EXTINF:-1 WEBFM

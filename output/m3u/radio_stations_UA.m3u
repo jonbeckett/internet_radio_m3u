@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations
 #EXTINF:-1 103.7 Da Beat
-http://s1.voscast.com:8580/;
+http://s1.voscast.com:8580/
 #EXTINF:-1 106.5 Kiss FM
 https://online.kissfm.ua/KissFM_HD
 #EXTINF:-1 20ft Radio
@@ -41,7 +41,7 @@ http://holos.fm:8000/holos
 #EXTINF:-1 Hromadske Radio
 http://91.218.212.67:8000/stream
 #EXTINF:-1 Informator FM
-https://main.inf.fm:8101/;?type=http&nocache=221893
+https://main.inf.fm:8101/?type=http&nocache=221893
 #EXTINF:-1 islndradio
 https://s3.radio.co/sa3e464c40/listen
 #EXTINF:-1 Jazz FM 104.6
@@ -191,7 +191,7 @@ https://online-news.radioplayer.ua/RadioNews
 #EXTINF:-1 Єдині новини 24 - BREAKING - LIVE
 https://online-news.radioplayer.ua/RadioNews
 #EXTINF:-1 Закарпаття FM
-http://195.234.148.51:8000/;
+http://195.234.148.51:8000/
 #EXTINF:-1 Канал Благодаті
 http://noasrv.caster.fm:10001/live
 #EXTINF:-1 Классика рока

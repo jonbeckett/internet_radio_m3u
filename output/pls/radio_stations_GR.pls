@@ -5,11 +5,11 @@ File2=https://eco.onestreaming.com:18842/stream
 Title2= Ορθόδοξος Λόγος 105.1
 File3=https://cast2.radiohost.ovh/onenewsradio?mp=/stream
 Title3=1 News
-File4=http://s3.onweb.gr:8814/;
+File4=http://s3.onweb.gr:8814/
 Title4=100 FM Radio 1
 File5=https://neos.win:59261/stream
 Title5=101 FM1
-File6=http://s3.onweb.gr:8814/;
+File6=http://s3.onweb.gr:8814/
 Title6=101 Radio 1
 File7=http://radio.1055rock.gr:30000/1055
 Title7=1055 Rock
@@ -17,7 +17,7 @@ File8=http://radio.1055rock.gr:30000/1055?ver=324406
 Title8=1055 ROCK - THESSALONIKI - RADIO2
 File9=http://radio.1055rock.gr:30000/1055?ver=334672
 Title9=1055 Rock Thessaloniki
-File10=https://s4.myradiostream.com/:14374/;?type=http&nocache=1695638039?0.8040765476688225
+File10=https://s4.myradiostream.com/:14374/?type=http&nocache=1695638039?0.8040765476688225
 Title10=12 Gods Cafe 
 File11=http://i2.streams.ovh:7109/stream?type=http&nocache=11373
 Title11=1o Ερασιτεχνικό Πρόγραμμα Γαργαλιάνων
@@ -33,15 +33,15 @@ File16=https://radio.wt5.net/radio/8000/radio.mp3
 Title16=2000 στα FM
 File17=https://eco.onestreaming.com/proxy/24rock/stream
 Title17=24 Rock GR
-File18=https://radioaeras.radioca.st/;
+File18=https://radioaeras.radioca.st/
 Title18=2510Radio
 File19=https://radiostreaming.ert.gr/ert-talaika
 Title19=2o laika
 File20=https://radiostreaming.ert.gr/ert-defteroparadosiaka
 Title20=2o ΠΑΡΑΔΟΣΙΑΚΑ
-File21=http://live.fourlife.gr:8132/;listen.pls
+File21=http://live.fourlife.gr:8132/listen.pls
 Title21=4Life greek
-File22=http://int.fourlife.gr:8133/;
+File22=http://int.fourlife.gr:8133/
 Title22=4Life int.
 File23=http://netradio.live24.gr/4uradio931
 Title23=4U 93.1
@@ -53,7 +53,7 @@ File26=http://158.69.114.190:8024/stream
 Title26=80smania
 File27=https://solid9.streamupsolutions.com/proxy/glzzkced/streamor
 Title27=80smania GR
-File28=http://s3.onweb.gr:8872/;
+File28=http://s3.onweb.gr:8872/
 Title28=87.6 Studio 1
 File29=http://www.111.gr:8000/stream?type=http&nocache=181015
 Title29=88 FM Radio 1
@@ -71,9 +71,9 @@ File35=https://sp3.streams.ovh/8070/stream
 Title35=90s Heaven
 File36=https://kissfm.live24.gr/kissfmathens
 Title36=92.9 KISS
-File37=http://sc2.streamwithq.com:8092/;listen.pls
+File37=http://sc2.streamwithq.com:8092/listen.pls
 Title37=96.2 FM1
-File38=https://s6.e-resellers.gr/9972/;
+File38=https://s6.e-resellers.gr/9972/
 Title38=96.5 FM
 File39=https://solid1.streamupsolutions.com/proxy/kanali5?mp=/stream
 Title39=97.3 Κανάλι 5
@@ -133,7 +133,7 @@ File66=http://sc2.streamwithq.com:8016/stream?type=http&nocache=65312
 Title66=Aktina 104.7
 File67=https://server.el1.info:59984/autodj?ver=648303
 Title67=Alchemy
-File68=http://s2.onweb.gr:8624/;
+File68=http://s2.onweb.gr:8624/
 Title68=Alfa 96
 File69=https://streamyourdream.org:8092/stream
 Title69=Alimos
@@ -151,7 +151,7 @@ File75=http://radio.streamings.gr:8002/stream
 Title75=Alpha News Δράμα
 File76=http://n09.radiojar.com/wxc5sezupy5tv?1516183875=&rj-tok=AAABePtbMkMA_HDtKIp2EyprKQ&rj-ttl=5
 Title76=Alpha Καστοριά
-File77=http://s4.onweb.gr:8442/;
+File77=http://s4.onweb.gr:8442/
 Title77=Amore 87.5
 File78=https://ice.streams.ovh:1195/stream
 Title78=Amvrakia 91.9
@@ -163,9 +163,9 @@ File81=http://s5.onweb.gr:8502/stream?type=http&nocache=77822
 Title81=Angel 102.8
 File82=https://i9.streams.ovh/ic/radioang/stream
 Title82=Angels
-File83=http://eco.onestreaming.com:8440/;
+File83=http://eco.onestreaming.com:8440/
 Title83=ANT1 Αιγαίου
-File84=http://eco.onestreaming.com:8510/;
+File84=http://eco.onestreaming.com:8510/
 Title84=ANT1 Νότιας Ελλάδας
 File85=http://ant1patra.live24.gr/ant1patra1053
 Title85=ANT1 Πάτρας
@@ -173,13 +173,13 @@ File86=http://i3.streams.ovh:12043/autodj
 Title86=Antena Aegina
 File87=https://ant1grevena.live24.gr/ant1grevena
 Title87=Antenna 94
-File88=http://eco.onestreaming.com:8510/;
+File88=http://eco.onestreaming.com:8510/
 Title88=Antenna Νότιας Ελλάδας 97.2
 File89=http://cast.streams.ovh:9177/live?1494329758071
 Title89=Antennes Καστοριά
 File90=http://s2.e-resellers.gr:8022/stream?type=http&nocache=56185
 Title90=Apollon
-File91=http://eco.onestreaming.com:8600/;
+File91=http://eco.onestreaming.com:8600/
 Title91=Aposperitis 94.5
 File92=https://stream.myip.gr/proxy/app966?mp=/stream
 Title92=Apps 96.6
@@ -197,7 +197,7 @@ File98=http://ice.onestreaming.com/arionlaikos
 Title98=Arion Laikos
 File99=https://live.arionradio.com/arionstigmes
 Title99=Arion Stigmes
-File100=http://s3.onweb.gr:8500/;
+File100=http://s3.onweb.gr:8500/
 Title100=Armonia Radio
 File101=https://i2.streams.ovh:2200/ssl/artfm?mp=/stream
 Title101=Art 103.1
@@ -207,25 +207,25 @@ File103=https://cast.artfmradio.com/radio/8000/radio.mp3?1579455658
 Title103=ArtFM
 File104=https://radio.streamings.gr/proxy/artyradio?mp=/stream
 Title104=Arty
-File105=https://cast4.magicstreams.gr:12108/;?_=0.14756551841750443
+File105=https://cast4.magicstreams.gr:12108/?_=0.14756551841750443
 Title105=Asteras 92
-File106=http://eco.onestreaming.com:8554/;
+File106=http://eco.onestreaming.com:8554/
 Title106=Astra 93.2
-File107=http://www.gointernet.gr:8030/;listen.pls
+File107=http://www.gointernet.gr:8030/listen.pls
 Title107=Astra 97.3
 File108=http://i6.streams.ovh:16134/stream?
 Title108=Astra 99.2
-File109=http://89.163.217.252:9400/;
+File109=http://89.163.217.252:9400/
 Title109=Athens 106.5 FM
 File110=http://n12.radiojar.com/e206r95qsp8uv?rj-ttl=5&rj-tok=AAABhMPbz3sAf9_4FoIJiUmkoA
 Title110=Athens Free Radio
 File111=http://music.wixstatic.com/mp3/6aa018_e43fa27d27c7437fb9306ff8dbb193c9.mp3
 Title111=Athens Jazz
-File112=http://5.189.177.218:8015/;
+File112=http://5.189.177.218:8015/
 Title112=Athens Jukebox
-File113=http://5.189.177.218:8015/;
+File113=http://5.189.177.218:8015/
 Title113=Athens Jukebox GR
-File114=http://mmr.yourstreaming.gr:9300/;
+File114=http://mmr.yourstreaming.gr:9300/
 Title114=Athens Metro Mall
 File115=https://radio.athensnoise.rocks/listen/athensnoise.rocks/radio.mp3
 Title115=Athens Noise Rocks
@@ -267,17 +267,17 @@ File133=http://solid55.streamupsolutions.com:30013/stream
 Title133=BeRock Radio
 File134=http://159.69.75.8:9990/stream
 Title134=Best 103.1
-File135=https://cast4.magicstreams.gr:2200/ssl/maiqrgfd?mp=/stream;
+File135=https://cast4.magicstreams.gr:2200/ssl/maiqrgfd?mp=/stream
 Title135=Best 103.9
 File136=http://best.live24.gr/best1222
 Title136=Best 92.6
 File137=http://bestradio.net:9470/stream?type=http&nocache=166
 Title137=Best 94.7
-File138=https://stream.best973.gr/stream/1/;?type=http&nocache=1
+File138=https://stream.best973.gr/stream/1/?type=http&nocache=1
 Title138=Best 97.3
 File139=http://netradio.live24.gr/best1222
 Title139=Best Radio 92.6
-File140=http://s33.myradiostream.com:6482/;?1633097841057
+File140=http://s33.myradiostream.com:6482/?1633097841057
 Title140=Beteranos
 File141=https://uk1.streamingpulse.com/ssl/b7artradio
 Title141=Beton7 Art
@@ -327,7 +327,7 @@ File163=http://webradio.northbridge.gr:8008/stream
 Title163=Cadillac Records
 File164=https://n06.radiojar.com/252ry9dgytzuv?rj-ttl=5&rj-tok=AAABeKi3emcATmr2vFF6A41gwQ
 Title164=Camara
-File165=http://193.227.111.111:8004/;
+File165=http://193.227.111.111:8004/
 Title165=Candia 93.6
 File166=https://rdst.win:59354/stream
 Title166=Capital 104.8
@@ -347,15 +347,15 @@ File173=http://n0f.radiojar.com/n4dzb3znn3quv.mp3?rj-ttl=5&rj-tok=AAABeKi_TokAUT
 Title173=Chillout Tree Pines
 File174=https://n07.radiojar.com/n4dzb3znn3quv.mp3?rj-ttl=5&rj-tok=AAABhNTTrbwAVrK_m_qtIxI5pQ
 Title174=Chillout TreePines 
-File175=http://s4.stream-cast.com:11518/;stream/1?1519296929195.mp3
+File175=http://s4.stream-cast.com:11518/stream/1?1519296929195.mp3
 Title175=Chios
 File176=https://cast.streams.ovh/sc/mivguuun/stream
 Title176=Choice Web Radio
 File177=http://eu1.fastcast4u.com:9326/stream
 Title177=Christianity
-File178=http://85.10.206.222:8002/;listen.pls
+File178=http://85.10.206.222:8002/listen.pls
 Title178=Church of Greece 89.5
-File179=https://sp3.streams.ovh/8082/;
+File179=https://sp3.streams.ovh/8082/
 Title179=Citizen 
 File180=https://eco.onestreaming.com/proxy/cityfm/stream
 Title180=City 100
@@ -383,7 +383,7 @@ File191=http://fra-pioneer01.dedicateware.com:1090/stream
 Title191=Clearjet
 File192=https://stream-32.zeno.fm/z8cp1nqwhnruv?zs=sUtan8GnTDGarEqChfudfg&acu-uid=727435602967&triton-uid=cookie%3A83ca5b14-582e-4c12-a5ab-255cdb39e2cb
 Title192=Club FM GR
-File193=http://78.129.185.84:21642/;
+File193=http://78.129.185.84:21642/
 Title193=Cocktail 89
 File194=https://music.cocktailwebradio.com:1045/stream
 Title194=Cocktail Web Radio
@@ -395,7 +395,7 @@ File197=https://audio-edge-5bkfj.fra.h.radiomast.io/01fc3a97-3029-4f16-aa3e-ef24
 Title197=Coni On Air
 File198=http://stream-52.zeno.fm/dhne2a2rgzzuv?zs=9J2gFv7iRgyPLrAcyWwxcw
 Title198=Contact
-File199=http://eco.onestreaming.com:8209/;
+File199=http://eco.onestreaming.com:8209/
 Title199=Cool 106.8
 File200=http://solid1.streamupsolutions.com:11004/coolfmnet?type=http&nocache=1258317
 Title200=Cool 90.7
@@ -407,7 +407,7 @@ File203=https://eco.onestreaming.com:18812/stream
 Title203=Cosmoradio 95.1
 File204=http://n02.radiojar.com/duh3nm1v6hhvv?rj-ttl=5&rj-tok=AAABhLYSsOIAhf23KEeztv2SJw
 Title204=Cosmos 103.8
-File205=http://cast5.magicstreams.gr:8132/;listen.pls
+File205=http://cast5.magicstreams.gr:8132/listen.pls
 Title205=Cosmos 93
 File206=https://neos.win:59320/stream
 Title206=Cosmos 93.2
@@ -423,9 +423,9 @@ File211=https://sc2.streamwithq.com:2000/stream/offifans
 Title211=Creta Fans
 File212=https://n06.radiojar.com/htczr9epmchvv?rj-ttl=5&rj-tok=AAABhNhBqBYAE69MZAiHyDMI2Q
 Title212=Crystal
-File213=http://s4.onweb.gr:8876/;
+File213=http://s4.onweb.gr:8876/
 Title213=Cult 99.8
-File214=http://s10.myradiostream.com:11198/;
+File214=http://s10.myradiostream.com:11198/
 Title214=D Radio GR
 File215=http://176.31.118.39:13980/
 Title215=D-Code 96,2
@@ -435,9 +435,9 @@ File217=https://stream.radiojar.com/pr9r38w802hvv
 Title217=Dalkas 88.2
 File218=http://stream.dancewave.online:8080/dance.mp3
 Title218=Dance Waves
-File219=http://usa2-vn.mixstream.net:8018/;
+File219=http://usa2-vn.mixstream.net:8018/
 Title219=DeeJay 94.2
-File220=http://s4.onweb.gr:8470/;
+File220=http://s4.onweb.gr:8470/
 Title220=DeeJay 97.5
 File221=https://sh.onweb.gr:7083/stream
 Title221=DeeJay 97.5 Greece Corfu
@@ -469,7 +469,7 @@ File234=http://stream.zeno.fm/aqe61pyu4yzuv
 Title234=Disco500
 File235=http://radio2.discomaniaradio.com:7000/live
 Title235=Discomania
-File236=http://divafm.yourstreaming.gr:9996/;
+File236=http://divafm.yourstreaming.gr:9996/
 Title236=Diva 106.1
 File237=http://176.31.120.166:6404/stream
 Title237=Diva 91.6
@@ -479,11 +479,11 @@ File239=http://n04.radiojar.com/opa-radio?rj-ttl=5&rj-tok=AAABeKlHl-AAZu5lL1pWJG
 Title239=DMST
 File240=https://stream-40.zeno.fm/umvfr1q8tc9uv?zs=cRFVSczHSJWLwH7bMjwlvA&acu-uid=727435602967&triton-uid=cookie%3A83ca5b14-582e-4c12-a5ab-255cdb39e2cb
 Title240=DP Radio
-File241=http://cast.streams.ovh:9362/;stream.mp3
+File241=http://cast.streams.ovh:9362/stream.mp3
 Title241=Dream City
 File242=https://neos.win:48420/stream
 Title242=Dream Ηράκλειο
-File243=http://cast.streams.ovh:9362/;stream.mp3
+File243=http://cast.streams.ovh:9362/stream.mp3
 Title243=DreamCity
 File244=http://drs953.live24.gr/drs953
 Title244=DRS 95.3
@@ -503,7 +503,7 @@ File251=https://stream.radiojar.com/cthtwxk5yvduv.mp3
 Title251=Easy FM 972
 File252=http://85.17.75.143/
 Title252=ECHOES.gr NetRadio - Thessaloniki
-File253=http://s11.myradiostream.com:12502/;listen.pls
+File253=http://s11.myradiostream.com:12502/listen.pls
 Title253=Edexno GR
 File254=https://sc.cast-control.eu:8054/stream
 Title254=Edit GR
@@ -533,7 +533,7 @@ File266=http://netradio.live24.gr/orange9320
 Title266=Ellinikos 93.2
 File267=http://orange.live24.gr/orange9320
 Title267=Ellinikos 93.2 FM
-File268=https://sp2.streams.ovh/8006/;
+File268=https://sp2.streams.ovh/8006/
 Title268=Elormuis
 File269=https://azuracast.streams.ovh/listen/radioemerson/radio.mp3?refresh=1672345562511
 Title269=Emerson Athens
@@ -619,7 +619,7 @@ File309=http://radiostreaming.ert.gr/ert-zakynthos
 Title309=ERT Zakinthos 95.2 93.2
 File310=http://radiostreaming.ert.gr/ert-102fm
 Title310=ERT3 102 FM
-File311=http://sonic.streams.ovh:9950/;stream.mp3
+File311=http://sonic.streams.ovh:9950/stream.mp3
 Title311=Erwtas
 File312=http://radio.myaegean.gr:8000/escapula.mp3
 Title312=Escapula 
@@ -627,21 +627,21 @@ File313=https://greeksonic.alphaserver.gr/8004/stream
 Title313=Essential Mix
 File314=http://n04.radiojar.com/su1eg54afzwtv?rj-ttl=5&rj-tok=AAABeK3YzL0AyUMdHHcNo4y0oA
 Title314=Eternal
-File315=http://cast4.magicstreams.gr:10155/;stream.mp3
+File315=http://cast4.magicstreams.gr:10155/stream.mp3
 Title315=Euro Sky 100.4
 File316=http://i3.streams.ovh:12000/live?
 Title316=Evolution
-File317=http://hyades.shoutca.st:8570/;
+File317=http://hyades.shoutca.st:8570/
 Title317=Evripos 90
 File318=https://stream-57.zeno.fm/edgfmrfvvk8uv?zs=P42sv4XDTRG_KVdLM3V96w&acu-uid=727435602967&triton-uid=cookie%3A83ca5b14-582e-4c12-a5ab-255cdb39e2cb
 Title318=F-Radio GR Deep Lounge
 File319=http://88.198.70.25:8477/stream
 Title319=Fahrenheit
-File320=http://193.227.111.111:8002/;
+File320=http://193.227.111.111:8002/
 Title320=Family 89.5
 File321=https://stream-33.zeno.fm/ygh3m8m7n48uv?zs=9zm4lJvjTjiN-Ws_yi1L5g&acu-uid=727435602967&triton-uid=cookie%253A83ca5b14-582e-4c12-a5ab-255cdb39e
 Title321=Fancy Trance
-File322=https://sh.onweb.gr:7007/;
+File322=https://sh.onweb.gr:7007/
 Title322=Fanos GR
 File323=https://eco.onestreaming.com/proxy/ant1santorinis/stream
 Title323=Faros 105.9
@@ -661,23 +661,23 @@ File330=https://webradio.northbridge.gr/proxy/flash994/source
 Title330=Flash 99.4
 File331=https://stream-59.zeno.fm/22sad7fskkhvv?zs=SEQDOseTQ26sFPXEokpsjA
 Title331=Flashback
-File332=http://protostar.shoutca.st:8066/;
+File332=http://protostar.shoutca.st:8066/
 Title332=Floga
-File333=https://imagine2.radioca.st/;stream.nsv
+File333=https://imagine2.radioca.st/stream.nsv
 Title333=Fly 104
-File334=http://sc2.streamwithq.com:8040/stream/;
+File334=http://sc2.streamwithq.com:8040/stream/
 Title334=Fly 95.9
-File335=http://eco.onestreaming.com:8602/;
+File335=http://eco.onestreaming.com:8602/
 Title335=Fly FM
-File336=http://eco.onestreaming.com:8272/;
+File336=http://eco.onestreaming.com:8272/
 Title336=Fly Σπάρτη
 File337=https://live.fm100.gr/shoutcast/fm100
 Title337=FM 100
 File338=https://live.fm100.gr/shoutcast/fm1006
 Title338=FM 100.6 Thessaloniki
-File339=https://shoutcast.k-planet.eu/9400/stream;
+File339=https://shoutcast.k-planet.eu/9400/stream
 Title339=FM 106.5 GR
-File340=http://s6.onweb.gr:8044/;
+File340=http://s6.onweb.gr:8044/
 Title340=FM Life 105.3
 File341=https://solid2.streamupsolutions.com/proxy/radio8?mp=/live
 Title341=FM8
@@ -695,11 +695,11 @@ File347=http://168.119.74.185:9304/autodj
 Title347=FOX Radio Top
 File348=https://webinternetradio.eu:59402/
 Title348=Fraoulitsa
-File349=http://192.99.14.191:8004/;stream&nocache=1
+File349=http://192.99.14.191:8004/stream&nocache=1
 Title349=Freakout
 File350=http://sh.onweb.gr:8634/stream?type=http&nocache=45
 Title350=Free Central Greece
-File351=http://63.141.244.222:59540/;?type=http&nocache=1640597117?0.15577311888249712
+File351=http://63.141.244.222:59540/?type=http&nocache=1640597117?0.15577311888249712
 Title351=Free GR
 File352=http://178.33.135.244:3062/stream
 Title352=Fresh 92.9
@@ -765,15 +765,15 @@ File382=https://ice.greekstream.net/gnomi.m3u
 Title382=GNOMI  93.7 FM - MONO EPITYXIES !
 File383=http://onairmediagroup.live24.gr/goalfm1051xanthi
 Title383=Goal 105.1
-File384=http://193.92.78.248:8000/;
+File384=http://193.92.78.248:8000/
 Title384=Gold Radio
-File385=http://s1.nexuscast.com:8133/;
+File385=http://s1.nexuscast.com:8133/
 Title385=Graceland
 File386=https://stream-54.zeno.fm/8h3fwqrrm9duv?zs=DGCbnSGKQE6KNL0xYGZB1A&acu-uid=727623927764&triton-uid=cookie%3A97417799-0507-444e-aeee-7c56cebe52ac
 Title386=Grande Rock 
 File387=https://cast2.radiohost.ovh/grecafm?mp=/stream
 Title387=Greca 99.4
-File388=http://usa2.fastcast4u.com:3684/;
+File388=http://usa2.fastcast4u.com:3684/
 Title388=Greek Otaku Radio
 File389=https://stream-57.zeno.fm/mddaed0qkkhvv?zs=Y7mCLmldRzuo7yK4JJJLvg&acu-uid=727435602967&triton-uid=cookie%3A83ca5b14-582e-4c12-a5ab-255cdb39e2cb
 Title389=Greek Weather Radio
@@ -805,13 +805,13 @@ File402=http://195.154.217.103:8051/stream?type=http&nocache=4886
 Title402=Helios 
 File403=http://195.154.217.103:8051/%3Bstream.mp3
 Title403=Helios
-File404=http://198.27.68.65:8318/;
+File404=http://198.27.68.65:8318/
 Title404=Hellas 24
-File405=http://198.27.68.65:8318/;
+File405=http://198.27.68.65:8318/
 Title405=Hellas Radio24
 File406=https://cast.radiohost.ovh:2200/proxy/hitfm?mp=/stream
 Title406=Hit 103.5
-File407=http://s3.onweb.gr:8006/;
+File407=http://s3.onweb.gr:8006/
 Title407=Hit 93.5
 File408=https://solid67.streamupsolutions.com/proxy/smzyynlm?mp=/stream
 Title408=Hit classic
@@ -841,31 +841,31 @@ File420=http://radio.streamings.gr:8027/stream
 Title420=I.R.A 106.7
 File421=https://i8.streams.ovh/ic/ifradio/stream
 Title421=If Radio
-File422=http://stream.radio-ikaria.gr:8000/;?type=http&nocache=4008
+File422=http://stream.radio-ikaria.gr:8000/?type=http&nocache=4008
 Title422=Ikaria
-File423=http://sc2.streamwithq.com:8042/;
+File423=http://sc2.streamwithq.com:8042/
 Title423=Ikariaki
 File424=https://www.imagine897.gr/webplayer/?pl=winamp&c=IMAGINE897
 Title424=Imagine 897 Thessaloniki,gr 
 File425=https://radio.imaginistes.club/radio/8000/radio.mp3
 Title425=Imaginistes
-File426=https://s11.myradiostream.com/:24082/;?type=http&nocache=1646306612?0.6317424457601843
+File426=https://s11.myradiostream.com/:24082/?type=http&nocache=1646306612?0.6317424457601843
 Title426=Imaret
 File427=https://sp3.streams.ovh/8096/stream
 Title427=In Kefalonia 89.2
-File428=https://music.innersound-radio.com/proxy/innersound/stream/;?type=http
+File428=https://music.innersound-radio.com/proxy/innersound/stream/?type=http
 Title428=Innersound
 File429=http://live.idj.gr:8089/stream?type=http&nocache=21
 Title429=Ioannina Dee Jay 89.6
 File430=http://eco.onestreaming.com:8596/stream?type=http&nocache=5
 Title430=Ionia Plus 89.4
-File431=https://srv.radiocaster.gr/9302/;
+File431=https://srv.radiocaster.gr/9302/
 Title431=Ionian Galaxy 90.8
 File432=https://sp3.streams.ovh/8014/stream
 Title432=Island 88.6
 File433=https://stream.myip.gr/proxy/radioist2?mp=/stream
 Title433=Istiaia 100.4
-File434=http://ice.streams.ovh:1120/;?type=http&nocache=1161
+File434=http://ice.streams.ovh:1120/?type=http&nocache=1161
 Title434=Jackson
 File435=https://jacksonspalace.radioca.st/stream?type=http&nocache=220
 Title435=Jackson Palace
@@ -905,25 +905,25 @@ File452=https://laterna.kafeneio.social:8000/radio.mp3
 Title452=kafeneio.social
 File453=https://i8.streams.ovh/sc/ereynara/stream
 Title453=Kalithea
-File454=https://solid55.streamupsolutions.com/proxy/pelsssbw?mp=/;type=mp3
+File454=https://solid55.streamupsolutions.com/proxy/pelsssbw?mp=/type=mp3
 Title454=Kalloni 87.5
 File455=https://netradio.live24.gr/924fm-thess
 Title455=Karamela 92.4
 File456=https://azuracast.streams.gr/listen/kasetaradio/radio.mp3
 Title456=Kaseta Radio
-File457=http://eco.onestreaming.com:8107/;
+File457=http://eco.onestreaming.com:8107/
 Title457=Kastoria 91.5
-File458=http://radio.katerinigas.gr:8000/;?type=http&nocache=233
+File458=http://radio.katerinigas.gr:8000/?type=http&nocache=233
 Title458=Katerini Gas
 File459=https://sp3.streams.ovh/8052/stream
 Title459=Kavala News
 File460=https://i6.streams.ovh/sc/ioannis/stream
 Title460=Keratea Radio
-File461=http://live.cast-control.eu:9118/stream;?1552397300972
+File461=http://live.cast-control.eu:9118/stream?1552397300972
 Title461=Kerkyra 100.1
 File462=http://cast2.radiohost.ovh:9138/stream?type=http&nocache=925
 Title462=Kifinas
-File463=http://cast.streams.ovh:12097/;
+File463=http://cast.streams.ovh:12097/
 Title463=Kifissia
 File464=http://streams.enjoyfm.gr:48500/kiis958.mp3
 Title464=KIIS 95.8
@@ -945,13 +945,13 @@ File472=https://antares.dribbcast.com/proxy/kiss961?mp=/stream
 Title472=Kiss 96.1
 File473=https://s6.onweb.gr:7029/stream
 Title473=Kiss 98 
-File474=http://sp2.streams.ovh:8096/;stream
+File474=http://sp2.streams.ovh:8096/stream
 Title474=Kiss Fm 100.4
 File475=http://sp2.streams.ovh:8096/stream?type=http&nocache=176
 Title475=Kiss Fm 100.4 Karditsa
 File476=http://live.radiokiss.gr/kissfm1006hq.mp3
 Title476=KISS FM 100.6
-File477=http://eco.onestreaming.com:8550/;
+File477=http://eco.onestreaming.com:8550/
 Title477=Kiss MJT 101.5
 File478=http://5.189.189.16:8012/stream
 Title478=KL Gallery
@@ -967,7 +967,7 @@ File483=https://sonic.streams.ovh/9926/stream
 Title483=Korinthos Radio
 File484=https://rdst.win:59550/live
 Title484=Korinthos Web
-File485=http://s1.onweb.gr:8856/;
+File485=http://s1.onweb.gr:8856/
 Title485=Kosmos 100
 File486=https://stream-153.zeno.fm/hvjwojlkwotuv?zs=CygMd4ZRQFCmm3FTReiBgg
 Title486=Koukou Radio
@@ -979,7 +979,7 @@ File489=https://azuracast.streams.ovh/radio/8120/radio.mp3?
 Title489=Kyklos
 File490=https://live.radio936.gr/
 Title490=Kyparissia 93.6
-File491=https://cast.magicstreams.gr:9010/stream?type=http&nocache=1/;
+File491=https://cast.magicstreams.gr:9010/stream?type=http&nocache=1/
 Title491=La Famiglia
 File492=https://centova2.hostplus.gr/proxy/lavita?mp=/stream
 Title492=La Vita
@@ -1009,9 +1009,9 @@ File504=https://i6.streams.ovh/sc/radiolampsi/stream
 Title504=Lampsi GR
 File505=http://jayradio.eu:9302/stream?type=http&nocache=61830
 Title505=Larisa Dee Jay 95.7
-File506=https://s6.e-resellers.gr/8010/;
+File506=https://s6.e-resellers.gr/8010/
 Title506=Larissa DeeJay 95.7
-File507=https://solid2.streamupsolutions.com/proxy/ugkkakew?mp=/;type=mp3
+File507=https://solid2.streamupsolutions.com/proxy/ugkkakew?mp=/type=mp3
 Title507=LD Radio
 File508=http://onairmediagroup.live24.gr/legend1016xanthi
 Title508=Legend 101.6
@@ -1021,7 +1021,7 @@ File510=http://s2.e-resellers.gr:8004/stream?type=http&nocache=60
 Title510=Lemon Web Radio
 File511=http://s2.e-resellers.gr:8004/stream?type=http&nocache=23860
 Title511=Lemonradio.net
-File512=http://144.76.71.8:8000/;?type=http&nocache=9
+File512=http://144.76.71.8:8000/?type=http&nocache=9
 Title512=Leros 102.5
 File513=http://eco.onestreaming.com:8081/stream
 Title513=Libero 107.4
@@ -1029,15 +1029,15 @@ File514=https://radio.libero.fm:10750/live?1697856170939
 Title514=Libero FM 107.4
 File515=http://cast.streams.ovh:9130/live
 Title515=Life 106.3
-File516=http://lifenews.ddns.net:10002/;
+File516=http://lifenews.ddns.net:10002/
 Title516=Life 91.6
 File517=https://streams.enjoyfm.gr:48502/life.mp3
 Title517=Life FM 88 Kalamata
 File518=https://sh.onweb.gr/8836/stream/
 Title518=Life News 102.9
-File519=http://mmr.yourstreaming.gr:9304/;
+File519=http://mmr.yourstreaming.gr:9304/
 Title519=Like
-File520=http://radio.limnosfm100.gr:9998/;
+File520=http://radio.limnosfm100.gr:9998/
 Title520=Limnos 100
 File521=https://s12.ssl-stream.com/8036/radiolite
 Title521=Lite GR
@@ -1045,13 +1045,13 @@ File522=https://azuralive.streams.ovh/radio/8190/radio.mp3?1615372278
 Title522=Live 101 FM
 File523=http://netradio.live24.gr/livefm896
 Title523=Live 89.6
-File524=http://s2.e-resellers.gr:9966/;
+File524=http://s2.e-resellers.gr:9966/
 Title524=Live 97.8
 File525=https://neos.win:59480/stream
 Title525=Lobby 101.8
 File526=http://radio.myaegean.gr:8000/lofosradio.mp3
 Title526=Lofos Radio
-File527=http://eu2.fastcast4u.com:3364/;
+File527=http://eu2.fastcast4u.com:3364/
 Title527=loopRadioGreece
 File528=http://s3.onweb.gr:8888/stream?type=http&nocache=167224
 Title528=Loud 88.8
@@ -1059,7 +1059,7 @@ File529=http://s3.onweb.gr:8472/stream?type=http&nocache=204111
 Title529=Loutraki 87.5
 File530=http://loveradio-her.live24.gr/loveradio-her2
 Title530=Love 102.8
-File531=http://server.insms.gr:45104/;stream
+File531=http://server.insms.gr:45104/stream
 Title531=Love 106.5
 File532=http://solid1.streamupsolutions.com:24929/stream
 Title532=Love 88.2
@@ -1085,21 +1085,21 @@ File542=http://s7.onweb.gr:8044/stream?type=http&nocache=40904
 Title542=Madness 95
 File543=http://s2.e-resellers.gr:8064/stream?
 Title543=Magia 104.7
-File544=http://sc2.streamwithq.com:8054/;?1493987364073
+File544=http://sc2.streamwithq.com:8054/?1493987364073
 Title544=Magic 102.4
-File545=http://live.magicfmagrinio.net:9500/;
+File545=http://live.magicfmagrinio.net:9500/
 Title545=Magic 102.9
 File546=https://netradio.live24.gr/magic982
 Title546=Magic 98.2
 File547=https://webinternetradio.eu:48238/
 Title547=Makedonia 1386
-File548=http://comet.shoutca.st:8366/;
+File548=http://comet.shoutca.st:8366/
 Title548=Mancode
 File549=http://i5.streams.ovh:14123/live
 Title549=Manos 103.4
 File550=http://i6.streams.ovh:16012/stream
 Title550=Mansta Radio
-File551=http://npe.nfs.gr:8000/;?
+File551=http://npe.nfs.gr:8000/?
 Title551=Marconi 96.1
 File552=https://control.tastreams.eu:2200/radio/black9326?mp=/stream
 Title552=Marios Blackman
@@ -1109,13 +1109,13 @@ File554=https://stream1.468.gr/9902/stream
 Title554=Master
 File555=http://sonic.streams.ovh:9306/live
 Title555=Master Radio Net
-File556=http://195.154.217.103:8087/;
+File556=http://195.154.217.103:8087/
 Title556=Mavento
 File557=http://solid9.streamupsolutions.com:8066/stream
 Title557=Max 100.2
 File558=http://n06.radiojar.com/qt9gf4hhdwzuv?rj-ttl=5&rj-tok=AAABePC4w-8AswP_xFbknsZD6g
 Title558=Max 93.4
-File559=http://s1.onweb.gr:8838/;
+File559=http://s1.onweb.gr:8838/
 Title559=Maximum Αλεξανδρούπολη
 File560=https://eco.onestreaming.com/proxy/radiome/stream
 Title560=Me 88.4
@@ -1133,7 +1133,7 @@ File566=https://netradio.live24.gr/melodydrama1005drama
 Title566=Melody 100.5
 File567=https://cast.radiohost.ovh/melodyfm?mp=/stream
 Title567=Melody 104.5
-File568=http://s4.onweb.gr:8466/;
+File568=http://s4.onweb.gr:8466/
 Title568=Melody 88
 File569=http://stream.melody888.gr:48500/melody.mp3
 Title569=Melody 88.8
@@ -1169,9 +1169,9 @@ File584=https://metromedia.live24.gr/metropolis955thess
 Title584=Metropolis
 File585=http://metropolis.live24.gr/metropolis955thess
 Title585=Metropolis 95.5
-File586=http://s6.onweb.gr:8092/;stream.nsv&type=mp3
+File586=http://s6.onweb.gr:8092/stream.nsv&type=mp3
 Title586=Metropolis 97.2
-File587=https://i4.streams.ovh/sc/kpaliotz/;stream.mp3?_=2
+File587=https://i4.streams.ovh/sc/kpaliotz/stream.mp3?_=2
 Title587=Mikel Radio
 File588=http://radio.hostchefs.net:8046/stream?1520818130148
 Title588=Mikis Radio
@@ -1197,9 +1197,9 @@ File598=http://n01.radiojar.com/5tyqrwpgpfeuv?rj-ttl=5&rj-tok=AAABeL13ku4Ae8jgeS
 Title598=Monkey Bros
 File599=http://198.7.59.28:10034/stream
 Title599=Mood Radio
-File600=http://85.25.214.240:8140/;
+File600=http://85.25.214.240:8140/
 Title600=More
-File601=http://live.e-streaming.eu:8120/;
+File601=http://live.e-streaming.eu:8120/
 Title601=Morias
 File602=http://stream1.mousikokanali.gr:8100/mc?.mp3
 Title602=Mousiko Kanali
@@ -1211,7 +1211,7 @@ File605=https://sp.streams.ovh/8054/stream?1684218845784
 Title605=Mousiradio
 File606=https://movementathens2.out.airtime.pro/movementathens2_a
 Title606=movement.radio 2
-File607=http://cast.radiohost.ovh:9048/;
+File607=http://cast.radiohost.ovh:9048/
 Title607=Moysikos Episkeptis
 File608=https://n10.radiojar.com/f4pqr7wu48hvv?rand=604321&rj-tok=AAABhwia68IAEMa7tAHWaQFpDg&rj-ttl=5
 Title608=Mple 99 fm
@@ -1227,7 +1227,7 @@ File613=https://cast4.magicstreams.gr/sc/yhaeluap/stream
 Title613=Music Galaxy
 File614=http://213.239.206.179:9501/stream
 Title614=Music Life 95.1
-File615=http://94.130.40.158:8024/;
+File615=http://94.130.40.158:8024/
 Title615=Music Radio 101.2
 File616=http://radio.streamings.gr:8162/stream
 Title616=Music Society
@@ -1237,7 +1237,7 @@ File618=http://n04.radiojar.com/opa-radio?rj-ttl=5&rj-tok=AAABeL2lZi0AP1rw53sYM5
 Title618=Music Ward
 File619=http://n11.radiojar.com/w6c6bssk95vtv?rj-ttl=5&rj-tok=AAABeL2tvXsA_W4ZZxft3G5omQ
 Title619=Musica Radio
-File620=http://eu9.fastcast4u.com:8090/;
+File620=http://eu9.fastcast4u.com:8090/
 Title620=MusicArtclub Radio
 File621=http://n05.radiojar.com/rcaqcws0fwuvv?rj-ttl=5&rj-tok=AAABiuzWYdoACHdI2D-kYhEW6Q
 Title621=MusicFlix GR
@@ -1245,9 +1245,9 @@ File622=http://i4.streams.ovh:8059/stream
 Title622=Musix Channel
 File623=http://176.58.122.60:8000/stream
 Title623=Must
-File624=http://shoutcast.24radio.gr:8012/;
+File624=http://shoutcast.24radio.gr:8012/
 Title624=Must 97
-File625=http://shoutcast.24radio.gr:8012/;
+File625=http://shoutcast.24radio.gr:8012/
 Title625=Must FM
 File626=http://cast2.radiohost.ovh:9051/stream?type=http&nocache=1837
 Title626=My 80s
@@ -1269,7 +1269,7 @@ File634=http://solid55.streamupsolutions.com/proxy/lsdmuqhb?mp=/stream
 Title634=Mykonos Live Radio
 File635=https://v1.vipercast.eu/radio/8010/radio.mp3?
 Title635=Mystiko Radio
-File636=http://136.243.102.164:9996/;
+File636=http://136.243.102.164:9996/
 Title636=Navagia
 File637=http://162.244.80.106:11283/stream_www_NemaRadio_gr
 Title637=Nemea
@@ -1305,7 +1305,7 @@ File652=https://i.streams.ovh:9331/stream
 Title652=Notos News 97.8
 File653=http://novafm106.media.friktoria.net:8000/novafm106.mp3
 Title653=Nova 106
-File654=https://sh.onweb.gr:7125/;stream.mp3
+File654=https://sh.onweb.gr:7125/stream.mp3
 Title654=Nova 92.1
 File655=http://stream-mp3aac.live24.gr/nova931
 Title655=Nova 93.1
@@ -1317,7 +1317,7 @@ File658=http://eco.onestreaming.com:8043/stream
 Title658=NRG 88.9
 File659=http://i4.streams.ovh:8078/stream?type=http&nocache=422
 Title659=NRG 89.5
-File660=https://sh.onweb.gr/9100/stream/;
+File660=https://sh.onweb.gr/9100/stream/
 Title660=NRG 91
 File661=http://s6.onweb.gr:9240/stream
 Title661=NRG 92.4
@@ -1337,7 +1337,7 @@ File668=http://s3.yesstreaming.net:7062/stream
 Title668=OFFRADIO
 File669=https://uk1.streamingpulse.com/ssl/ChristianityRadio
 Title669=Oixalia 
-File670=http://www.gointernet.gr:8034/;stream.mp3
+File670=http://www.gointernet.gr:8034/stream.mp3
 Title670=OK 94.5
 File671=http://cast.magicstreams.gr:9147/live
 Title671=OK Web Radio
@@ -1345,7 +1345,7 @@ File672=https://sounder.ovh:9270/autodj
 Title672=Old Radio
 File673=https://webinternetradio.eu:48784/
 Title673=Olouthe
-File674=http://eco.onestreaming.com:8146/;
+File674=http://eco.onestreaming.com:8146/
 Title674=Olympos 100.2
 File675=https://streamer.stordia.net/listen/olympos/radio.mp3
 Title675=Olympos 101.5
@@ -1383,7 +1383,7 @@ File691=http://cast.radiohost.ovh:9063/live
 Title691=Oxygen
 File692=https://stream-151.zeno.fm/o50yg1juau4tv?zs=Q3Lbc3cwSgS2QcIpL3m0Yg
 Title692=P.R.S. Web Radio GR
-File693=https://paidaki975.radioca.st/;
+File693=https://paidaki975.radioca.st/
 Title693=Paidaki 97.5
 File694=https://paidaki975.radioca.st/stream?type=http&nocache=9025
 Title694=Paidaki FM
@@ -1393,23 +1393,23 @@ File696=http://s6.onweb.gr:8010/stream?type=http&nocache=55918
 Title696=Palmos 102.7
 File697=http://88.198.10.229:8038/stream
 Title697=Palmos 104.2
-File698=http://s7.onweb.gr:8554/;
+File698=http://s7.onweb.gr:8554/
 Title698=Palmos 95
 File699=http://ice.streamcloud.mediacdn.com/palmos983
 Title699=Palmos 98.3
 File700=http://i.streams.ovh:9521/stream
 Title700=Palmos Patras
-File701=http://live.onweb.gr:8010/;
+File701=http://live.onweb.gr:8010/
 Title701=Palmos Radio
 File702=http://195.201.115.226:8000/pame
 Title702=pame hellas
-File703=http://192.99.8.192:2032/;
+File703=http://192.99.8.192:2032/
 Title703=Panda
 File704=http://toradio.cc:8010/stream
 Title704=Panikos
 File705=http://stream-mp3aac.live24.gr/paradise903
 Title705=Paradise 90.3
-File706=http://213.239.206.179:8850/;stream.mp3
+File706=http://213.239.206.179:8850/stream.mp3
 Title706=Paradise Radio 101.6
 File707=https://paranoisewebcast.radioca.st/stream
 Title707=Paranoise
@@ -1427,7 +1427,7 @@ File713=http://s1.onweb.gr:8824/stream?type=http&nocache=120392
 Title713=Party 97.1
 File714=https://azuracast.streams.ovh/radio/8010/radio.mp3
 Title714=Pavlos Vasileiou Live
-File715=http://89.163.217.252:9800/;
+File715=http://89.163.217.252:9800/
 Title715=Peiratikos FM
 File716=https://i7.streams.ovh/sc/pellafm/stream
 Title716=Pella 103.3
@@ -1447,7 +1447,7 @@ File723=http://n12.radiojar.com/s87smqqfewzuv?rj-ttl=5&rj-tok=AAABhEP6hUMANppKTl
 Title723=Picasso 102.7
 File724=https://netradio.live24.gr/pegasosarta-128mp3
 Title724=Pigasos 106
-File725=http://88.198.70.25:8890/;
+File725=http://88.198.70.25:8890/
 Title725=Pikap Radio
 File726=https://pillowradio.out.airtime.pro/pillowradio_a
 Title726=Pillow Radio
@@ -1459,7 +1459,7 @@ File729=https://cast.iplayradio.net/radio/8119/stream
 Title729=Planet Dj 99.2
 File730=https://cast1.asurahosting.com/proxy/planet/live
 Title730=Planet Web Radio GR
-File731=http://s5.onweb.gr:8858/;
+File731=http://s5.onweb.gr:8858/
 Title731=Planet Ιεράπετρα
 File732=http://n0f.radiojar.com/xs99eg2g4p8uv?rj-ttl=5&rj-tok=AAABeMLEDsQA9RT0nVdOUzTB5g
 Title732=Plastic
@@ -1485,9 +1485,9 @@ File742=http://radio.streamings.gr:8029/stream
 Title742=Point Radio
 File743=http://radio.streamings.gr:8029/stream2
 Title743=Point-Radio
-File744=http://s2.onweb.gr:8628/;
+File744=http://s2.onweb.gr:8628/
 Title744=Polis 100
-File745=http://eco.onestreaming.com:8334/;
+File745=http://eco.onestreaming.com:8334/
 Title745=Polis 102.6
 File746=https://s2.e-resellers.gr:19964/polis911
 Title746=Polis 91.1
@@ -1511,21 +1511,21 @@ File755=http://mediacp.32bit.gr:8002/stream
 Title755=Power 93.2
 File756=https://ice.greekstream.net/praktoreio.m3u
 Title756=Praktoreio 104.9  FM
-File757=http://s3.onweb.gr:8436/;
+File757=http://s3.onweb.gr:8436/
 Title757=PRAKTORIO F.M.
 File758=https://radio.prepper.gr/radio/8000/radio.mp3
 Title758=Prepper
 File759=http://i3.streams.ovh:12218/stream?type=http&nocache=328
 Title759=Preveza Dee Jay 93.4
-File760=http://s20.myradiostream.com:6738/;listen.pls
+File760=http://s20.myradiostream.com:6738/listen.pls
 Title760=Prime 100.3
-File761=http://eco.onestreaming.com:8414/;
+File761=http://eco.onestreaming.com:8414/
 Title761=Prisma 91.8
 File762=http://i3.streams.ovh:12210/stream?type=http&nocache=337
 Title762=Prisma Πρέβεζα
-File763=http://s1.onweb.gr:8052/;
+File763=http://s1.onweb.gr:8052/
 Title763=Proto 99
-File764=http://server.insms.gr:45114/;stream.mp3
+File764=http://server.insms.gr:45114/stream.mp3
 Title764=Proto Κως
 File765=https://sp.streams.ovh/8020/stream
 Title765=Psyland
@@ -1539,17 +1539,17 @@ File769=http://n11.radiojar.com/weqykpegsm5tv?rj-ttl=5&rj-tok=AAABeMeCQf8A2Jh75q
 Title769=Purple
 File770=https://webinternetradio.eu:59415/
 Title770=Pylia
-File771=http://s4.myradiostream.com:14374/;
+File771=http://s4.myradiostream.com:14374/
 Title771=Pylos Live
 File772=https://stream-55.zeno.fm/k11h6usv7hhvv?zs=4D70nU6MSvaGZpghIWT-tA&acu-uid=727435602967&triton-uid=cookie%3A83ca5b14-582e-4c12-a5ab-255cdb39e2cb
 Title772=Queen Greek Radio
 File773=http://85.25.214.240:8140/listen.pls
 Title773=Radio 103 More
-File774=http://s5.onweb.gr:8498/;
+File774=http://s5.onweb.gr:8498/
 Title774=Radio 108
 File775=https://live.webhosting4u.gr:1095/stream
 Title775=Radio 322
-File776=http://live.radio69.gr:6969/;listen.pls
+File776=http://live.radio69.gr:6969/listen.pls
 Title776=Radio 69
 File777=https://rdst.win:37845/stream
 Title777=Radio 78kai45
@@ -1561,7 +1561,7 @@ File780=https://icecast.902.gr:8001/904
 Title780=Radio 90.4
 File781=https://netradio.live24.gr/radio915patra
 Title781=Radio 91.5 Patra
-File782=http://shoutcast.24radio.gr:8074/;
+File782=http://shoutcast.24radio.gr:8074/
 Title782=Radio 98.2
 File783=https://cast4.my-control-panel.com/proxy/anastas2/stream
 Title783=Radio 98.4
@@ -1927,7 +1927,7 @@ File963=http://62.38.241.82:8000/
 Title963=Radio Beat Radio
 File964=http://s6.onweb.gr:8512/stream?type=http&nocache=2440
 Title964=Radio Boss GR
-File965=http://s6.onweb.gr:8046/;
+File965=http://s6.onweb.gr:8046/
 Title965=Radio Cafe
 File966=https://cast.streams.ovh/ic/camradio/stream
 Title966=Radio Camel
@@ -1949,11 +1949,11 @@ File974=https://live.radioevros.gr/
 Title974=Radio Evros
 File975=https://tls-chrome.live24.gr/4016?http://109.73.65.69:39887/
 Title975=Radio Fantasia GR
-File976=http://shoutcast.24radio.gr:8074/;
+File976=http://shoutcast.24radio.gr:8074/
 Title976=Radio FM 98.2
 File977=https://solid1.streamupsolutions.com/proxy/tfcgioyq?mp=/stream
 Title977=Radio Galaxy 99
-File978=http://s1.onweb.gr:8446/;
+File978=http://s1.onweb.gr:8446/
 Title978=Radio Galilea
 File979=https://cast.speedstreams.eu/radio/8020/radio.mp3
 Title979=Radio Gerakas
@@ -1971,19 +1971,19 @@ File985=http://s7.onweb.gr:8802/listen.pls
 Title985=Radio Lasithi
 File986=http://s4.onweb.gr:8468/
 Title986=Radio Lehovo
-File987=http://s2.onweb.gr:8044/;
+File987=http://s2.onweb.gr:8044/
 Title987=Radio Madness
 File988=https://neos.win:48840/stream
 Title988=Radio me 88.4
 File989=http://s3.onweb.gr:8540/
 Title989=Radio Megalonisos
-File990=http://62.1.193.63:8000/;stream.mp3
+File990=http://62.1.193.63:8000/stream.mp3
 Title990=Radio Melody Greece
 File991=https://i9.streams.ovh/sc/radiome2/stream
 Title991=Radio Melody Oldies
 File992=http://s6.onweb.gr:8034/
 Title992=Radio Mires 97,1
-File993=https://i4.streams.ovh/sc/musicfactory/stream/;type=mp3
+File993=https://i4.streams.ovh/sc/musicfactory/stream/type=mp3
 Title993=Radio Music Factory
 File994=http://cast5.magicstreams.gr:8041/stream?
 Title994=Radio Mytilini
@@ -2001,7 +2001,7 @@ File1000=http://87.98.216.129:4060/
 Title1000=RADIO PHLIO 93.4 VOLOS
 File1001=http://s6.onweb.gr:8058/
 Title1001=Radio Play 91.5 Fm Stereo (Gr Xanthi)
-File1002=http://5.9.17.142:8072/;/;type=mp3
+File1002=http://5.9.17.142:8072//type=mp3
 Title1002=Radio Point
 File1003=http://everest.streams.ovh:1850/stream
 Title1003=Radio Samos
@@ -2031,7 +2031,7 @@ File1015=https://azuracast.streams.ovh/listen/radiokyklos/radio.mp3
 Title1015=RadioKyklos - Greek Hiphop
 File1016=http://sp2.streams.ovh/8024/stream
 Title1016=RadioPikap
-File1017=http://5.9.17.142:8072/;/;type=mp3
+File1017=http://5.9.17.142:8072//type=mp3
 Title1017=Radiopoint
 File1018=http://s3.onweb.gr:8528/listen.pls
 Title1018=radiotirnavos
@@ -2045,7 +2045,7 @@ File1022=http://bestgreek.info:8104/
 Title1022=Rare Radio
 File1023=https://homer.uniradios.gr/listen/ratfm/radio.mp3
 Title1023=Rat FM
-File1024=http://alfahost.no-ip.biz:8895/;?1493372500753
+File1024=http://alfahost.no-ip.biz:8895/?1493372500753
 Title1024=Rax 88.3
 File1025=https://realfm2.live24.gr/realfm
 Title1025=Real FM
@@ -2077,7 +2077,7 @@ File1038=https://radio.hostchefs.net/proxy/rockradioice?mp=/stream
 Title1038=Rock 104.7
 File1039=https://i9.streams.ovh:2199/tunein/rockacesradio-stream.pls
 Title1039=Rock Aces Radio
-File1040=http://109.169.76.104:11102/;listen.pls
+File1040=http://109.169.76.104:11102/listen.pls
 Title1040=Rock and Blues
 File1041=https://azuracast.streams.ovh/radio/8030/radio.mp3
 Title1041=Rock Angels
@@ -2101,7 +2101,7 @@ File1050=http://live.rockmelodic-radio.com:8124/listen.pls
 Title1050=Rock Melodic Radio
 File1051=https://i8.streams.ovh/sc/rockrad1/stream
 Title1051=Rock Radio Station RRS
-File1052=http://89.163.217.252:9898/stream?type=http&amp;nocache=8
+File1052=http://89.163.217.252:9898/stream?type=http&ampnocache=8
 Title1052=Rock Station
 File1053=http://88.198.10.229:8060/stream
 Title1053=Rock Velvet Radio
@@ -2167,9 +2167,9 @@ File1083=http://stream-mp3aac.live24.gr/sfera989
 Title1083=Sfera 98.9
 File1084=http://eco.onestreaming.com:8012/stream?type=http&nocache=26376
 Title1084=Sferikos Αλεξανδρούπολης
-File1085=http://s1.onweb.gr:8812/;
+File1085=http://s1.onweb.gr:8812/
 Title1085=Shook
-File1086=http://eco.onestreaming.com:8606/;
+File1086=http://eco.onestreaming.com:8606/
 Title1086=Siatista 95.7
 File1087=http://radio.sierafm.gr:55469/Sierafm
 Title1087=Siera Σιάτιστα
@@ -2177,7 +2177,7 @@ File1088=http://89.163.217.252/8010/stream
 Title1088=Silibre
 File1089=https://solid67.streamupsolutions.com/proxy/lqomhdjk?mp=//stream
 Title1089=Sin
-File1090=http://sitiafm.no-ip.info:8000/;
+File1090=http://sitiafm.no-ip.info:8000/
 Title1090=Sitia 95.5
 File1091=http://netradio.live24.gr/skai1003
 Title1091=Skai 100.3
@@ -2187,13 +2187,13 @@ File1093=https://netradio.live24.gr/skai1003
 Title1093=SKAI 100.3 FM
 File1094=http://skycomnet.gr/radio/8010/argolida?
 Title1094=Skai Argolidas
-File1095=http://s1.onweb.gr:8866/;
+File1095=http://s1.onweb.gr:8866/
 Title1095=Skai Katerini
 File1096=http://sc2.streamwithq.com:8056/stream?type=http&nocache=1093
 Title1096=Skai Kritis
 File1097=http://i.streams.ovh:9519/stream?type=http&nocache=5
 Title1097=Skai Patras
-File1098=http://sc2.streamwithq.com:8060/;
+File1098=http://sc2.streamwithq.com:8060/
 Title1098=Sky 100.7
 File1099=http://cressida.shoutca.st:9158/stream?type=http&nocache=61
 Title1099=Sky 91.3
@@ -2201,7 +2201,7 @@ File1100=http://live.skyradio.gr:9920/stream?type=http&nocache=358
 Title1100=Sky 99.2
 File1101=http://cressida.shoutca.st:8782/stream.mp3
 Title1101=Sky 99.7
-File1102=http://s6.myradiostream.com:45076/;listen.mp3;audio.mp3?hash=1528711740048
+File1102=http://s6.myradiostream.com:45076/listen.mp3audio.mp3?hash=1528711740048
 Title1102=Sky Ρόδος
 File1103=https://i6.streams.ovh/ic/skylos69/stream
 Title1103=Skylos 69
@@ -2209,7 +2209,7 @@ File1104=https://eco.onestreaming.com:18896/stream
 Title1104=Slam! 101.5
 File1105=http://smartradio1045.live24.gr/smartradio1045
 Title1105=Smart 104.5
-File1106=http://94.130.40.158:9712/;
+File1106=http://94.130.40.158:9712/
 Title1106=Smok
 File1107=http://cast.magicstreams.gr:9060/stream?type=http&nocache=2575
 Title1107=Smooth Jazz 111 
@@ -2265,25 +2265,25 @@ File1132=http://hermes.gretor.net:8000/1
 Title1132=Star Radio GR
 File1133=http://eco.onestreaming.com:8434/stream?type=http&nocache=107
 Title1133=Star Λαμία
-File1134=https://stream-relay-01.digitalstar.gr/stream;
+File1134=https://stream-relay-01.digitalstar.gr/stream
 Title1134=StarFM 97,1
 File1135=http://hermes.gretor.net:8000/
 Title1135=StarRadio
-File1136=https://loki.mental-media.gr/proxy/statusf1?mp=/stream:8000/;stream/1
+File1136=https://loki.mental-media.gr/proxy/statusf1?mp=/stream:8000/stream/1
 Title1136=Status 107.7
 File1137=https://cast5.magicstreams.gr/sc/statuswe/stream
 Title1137=Status Web Radio
 File1138=http://eco.onestreaming.com:8131/stream?type=http&nocache=129
 Title1138=Status Αλεξανδρούπολη
-File1139=http://cast.magicstreams.gr:9177/;stream/1
+File1139=http://cast.magicstreams.gr:9177/stream/1
 Title1139=Steki
 File1140=https://i6.streams.ovh:2200/ssl/stixosfm?mp=/stream
 Title1140=Stixos
-File1141=https://sound.argaleios.net/8012/;
+File1141=https://sound.argaleios.net/8012/
 Title1141=Sto Perithorio
 File1142=http://stream.radiojar.com/kokkino-ath.mp3
 Title1142=stokokkino
-File1143=http://eu4.fastcast4u.com:5248/;stream.mp3
+File1143=http://eu4.fastcast4u.com:5248/stream.mp3
 Title1143=Stone Radio
 File1144=https://cast.magicstreams.gr/sc/radiostork/stream
 Title1144=Stork 89.8
@@ -2317,15 +2317,15 @@ File1158=http://i3.streams.ovh:13145/live
 Title1158=Studio FM 94.4
 File1159=http://eco.onestreaming.com:8091/stream
 Title1159=Studio Lefkatas 90.5
-File1160=http://sc2.streamwithq.com:8120/;
+File1160=http://sc2.streamwithq.com:8120/
 Title1160=Studio Ρέθυμνο 980
 File1161=https://cast6.asurahosting.com/proxy/radiosky/stream
 Title1161=Studio12-22
 File1162=http://www.studio3.gr/files/listen.pls
 Title1162=STUDIO3 - THESSALONIKI
-File1163=http://s1.onweb.gr:8408/;
+File1163=http://s1.onweb.gr:8408/
 Title1163=Studio3 GR
-File1164=http://s3.onweb.gr:8530/;
+File1164=http://s3.onweb.gr:8530/
 Title1164=Styl 104.9
 File1165=https://eco.onestreaming.com/proxy/style100/stream
 Title1165=Style 100
@@ -2339,9 +2339,9 @@ File1169=http://sp.19clouds.net:8068/stream?type=http&nocache=144
 Title1169=Super 104.1
 File1170=https://eco.onestreaming.com:18882/stream
 Title1170=Super 88
-File1171=http://dione.shoutca.st:8530/;?1644228381005
+File1171=http://dione.shoutca.st:8530/?1644228381005
 Title1171=Super 90.4
-File1172=https://panel.turadiodigital.com/8010/;stream.mp3
+File1172=https://panel.turadiodigital.com/8010/stream.mp3
 Title1172=Super 95.5
 File1173=http://ice.greekstream.net/superfm
 Title1173=Super FM 101 Thessaloniki
@@ -2371,7 +2371,7 @@ File1185=https://webinternetradio.eu:48796/
 Title1185=Thespies
 File1186=https://eu7.fastcast4u.com/proxy/nmarog02?mp=/1
 Title1186=Thess 94.5
-File1187=http://shoutcast.24radio.gr:8070/;
+File1187=http://shoutcast.24radio.gr:8070/
 Title1187=Thessaloniki FM
 File1188=https://noc.ezhellas.com:30580/live
 Title1188=ThessRadio
@@ -2391,7 +2391,7 @@ File1195=https://i2.streams.ovh/sc/tostekit/stream
 Title1195=To steki tou erwta
 File1196=https://ec5.yesstreaming.net:1245/stream
 Title1196=Toc Radio
-File1197=http://live3.istoikona.com:8376/;
+File1197=http://live3.istoikona.com:8376/
 Title1197=Top 102.4
 File1198=http://s6.onweb.gr:8012/stream?type=http&nocache=231154
 Title1198=Top 106.4
@@ -2439,11 +2439,11 @@ File1219=https://stream-40.zeno.fm/ycn3vfnpzd0uv?zs=0k3c5mUNRAOq6rzcVkolfg
 Title1219=Vasilis Cfu oldies 80s 90s
 File1220=https://stream-40.zeno.fm/c2t7d9p6mf9uv?zs=_D-E0xBPQcGB_V9n7LLuqA
 Title1220=Vasilis Cfu Psy Trance
-File1221=http://s10.voscast.com:9942/;
+File1221=http://s10.voscast.com:9942/
 Title1221=VELVET 96.8
 File1222=http://onairmediagroup.live24.gr/velvet984xanthi
 Title1222=Velvet 98.4
-File1223=http://173.249.6.18:9684/;
+File1223=http://173.249.6.18:9684/
 Title1223=Velvet Ballads 
 File1224=http://s3.onweb.gr:8808/
 Title1224=Venus
@@ -2451,7 +2451,7 @@ File1225=https://sh.onweb.gr:7124/stream
 Title1225=Venus 105.1
 File1226=http://dos.venus91.gr:9100/stream
 Title1226=Venus 91
-File1227=http://s7.onweb.gr:8410/;stream.nsv&type=mp3
+File1227=http://s7.onweb.gr:8410/stream.nsv&type=mp3
 Title1227=Venus 99.3
 File1228=https://webinternetradio.eu:59271/
 Title1228=Veteranos
@@ -2459,13 +2459,13 @@ File1229=https://onairmediagroup.live24.gr/virus1055xanthi
 Title1229=Virus 105.5
 File1230=http://s3.onweb.gr:8030/stream?type=http&nocache=114707
 Title1230=Viva 88.3
-File1231=http://s17.myradiostream.com:8742/;listen.pls
+File1231=http://s17.myradiostream.com:8742/listen.pls
 Title1231=Viva FM 95.3
-File1232=https://solid9.streamupsolutions.com/proxy/ehrehten?mp=/;type=mp3?ver=983003
+File1232=https://solid9.streamupsolutions.com/proxy/ehrehten?mp=/type=mp3?ver=983003
 Title1232=VivaGR 102.8
 File1233=https://rdst.win:48788/stream
 Title1233=Voice Web Radio
-File1234=http://www.gointernet.gr:8014/;stream.mp3
+File1234=http://www.gointernet.gr:8014/stream.mp3
 Title1234=Volos 98.6
 File1235=http://cast3.radiohost.ovh:8008/stream
 Title1235=Volos Dee Jay 104.5
@@ -2489,7 +2489,7 @@ File1244=http://hubble.shoutca.st:8167/stream
 Title1244=West
 File1245=http://sip.wildradio.gr:8037/stream?type=http&nocache=48915
 Title1245=Wild Radio 
-File1246=http://rs.xservere.net:8108/;
+File1246=http://rs.xservere.net:8108/
 Title1246=WitRadio
 File1247=https://azuralive.streams.ovh/listen/xalastraradio/radio.mp3?refresh=1696880602762
 Title1247=Xalastra Web Radio
@@ -2513,7 +2513,7 @@ File1256=https://ice.greekstream.net/yellow
 Title1256=Yellow
 File1257=https://ice.greekstream.net/yellow.m3u
 Title1257=Yellow Radio 101.7 - Thessaloniki - Greece
-File1258=https://ams-pioneer02.dedicateware.com:1060/;?type=http&nocache=10656
+File1258=https://ams-pioneer02.dedicateware.com:1060/?type=http&nocache=10656
 Title1258=Yes! 91.2
 File1259=http://netradio.live24.gr/yoloradio
 Title1259=Yolo 102.1
@@ -2545,7 +2545,7 @@ File1272=http://s3.onweb.gr:8462/
 Title1272=Άγιος Σπυρίδων 91.1
 File1273=https://n10.radiojar.com/nkqh9th47vzuv?rj-ttl=5&rj-tok=AAABeQrkPYYAnOvxMouarvernQ
 Title1273=Αιγαίο Live 95.8
-File1274=http://eco.onestreaming.com:8552/;
+File1274=http://eco.onestreaming.com:8552/
 Title1274=Αίολος 92.8
 File1275=http://eco.onestreaming.com:8858/stream
 Title1275=Άκου Βέροια
@@ -2553,9 +2553,9 @@ File1276=https://eu1.fastcast4u.com/proxy/afreeapo?mp=/1
 Title1276=Ακούστε το Χριστιανισμό 104,3 FM
 File1277=http://akritespontou.live24.gr/akritespontou
 Title1277=Ακρίτες
-File1278=http://s1.onweb.gr:8066/;
+File1278=http://s1.onweb.gr:8066/
 Title1278=Ακρόαμα 94.6
-File1279=http://proxima.shoutca.st:9012/;
+File1279=http://proxima.shoutca.st:9012/
 Title1279=Αλέξανδρος 106.3
 File1280=http://eco.onestreaming.com:8027/stream
 Title1280=Αλέξιος Κομηνός 105,8
@@ -2565,15 +2565,15 @@ File1282=https://eco.onestreaming.com/proxy/alexioskomninos/stream
 Title1282=Αλέξιος Κομνηνός 105.8
 File1283=https://live.webhosting4u.gr/alithia
 Title1283=Αλήθεια 95.7
-File1284=http://sc2.streamwithq.com:8070/;stream/1
+File1284=http://sc2.streamwithq.com:8070/stream/1
 Title1284=Αλήθεια 96.3
 File1285=http://sc2.streamwithq.com:8070/
 Title1285=Αλήθεια FM 96.3
 File1286=http://streams.radio.co/s3ca17f0ae/listen
 Title1286=Αλήθειας Φάρος
-File1287=http://88.99.239.52:9300/;
+File1287=http://88.99.239.52:9300/
 Title1287=Αλιβέρι 102.2
-File1288=http://s2.free-shoutcast.com:18132/;stream.mp3
+File1288=http://s2.free-shoutcast.com:18132/stream.mp3
 Title1288=Αλμωπία 97.1
 File1289=http://sc2.streamwithq.com:8014/stream?type=http&nocache=2340
 Title1289=Άλφα 96
@@ -2583,15 +2583,15 @@ File1291=https://azuralive.streams.ovh/radio/8230/radio.mp3?1614244826
 Title1291=Αλωνάκι Web Radio
 File1292=http://s2.onweb.gr:8610/stream?type=http&nocache=17
 Title1292=Αμύνταιο 91.2
-File1293=http://s3.onweb.gr:8474/;
+File1293=http://s3.onweb.gr:8474/
 Title1293=Αμφιλοχία 104.5
-File1294=http://stream3.468.gr:8104/;listen.pls
+File1294=http://stream3.468.gr:8104/listen.pls
 Title1294=Άμφισσα
 File1295=https://i8.streams.ovh/sc/radioanamnhseis/stream
 Title1295=Αναμνήσεις
 File1296=http://radioanamnisi.live24.gr/radioanamnisi910
 Title1296=Ανάμνηση 91
-File1297=http://s4.onweb.gr:8842/;
+File1297=http://s4.onweb.gr:8842/
 Title1297=Άνεμος 92
 File1298=http://solid1.streamupsolutions.com:55023/stream
 Title1298=Άνοιξη 100.7
@@ -2599,15 +2599,15 @@ File1299=http://netradio.live24.gr/ant1patra1053
 Title1299=ΑΝΤ1 Πάτρας 105.3
 File1300=https://i3.streams.ovh:12043/live
 Title1300=Αντένα Αίγινα
-File1301=http://sc2.streamwithq.com:8008/;stream.mp3
+File1301=http://sc2.streamwithq.com:8008/stream.mp3
 Title1301=Αντέννα Δυτικής Κρήτης
-File1302=http://sc2.streamwithq.com:8008/;stream.mp3
+File1302=http://sc2.streamwithq.com:8008/stream.mp3
 Title1302=Αντέννα Δυτικής Κρήτης 97.1
 File1303=https://s14.myradiostream.com/29172/listen.mp3
 Title1303=Άξενος
 File1304=https://stream-47.zeno.fm/qrxhrq6akfhvv?zs=Yk53S3cOTIWZQd2kcs1k4w
 Title1304=Απολλώνιος
-File1305=http://s3.onweb.gr:8536/;
+File1305=http://s3.onweb.gr:8536/
 Title1305=Αργοσαρωνικός
 File1306=https://loki.mental-media.gr/proxy/armonia?mp=/stream
 Title1306=Αρμονία 96.9
@@ -2615,7 +2615,7 @@ File1307=http://sh.onweb.gr:8844/stream?type=http&nocache=1024
 Title1307=Αρμονία Web Αθήνα
 File1308=https://cast5.magicstreams.gr/ic/artfm/stream
 Title1308=ΑΡΤ 90.6
-File1309=http://eco.onestreaming.com:8536/;
+File1309=http://eco.onestreaming.com:8536/
 Title1309=Αρχάγγελος 94.1
 File1310=http://streams.enjoyfm.gr:48500/aroma.mp3
 Title1310=Άρωμα FM 88.2 (Aroma)
@@ -2629,17 +2629,17 @@ File1314=https://solid33.streamupsolutions.com/proxy/xbygwcwv/stream
 Title1314=Αυθεντικό GR
 File1315=https://uk1.streamingpulse.com/ssl/b7artradio
 Title1315=Βeton7Art
-File1316=http://www.gointernet.gr:8003/;stream.mp3
+File1316=http://www.gointernet.gr:8003/stream.mp3
 Title1316=Βέρα Βόλος
 File1317=https://everest.streams.ovh:1785/stream
 Title1317=Βερενίκη 89.5
-File1318=http://www.gointernet.gr:8014/;stream.mp3
+File1318=http://www.gointernet.gr:8014/stream.mp3
 Title1318=Βόλος
-File1319=http://shoutcast.24radio.gr:8018/;
+File1319=http://shoutcast.24radio.gr:8018/
 Title1319=Γαλαξίας 91.1
 File1320=https://sonic.serverps.gr/8018/stream
 Title1320=Γαλαξίας 92.1
-File1321=http://s2.onweb.gr:8446/;
+File1321=http://s2.onweb.gr:8446/
 Title1321=Γαλιλαία
 File1322=http://radiogamma.live24.gr/radiogamma
 Title1322=Γάμμα Πάτρας
@@ -2651,9 +2651,9 @@ File1325=https://ice.greekstream.net/gnomi
 Title1325=Γνώμη 93.7
 File1326=https://cast2.radiohost.ovh/dilina103?mp=/stream
 Title1326=Δειλινά 103 FM
-File1327=http://81.171.10.41:1088/;?
+File1327=http://81.171.10.41:1088/?
 Title1327=Δέλτα Αλεξανδρούπολη
-File1328=http://shoutcast.24radio.gr:8070/;
+File1328=http://shoutcast.24radio.gr:8070/
 Title1328=Δημοτική Ανθολογία
 File1329=https://cast5.magicstreams.gr/ic/dimotikiradiofwniakeas/stream
 Title1329=Δημοτική Ραδιοφωνία Κέας
@@ -2663,13 +2663,13 @@ File1331=http://n07.radiojar.com/1qpu1agw4mzuv.mp3?rj-ttl=5&rj-tok=AAABeR8tQQ4Ar
 Title1331=Δημοτικό Ραδιόφωνο Ιωαννίνων
 File1332=https://neos.win:59530/stream
 Title1332=Δημοτικό Ραδιόφωνο Κατερίνης
-File1333=http://sc2.streamwithq.com:8028/stream;
+File1333=http://sc2.streamwithq.com:8028/stream
 Title1333=Δημοτικό Ραδιόφωνο Πρέβεζας
 File1334=https://i4.streams.ovh:8234/live
 Title1334=Διαίρεση
-File1335=http://eco.onestreaming.com:8588/;audio.mp3?hash=1516289526356
+File1335=http://eco.onestreaming.com:8588/audio.mp3?hash=1516289526356
 Title1335=Δίαυλος 92.4
-File1336=http://server.insms.gr:45124/;
+File1336=http://server.insms.gr:45124/
 Title1336=Δίαυλος 93
 File1337=http://rdst.win:7060/stream
 Title1337=Δίαυλος 99.2
@@ -2705,7 +2705,7 @@ File1352=https://loki.mental-media.gr:8038/index.html
 Title1352=Εκκλησία της Ελλάδας 89.5
 File1353=http://85.10.206.222:8002/
 Title1353=Εκκλησία της Ελλάδος 89.5
-File1354=https://sonic.streams.ovh/9942/;
+File1354=https://sonic.streams.ovh/9942/
 Title1354=Εκκλησία Χριστιανών Ελλάδος
 File1355=http://s13.myradiostream.com:40902/listen.mp3
 Title1355=Έκφραση 97
@@ -2721,7 +2721,7 @@ File1360=https://rdst.win:59888/live
 Title1360=Ελληνικό Φαινόμενο
 File1361=https://realfmthess.live24.gr/realthess
 Title1361=Ελληνικός 107.1
-File1362=http://everest.streams.ovh:2390/;
+File1362=http://everest.streams.ovh:2390/
 Title1362=Ελληνικός 107.2
 File1363=http://live.ellinikos.gr:8010/903.mp3
 Title1363=Ελληνικός 90.3
@@ -2753,7 +2753,7 @@ File1376=https://stream-mp3aac.live24.gr/max925-her
 Title1376=Έντεχνος 92.5
 File1377=http://live.sugarweb.gr/973.mp3
 Title1377=Ένωση
-File1378=http://s2.onweb.gr:8608/;
+File1378=http://s2.onweb.gr:8608/
 Title1378=Επικοινωνία 89.1
 File1379=https://radio.streamings.gr/proxy/epikoinwnia94fm?mp=/stream
 Title1379=Επικοινωνία 94
@@ -2783,9 +2783,9 @@ File1391=https://radiostreaming.ert.gr/ert-proto
 Title1391=ΕΡΤ Πρώτο Πρόγραμμα
 File1392=https://radiostreaming.ert.gr/ert-trito
 Title1392=ΕΡΤ Τρίτο Πρόγραμμα
-File1393=http://eco.onestreaming.com:8368/;
+File1393=http://eco.onestreaming.com:8368/
 Title1393=Έρωτας 92
-File1394=http://sonic.streams.ovh:9950/;stream.mp3
+File1394=http://sonic.streams.ovh:9950/stream.mp3
 Title1394=Έρωτας FM
 File1395=https://eu1.fastcast4u.com/proxy/nmarog01
 Title1395=ερωτικός
@@ -2793,19 +2793,19 @@ File1396=http://eu1.fastcast4u.com:21624/stream
 Title1396=Ερωτικός 94.8
 File1397=https://eu1.fastcast4u.com/proxy/nmarog01
 Title1397=Ερωτικός FM 94.8
-File1398=http://89.163.217.252:9900/;
+File1398=http://89.163.217.252:9900/
 Title1398=Εύβοια 104.1
-File1399=http://www.gointernet.gr:8012/;listen.pls
+File1399=http://www.gointernet.gr:8012/listen.pls
 Title1399=Ζημιά 93.9
 File1400=https://www.gointernet.gr:9034/live?1677414458691
 Title1400=Ζημιά 94.5
 File1401=https://www.gointernet.gr:9012/streams
 Title1401=Ζημιά 96.5
-File1402=http://zygos.onweb.gr:8870/;
+File1402=http://zygos.onweb.gr:8870/
 Title1402=Ζυγός Τρίκαλα
 File1403=https://radiostreaming.ert.gr/ert-voiceofgreece
 Title1403=Η Φωνή της Ελλάδας
-File1404=http://stream.sy3dud.com:8000/stream/3/;
+File1404=http://stream.sy3dud.com:8000/stream/3/
 Title1404=Ηλέκτρα 98.8
 File1405=http://eco.onestreaming.com:8532/stream
 Title1405=Ήλιδα
@@ -2815,11 +2815,11 @@ File1407=https://rdst.win:59450/stream
 Title1407=Ήπειρος 94.5
 File1408=http://sp2.streams.ovh:8084/stream?type=http&nocache=114
 Title1408=Ηχόραμα 100.8
-File1409=http://shoutcast.24radio.gr:8010/;listen.pls
+File1409=http://shoutcast.24radio.gr:8010/listen.pls
 Title1409=Ήχος 94.2
 File1410=https://solid33.streamupsolutions.com/proxy/kiytkkjz/stream
 Title1410=Ηχώ 98.1
-File1411=http://eco.onestreaming.com:8520/;
+File1411=http://eco.onestreaming.com:8520/
 Title1411=Ηχώ Ιεράπετρα
 File1412=http://eco.onestreaming.com:8280/stream?type=http&nocache=44956
 Title1412=Ηχώ Πάρος
@@ -2829,11 +2829,11 @@ File1414=http://radio.streamings.gr:8000/stream
 Title1414=ΗΩΣ
 File1415=http://i.streams.ovh:9391/stream
 Title1415=Θάλασσα και Παράδοση
-File1416=http://sc2.streamwithq.com:8130/;
+File1416=http://sc2.streamwithq.com:8130/
 Title1416=Θαλασσόλυκος 102.1
 File1417=https://radio.themapatras.gr/radio
 Title1417=Θέμα 98.7
-File1418=http://dione.shoutca.st:8548/;?1672008455757
+File1418=http://dione.shoutca.st:8548/?1672008455757
 Title1418=Θέμα Κρήτης 103.1
 File1419=http://webradio.northbridge.gr/proxy/thessaliafm/stream
 Title1419=Θεσσαλία 96
@@ -2843,13 +2843,13 @@ File1421=http://in.icss.com.gr:8000/stream_007
 Title1421=Ι. Μ. Λαρίσης και Τυρνάβου 96.3
 File1422=http://s3.onweb.gr:8038/stream?type=http&nocache=501
 Title1422=Ι.Μ. Αιτωλίας και Ακαρνανίας 106.3
-File1423=http://s6.onweb.gr:8094/;
+File1423=http://s6.onweb.gr:8094/
 Title1423=Ι.Μ. Ηλείας
-File1424=http://live.onweb.gr:8212/;
+File1424=http://live.onweb.gr:8212/
 Title1424=Ι.Μ. Παροναξίας 92.3
-File1425=http://s4.onweb.gr:8862/;
+File1425=http://s4.onweb.gr:8862/
 Title1425=Ι.Μ. Σπάρτης 88.8
-File1426=http://s5.onweb.gr:8508/;
+File1426=http://s5.onweb.gr:8508/
 Title1426=Ι.Μ. Τρίκκης Γαρδικίου και Πύλης 102
 File1427=https://i7.streams.ovh/ic/iakradi1/stream
 Title1427=Ιερά Αρχιεπισκοπή Κρήτης 
@@ -2859,9 +2859,9 @@ File1429=http://eco.onestreaming.com:8264/
 Title1429=Ιερά Μητροπόλη Φθιώτιδος 89.4
 File1430=http://i.streams.ovh:9566/live
 Title1430=Ιερά Μητρόπολις Άρτης 106.6
-File1431=http://sh.onweb.gr:8852/;stream
+File1431=http://sh.onweb.gr:8852/stream
 Title1431=Ιερά Μητρόπολις Σύρου 95.4
-File1432=http://eco.onestreaming.com:8019/;stream.mp3
+File1432=http://eco.onestreaming.com:8019/stream.mp3
 Title1432=Ιερά Μονή Παμμεγίστων Ταξιαρχών
 File1433=https://stream-47.zeno.fm/39ctbne6kfhvv?zs=9q9C7p4RRn264troeLXFEw&acu-uid=728422785299&triton-uid=cookie%3A479b3bea-0ca4-4186-99f8-a37926c7742f
 Title1433=Ιερός Ναός Αγ. Γεωργίου Αμιρά Βιάννου
@@ -2875,15 +2875,15 @@ File1437=http://i3.streams.ovh:12095/stream
 Title1437=Καλόκαρδος 101.5
 File1438=https://i5.streams.ovh:14036/live
 Title1438=Κανάλι 5 Love Radio 91.7
-File1439=http://sc2.streamwithq.com:8046/;.mp3
+File1439=http://sc2.streamwithq.com:8046/.mp3
 Title1439=Καρπενήσι
-File1440=http://shoutcast.24radio.gr:8062/;
+File1440=http://shoutcast.24radio.gr:8062/
 Title1440=Καστοριά 93
-File1441=http://89.163.217.252:9920/;
+File1441=http://89.163.217.252:9920/
 Title1441=Καψουρομάγαζο
-File1442=http://live.cast-control.eu:9118/stream;?1552397300972
+File1442=http://live.cast-control.eu:9118/stream?1552397300972
 Title1442=Κέρκυρα
-File1443=http://s3.onweb.gr:8452/;
+File1443=http://s3.onweb.gr:8452/
 Title1443=Κιβωτός 99.2
 File1444=http://78.129.229.113:31325/stream
 Title1444=Κίμωλος 106
@@ -2901,15 +2901,15 @@ File1450=https://i9.streams.ovh:2200/sc/kritifm989/stream
 Title1450=Κρήτη 98.9
 File1451=http://prech.kritikorama.eu:9382/prech
 Title1451=Κρητικόραμα 93.8
-File1452=http://dione.shoutca.st:8443/;
+File1452=http://dione.shoutca.st:8443/
 Title1452=Κρητικός 88.7
 File1453=http://sc2.streamwithq.com:8052/stream?type=http&nocache=556
 Title1453=Κρητόραμα 97.9
-File1454=http://s1.onweb.gr:8028/;stream/1
+File1454=http://s1.onweb.gr:8028/stream/1
 Title1454=Κύμα 90.3
 File1455=http://everest.streams.ovh:1310/stream
 Title1455=Λαϊκή Κιβωτός
-File1456=http://i2.streams.ovh:7017/;s.mp3%2613142580629?1561638450138
+File1456=http://i2.streams.ovh:7017/s.mp3%2613142580629?1561638450138
 Title1456=Λαϊκό Ραδιόφωνο
 File1457=http://sp2.streams.ovh:8100/stream?type=http&nocache=185
 Title1457=Λαϊκός 100.6
@@ -2923,7 +2923,7 @@ File1461=http://derti.live24.gr/laikos876
 Title1461=Λαϊκός 87,6
 File1462=http://sp2.streams.ovh:8098/stream?type=http&nocache=556
 Title1462=Λαϊκός 88
-File1463=http://sonic.streams.ovh:9870/;
+File1463=http://sonic.streams.ovh:9870/
 Title1463=Λαϊκός 96.2
 File1464=https://stream-52.zeno.fm/b1v509ft7k0uv?zs=VACeB9QoSWiF4wDINS6Skg&acu-uid=727435602967&triton-uid=cookie%3A83ca5b14-582e-4c12-a5ab-255cdb39e2cb
 Title1464=Λαϊκός Α13
@@ -2931,7 +2931,7 @@ File1465=https://cast5.magicstreams.gr/sc/laikofono/stream
 Title1465=Λαϊκόφωνο Λαμίας
 File1466=http://eco.onestreaming.com:8286/stream.mp3?ver=711663
 Title1466=Λάκκα Σούλι
-File1467=http://sc2.streamwithq.com:8092/;listen.pls
+File1467=http://sc2.streamwithq.com:8092/listen.pls
 Title1467=Λαμία FM 1
 File1468=https://i6.streams.ovh/sc/radiolampsi/stream
 Title1468=Λάμψη
@@ -2949,13 +2949,13 @@ File1474=http://i3.streams.ovh:12006/live
 Title1474=Λευκίμμη 105.5
 File1475=http://s4.onweb.gr:8468/stream?type=http&nocache=62788
 Title1475=Λέχοβο 97.1
-File1476=http://s4.onweb.gr:8468/;
+File1476=http://s4.onweb.gr:8468/
 Title1476=Λέχωβο Φλώρινα
 File1477=http://88.198.9.172:8022/stream
 Title1477=Λήμνος 97.9
-File1478=http://eu1.radiolydia.com:1086/;
+File1478=http://eu1.radiolydia.com:1086/
 Title1478=Λυδία FM 94.2
-File1479=http://eco.onestreaming.com:8037/;
+File1479=http://eco.onestreaming.com:8037/
 Title1479=Λυχνάρι 91.4
 File1480=https://eu3.fastcast4u.com/proxy/nmarog00?mp=/1
 Title1480=Μinore 96.1
@@ -2973,9 +2973,9 @@ File1486=http://46.4.98.200:8020/stream
 Title1486=Μαστίχα Web Radio
 File1487=http://s3.onweb.gr:8540/stream
 Title1487=Μεγαλόνησος 89.8
-File1488=http://eco.onestreaming.com:8505/;
+File1488=http://eco.onestreaming.com:8505/
 Title1488=Μεθόριος Ορεστιάδα
-File1489=http://s14.myradiostream.com:11840/;listen.pls
+File1489=http://s14.myradiostream.com:11840/listen.pls
 Title1489=Μελωδία 101.1
 File1490=https://media.blemobile.co.uk:8000/stream
 Title1490=Μελωδία 102.4
@@ -2989,7 +2989,7 @@ File1494=http://i.streams.ovh:9523/stream?type=http&nocache=373
 Title1494=Μελωδία Πάτρας 100.4
 File1495=http://live3.istoikona.com:8183/stream?type=http&nocache=25
 Title1495=Μελωδία Ρόδου 103.7
-File1496=http://eco.onestreaming.com:8054/;
+File1496=http://eco.onestreaming.com:8054/
 Title1496=Μελωδικός 105.7
 File1497=https://n05.radiojar.com/g6eg7gpa6k5tv?rj-ttl=5&rj-tok=AAABeQqV1bYAO3o7hLe2cvFDgw
 Title1497=Μεσόγειος στο Κόκκινο 105.4
@@ -3003,23 +3003,23 @@ File1501=http://s6.onweb.gr:8034/stream?type=http&nocache=566163
 Title1501=Μοίρες 97.1
 File1502=http://mp96fm.live24.gr/monadikipolitia96
 Title1502=Μοναδική Πολιτεία 96 - Αδελφότης Μεταμορφώσεως του Σωτήρος Ναυπάκτου
-File1503=http://eco.onestreaming.com:8019/;stream.mp3
+File1503=http://eco.onestreaming.com:8019/stream.mp3
 Title1503=Μοναχική Διακονία 87.5
 File1504=https://i5.streams.ovh:14099/stream
 Title1504=Μουσικά Ταξίδια
-File1505=http://stream.myip.gr:9214/;listen.pls;listen.pls
+File1505=http://stream.myip.gr:9214/listen.plslisten.pls
 Title1505=Μουσική Λάμψη 103.3
-File1506=https://solid2.streamupsolutions.com/proxy/unhrkhgh?mp=/;type=mp3
+File1506=https://solid2.streamupsolutions.com/proxy/unhrkhgh?mp=/type=mp3
 Title1506=Μουσικό Κανάλι Ελλασόνας 107.3
 File1507=http://everestcast.streams.ovh:1940/stream
 Title1507=Μουσικοθεραπεία
-File1508=https://sslstreaming.com:7019/;?1604171746021
+File1508=https://sslstreaming.com:7019/?1604171746021
 Title1508=Μουσικός Επισκέπτης Γαλατσίου
 File1509=http://solid2.streamupsolutions.com:24977/stream?type=http&nocache=1049
 Title1509=Μουσικός Παλμός 94.5
 File1510=https://n0f.radiojar.com/f4pqr7wu48hvv?rj-ttl=5&rj-tok=AAABicxLYqIAQqzDzWQMTQpzlQ
 Title1510=Μπλε 99
-File1511=http://s2.free-shoutcast.com:18560/stream/;.mp3
+File1511=http://s2.free-shoutcast.com:18560/stream/.mp3
 Title1511=Μύθος
 File1512=http://cast5.magicstreams.gr:8041/stream?
 Title1512=Μυτιλήνη 90
@@ -3037,17 +3037,17 @@ File1518=https://stream.myip.gr/proxy/radioxanthi/live
 Title1518=Ξάνθη 93.5
 File1519=https://sp3.streams.ovh/8018/stream
 Title1519=Ξενύχτης
-File1520=http://alfahost.no-ip.biz:8895/;?1493372500753
+File1520=http://alfahost.no-ip.biz:8895/?1493372500753
 Title1520=Ξηρόμερο 88.3
 File1521=http://solid2.streamupsolutions.com:24950/stream
 Title1521=Ξυλαγανή 104.5
-File1522=http://eco.onestreaming.com:8650/;
+File1522=http://eco.onestreaming.com:8650/
 Title1522=Ο Εύδιος Λιμήν 101.9
 File1523=http://okshop.live24.gr/okshop
 Title1523=ΟΚ! Anytime Markets
 File1524=http://95.216.189.65:8000/media
 Title1524=Οκτάβα GR
-File1525=http://eco.onestreaming.com:8667/stream/;
+File1525=http://eco.onestreaming.com:8667/stream/
 Title1525=Όλα 98.7
 File1526=https://radio.streamings.gr/proxy/radioxanthis?mp=/stream&1668711454106
 Title1526=Όμορφη Πόλη 89.9
@@ -3055,17 +3055,17 @@ File1527=https://cast.speedstreams.eu/radio/8020/radio.mp3
 Title1527=Ονειρούπολη 
 File1528=http://streamyourdream.org:18042/imd
 Title1528=Ορθόδοξη Μαρτυρία 104
-File1529=http://www.gwebstream.net:8008/;external%20stream%20link
+File1529=http://www.gwebstream.net:8008/external%20stream%20link
 Title1529=Ορθόδοξη Παρουσία 106.8
 File1530=http://radio.lts-group.eu:52390/ANS
 Title1530=Ορθοδοξία και Παράδοση 103
-File1531=http://s7.onweb.gr:8546/;
+File1531=http://s7.onweb.gr:8546/
 Title1531=ΟΡΤ 92.3
 File1532=https://radio.streamings.gr/proxy/orfeasradio?mp=/stream
 Title1532=Ορφέας
 File1533=http://195.201.115.226:8000/pame
 Title1533=Π.Α.ΜΕ
-File1534=https://pikapradio-tommyf.radioca.st/;
+File1534=https://pikapradio-tommyf.radioca.st/
 Title1534=Πikap
 File1535=http://s6.onweb.gr:8068/stream
 Title1535=Παλαιόχωρα 89.3
@@ -3077,7 +3077,7 @@ File1538=https://i3.streams.ovh/ic/palmos/stream
 Title1538=Παλμός 90.5
 File1539=http://radio.streamings.gr:8115/stream
 Title1539=Παλμός 94.1
-File1540=http://207.244.66.85:17976/;listen.pls
+File1540=http://207.244.66.85:17976/listen.pls
 Title1540=Παλμός 94.9
 File1541=http://stream.sy3dud.com:8000/stream
 Title1541=Παλμός 98.2
@@ -3097,13 +3097,13 @@ File1548=https://sc2.streamwithq.com:8026/stream
 Title1548=Παραπολιτικά Ρεθύμνου 102.4
 File1549=http://s6.onweb.gr:8020/stream?type=http&nocache=361209
 Title1549=Παρατηρητής 94
-File1550=http://s1.onweb.gr:8098/;
+File1550=http://s1.onweb.gr:8098/
 Title1550=Πάρος 98.5
 File1551=http://live.cast-control.eu:9102/stream?type=http&nocache=144
 Title1551=Πάτρα 106.5
 File1552=http://eco.onestreaming.com:8548/
 Title1552=Παύλειος Λόγος - Ι.M.Β.Ν.Κ 90.2
-File1553=http://eco.onestreaming.com:8548/;
+File1553=http://eco.onestreaming.com:8548/
 Title1553=Παύλειος Λόγος 90.2
 File1554=https://netradio.live24.gr/kanali1peiraia
 Title1554=Πειραιάς Κανάλι 1
@@ -3113,9 +3113,9 @@ File1556=https://stream.radioweb.ovh/radio/8030/peiratikos?
 Title1556=Πειρατικός
 File1557=http://stream-mp3aac.live24.gr/max925-her
 Title1557=Πένα 92.5
-File1558=http://s3.myradiostream.com:4060/;
+File1558=http://s3.myradiostream.com:4060/
 Title1558=Πήλιο 93.4
-File1559=https://rpieria.radioca.st/;
+File1559=https://rpieria.radioca.st/
 Title1559=Πιερία 104.2
 File1560=https://stream-47.zeno.fm/2veaqcf5u7zuv?zs=ekoV3lSTR1OPYeg_m4Q7Tw&acu-uid=727435602967&triton-uid=cookie%3A83ca5b14-582e-4c12-a5ab-255cdb39e2cb
 Title1560=Πίνδαρος
@@ -3125,13 +3125,13 @@ File1562=https://broadcast.plaisio.gr:8443/live.mp3
 Title1562=Πλαίσιο
 File1563=https://sh.onweb.gr:7060/stream
 Title1563=Πόλις 99.4
-File1564=http://eco.onestreaming.com:8604/;
+File1564=http://eco.onestreaming.com:8604/
 Title1564=Πολιτεία Σπάρτη
-File1565=http://eco.onestreaming.com:8526/;?1492734743419.mp3
+File1565=http://eco.onestreaming.com:8526/?1492734743419.mp3
 Title1565=Πολύγυρος Χαλκιδική
 File1566=https://n07.radiojar.com/un4tp96kb.mp3?rj-ttl=5&rj-tok=AAABeROITdYAtrTuiqqUuR0D8Q
 Title1566=Πορτοκαλί
-File1567=https://sh.onweb.gr:7048/;
+File1567=https://sh.onweb.gr:7048/
 Title1567=Πρακτορείο
 File1568=http://sc2.streamwithq.com:8072/stream?type=http&nocache=2802
 Title1568=Πρέβεζα
@@ -3139,11 +3139,11 @@ File1569=https://sonic.streams.ovh/8014/stream%20?ver=661677
 Title1569=Πρίσμα 90.2
 File1570=http://62.103.31.151:8000/stream
 Title1570=Πρωινή Καβάλα
-File1571=http://s1.onweb.gr:8052/;
+File1571=http://s1.onweb.gr:8052/
 Title1571=Πρώτο 99
 File1572=http://i2.streams.ovh:7117/stream?type=http&nocache=1184
 Title1572=Πρώτο Κανάλι 95.4
-File1573=http://eco.onestreaming.com:8300/;
+File1573=http://eco.onestreaming.com:8300/
 Title1573=Πρώτο Πρόγραμμα Χίου 90.7
 File1574=http://n05.radiojar.com/s8k21fnkgfhvv?rj-ttl=5&rj-tok=AAABhSHA130AMwN5Drn-doGW-A
 Title1574=Πρώτο Ραδιόφωνο Ρόδου
@@ -3179,9 +3179,9 @@ File1589=https://eu1.fastcast4u.com/proxy/radiomartino?mp=/1
 Title1589=Ράδιο Μαρτίνο
 File1590=http://sc2.streamwithq.com:8006/
 Title1590=Ράδιο Μαρτυρία 95.5
-File1591=http://s1.onweb.gr:8828/;
+File1591=http://s1.onweb.gr:8828/
 Title1591=Ραδιοενέργεια
-File1592=http://s8.onweb.gr:8702/;
+File1592=http://s8.onweb.gr:8702/
 Title1592=Ραδιοκύματα 102.6
 File1593=http://cycler.mywire.org:25222/stream
 Title1593=Ράδιον, RADHION
@@ -3195,13 +3195,13 @@ File1597=http://ice.streamcloud.mediacdn.com/rkykladwn
 Title1597=Ραδιοφωνία Κυκλαδων 101.3
 File1598=http://s3.onweb.gr:8438/stream?type=http&nocache=56820
 Title1598=Ραδιοφωνική Λέσχη 97.6
-File1599=http://s5.onweb.gr:8498/;
+File1599=http://s5.onweb.gr:8498/
 Title1599=Ραδιόφωνο 108
 File1600=http://n06.radiojar.com/k55d9sumb?rj-ttl=5&1641550009=&rj-tok=AAABhTut3hAAe5FaylDc6xLaVg
 Title1600=Ρεμπέτικο για λίγους 
 File1601=https://rdst.win:59670/stream
 Title1601=Ρίζες
-File1602=http://s1.onweb.gr:8040/;
+File1602=http://s1.onweb.gr:8040/
 Title1602=Ριζίτες 92.4
 File1603=http://solid2.streamupsolutions.com:24942/stream
 Title1603=Ροδόπη 95.5
@@ -3217,13 +3217,13 @@ File1608=http://s4.onweb.gr:8892/stream?type=http&nocache=136101
 Title1608=Ρυθμός 89.2
 File1609=http://cast5.magicstreams.gr:8028/stream?
 Title1609=Ρυθμός 91.6
-File1610=http://eco.onestreaming.com:8217/;
+File1610=http://eco.onestreaming.com:8217/
 Title1610=Ρυθμός 94.3
-File1611=http://sc2.streamwithq.com:8098/;listen.pls
+File1611=http://sc2.streamwithq.com:8098/listen.pls
 Title1611=Ρυθμός 94.6
 File1612=https://icy.youmix.gr/rythmos968
 Title1612=Ρυθμός 96.8
-File1613=http://sc2.streamwithq.com:8034/;stream.mp3
+File1613=http://sc2.streamwithq.com:8034/stream.mp3
 Title1613=Ρυθμός 97.4
 File1614=https://mediacp.32bit.gr:2000/stream/rythmos988
 Title1614=Ρυθμός 98.8
@@ -3241,11 +3241,11 @@ File1620=http://eco.onestreaming.com:8316/stream?type=http&nocache=22964
 Title1620=Σαντορίνη
 File1621=http://solid33.streamupsolutions.com:32014/stream
 Title1621=Σέρρες 98.9
-File1622=http://65.108.133.10:8050/;
+File1622=http://65.108.133.10:8050/
 Title1622=Σήμαντρο 93.1
 File1623=http://cast.radiohost.ovh:9039/stream
 Title1623=Σιντική 92.1
-File1624=http://live.isol.biz:8500/;stream.nsv
+File1624=http://live.isol.biz:8500/stream.nsv
 Title1624=Σκάι Αιγαίου 99.8
 File1625=http://n01.radiojar.com/819r8wupdrruv?rj-ttl=5&rj-tok=AAABePEMVGgAGH9g3lsAx7imBA
 Title1625=Σκύλος 90
@@ -3269,7 +3269,7 @@ File1634=http://n09.radiojar.com/275p8ssmb?rj-ttl=5&rj-tok=AAABe5KoPq0A-SETCU2cf
 Title1634=Στο Κόκκινο ΘΕΣΣΑΛΟΝΙΚΗ 91,4 FM
 File1635=https://neos.win:48840/stream
 Title1635=Στο Κόκκινο Κρήτης
-File1636=http://eco.onestreaming.com:8165/;
+File1636=http://eco.onestreaming.com:8165/
 Title1636=Στο Νησί Λέσβος
 File1637=https://i8.streams.ovh/sc/radiostournareika/stream
 Title1637=Στουρναραίικα 92.5
@@ -3287,7 +3287,7 @@ File1643=http://cast3.radiohost.ovh:8243/stream
 Title1643=Σφαίρα Θεσσαλίας 90.7
 File1644=https://solid24.streamupsolutions.com/proxy/sfakiaradio?mp=/stream
 Title1644=Σφακιά
-File1645=http://cast.streams.ovh:12061/;
+File1645=http://cast.streams.ovh:12061/
 Title1645=Τα εν Δήμω
 File1646=https://i9.streams.ovh/sc/radiotak/stream
 Title1646=Τάκης
@@ -3295,33 +3295,33 @@ File1647=https://cast.iplayradio.net/radio/8028/stream
 Title1647=Ταμυναϊκή 103.9
 File1648=https://c34.radioboss.fm:18213/stream
 Title1648=Τεριρέμ
-File1649=http://eco.onestreaming.com:8240/;listen.pls
+File1649=http://eco.onestreaming.com:8240/listen.pls
 Title1649=Τοξότης Πέλλα
 File1650=https://metromedia.live24.gr/tranzistor1003thess
 Title1650=Τρανζίστορ 100.3
-File1651=http://s6.onweb.gr:8004/;
+File1651=http://s6.onweb.gr:8004/
 Title1651=Τρίκαλα
-File1652=http://s2.onweb.gr:8622/;
+File1652=http://s2.onweb.gr:8622/
 Title1652=Τσιρίγο
-File1653=http://s3.onweb.gr:8528/;
+File1653=http://s3.onweb.gr:8528/
 Title1653=Τύρναβος 103.8
 File1654=http://netradio.live24.gr/ydrogeios1069her
 Title1654=Υδρόγειος News Ηράκλειο
 File1655=https://cast4.magicstreams.gr:2200/ssl/sc_gr40c?mp=/stream
 Title1655=Υπάρχω 101.4
-File1656=http://s4.onweb.gr:8080/;
+File1656=http://s4.onweb.gr:8080/
 Title1656=Υπάρχω 103.7
-File1657=http://s41.myradiostream.com:28554/;?type=http&nocache=73527
+File1657=http://s41.myradiostream.com:28554/?type=http&nocache=73527
 Title1657=Φάρος 104
-File1658=http://s3.onweb.gr:8012/;
+File1658=http://s3.onweb.gr:8012/
 Title1658=Φάρος 91.8
-File1659=http://eco.onestreaming.com:8021/;
+File1659=http://eco.onestreaming.com:8021/
 Title1659=Φίλοι του Ραδιοφώνου 92
 File1660=https://stream-44.zeno.fm/s59eutgtf48uv?zs=BtI9INb_R0CICEqvBTbuHw&acu-uid=727435602967&triton-uid=cookie%3A83ca5b14-582e-4c12-a5ab-255cdb39e2cb
 Title1660=Φλόγα Ορθόδοξο Ραδιόφωνο
-File1661=http://s4.onweb.gr:8444/;
+File1661=http://s4.onweb.gr:8444/
 Title1661=Φυστίκι 95.8
-File1662=http://85.10.206.222:8002/;
+File1662=http://85.10.206.222:8002/
 Title1662=Χριστιανική Στέγη Καλαμάτας
 File1663=http://s6.onweb.gr:8006/stream?type=http&nocache=574202
 Title1663=Χρόνος Κομοτηνή

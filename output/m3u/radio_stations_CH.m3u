@@ -229,7 +229,7 @@ http://live9.avf.ch:8000/globalfm160
 #EXTINF:-1 Global Sport NFBJ
 http://live9.avf.ch:8000/globalfmdabne
 #EXTINF:-1 Gnu Radio - Metal FM
-https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=61s83r32%230%2389nqs1p1q8rrq2q126260sp7877or6oo%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1643658802
+https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=61s83r32%230%2389nqs1p1q8rrq2q126260sp7877or6oo%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.deskey:1643658802
 #EXTINF:-1 Gorilla.fm
 https://strm112.1.fm/gorillafm_mobile_mp3
 #EXTINF:-1 Gottes Radio
@@ -363,7 +363,7 @@ http://stream11.radiobeo.ch:8000/radiobeo.mp3
 #EXTINF:-1 RADIO BERN1
 https://stream.streambase.ch/radiobern1/mp3-192/direct/
 #EXTINF:-1 Radio Blitz
-http://server9932.streamplus.de:27100/;listen.pls?sid=1
+http://server9932.streamplus.de:27100/listen.pls?sid=1
 #EXTINF:-1 Radio Bollwerk
 https://radiobollwerk.out.airtime.pro/radiobollwerk_a
 #EXTINF:-1 Radio Chablais
@@ -373,9 +373,9 @@ http://stream.radiochablais.ch/chablais-100francais.mp3
 #EXTINF:-1 Radio Drachenblut
 http://radio-drachenblut.ch:8000/stream/3/
 #EXTINF:-1 Radio FM1
-https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499o8o6%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1687795894
+https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499o8o6%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:directskey:1687795894
 #EXTINF:-1 RADIO FM1
-https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499oos8%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1687796728
+https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499oos8%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:directskey:1687796728
 #EXTINF:-1 Radio Freundesdienst Deutsch
 http://radiofd.ice.infomaniak.ch/radiofd.mp3
 #EXTINF:-1 Radio Freundesdienst Schweiz
@@ -403,11 +403,11 @@ http://streaming2.elitecomunicacion.es:9000/radiomaria_lo
 #EXTINF:-1 Radio Maria Switzerland
 http://dreamsiteradiocp.com:8020/stream
 #EXTINF:-1 Radio Melody
-https://chmedia.streamabc.net/79-rm-mp3-192-7754268?sABC=64726ssr%230%23565o8622n9638n515p1pqq82pnq6q099%23zlghare&aw_0_1st.playerid=mytuner&amsparams=playerid:mytuner;skey:1685221374
+https://chmedia.streamabc.net/79-rm-mp3-192-7754268?sABC=64726ssr%230%23565o8622n9638n515p1pqq82pnq6q099%23zlghare&aw_0_1st.playerid=mytuner&amsparams=playerid:mytunerskey:1685221374
 #EXTINF:-1 Radio Merak
 http://79.143.187.96:8092/
 #EXTINF:-1 Radio Morcote International
-http://streaming.radiomorcoteinternational.com:8000/;
+http://streaming.radiomorcoteinternational.com:8000/
 #EXTINF:-1 Radio Munot
 http://streaming.swisstxt.ch/m/radiomunot/mp3_128
 #EXTINF:-1 Radio Neue Hoffnung
@@ -435,7 +435,7 @@ http://stream.srg-ssr.ch/m/rr/mp3_128
 #EXTINF:-1 Radio s
 http://radio-s.feste-ip.net:8000/
 #EXTINF:-1 Radio S KSF
-https://bienemobil.feste-ip.net/;stream.mp3
+https://bienemobil.feste-ip.net/stream.mp3
 #EXTINF:-1 Radio SRF 1 Regionaljournal Aargau, Solothurn
 http://stream.srg-ssr.ch/m/regi_ag_so/mp3_128
 #EXTINF:-1 Radio SRF 1 Regionaljournal Basel, Baselland
@@ -557,7 +557,7 @@ http://stream.srg-ssr.ch/drsvirus/mp3_128.m3u
 #EXTINF:-1 Sunradio - Best international Music
 http://www.sunradio.ch/livestream.m3u
 #EXTINF:-1 SWISS GROOVE
-https://relay2.swissgroove.ch/;
+https://relay2.swissgroove.ch/
 #EXTINF:-1 Swiss Groove
 https://relay1.swissgroove.ch/
 #EXTINF:-1 Swiss Melody
@@ -627,23 +627,23 @@ https://listen.radioking.com/radio/449177/stream/508205
 #EXTINF:-1 Vertical Radio
 http://verticalradio.ice.infomaniak.ch/verticalradio-128.mp3
 #EXTINF:-1 Vibración Latina
-http://vibration.stream2net.eu:8410/;stream/1
+http://vibration.stream2net.eu:8410/stream/1
 #EXTINF:-1 Vibration 108
 http://vibration108-high.ice.infomaniak.ch/vibration108-high.mp3
 #EXTINF:-1 Vibration Chanson Française
-http://vibration.stream2net.eu:8510/;stream/1
+http://vibration.stream2net.eu:8510/stream/1
 #EXTINF:-1 Vibration FM
 http://vibration-aac.stream2net.eu:8040/listen.pls
 #EXTINF:-1 Vibration Gayradio
-http://vibration.stream2net.eu:8480/;stream/1
+http://vibration.stream2net.eu:8480/stream/1
 #EXTINF:-1 Vibration Poprock
 http://vibrationpoprock.ice.infomaniak.ch/vibrationpoprock-high.mp3
 #EXTINF:-1 Vibration Soft Hits
-http://vibration.stream2net.eu:8350/;stream/1
+http://vibration.stream2net.eu:8350/stream/1
 #EXTINF:-1 Vibration Vintage
 http://vibrationvintage-high.ice.infomaniak.ch/vibration-vintage.mp3
 #EXTINF:-1 Vibration Zen Relax
-http://vibration.stream2net.eu:8220/;stream/1
+http://vibration.stream2net.eu:8220/stream/1
 #EXTINF:-1 Vintage Radio
 https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3
 #EXTINF:-1 Virgin Radio Switzerland

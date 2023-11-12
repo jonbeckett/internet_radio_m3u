@@ -55,7 +55,7 @@ http://1mix.co.uk/trance/listenh.m3u
 #EXTINF:-1 24 -7 The ’60s
 https://www.24-7nicheradio.com:2199/tunein/s8220.pls
 #EXTINF:-1 24 Horas Rádio
-http://94.23.159.187:9958/;stream.mp3
+http://94.23.159.187:9958/stream.mp3
 #EXTINF:-1 24-7 Disco
 http://107.181.230.178:8190/stream
 #EXTINF:-1 24-7 Just Rock
@@ -75,7 +75,7 @@ https://www.24-7nicheradio.com:2199/tunein/s8130.pls
 #EXTINF:-1 24-7 The '70s
 https://www.24-7nicheradio.com:2199/tunein/s8260.pls
 #EXTINF:-1 24/7 just rock
-https://ssl.shoutcaststreaming.us:8042/;?1649713673273
+https://ssl.shoutcaststreaming.us:8042/?1649713673273
 #EXTINF:-1 242 RADIO
 http://uk7.internet-radio.com:8168/stream
 #EXTINF:-1 247house.fm
@@ -99,7 +99,7 @@ https://samcloud.spacial.com/api/listen?sid=111415&80s-heart&live
 #EXTINF:-1 80s Rhythm
 https://stream.mybroadbandradio.com/80srhythmhq/
 #EXTINF:-1 80s Soundtracks Radio
-http://uk5.internet-radio.com:8256/;
+http://uk5.internet-radio.com:8256/
 #EXTINF:-1 80s Zoom (UK) 128k MP3
 http://26383.live.streamtheworld.com/SAM03AAC226_SC
 #EXTINF:-1 Aah Classical Radio - Bach
@@ -111,9 +111,9 @@ https://aajamusic.out.airtime.pro/aajamusic_a
 #EXTINF:-1 Aaja Music CH 2
 https://aaja2.out.airtime.pro/aaja2_b
 #EXTINF:-1 Abbey104
-http://streaming04.liveboxstream.uk:8051/;
+http://streaming04.liveboxstream.uk:8051/
 #EXTINF:-1 Actual Radio
-https://securestreams.autopo.st:1174/;
+https://securestreams.autopo.st:1174/
 #EXTINF:-1 Adventist Radio London
 http://88.208.244.107:8002/stream
 #EXTINF:-1 Air 107.2
@@ -121,7 +121,7 @@ http://stream.air1072.com/high
 #EXTINF:-1 Alfred
 https://stream2.hippynet.co.uk:8204/stream.m3u
 #EXTINF:-1 Alive Radio 107.3
-http://stream2.hippynet.co.uk:8013/;
+http://stream2.hippynet.co.uk:8013/
 #EXTINF:-1 Ambition Radio
 http://s30.radiolize.com/radio/8060/radio.mp3
 #EXTINF:-1 America's Greatest 70s Hits
@@ -135,9 +135,9 @@ http://s8.viastreaming.net/cgi-bin/listen.pls?7030
 #EXTINF:-1 Angel Radio (HQ)
 http://s2.xrad.io:8522/listen.pls?sid=1
 #EXTINF:-1 Angel Radio 101.1 FM UK
-http://s8.viastreaming.net:7030/;stream.mp3
+http://s8.viastreaming.net:7030/stream.mp3
 #EXTINF:-1 Angel radio Isle of Wight
-http://s8.viastreaming.net:9230/;
+http://s8.viastreaming.net:9230/
 #EXTINF:-1 Antenna Radio
 http://uk5.antennaradio.co.uk:8296/listen.pls
 #EXTINF:-1 Apocalypse Radio
@@ -153,7 +153,7 @@ http://icecast.commedia.org.uk:8000/asianstar.mp3
 #EXTINF:-1 Atlantic 252 Classics
 http://radio.streemlion.com:2290/stream
 #EXTINF:-1 Aycliffe Radio
-https://solid41.streamupsolutions.com/proxy/catidbxp?mp=/;type=mp3
+https://solid41.streamupsolutions.com/proxy/catidbxp?mp=/type=mp3
 #EXTINF:-1 b4bradio club dance
 https://eu10.fastcast4u.com/b4bclubdance/stream?icy=http
 #EXTINF:-1 Bailiwick Radio Classics
@@ -287,7 +287,7 @@ http://burningrockers.com/stream.m3u
 #EXTINF:-1 Button Down Radio
 http://s7.citrus3.com:8220/stream
 #EXTINF:-1 Buzz FM
-http://uk4.internet-radio.com:8019/;
+http://uk4.internet-radio.com:8019/
 #EXTINF:-1 Cam FM
 https://stream.camfm.co.uk/camfm
 #EXTINF:-1 camfm Cambridge University Student Radio
@@ -309,7 +309,7 @@ http://media-ice.musicradio.com/CapitalSouthCoastMP3
 #EXTINF:-1 Capital Liverpool
 http://media-ice.musicradio.com/CapitalLiverpoolMP3.m3u
 #EXTINF:-1 Caroline Flashback 
-http://sc2.radiocaroline.net:10558/;?type=http&nocache=69242
+http://sc2.radiocaroline.net:10558/?type=http&nocache=69242
 #EXTINF:-1 Castledown Radio 104.7 - Tidworth
 http://radio.canstream.co.uk:8008/live.mp3
 #EXTINF:-1 CDNX Radio
@@ -431,7 +431,7 @@ https://stream.deevaradio.net:10443/divaradiodisco
 #EXTINF:-1 Diva Radio Funk
 https://stream.deevaradio.net:10443/divaradiofunk
 #EXTINF:-1 DjRemix Club
-http://curiosity.shoutca.st:8114/;
+http://curiosity.shoutca.st:8114/
 #EXTINF:-1 DnB Liquified
 http://antares.dribbcast.com:5000/stream
 #EXTINF:-1 Do You Radio
@@ -457,21 +457,21 @@ http://ic2255.c471.fast-serv.com/listen
 #EXTINF:-1 East Devon Radio
 http://streaming.broadcastradio.com:10320/exmouthmp3.m3u
 #EXTINF:-1 Easy Rock Paradise
-http://www.easyrockparadise.com:8300/;
+http://www.easyrockparadise.com:8300/
 #EXTINF:-1 EHFM
 https://ehfm.out.airtime.pro/ehfm_a
 #EXTINF:-1 Eirewave UK
 http://eirewave.ice.infomaniak.ch/eirewave-128.mp3
 #EXTINF:-1 EKR - Easy Rock Paradise
-http://ekrrockradio2.scs.ms:8200/;
+http://ekrrockradio2.scs.ms:8200/
 #EXTINF:-1 EKR - European Klassik Rock
-http://ekrrockradio1.scs.ms:8100/;
+http://ekrrockradio1.scs.ms:8100/
 #EXTINF:-1 EKR - Now Zone
-http://ekrrockradio5.scs.ms:8500/;
+http://ekrrockradio5.scs.ms:8500/
 #EXTINF:-1 EKR - Oldies Paradise
-http://ekrrockradio3.scs.ms:8300/;
+http://ekrrockradio3.scs.ms:8300/
 #EXTINF:-1 EKR - Retro Rock
-http://ekrrockradio4.scs.ms:8400/;
+http://ekrrockradio4.scs.ms:8400/
 #EXTINF:-1 Electric Lion Radio London
 https://streaming04.liveboxstream.uk/proxy/electric?mp=/stream
 #EXTINF:-1 Emperor E Radio
@@ -501,7 +501,7 @@ http://stream.expressfm.com/expressfm.mp3.m3u
 #EXTINF:-1 Express FM 93.7 Portsmouth
 http://london-ics01.broadcast.meteoric.net/expressfm.mp3?.mp3
 #EXTINF:-1 Fantasy Radio 97.0 - Devizes
-http://server.fantasyradio.co.uk:8300/;stream/1
+http://server.fantasyradio.co.uk:8300/stream/1
 #EXTINF:-1 Feelings | NTS
 https://stream-mixtape-geo.ntslive.net/mixtape27
 #EXTINF:-1 Felixstowe Radio
@@ -543,11 +543,11 @@ http://stream.laut.fm/funk2disco
 #EXTINF:-1 Funk2Disco
 http://funk2disco.stream.laut.fm/funk2disco?t302=2019-10-08_17-09-47&uuid=242e4734-ae25-4995-bf64-11ae6ab5a169
 #EXTINF:-1 FunkCityRadio
-https://solid41.streamupsolutions.com/proxy/zkmntcea?mp=/;type=mp3
+https://solid41.streamupsolutions.com/proxy/zkmntcea?mp=/type=mp3
 #EXTINF:-1 FunkURadio
 https://furfmcou.radioca.st/stream
 #EXTINF:-1 Future Pressure
-https://uk3.internet-radio.com/proxy/futurepressureradio?mp=/;
+https://uk3.internet-radio.com/proxy/futurepressureradio?mp=/
 #EXTINF:-1 Future Pressure Radio
 http://uk3.internet-radio.com:8108/
 #EXTINF:-1 Future Radio
@@ -577,7 +577,7 @@ http://s42.myradiostream.com:29400/
 #EXTINF:-1 Gold AM 1548 London
 http://media-ice.musicradio.com/GoldMP3
 #EXTINF:-1 Golden Oldies Radio
-http://philae.shoutca.st:8161/;
+http://philae.shoutca.st:8161/
 #EXTINF:-1 Greatest Hits Radio (Bucks Beds and Herts)
 https://edge-bauerall-01-gos2.sharp-stream.com/net2aylesbury.mp3
 #EXTINF:-1 Greatest Hits Radio (Gloucestershire)
@@ -601,7 +601,7 @@ http://eu10.fastcast4u.com/groovelondon
 #EXTINF:-1 Guerrilla Cricket
 https://s3.voscast.com:11173/1
 #EXTINF:-1 Gulshan Radio
-http://s6.voscast.com:11324/;
+http://s6.voscast.com:11324/
 #EXTINF:-1 Happy Hardcore
 https://audio-edge-3mayu.fra.h.radiomast.io/73055724-1141-41e2-a69b-24a6ca96c8e7
 #EXTINF:-1 Happy Radio UK
@@ -675,11 +675,11 @@ http://ec1.yesstreaming.net:1540/stream
 #EXTINF:-1 Hospital Radio Hillingdon
 http://streaming.broadcastradio.com:10040/hrhillingdonmp3
 #EXTINF:-1 Hospital Radio Norwich
-https://hospita1.radioca.st/;
+https://hospita1.radioca.st/
 #EXTINF:-1 Hospital Radio Perth
 http://streaming.broadcastradio.com:9222/perth
 #EXTINF:-1 Hot FM UK
-http://chandra.shoutca.st:8009/;
+http://chandra.shoutca.st:8009/
 #EXTINF:-1 Hot Gold
 https://stream1.hippynet.co.uk/stream/hotgold/dorset
 #EXTINF:-1 Hot Hits UK.com
@@ -687,7 +687,7 @@ https://443-1.autopo.st/54/stream.mp3
 #EXTINF:-1 Hot Radio
 https://stream1.hippynet.co.uk/stream/hotradio/dorset
 #EXTINF:-1 HotHitsUK
-http://5.135.191.40:8000/;?_=0.08181943486061005
+http://5.135.191.40:8000/?_=0.08181943486061005
 #EXTINF:-1 House Fusion Radio (UK)
 https://housefusionradiouk.out.airtime.pro/housefusionradiouk_a
 #EXTINF:-1 HOUSE HEADS UK 
@@ -699,7 +699,7 @@ https://streaming.radio.co/s06bd9d805/listen
 #EXTINF:-1 Hoxton Radio
 http://99.198.118.250:8014/stream
 #EXTINF:-1 HypeDem Reggae Radio
-https://mrwolfman2.radioca.st/;
+https://mrwolfman2.radioca.st/
 #EXTINF:-1 I Like It Oldskool
 https://ilikeitoldskool.radioca.st/stream
 #EXTINF:-1 IANL
@@ -713,11 +713,11 @@ https://carol.epichosts.co.uk:8232/live.mp3
 #EXTINF:-1 Inner Sence Radio
 https://hubble.shoutca.st/tunein/innersenceradio.pls
 #EXTINF:-1 Intamixx
-https://intamixx.no-ip.com:8002/;
+https://intamixx.no-ip.com:8002/
 #EXTINF:-1 Intamixx 80s 90s Radio UK
 https://radio.intamixx.uk:8443/radio2
 #EXTINF:-1 Intamixx Radio
-http://217.13.107.32:8000/;
+http://217.13.107.32:8000/
 #EXTINF:-1 IO Radio
 http://webcast.ioradio.co.uk:8000/ioradio.mp3
 #EXTINF:-1 Islands FM
@@ -729,7 +729,7 @@ https://streaming.radio.co/s264858a04/listen
 #EXTINF:-1 JACKfm
 https://listen-jackmedia.sharp-stream.com/390_jack_fm_320_mp3
 #EXTINF:-1 JAZZ & CHILL
-http://salalondon.ddns.net:8002/;.m3u
+http://salalondon.ddns.net:8002/.m3u
 #EXTINF:-1 Jazz FM DAB+
 https://www.radiofeeds.net/playlists/bauer.pls?station=jazz-mp3
 #EXTINF:-1 Jazz London Radio
@@ -739,9 +739,9 @@ https://playoutonestreaming.com/proxy/inradio?mp=/jinglemad
 #EXTINF:-1 Joy Hits UK
 http://joyhits.online/joyhitshq.mp3
 #EXTINF:-1 Kane FM
-http://stream.kanefm.com:1037/;stream
+http://stream.kanefm.com:1037/stream
 #EXTINF:-1 KAOS Sound - Pink Floyd Radio
-http://87.117.193.5:8030/;
+http://87.117.193.5:8030/
 #EXTINF:-1 Kerrang! Radio
 https://edge-bauerall-01-gos2.sharp-stream.com/kerrang.mp3
 #EXTINF:-1 Key56
@@ -819,7 +819,7 @@ https://radiobossrelay.radioca.st/stream
 #EXTINF:-1 London Music Radio 128k
 https://stream.londonmusicradio.com:8005/128k
 #EXTINF:-1 LondonOneRadio
-http://5.135.191.40:8000/;stream/1#.mp3
+http://5.135.191.40:8000/stream/1#.mp3
 #EXTINF:-1 Louder Than War
 https://s2.radio.co/sab795a38d/listen
 #EXTINF:-1 Love Summer Radio
@@ -873,13 +873,13 @@ http://millsideradio.co.uk:8000/
 #EXTINF:-1 MiSSiON UK
 https://castazura.com:8000/missionuk
 #EXTINF:-1 Mitch FM
-https://s31.myradiostream.com/:64442/;?&mitchfm192kA
+https://s31.myradiostream.com/:64442/?&mitchfm192kA
 #EXTINF:-1 Mix 92.6
 https://stream4.hippynet.co.uk/stream/8012/stream
 #EXTINF:-1 Mix Radio
 http://45.67.156.157:18006/live
 #EXTINF:-1 MKFM
-https://mkfmradioplayer2.radioca.st/;stream.nsv?=&&___cb=838498533391580
+https://mkfmradioplayer2.radioca.st/stream.nsv?=&&___cb=838498533391580
 #EXTINF:-1 Mod Radio UK
 http://nl1.streamingpulse.com:8012/
 #EXTINF:-1 MoE Lofi
@@ -893,7 +893,7 @@ http://46.28.49.164:7722/stream
 #EXTINF:-1 MoveDaHouse
 http://uk7.internet-radio.com:8000/stream
 #EXTINF:-1 Music Palace Radio
-http://s2.myradiostream.com:4508/;
+http://s2.myradiostream.com:4508/
 #EXTINF:-1 My Generation Radio
 https://usa1-vn.mixstream.net/8092/listen.mp3
 #EXTINF:-1 Nation 60s
@@ -929,7 +929,7 @@ http://svr1.msmn.co:8136/
 #EXTINF:-1 NME 2
 https://msmn3.co/proxy/x2mp33?mp=/stream
 #EXTINF:-1 NME 2 - New & Upfront Indie Alt
-http://msmn.co:8118/;stream
+http://msmn.co:8118/stream
 #EXTINF:-1 NonStopPlay Dance Radio
 http://stream.nonstopplay.co.uk/nsp-192k-mp3
 #EXTINF:-1 Noods Radio
@@ -951,7 +951,7 @@ http://stream-relay-geo.ntslive.net/stream2
 #EXTINF:-1 Offshore Music Radio
 http://bitsmitter.com:8000/
 #EXTINF:-1 Offshore Music Station
-http://bitsmitter.com:8000/omr%20;stream.mp3
+http://bitsmitter.com:8000/omr%20stream.mp3
 #EXTINF:-1 Old Skool Radio
 http://uk6.internet-radio.com:8089/stream
 #EXTINF:-1 Old Skool Rave Tapes
@@ -973,13 +973,13 @@ http://radio3.citrus3.com:8584/listen.pls?sid=1
 #EXTINF:-1 Panjab Radio London
 http://s1.voscast.com:7918/stream
 #EXTINF:-1 Party Vibe Radio - Reggae
-http://www.partyviberadio.com:8000/;
+http://www.partyviberadio.com:8000/
 #EXTINF:-1 PASSION FM LIVE UK
 http://s36.myradiostream.com:13028/listen.pls
 #EXTINF:-1 PCPN Online Radio
 http://pro02.caster.fm:2199/tunein/fuennbqw.pls
 #EXTINF:-1 Peoples Radio
-http://s3.myradiostream.com:14498/;
+http://s3.myradiostream.com:14498/
 #EXTINF:-1 Phoenix FM
 http://hyades.shoutca.st:8555/stream
 #EXTINF:-1 Phoenix Radio 1208 
@@ -993,7 +993,7 @@ https://edge-bauerall-01-gos2.sharp-stream.com/net1cornwall.mp3
 #EXTINF:-1 Planet Rock
 http://edge-bauerall-01-gos2.sharp-stream.com/planetrock.mp3?aw_0_1st.skey=1652375517
 #EXTINF:-1 Platinum Gold Radio
-http://s2.voscast.com:10128/;
+http://s2.voscast.com:10128/
 #EXTINF:-1 Playback UK
 https://chilledstreaming.com:8650/mobile.mp3
 #EXTINF:-1 Podcast Radio
@@ -1057,9 +1057,9 @@ https://streams.radio.co/s4d51ef3bf/listen
 #EXTINF:-1 Radio Bloodstream
 https://uk1.internet-radio.com/proxy/bloodstream?mp=/stream
 #EXTINF:-1 Radio Central 24
-https://casper.radioca.st/;
+https://casper.radioca.st/
 #EXTINF:-1 Radio Chelmsford
-http://88.198.70.25:8908/;
+http://88.198.70.25:8908/
 #EXTINF:-1 Radio Christmas
 https://streaming.radiochristmas.co.uk/RadioChristmas
 #EXTINF:-1 Radio Classic Prime
@@ -1075,7 +1075,7 @@ https://playoutonestreaming.com/proxy/essex?mp=/stream
 #EXTINF:-1 Radio Free Matlock
 https://streamer.radio.co/s25c5ab1de/listen?=1653062091
 #EXTINF:-1 Radio Gibraltar Plus
-http://s2.myradiostream.com:32910/;
+http://s2.myradiostream.com:32910/
 #EXTINF:-1 Radio Harrow
 http://listen.radioharrow.org/live.mp3
 #EXTINF:-1 Radio Hospitals Blackburn
@@ -1095,7 +1095,7 @@ http://s46.myradiostream.com:8816/listen.pls?sid=1
 #EXTINF:-1 Radio Northwich
 https://stream.radio.co/s98163f694/listen
 #EXTINF:-1 Radio Pro Music 90s
-http://88.198.70.25:8414/;
+http://88.198.70.25:8414/
 #EXTINF:-1 Radio Reverb
 http://edge-audio-03-gos2.sharp-stream.com/radioreverb.mp3
 #EXTINF:-1 Radio Rock UK
@@ -1113,7 +1113,7 @@ http://comet.shoutca.st:8338/live
 #EXTINF:-1 Radio Sonar
 http://radiosonar.solent.ac.uk:8000/stream
 #EXTINF:-1 Radio Star Roamer
-http://s2.myradiostream.com:4026/;
+http://s2.myradiostream.com:4026/
 #EXTINF:-1 Radio Sunshine
 http://ec1.yesstreaming.net:3190/stream
 #EXTINF:-1 Radio Tower
@@ -1185,9 +1185,9 @@ http://icecast.commedia.org.uk:8000/raidiofailte.mp3?_=1
 #EXTINF:-1 Real roots radio
 https://streams.radio.co/s1df61e0af/listen
 #EXTINF:-1 Real World Sounds
-http://uk5.internet-radio.com:8260/;stream
+http://uk5.internet-radio.com:8260/stream
 #EXTINF:-1 Redroad FM 102.4
-http://s45.myradiostream.com:13784/;
+http://s45.myradiostream.com:13784/
 #EXTINF:-1 Regal Radio
 https://stream.regalradio.net/stream.mp3
 #EXTINF:-1 RegulatedBeats
@@ -1213,11 +1213,11 @@ http://46.28.49.164:7504/stream
 #EXTINF:-1 Rewind Radio
 http://s4.radio.co/s2eaa194f6/listen
 #EXTINF:-1 Ritzy Radio
-http://46.105.122.141:9676/;
+http://46.105.122.141:9676/
 #EXTINF:-1 Riverside Radio
 https://streaming04.liveboxstream.uk/proxy/mtunstil?mp=/stream
 #EXTINF:-1 RockNet Radio
-http://s2.myradiostream.com:31836/;
+http://s2.myradiostream.com:31836/
 #EXTINF:-1 ROKiT Radio : 1940s Radio
 http://streaming06.liveboxstream.uk:8256/stream
 #EXTINF:-1 ROKit Radio : Adventure Stories
@@ -1273,7 +1273,7 @@ https://s3.radio.co/sd4abfe69e/listen
 #EXTINF:-1 Shmu FM
 http://stream.shmu.org.uk:8000/shmufm_high.mp3
 #EXTINF:-1 Shropshire Live
-https://playoutonestreaming.com/proxy/shropshirelive?mp=/stream;
+https://playoutonestreaming.com/proxy/shropshirelive?mp=/stream
 #EXTINF:-1 Shuffle 2
 http://radio.streemlion.com:1460/stream
 #EXTINF:-1 SIBC
@@ -1303,17 +1303,17 @@ https://sohoradiomusic.doughunt.co.uk:8010/128mp3
 #EXTINF:-1 Solar Radio
 https://strm5.radiostreamer.co.uk/proxy/mp3high22?mp=/stream
 #EXTINF:-1 Solid Gold Gem AM
-http://4483.cloudrad.io:8130/;
+http://4483.cloudrad.io:8130/
 #EXTINF:-1 Sonatica Classical Radio
 http://orion.shoutca.st:8742/160
 #EXTINF:-1 Sonic Stream
-http://2319.cloudrad.io/;audio.mp3
+http://2319.cloudrad.io/audio.mp3
 #EXTINF:-1 Soul Groove Radio
 http://stream2.hippynet.co.uk:8023/live
 #EXTINF:-1 SOUL RADIO Only Classic Soul
 https://listen.soulradio.uk/uk
 #EXTINF:-1 Soul Smouth Radio
-http://s7.voscast.com:9458/;
+http://s7.voscast.com:9458/
 #EXTINF:-1 Soulconnexion Radio - High Bitrate
 https://live.soulconnexionradio.com:1590/stream
 #EXTINF:-1 SOULPOWER-RADIO.COM
@@ -1343,7 +1343,7 @@ http://37.59.47.192:8212/
 #EXTINF:-1 Stoke Mandeville Hospital Radio
 https://ukwesta.streaming.broadcast.radio/stoke?1692976686054=
 #EXTINF:-1 Stomp Radio (96k)
-http://38.96.148.253:7020/;stream.mp3
+http://38.96.148.253:7020/stream.mp3
 #EXTINF:-1 Strange Radio - Pumpkin FM
 https://cast2.asurahosting.com/proxy/strangeradio/stream
 #EXTINF:-1 Street Sounds Radio
@@ -1397,11 +1397,11 @@ http://radio.talksport.com/stream?aisGetOriginalStream=true
 #EXTINF:-1 talkSPORT
 https://radio.talksport.com/stream
 #EXTINF:-1 talkSPORT 2
-http://radio.talksport.com/stream2?awparams=platform:ts-web&amsparams=playerid:ts-web;
+http://radio.talksport.com/stream2?awparams=platform:ts-web&amsparams=playerid:ts-web
 #EXTINF:-1 talkSPORT 2
 http://radio.talksport.com/stream2
 #EXTINF:-1 talkSPORT chinese
-http://live.talksport.com/channel1m-zh?awparams=platfrom:part-tunein;lang-zh
+http://live.talksport.com/channel1m-zh?awparams=platfrom:part-tuneinlang-zh
 #EXTINF:-1 talkSPORT spanish
 http://live.talksport.com/channel1m-es
 #EXTINF:-1 Tamworth Community Radio 106.8
@@ -1417,7 +1417,7 @@ https://onlineradiobox.com/json/fr/teenagekicks/play
 #EXTINF:-1 The Bradshaws Radio
 http://tktechnicals.co.uk:8000/bradshaws
 #EXTINF:-1 The British Home Front Radio Service
-https://solid24.streamupsolutions.com/proxy/mmpplqiv?mp=/;type=mp3
+https://solid24.streamupsolutions.com/proxy/mmpplqiv?mp=/type=mp3
 #EXTINF:-1 The Cat
 http://5.63.151.52:8066/stream
 #EXTINF:-1 The English 909 Radio
@@ -1473,7 +1473,7 @@ https://eu10.fastcast4u.com/tonicska
 #EXTINF:-1 Total Dance
 http://pollux.shoutca.st:8827/1
 #EXTINF:-1 Total Soul (UK) 192kb mp3
-https://onair7.xdevel.com/proxy/xautocloud_atvn_1069?mp=/;1/
+https://onair7.xdevel.com/proxy/xautocloud_atvn_1069?mp=/1/
 #EXTINF:-1 TOTALROCK
 https://s3.citrus3.com:8056/stream
 #EXTINF:-1 TotalRock Radio
@@ -1517,7 +1517,7 @@ https://ukbassradio.com/stream
 #EXTINF:-1 UK Bass Radio
 https://www.ukbassradio.com/stream
 #EXTINF:-1 UK Roots FM 2023
-https://securestreams7.autopo.st/?uri=http://ukrootsfm.mywire.org:8000/;
+https://securestreams7.autopo.st/?uri=http://ukrootsfm.mywire.org:8000/
 #EXTINF:-1 UK1940sRadioStation
 http://91.121.134.23:8100/stream
 #EXTINF:-1 Ultimate Radio
@@ -1555,13 +1555,13 @@ http://radio.virginradio.co.uk/stream
 #EXTINF:-1 Vision Radio Online
 http://s44.myradiostream.com:9418/
 #EXTINF:-1 Vixen 101
-https://s33.myradiostream.com:15184/;?type=http
+https://s33.myradiostream.com:15184/?type=http
 #EXTINF:-1 WBLS Radio
-http://s2.myradiostream.com:3604/;
+http://s2.myradiostream.com:3604/
 #EXTINF:-1 We Get Lifted Radio (WGLR) 320k mp3
 http://19293.live.streamtheworld.com/SP_R3667151_SC
 #EXTINF:-1 Whaley Radio
-http://88.198.70.25:8195/;
+http://88.198.70.25:8195/
 #EXTINF:-1 White Cliffs Radio
 https://listen.whitecliffsradio.co.uk/
 #EXTINF:-1 WK-END
@@ -1569,7 +1569,7 @@ http://sirius.shoutca.st:8409/stream?type=http
 #EXTINF:-1 WKDfm
 http://comet.shoutca.st:8467/stream
 #EXTINF:-1 WKDfm Radio
-http://comet.shoutca.st:8467/;
+http://comet.shoutca.st:8467/
 #EXTINF:-1 WNBC London
 http://centauri.shoutca.st:8032/stream
 #EXTINF:-1 Woofer RAdio
@@ -1591,7 +1591,7 @@ https://stream1.hippynet.co.uk/stream/xtrahot/live
 #EXTINF:-1 YO1 Extra
 http://ec1.yesstreaming.net:1490/stream
 #EXTINF:-1 Yo1 Radio
-https://stream1.themediasite.co.uk:8026/;?_=215164
+https://stream1.themediasite.co.uk:8026/?_=215164
 #EXTINF:-1 YorkMix Radio
 http://stream2.hippynet.co.uk:8020/streamb
 #EXTINF:-1 Youthcomm Radio

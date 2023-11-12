@@ -3,7 +3,7 @@
 #EXTINF:-1 Antena M
 http://radioservis.me:8010/antenamlive
 #EXTINF:-1 Aroma radio
-http://5.63.151.52:7025/;
+http://5.63.151.52:7025/
 #EXTINF:-1 Bruškin
 https://player.radiobruskin.me/proxy/radiobruskin/stream
 #EXTINF:-1 Budva Summer Radio
@@ -23,9 +23,9 @@ https://stream.playradio.me:8443/play-me.mp3
 #EXTINF:-1 Radio Andrijevica
 https://mpc2.mediacp.eu/stream/andrijevica/stream
 #EXTINF:-1 Radio Bar
-http://livestream.barinfo.me:9000/;
+http://livestream.barinfo.me:9000/
 #EXTINF:-1 Radio Berane
-https://stream.iradio.pro/proxy/radioberane?mp=/stream;
+https://stream.iradio.pro/proxy/radioberane?mp=/stream
 #EXTINF:-1 Radio Bijelo Polje
 http://136.243.134.202:8122/stream
 #EXTINF:-1 Radio Budva
@@ -33,9 +33,9 @@ https://c8.radioboss.fm:18199/stream
 #EXTINF:-1 Radio Cetinje
 http://78.129.228.187:8007/stream
 #EXTINF:-1 Radio Crne Gore 1
-https://rtcg.ipradio.rs:9008/;
+https://rtcg.ipradio.rs:9008/
 #EXTINF:-1 Radio Crne Gore 2 R98
-https://r98.ipradio.rs:10100/;
+https://r98.ipradio.rs:10100/
 #EXTINF:-1 Radio D Podgorica
 http://tachyon.shoutca.st:8289/xstream
 #EXTINF:-1 Radio D+ Podgorica
@@ -73,9 +73,9 @@ https://r.name.ba:7316/
 #EXTINF:-1 Radio Tivat
 https://radio.dukahosting.com/8008/stream
 #EXTINF:-1 Radio Zeta
-http://freeuk18.listen2myradio.com:33901/;
+http://freeuk18.listen2myradio.com:33901/
 #EXTINF:-1 Rcg Yug
-https://rtcg.ipradio.rs:9103/;
+https://rtcg.ipradio.rs:9103/
 #EXTINF:-1 Reggaeneracija Montenegro
 http://5.189.179.77:8000/stream
 #EXTINF:-1 Skadar

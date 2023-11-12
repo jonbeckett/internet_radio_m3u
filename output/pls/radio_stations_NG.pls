@@ -33,7 +33,7 @@ File16=https://stream13.shoutcastsolutions.com/proxy/phlovefm?mp=/stream.mp3
 Title16=Port Harcourt Love FM
 File17=http://stream.zeno.fm/7f4w4us5wp8uv
 Title17=Radio East
-File18=https://radionghq.radioca.st/;/'
+File18=https://radionghq.radioca.st//'
 Title18=RADIO NIGERIA 
 File19=https://stream.zeno.fm/tvqvamkwe5zuv.m3u
 Title19=RadioTiwa

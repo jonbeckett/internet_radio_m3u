@@ -7,7 +7,7 @@ http://maggie.torontocast.com:8004/hd
 #EXTINF:-1 Anime Para Ti
 https://stream.zeno.fm/qpn8mkt8c4duv
 #EXTINF:-1 asia DREAM radio - Japan Hits
-https://cast1.torontocast.com:2120/;.mp3
+https://cast1.torontocast.com:2120/.mp3
 #EXTINF:-1 Big B Radio - Jpop
 https://antares.dribbcast.com/proxy/jpop?mp=/s
 #EXTINF:-1 BOX : J-POP Radio -  ジェイポップ 無線
@@ -17,7 +17,7 @@ https://play.streamafrica.net/JapanCityPop
 #EXTINF:-1 Dada More
 http://dadamore2.ddo.jp:8000/
 #EXTINF:-1 FM Kahoku 78.7 (FMかほく, JOZZ5AM-FM, 78.7 MHz, Kahoku City, Ishikawa)
-http://radio.kahoku.net:8000/;
+http://radio.kahoku.net:8000/
 #EXTINF:-1 Fred Film Radio(日本語)
 https://s10.webradio-hosting.com/proxy/fredradiojp/stream
 #EXTINF:-1 Free FM Tokyo
@@ -29,21 +29,21 @@ https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u
 #EXTINF:-1 Hitsujikai Radio
 http://streaming.radio.co/se4a8e6a93/listen
 #EXTINF:-1 J-Club Club Bandstand
-https://cast1.torontocast.com:2060/;.mp3
+https://cast1.torontocast.com:2060/.mp3
 #EXTINF:-1 J-Club Powerplay HipHop(Asia DREAM Radio)
-https://kathy.torontocast.com:3350/;?shoutcast
+https://kathy.torontocast.com:3350/?shoutcast
 #EXTINF:-1 J-POP Powerplay
 https://kathy.torontocast.com:3560/
 #EXTINF:-1 J-Pop Powerplay Kawaii(asia dream radio)
-https://kathy.torontocast.com:3060/;?shoutcast
+https://kathy.torontocast.com:3060/?shoutcast
 #EXTINF:-1 J-POP RADIO : ジェイポップ
 https://boxradio-edge-00.streamafrica.net/jpop
 #EXTINF:-1 J-Pop Sakura Natsukashii
-https://cast1.torontocast.com:2170/;
+https://cast1.torontocast.com:2170/
 #EXTINF:-1 J-Pop Sakura 懐かしい asia DREAM radio
-https://cast1.torontocast.com:2170/;.mp3
+https://cast1.torontocast.com:2170/.mp3
 #EXTINF:-1 J-Rock Powerplay(Asia DREAM Radio)
-https://kathy.torontocast.com:3340/;?shoutcast
+https://kathy.torontocast.com:3340/?shoutcast
 #EXTINF:-1 J1 Gold (HTTP)
 http://jenny.torontocast.com:8062/
 #EXTINF:-1 J1 Hits (HTTP)
@@ -67,7 +67,7 @@ http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk5.inte
 #EXTINF:-1 Nightwave Plaza MP3 182
 http://radio.plaza.one/mp3
 #EXTINF:-1 Nonstop Casiopea
-http://hyades.shoutca.st:8551/;
+http://hyades.shoutca.st:8551/
 #EXTINF:-1 OnlyHits Japan
 https://j.onlyhit.us/play
 #EXTINF:-1 Opening Radio

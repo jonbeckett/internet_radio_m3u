@@ -7,9 +7,9 @@ File3=http://icecast.err.ee/raadio2.mp3
 Title3=ERR Raadio 2
 File4=http://icecast.err.ee/raadio2korge.mp3.m3u
 Title4=ERR Raadio 2 - 320kbps
-File5=http://icecast.err.ee/raadio4.mp3?type=.mp3/;stream.mp3
+File5=http://icecast.err.ee/raadio4.mp3?type=.mp3/stream.mp3
 Title5=ERR Raadio 4
-File6=https://shoutcast.finestfm.fi/stream/1/:80/;stream
+File6=https://shoutcast.finestfm.fi/stream/1/:80/stream
 Title6=FinEst Radio
 File7=http://www.happyu.ee/streaming/happyu.m3u
 Title7=Happy U
@@ -43,7 +43,7 @@ File21=https://edge05.cdn.bitflip.ee:8888/R7
 Title21=Raadio 7
 File22=https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_high.mp3
 Title22=Raadio Kuku
-File23=http://icecast.err.ee/raadiotallinn.mp3?type=.mp3/;stream.mp3
+File23=http://icecast.err.ee/raadiotallinn.mp3?type=.mp3/stream.mp3
 Title23=Raadio Tallinn
 File24=http://icecast.pereraadio.ee:8000/RadioEli
 Title24=Radio Eli

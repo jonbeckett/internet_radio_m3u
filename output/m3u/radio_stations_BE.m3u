@@ -7,11 +7,11 @@ https://bluford.torontocast.com/proxy/iimfoptl/stream
 #EXTINF:-1 "name": "'undefined' -> 'AFN 360 Benelux'",
 http://playerservices.streamtheworld.com/m3u/AFNE_BLX.m3u
 #EXTINF:-1 1 MINI 1
-http://centauri.shoutca.st:9021/;
+http://centauri.shoutca.st:9021/
 #EXTINF:-1 1 MINI 2
-http://centauri.shoutca.st:9064/;
+http://centauri.shoutca.st:9064/
 #EXTINF:-1 1 MINI 3
-http://centauri.shoutca.st:9060/;
+http://centauri.shoutca.st:9060/
 #EXTINF:-1 100% Retro
 https://server.musicstars.online/radio/8000/listen
 #EXTINF:-1 100% RETRO
@@ -31,7 +31,7 @@ http://live.radiostudio.be/beonexmas
 #EXTINF:-1 Bel RTL
 http://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3
 #EXTINF:-1 Boo
-http://stream03.level27.be/;stream.mp3
+http://stream03.level27.be/stream.mp3
 #EXTINF:-1 BRF1
 http://streaming.brf.be/brf1-high.mp3
 #EXTINF:-1 BRF1 Radio
@@ -45,7 +45,7 @@ http://streamingv2.shoutcast.com/bruce-classic-rock
 #EXTINF:-1 Bruzz
 https://rrr.sz.xlcdn.com/?account=fmbrussel&file=fmb988.mp3&type=live&service=icecast&protocol=https&port=8000&output=pls
 #EXTINF:-1 c_dance
-http://198.100.145.187:18304/;
+http://198.100.145.187:18304/
 #EXTINF:-1 Charleking Radio
 http://charlekingradio.ice.infomaniak.ch/ckradio-192.mp3
 #EXTINF:-1 Chillout CROOZE
@@ -67,7 +67,7 @@ http://s35.myradiostream.com:14472/
 #EXTINF:-1 depechemode.be
 https://c2.radioboss.fm:8494/stream
 #EXTINF:-1 Emotion
-http://stream.radioemotion.be/;stream.mp3
+http://stream.radioemotion.be/stream.mp3
 #EXTINF:-1 Equinoxe FM 100.1
 http://equinoxefm.ddns.net:8000/stream.ogg
 #EXTINF:-1 familieradio enjoy fm
@@ -117,13 +117,13 @@ http://www.komilfoo.be/live/komilfoo.pls
 #EXTINF:-1 La Première - Bruxelles
 http://radios.rtbf.be/laprem1erebxl-128.mp3
 #EXTINF:-1 Lazer Hot Hits
-http://streams.servicehosting.be:3730/;
+http://streams.servicehosting.be:3730/
 #EXTINF:-1 Majapca Radio
 https://server2.inetcast.nl:2275/stream
 #EXTINF:-1 MelindaFM
 http://stream.decibelhuis.be:8000/1
 #EXTINF:-1 Mélodie FM
-http://188.165.35.60:8008/;
+http://188.165.35.60:8008/
 #EXTINF:-1 Metropole Radio
 http://metropoleradio.ice.infomaniak.ch/metropoleradio-192.mp3
 #EXTINF:-1 Mint Radio
@@ -233,7 +233,7 @@ http://listen.shoutcast.com/radioeurodanceclassic
 #EXTINF:-1 Radio Expres (Antwerpen)
 http://www.clubfmserver.be:8000/expres.mp3
 #EXTINF:-1 Radio FM Gold
-http://fmgold.mvserver.be:3181/;
+http://fmgold.mvserver.be:3181/
 #EXTINF:-1 Radio Folie
 https://listen.radioking.com/radio/378724/stream/429523
 #EXTINF:-1 Radio Internazionale
@@ -245,7 +245,7 @@ http://radiojudaica.ice.infomaniak.ch/radiojudaica-128.mp3?_=1
 #EXTINF:-1 Radio Land Van Waas (Stream)
 http://stream.rlvw.be:8480/stream
 #EXTINF:-1 Radio M FM
-http://149.202.22.75:8248/;
+http://149.202.22.75:8248/
 #EXTINF:-1 Radio Magic Europ
 http://s4.yesstreaming.net:7162/stream
 #EXTINF:-1 Radio Maria
@@ -261,7 +261,7 @@ http://s39.myradiostream.com:14494/listen.mp3
 #EXTINF:-1 Radio Plus Gent
 http://live.radiostudio.be/plus
 #EXTINF:-1 Radio Quartz
-http://manager2.streaming-ingenierie.fr:8026/;stream.mp3
+http://manager2.streaming-ingenierie.fr:8026/stream.mp3
 #EXTINF:-1 radio qui chifel
 https://stream.rqc.be/listen.pls?sid=1
 #EXTINF:-1 Radio Sud
@@ -423,7 +423,7 @@ https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/mp3
 #EXTINF:-1 Willy Radio
 https://icecast-qmusicbe-cdp.triple-it.nl/willy.mp3
 #EXTINF:-1 WRadio
-http://stream.wradio.es:9000/;stream/1
+http://stream.wradio.es:9000/stream/1
 #EXTINF:-1 Xmas Crooze
 https://streaming.shoutcast.com/xmas-crooze-mp3-128
 #EXTINF:-1 YOLO - Life is like a dance

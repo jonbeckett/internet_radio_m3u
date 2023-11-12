@@ -9,7 +9,7 @@ http://ph1.ministeriotv.com:8031/salvacion.mp3
 #EXTINF:-1 Aguilas  Radio RD
 https://radio.voxstream.net:7156/.mp3
 #EXTINF:-1 Águilas Cibaeñas Radio 
-https://radio.voxstream.net:7154/;
+https://radio.voxstream.net:7154/
 #EXTINF:-1 alofoke FM
 https://radio5.domint.net:8222/stream
 #EXTINF:-1 Basto Studio Salsa
@@ -37,7 +37,7 @@ https://radios.xumcast.live/proxy/hijbplay/live
 #EXTINF:-1 I Love Tipico Radio
 http://ilovetipico.com.do/radio.m3u
 #EXTINF:-1 Independencia FM
-http://stream.grupotelemicro.com:9303/;stream.mp3
+http://stream.grupotelemicro.com:9303/stream.mp3
 #EXTINF:-1 La Bakana 105.7 FM
 https://radio4.domint.net:8030/stream
 #EXTINF:-1 La Bakana 105.9 FM
@@ -67,11 +67,11 @@ https://radio4.domint.net:8096/stream
 #EXTINF:-1 Primera 88.1
 http://stream.radiojar.com/5705c71sn2zuv
 #EXTINF:-1 Producciones Virgilio 
-https://radio.voxstream.net:7156/;
+https://radio.voxstream.net:7156/
 #EXTINF:-1 Radio Alma Cristiana
 http://stream.zeno.fm/whc88qnppyduv
 #EXTINF:-1 Radio Bachata
-http://perseus.shoutca.st:8312/;stream/1
+http://perseus.shoutca.st:8312/stream/1
 #EXTINF:-1 Radio Bendicion
 https://samuel.i-radio.co:9000/radiobendicion
 #EXTINF:-1 Radio Cimarrona
@@ -95,9 +95,9 @@ https://streaming.serveraudio.net:2000/stream/radioven1200
 #EXTINF:-1 Ritmo 96.5 FM
 https://stream-49.zeno.fm/y0br5ck4ququv?zs=2R5Njz6XShSzNF_ProbdIA
 #EXTINF:-1 Salsa - Dominicana
-http://radio.domiplay.net:2002/;
+http://radio.domiplay.net:2002/
 #EXTINF:-1 Ser Mejor Radio
-http://ca2.rcast.net:8068/;stream.mp3
+http://ca2.rcast.net:8068/stream.mp3
 #EXTINF:-1 Sonido Suave
 https://radio4.domint.net:8090/stream
 #EXTINF:-1 Super K 100.7 FM

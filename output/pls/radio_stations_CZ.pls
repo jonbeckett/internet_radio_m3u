@@ -235,7 +235,7 @@ File117=http://gw2.mysoft.cz:8000/rokec128
 Title117=Rádio Rokec
 File118=http://icecast8.play.cz/samsonfm128.mp3
 Title118=Rádio Samson
-File119=http://sc.ipip.cz:8224/;stream
+File119=http://sc.ipip.cz:8224/stream
 Title119=Radio Sázava
 File120=https://n08.radiojar.com/bugesa4nn3quv?rj-ttl=5&rj-tok=AAABikFH4NsAib8tua7OjeefLg
 Title120=Radio Slobodna Evropa

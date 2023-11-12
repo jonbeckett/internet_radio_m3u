@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations
 #EXTINF:-1  Radio Navahang
-https://navairan.com/;stream.nsv
+https://navairan.com/stream.nsv
 #EXTINF:-1 ..mohammed_ayyub
 https://qurango.net/radio/mohammed_ayyub
 #EXTINF:-1 .al quran radio 
@@ -11,7 +11,7 @@ http://radio.caltexmusic.com:8042/stream
 #EXTINF:-1 caltexmusic
 http://n13.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABeB5OHJQA07FIiDdZAZNHWw
 #EXTINF:-1 Dengi Islam -Erbilدەنگی ئیسلام-هەولێر
-http://radio1.sotmasr.com:9354/;
+http://radio1.sotmasr.com:9354/
 #EXTINF:-1 Faz
 http://www.radiofaaz.com:8000/radiofaaz
 #EXTINF:-1 faz
@@ -21,7 +21,7 @@ https://radio.iraninternational.app/iintl_c
 #EXTINF:-1 parsa
 http://parsa.icdndhcp.com:18000/stream
 #EXTINF:-1 Radio Eram
-http://37.59.47.192:8200/;stream.mp3
+http://37.59.47.192:8200/stream.mp3
 #EXTINF:-1 Radio Iran International
 https://radio.iraninternational.app/iintl_c
 #EXTINF:-1 Radio Mojahed - رادیو مجاهد

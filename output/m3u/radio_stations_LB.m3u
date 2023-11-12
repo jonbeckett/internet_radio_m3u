@@ -17,7 +17,7 @@ http://beirutnights.com/live.m3u
 #EXTINF:-1 Beirut Nights Radio (AAC)
 http://byblosnights.com:6190/
 #EXTINF:-1 BeirutNights.com
-http://byblosnights.com:6190/;
+http://byblosnights.com:6190/
 #EXTINF:-1 Byblos Radio (AAC)
 http://byblosnights.com:8360/
 #EXTINF:-1 Fame FM Lebanon
@@ -25,9 +25,9 @@ https://l3.itworkscdn.net/itwaudio/9044/stream
 #EXTINF:-1 Hit 90
 http://nrj.de/hits90
 #EXTINF:-1 Ibi Radio
-http://andromeda.shoutca.st:8192/;
+http://andromeda.shoutca.st:8192/
 #EXTINF:-1 lbi Radio
-http://andromeda.shoutca.st:8192/;stream.mp3
+http://andromeda.shoutca.st:8192/stream.mp3
 #EXTINF:-1 M Radio Lebanon
 https://stream.zeno.fm/nuf630msh98uv
 #EXTINF:-1 Naim Halawe
@@ -41,7 +41,7 @@ http://dreamsiteradiocp4.com:8014/stream
 #EXTINF:-1 radio maria arbic
 http://dreamsiteradiocp4.com:8014/stream
 #EXTINF:-1 Sawt Achaab
-http://vps1.osina.cloud:9320/;
+http://vps1.osina.cloud:9320/
 #EXTINF:-1 Sawt El Ghad - FM 96.7
 https://l3.itworkscdn.net/itwaudio/9030/stream/
 #EXTINF:-1 Sawt El Mada
@@ -55,6 +55,6 @@ https://stream.zeno.fm/dwxw3p9vea0uv
 #EXTINF:-1 Virgin Radio Lebanon Stars
 https://stream.zeno.fm/h66yxnapga0uv
 #EXTINF:-1 voice of Grace
-https://securestreams5.reliastream.com:1820/;l
+https://securestreams5.reliastream.com:1820/l
 #EXTINF:-1 Voice of Lebanon (Sawtlebnan) Radio
 https://l3.itworkscdn.net/itwaudio/9054/stream

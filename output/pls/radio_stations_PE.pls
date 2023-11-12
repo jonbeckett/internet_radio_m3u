@@ -27,7 +27,7 @@ File13=https://icecasthd.net/proxy/discoclubradio/stream
 Title13=discoclub radio
 File14=http://185.213.27.145:8000/radio.mp3
 Title14=eclesia alianza
-File15=https://sonic-us.streaming-chile.com:7039/;
+File15=https://sonic-us.streaming-chile.com:7039/
 Title15=Estrella - Barranca
 File16=http://c22.radioboss.fm:8100/stream
 Title16=Filarmonía (OCR-4V, 102.7 MHz FM, Lima) (IRTP)
@@ -57,15 +57,15 @@ File28=https://radio.pjcks.com/7234/stream
 Title28=Levelhits
 File29=https://radio.perustream.com:7000/stream
 Title29=Mambo INN Radio
-File30=https://radio.transmite.pe/8020/stream/;type=mp3
+File30=https://radio.transmite.pe/8020/stream/type=mp3
 Title30=Moderna Radio Papá
 File31=http://19013.live.streamtheworld.com/CRP_OAS.mp3?dist=20004
 Title31=Oasis
 File32=http://n06.radiojar.com/2fse67zuv8hvv?1669054401=&rj-tok=AAABhJtuNOUAIi7Le3h5PA-2VA&rj-ttl=5
 Title32=PBO Radio
-File33=http://78.129.185.84:28123/;
+File33=http://78.129.185.84:28123/
 Title33=Peruana Radio
-File34=https://radios.sonidoshd.com:7026/;stream
+File34=https://radios.sonidoshd.com:7026/stream
 Title34=RADIO AEROESTEREO 94,3 FM
 File35=https://stream-150.zeno.fm/2a2qb8z1a5zuv?zs=KCNxf0MEQ1aTZiARpyhokg
 Title35=radio aire
@@ -73,7 +73,7 @@ File36=http://stream.zeno.fm/aqmct15qmchvv
 Title36=Radio Amo la Música
 File37=http://sp.oyotunstream.com:8064/listen.pls
 Title37=Radio Andina Tarata
-File38=https://radios.sonidoshd.com/8038/;
+File38=https://radios.sonidoshd.com/8038/
 Title38=radio arumarka 107.3 fm puno
 File39=https://stream.zeno.fm/hf2gsfm1mp8uv
 Title39=Radio Baladitas 
@@ -95,7 +95,7 @@ File47=https://sonic.dattassd.com/8258/stream
 Title47=Radio estudio 5
 File48=https://st3.inkaniserver.net:8008/stream
 Title48=Radio Fidelísima - Chachapoyas
-File49=http://s9.voscast.com:8496/;
+File49=http://s9.voscast.com:8496/
 Title49=Radio Fiesta 98
 File50=https://stream-163.zeno.fm/57h4vyd5pf9uv
 Title50=Radio Funky Hits
@@ -107,7 +107,7 @@ File53=https://radiohd.us/8022/stream
 Title53=Radio Inkafuego en vivo 
 File54=https://shoutcast.tmcreativos.com/proxy/radiokar?mp=/stream
 Title54=Radio Karicia
-File55=https://sp.onliveperu.com/8114/stream/;
+File55=https://sp.onliveperu.com/8114/stream/
 Title55=Radio La Cheverísima - Utcubamba 
 File56=http://provisioning.streamtheworld.com/pls/CRP_LI.pls
 Title56=Radio La Inolvidable (OBT-4C, 93.7 MHz FM, Lima)
@@ -115,9 +115,9 @@ File57=https://24943.live.streamtheworld.com/CRP_LI_SC?
 Title57=RADIO LA INOLVIDABLE 93.7 FM (PERU)
 File58=https://serverssl.innovatestream.pe:8080/167.114.118.120:7248/stream
 Title58=Radio La Nueva
-File59=https://sp.onliveperu.com:7038/;
+File59=https://sp.onliveperu.com:7038/
 Title59=Radio La Voz del Nor Oriente - Utcubamba
-File60=http://94.23.159.187:9950/;
+File60=http://94.23.159.187:9950/
 Title60=Radio Los Angeles - Chepen
 File61=https://25093.live.streamtheworld.com/MAG_SC?
 Title61=RADIO MAGICA 88.3 FM (PERU)
@@ -133,7 +133,7 @@ File66=https://servermax.azuracast.com.es/listen/megatronmixfm/MEGATRONMIX20022
 Title66=RADIO MEGATRON MIX
 File67=https://sp.onliveperu.com/8102/stream
 Title67=Radio Milenium - Bagua Grande
-File68=https://eu47-sonic.instainternet.com/8016/;
+File68=https://eu47-sonic.instainternet.com/8016/
 Title68=Radio Miraflores TV
 File69=https://25063.live.streamtheworld.com/CRP_MOD_SC?
 Title69=RADIO MODA 97.3 FM (PERU)
@@ -191,9 +191,9 @@ File95=https://stream.zeno.fm/ktk1db7xywzuv
 Title95=Radio Xtrema - Chachapoyas
 File96=https://stream-162.zeno.fm/04fmqb2xwd0uv?zs=U7C6x5MaR56uI35rU7KJjA
 Title96=Radio90sChimbote
-File97=http://167.114.118.120:7342/;
+File97=http://167.114.118.120:7342/
 Title97=radiocielo
-File98=http://167.114.118.120:7342/;
+File98=http://167.114.118.120:7342/
 Title98=radiocielo 1010 am
 File99=http://18323.live.streamtheworld.com/CRP_MAR.mp3?dist=20004
 Title99=Radiomar
@@ -219,7 +219,7 @@ File109=https://stream.zenolive.com/de2yzp59mg0uv
 Title109=Studio Mix - Progreso, Amazonas en Vivo
 File110=https://rautemusik-de-hz-fal-stream18.radiohost.de/charthits
 Title110=Súper Vip
-File111=http://198.148.103.200:8052/;
+File111=http://198.148.103.200:8052/
 Title111=Superstereo (105.5 FM, Arequipa)
 File112=https://shoutcast.tmcreativos.com/proxy/radiotropical?mp=/stream
 Title112=Tropical-Tarapoto

@@ -9,9 +9,9 @@ http://icecast.err.ee/raadio2.mp3
 #EXTINF:-1 ERR Raadio 2 - 320kbps
 http://icecast.err.ee/raadio2korge.mp3.m3u
 #EXTINF:-1 ERR Raadio 4
-http://icecast.err.ee/raadio4.mp3?type=.mp3/;stream.mp3
+http://icecast.err.ee/raadio4.mp3?type=.mp3/stream.mp3
 #EXTINF:-1 FinEst Radio
-https://shoutcast.finestfm.fi/stream/1/:80/;stream
+https://shoutcast.finestfm.fi/stream/1/:80/stream
 #EXTINF:-1 Happy U
 http://www.happyu.ee/streaming/happyu.m3u
 #EXTINF:-1 Hard FM Estonia
@@ -45,7 +45,7 @@ https://edge05.cdn.bitflip.ee:8888/R7
 #EXTINF:-1 Raadio Kuku
 https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_high.mp3
 #EXTINF:-1 Raadio Tallinn
-http://icecast.err.ee/raadiotallinn.mp3?type=.mp3/;stream.mp3
+http://icecast.err.ee/raadiotallinn.mp3?type=.mp3/stream.mp3
 #EXTINF:-1 Radio Eli
 http://icecast.pereraadio.ee:8000/RadioEli
 #EXTINF:-1 Retro FM Estonia

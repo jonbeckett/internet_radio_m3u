@@ -13,7 +13,7 @@ https://us4.internet-radio.com/proxy/andhowfm?mp=/stream
 #EXTINF:-1 Auckland 80s
 https://streamer.radio.co/s81fc850fd/listen
 #EXTINF:-1 Bay FM 100.7
-https://s38.myradiostream.com:8876/;;?listening-from-radio-garden=1686796930
+https://s38.myradiostream.com:8876/?listening-from-radio-garden=1686796930
 #EXTINF:-1 BeachFM 106.3
 http://s8.myradiostream.com:58408/
 #EXTINF:-1 Beagle Radio 88.1FM
@@ -27,25 +27,25 @@ https://s1.voscast.com:11363/live?_=994563
 #EXTINF:-1 Coast Access Radio MP3
 https://live.accessmedia.nz/Coast.stream/playlist.m3u8
 #EXTINF:-1 Coast FM 96.5 Westport - New Zealand
-http://37.59.37.6:12364/;nocache=1625478274?0.931107896726214
+http://37.59.37.6:12364/nocache=1625478274?0.931107896726214
 #EXTINF:-1 Compass FM
 http://stream.compassfm.org.nz:8000/Compass_FM_104.9
 #EXTINF:-1 Cool Blue Taupo
 http://falcon.shoutca.st:8166/stream
 #EXTINF:-1 Country Radio Invercargill 105.2FM
-http://countryradio2.no-ip.org:8000/;
+http://countryradio2.no-ip.org:8000/
 #EXTINF:-1 Country Radio Invercargilll
-http://countryradio2.no-ip.org:8000/;
+http://countryradio2.no-ip.org:8000/
 #EXTINF:-1 Dave FM
 http://davefmradio.no-ip.org:8000/stream
 #EXTINF:-1 Drop FM
 https://s2.radio.co/s7649837db/listen
 #EXTINF:-1 Easy 80s
-http://procyon.shoutca.st:8032/;
+http://procyon.shoutca.st:8032/
 #EXTINF:-1 Galaxy 107 FM  Kawerau
-http://s39.myradiostream.com:14858/;listen.mp3
+http://s39.myradiostream.com:14858/listen.mp3
 #EXTINF:-1 Gone Country
-https://usa10.fastcast4u.com:6010/;?type=http&nocache=1676417570
+https://usa10.fastcast4u.com:6010/?type=http&nocache=1676417570
 #EXTINF:-1 https://badradio.nz/ - 24/7 PHONK
 https://s2.radio.co/s2b2b68744/listen
 #EXTINF:-1 Hutt Radio 88.3FM
@@ -75,9 +75,9 @@ https://cast3.my-control-panel.com/proxy/jonatha1/escape?1664781783632
 #EXTINF:-1 Mushroom FM
 https://www.mushroomfm.com/media/listen.pls
 #EXTINF:-1 Nelson Community Radio 88.1FM
-https://crnz.net:8000/;?type=http&nocache=6
+https://crnz.net:8000/?type=http&nocache=6
 #EXTINF:-1 Nelson Community Radio Station 88.1 FM - New Zealand
-https://crnz.net:8000/;?type=http&nocache=6
+https://crnz.net:8000/?type=http&nocache=6
 #EXTINF:-1 New Zealand Net Radio
 http://www.nznetradio.net.nz:8000/stream.mp3
 #EXTINF:-1 Niu FM
@@ -101,7 +101,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC65_SC?
 #EXTINF:-1 Radio A - Nelson NZ
 https://listen.radioking.com/radio/106324/stream/145267
 #EXTINF:-1 Radio Bay FM 100.7
-https://s38.myradiostream.com:8876/;;?listening-from-radio-garden=1686969300
+https://s38.myradiostream.com:8876/?listening-from-radio-garden=1686969300
 #EXTINF:-1 Radio Central
 https://stream.radioapp.co.nz/radiocentral
 #EXTINF:-1 Radio Dannevirke
@@ -115,7 +115,7 @@ http://radionz-ice.streamguys.com/national.mp3
 #EXTINF:-1 Radio One 91FM in Dunedin
 http://stream.r1.co.nz:8090/r1-high.mp3
 #EXTINF:-1 Radio Redwood
-http://123.255.61.226:8020/;?type=http&nocache=76646
+http://123.255.61.226:8020/?type=http&nocache=76646
 #EXTINF:-1 Radio Rock FM
 http://www.radiorockfm.co.nz:8000/listenlive
 #EXTINF:-1 Radio Samoa 1593am
@@ -131,7 +131,7 @@ https://radio123-gecko.radioca.st/radioactivefm
 #EXTINF:-1 Radiowave NZ
 https://listen.radioking.com/radio/106324/stream/145267
 #EXTINF:-1 Rag-FM 107.7 Raglan
-https://ssl.shoutcaststreaming.us:8138/;
+https://ssl.shoutcaststreaming.us:8138/
 #EXTINF:-1 RDU
 https://rdu985fm-gecko.radioca.st/stream
 #EXTINF:-1 Rhema
@@ -151,13 +151,13 @@ http://radionz-ice.streamguys.com/international.mp3
 #EXTINF:-1 RNZ Parliament
 http://radionz-ice.streamguys.com/parliament.mp3
 #EXTINF:-1 Rush FM
-http://rushbroadcasting.serverroom.us:5204/;
+http://rushbroadcasting.serverroom.us:5204/
 #EXTINF:-1 sleep radio
 http://65.109.81.84:9851/stream
 #EXTINF:-1 Sleep Radio
 https://cast4.asurahosting.com:2199/tunein/sleeprad.pls
 #EXTINF:-1 Smash 107FM
-https://s19.myradiostream.com/:18892/;?type=http&nocache=1653124007?0.30724640509725076
+https://s19.myradiostream.com/:18892/?type=http&nocache=1653124007?0.30724640509725076
 #EXTINF:-1 Star
 http://rhema-radio.streamguys1.com/rhema-star.mp3
 #EXTINF:-1 The Cheese
@@ -165,11 +165,11 @@ http://thecheese.ddns.net:8000/
 #EXTINF:-1 The Flea FM 88.2
 http://49.50.246.42:8020/listen.pls
 #EXTINF:-1 The Generator
-https://s1.myradiostream.com/:14268/;?type=http&nocache=1608640718?0.7458407789862892
+https://s1.myradiostream.com/:14268/?type=http&nocache=1608640718?0.7458407789862892
 #EXTINF:-1 The Generator FM
 https://s1.myradiostream.com/14268/stream/1/
 #EXTINF:-1 The Hawk FM
-http://s45.myradiostream.com:19816/;
+http://s45.myradiostream.com:19816/
 #EXTINF:-1 The Most Fm
 http://gordon.mostfm.com:8000/high.m3u
 #EXTINF:-1 The Most FM 104.4

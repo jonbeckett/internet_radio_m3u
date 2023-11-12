@@ -43,7 +43,7 @@ https://listen.radioking.com/radio/291025/stream/337294
 #EXTINF:-1 Classic Country
 http://185.33.21.112/ccountry_mobile_mp3
 #EXTINF:-1 cool93
-https://coolism-web3rd.cdn.byteark.com/;stream/1
+https://coolism-web3rd.cdn.byteark.com/stream/1
 #EXTINF:-1 Cosmo hi
 https://wdr-cosmo-live.icecastssl.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3
 #EXTINF:-1 demem
@@ -177,7 +177,7 @@ http://vladfm.ru:8000/ara
 #EXTINF:-1 Дорожное радио ВЛ
 http://mediavil.ru:8000/studio
 #EXTINF:-1 Лемма
-http://212.107.192.130:8000/;steram.nsv
+http://212.107.192.130:8000/steram.nsv
 #EXTINF:-1 Новая волна 
 http://volgograd.sv-veter.ru:8008/nv_online
 #EXTINF:-1 Новое радио ВЛ

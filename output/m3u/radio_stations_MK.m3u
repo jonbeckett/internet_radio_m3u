@@ -1,11 +1,11 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations
 #EXTINF:-1 Bum Kumanovo
-http://iandonov.radioca.st/;stream/1
+http://iandonov.radioca.st/stream/1
 #EXTINF:-1 City Radio | 94.7FM
-http://176.9.117.123:9998/;stream/1
+http://176.9.117.123:9998/stream/1
 #EXTINF:-1 City Radio Macedonia
-http://176.9.117.123:9998/;stream/1
+http://176.9.117.123:9998/stream/1
 #EXTINF:-1 Just Music Radio
 https://radiostream.neotel.mk/justmusicradio
 #EXTINF:-1 Kanal 103
@@ -19,7 +19,7 @@ http://88.85.99.2/live-128.mp3
 #EXTINF:-1 Radio Maria Macedonia
 http://dreamsiteradiocp.com:8118/stream
 #EXTINF:-1 Radio Meff
-https://s32.myradiostream.com:16040/;?type=http&nocache=1688299470?0.591044522318551
+https://s32.myradiostream.com:16040/?type=http&nocache=1688299470?0.591044522318551
 #EXTINF:-1 Samo MK
 https://radiostream.neotel.mk/samomk
 #EXTINF:-1 Time FM Gevgelija

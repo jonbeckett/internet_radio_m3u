@@ -39,7 +39,7 @@ File19=https://bnthosting.online/listen/highlights_radio_/stream
 Title19=93.9 FM RADYO WARAYNON Live Broadcast
 File20=https://playerservices.streamtheworld.com/api/livestream-redirect/EASYROCK_MNL.mp3
 Title20=96.3 Easy Rock Manila
-File21=https://air.doscast.com/proxy/wrockceb/;?1699099703703
+File21=https://air.doscast.com/proxy/wrockceb/?1699099703703
 Title21=96.3 WRocK CEBU
 File22=http://radio.streemlion.com:4390/stream
 Title22=96.3 WRocK Manila
@@ -163,9 +163,9 @@ File81=http://sg-icecast.eradioportal.com:8000/febc_dway
 Title81=CARE 104.3 DWAY-FM Legazpi 
 File82=http://shout.audionow.com:8000/ANCatholicMN
 Title82=Catholic Media Network (CMN Radio)
-File83=http://s7.reliastream.com:8003/;
+File83=http://s7.reliastream.com:8003/
 Title83=CH19 FM
-File84=https://air.doscast.com/proxy/coacheddie/;?1699099900502
+File84=https://air.doscast.com/proxy/coacheddie/?1699099900502
 Title84=Coach Eddie Mahilum Internet Radio
 File85=https://stream.zeno.fm/e6agh0c3a6quv
 Title85=Cool 975 Baguio
@@ -271,7 +271,7 @@ File135=http://192.111.140.11:8240/listen.pls?sid=1
 Title135=Heat Wave Radio Pacific
 File136=https://stream.dxbh.net/hopedxma
 Title136=Hope Radio Davao
-File137=https://cast3.asurahosting.com/proxy/istreamo/stream:8499/;stream.mp3
+File137=https://cast3.asurahosting.com/proxy/istreamo/stream:8499/stream.mp3
 Title137=Hugot Radio
 File138=http://freeuk22.listen2myradio.com:33665/stream
 Title138=iFM Bacolod
@@ -279,11 +279,11 @@ File139=http://icecast.eradioportal.com:8000/ifm_dagupan
 Title139=iFM Dagupan
 File140=http://shout.audionow.com:8000/ANiFMIloilo
 Title140=iFM Iloilo 95.1
-File141=http://freeuk27.listen2myradio.com:13496/;
+File141=http://freeuk27.listen2myradio.com:13496/
 Title141=Infinite Radio Calbayog
 File142=http://s9.reliastream.com:9085/xstream
 Title142=Infinite Radio DXSJ Surigao
-File143=https://air.doscast.com/proxy/spider/;?1699100251863
+File143=https://air.doscast.com/proxy/spider/?1699100251863
 Title143=James Spider Kaka WebFM Internet Radio
 File144=http://172.105.216.148:8040/radio.mp3
 Title144=KAPE NI MANOY RADIO
@@ -369,11 +369,11 @@ File184=http://magikfm.live:8030/stream
 Title184=Magik FM Tuguegarao
 File185=http://magikfm.live:8010/stream
 Title185=Magik FM Vigan
-File186=http://212.84.160.187:21059/;stream.mp3
+File186=http://212.84.160.187:21059/stream.mp3
 Title186=Magnum Radyo Cagayan de Oro
 File187=https://stream.zeno.fm/4xq4cb6x6k0uv
 Title187=Marino News FM Zamboanga
-File188=https://s3.free-shoutcast.com/stream/18342/;?type=http&nocache=40
+File188=https://s3.free-shoutcast.com/stream/18342/?type=http&nocache=40
 Title188=MELLOW 94.7
 File189=http://67.212.238.178:7134/listen.pls?sid=1
 Title189=MemoRieS FM 89.9 Cebu
@@ -405,9 +405,9 @@ File202=https://streaming.live365.com/a31881
 Title202=MYX Radio Live365
 File203=http://server10.reliastream.com/proxy/pbnbroa6?mp=/xstream
 Title203=OK-FM Legazpi
-File204=https://mercury.reliastream.com/proxy/broadte3?mp=/;
+File204=https://mercury.reliastream.com/proxy/broadte3?mp=/
 Title204=OK-FM Sogod Leyte
-File205=https://s3.reliastream.com/proxy/jolocs03?mp=/;
+File205=https://s3.reliastream.com/proxy/jolocs03?mp=/
 Title205=OK-FM Sorsogon
 File206=http://122.3.31.246:88/broadwave.mp3
 Title206=One FM PH
@@ -451,7 +451,7 @@ File225=https://stream.zeno.fm/hwr0geklhbouv
 Title225=Radyo Boholano FM Online
 File226=http://freeuk27.listen2myradio.com:18295/stream.m3u
 Title226=Radyo Guagua 99.9FM
-File227=http://91.121.195.222:7202/;?type=http&nocache=1692710648?0.5310120395313187
+File227=http://91.121.195.222:7202/?type=http&nocache=1692710648?0.5310120395313187
 Title227=Radyo Magkaisa 98.1 FM
 File228=https://ph-icecast-win.eradioportal.com:8443/radyo_natin
 Title228=Radyo Natin
@@ -523,7 +523,7 @@ File261=https://stream-31.zeno.fm/2ss1hgnu6hhvv
 Title261=Win FM Manila
 File262=http://stream.zeno.fm/delhmcm1qhntv
 Title262=Win Radio Cagayan de Oro 
-File263=http://freeuk25.listen2myradio.com:11922/;
+File263=http://freeuk25.listen2myradio.com:11922/
 Title263=Win Radio Cebu (2)
 File264=https://stream-42.zeno.fm/1noxhem5qpkuv
 Title264=Win Radio Davao
@@ -531,7 +531,7 @@ File265=https://stream.zeno.fm/vmifa1pxyjtuv
 Title265=Win Radio Iloilo
 File266=https://stream-31.zeno.fm/2ss1hgnu6hhvv
 Title266=Win Radio Manila
-File267=http://mercury.reliastream.com:8002/;
+File267=http://mercury.reliastream.com:8002/
 Title267=Win Radio Valencia
 File268=http://radio.streemlion.com:4120/stream
 Title268=WRock Manila OPM

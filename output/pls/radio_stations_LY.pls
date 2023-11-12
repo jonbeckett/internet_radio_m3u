@@ -1,7 +1,7 @@
 [playlist]
 File1=http://stream.zeno.fm/1dy2395z3k8uv
 Title1=Hala Sabratha
-File2=http://audio1.meway.tv:8082/;
+File2=http://audio1.meway.tv:8082/
 Title2=LeBDa FM
 File3=http://airtime.salafway.ly/
 Title3=The Salaf Way 100.3 FM Tripoli LY

@@ -23,7 +23,7 @@ https://26383.live.streamtheworld.com/SAM05AAC459_SC
 #EXTINF:-1 Radio Atenas 1500 AM
 https://radioatenas-webctgena.radioca.st/stream
 #EXTINF:-1 Radio Casa Pueblo
-http://s1.voscast.com:9906/;stream1523840050300/1
+http://s1.voscast.com:9906/stream1523840050300/1
 #EXTINF:-1 Radio Costa Calidad Normal
 https://radio.archipielago.uno/radiocosta
 #EXTINF:-1 RadioORO PR
@@ -39,11 +39,11 @@ http://us2.internet-radio.com:8085/
 #EXTINF:-1 WPAB 550 PONCE
 http://68.235.35.243:9059/stream
 #EXTINF:-1 WRTU 89.7 Radio Universidad de Puerto Rico, San Juan
-http://streaming.radiouniversidad.pr:8062/;
+http://streaming.radiouniversidad.pr:8062/
 #EXTINF:-1 WSKN Radio Isla1320 am
 http://server7.servistreaming.com:10070/stream
 #EXTINF:-1 WUNO 630 "Noti Uno" San Juan
-http://68.235.35.243:9027/;stream.mp3
+http://68.235.35.243:9027/stream.mp3
 #EXTINF:-1 WUPR Éxitos 1530
 https://exitos1530.radioca.st/stream
 #EXTINF:-1 Yunque93

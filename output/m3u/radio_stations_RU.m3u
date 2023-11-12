@@ -176,7 +176,7 @@ https://ice.drumfunk.ru:8050/on.mp3
 #EXTINF:-1 Dushevnoye Radio
 http://l29.no-ip.org:8004/
 #EXTINF:-1 DWG Radio ru
-https://server32349.streamplus.de/;stream.mp3
+https://server32349.streamplus.de/stream.mp3
 #EXTINF:-1 Dzhon Radio
 http://i-radio.info:8090/stream
 #EXTINF:-1 East of Russia (Восток России)
@@ -308,7 +308,7 @@ https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps
 #EXTINF:-1 MCM
 https://webradio.mcm.fm:10443/hit128
 #EXTINF:-1 MDS-Station
-http://79.137.234.183:8000/;stream.mp3
+http://79.137.234.183:8000/stream.mp3
 #EXTINF:-1 Mega FM Arkhangelsk
 http://s0.radioheart.ru:8000/RH23554
 #EXTINF:-1 Meganight FM
@@ -352,7 +352,7 @@ http://nashe1.hostingradio.ru/nashe-128.mp3
 #EXTINF:-1 Nashe Radio 106.0 FM Serpukhov
 http://77.73.90.46:1055/nasheradio
 #EXTINF:-1 NaxiHouse HQ
-https://naxidigital-house128ssl.streaming.rs:8002/;stream.nsv
+https://naxidigital-house128ssl.streaming.rs:8002/stream.nsv
 #EXTINF:-1 Nebula
 https://cast4.my-control-panel.com/proxy/nebulara/stream
 #EXTINF:-1 netstalk lonesome town
@@ -384,7 +384,7 @@ https://a10.radioheart.ru:9009/nonstop
 #EXTINF:-1 Orgasma White
 https://a10.radioheart.ru:9001/nonstop
 #EXTINF:-1 Otlichnoye Radio
-http://l29.no-ip.org:8003/;
+http://l29.no-ip.org:8003/
 #EXTINF:-1 OTO Radio
 https://myradio24.org/7859
 #EXTINF:-1 Parice _fm Disko 90
@@ -438,15 +438,15 @@ http://misato.ru-hoster.com:8057/stream
 #EXTINF:-1 Radio 42 FM — Радио «Воруй-Radio 42 FM — Радио «Воруй-Убивай»Убивай»
 http://listen.42fm.ru:8000/stealkill
 #EXTINF:-1 Radio 53 Novgorod
-http://84.242.241.66:8000/;
+http://84.242.241.66:8000/
 #EXTINF:-1 Radio 61
 https://radio61.ru/live
 #EXTINF:-1 Radio 7 Moscow
 https://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
 #EXTINF:-1 Radio 80 Russia
-http://radio80.ru:7777/;?1506192616425
+http://radio80.ru:7777/?1506192616425
 #EXTINF:-1 Radio 80 Volgograd
-http://radio80.ru:7777/;
+http://radio80.ru:7777/
 #EXTINF:-1 Radio AnimKLATU
 https://stream.laut.fm/animklatu
 #EXTINF:-1 Radio Anonymous
@@ -502,7 +502,7 @@ https://c22.radioboss.fm:18144/GamePlay
 #EXTINF:-1 Radio GamePlay
 https://c22.radioboss.fm:18144/GamePlay
 #EXTINF:-1 Radio Gora - Oldies
-http://listen.radiogora.ru:8000/oldies128/;
+http://listen.radiogora.ru:8000/oldies128/
 #EXTINF:-1 Radio Gora Etcetera
 http://listen.radiogora.ru:8000/etc128
 #EXTINF:-1 Radio Guberniya
@@ -648,13 +648,13 @@ https://ice.radiomv.co:8440/russian_new_testament.mp3
 #EXTINF:-1 RadioMV Russian Old Testament
 https://ice.radiomv.co:8440/russian_old_testament.mp3
 #EXTINF:-1 RadioMv.com | Russian Christian Radio
-http://142.44.243.11:2202/;
+http://142.44.243.11:2202/
 #EXTINF:-1 RadioMv.com | Russian Old Testament (128Kbps)
 https://ice.radiomv.co:8440/russian_old_testament.mp3
 #EXTINF:-1 Radonezh
 http://icecast.radonezh.cdnvideo.ru:8000/rad128
 #EXTINF:-1 Real FM Kamyshlov
-http://radio-tochka.com:6445/;
+http://radio-tochka.com:6445/
 #EXTINF:-1 Rebyachya Respublika
 http://live.radio7.su:9000/deti256
 #EXTINF:-1 Record 192
@@ -726,7 +726,7 @@ http://radio.rikt.ru:8000/ys-radio.m3u
 #EXTINF:-1 Segenswelle Russisch
 http://segenswelle.de:8000/russisch
 #EXTINF:-1 Seismic Radio - Russian Service
-http://158.69.227.214:8143/;?1690716440786
+http://158.69.227.214:8143/?1690716440786
 #EXTINF:-1 shocolate 98fm
 https://choco.hostingradio.ru:10010/fm
 #EXTINF:-1 Silver Rain 
@@ -754,11 +754,11 @@ https://nfw.ria.ru/flv/audio.aspx?ID=75651129&type=mp3
 #EXTINF:-1 Sputnik Europe (high)
 https://nfw.ria.ru/flv/audio.aspx?ID=36292119&type=mp3
 #EXTINF:-1 Sputnik News Belarussian
-https://nfw.ria.ru/flv/audio.aspx?ID=68862011&amp;type=mp3
+https://nfw.ria.ru/flv/audio.aspx?ID=68862011&amptype=mp3
 #EXTINF:-1 Sputnik Ossetia
 https://icecast-rian.cdnvideo.ru/voicetsk
 #EXTINF:-1 Staroye Dobroye Radio
-http://91.189.162.134:8008/;
+http://91.189.162.134:8008/
 #EXTINF:-1 Strana FM
 http://icecast.stranafm.cdnvideo.ru/stranafm
 #EXTINF:-1 super-radio
@@ -990,7 +990,7 @@ http://av.bimradio.ru:8066/kurai_mp3
 #EXTINF:-1 Күңел радиосы
 http://live.kunelradio.ru:8000/128.mp3
 #EXTINF:-1 Литературное радио
-http://79.137.234.183:8005/;stream.mp3
+http://79.137.234.183:8005/stream.mp3
 #EXTINF:-1 Любимые хиты
 https://online.lyubimyehity.ru:8005/stream
 #EXTINF:-1 Макс FM
@@ -1060,7 +1060,7 @@ https://radio.azbyka.ru/psaltir-rus-muz
 #EXTINF:-1 Неусыпаемая Псалтирь (цся)
 https://radio.azbyka.ru/psaltir
 #EXTINF:-1 Ника FM Калуга
-https://radio.nikatv.ru/;.mp4
+https://radio.nikatv.ru/.mp4
 #EXTINF:-1 Новая волна
 http://volgograd.sv-veter.ru:8008/nv_online
 #EXTINF:-1 Новая волна Волгоград
@@ -1144,9 +1144,9 @@ http://onair.radio1922.ru:8000/192.mp3
 #EXTINF:-1 Радио 40 Калуга
 http://195.112.119.187:8000/Radio40
 #EXTINF:-1 Радио 53 Великий Новгород
-http://84.242.241.66:8000/;stream.nsv
+http://84.242.241.66:8000/stream.nsv
 #EXTINF:-1 Радио 54
-http://91.202.68.50:8000/;stream.mp3
+http://91.202.68.50:8000/stream.mp3
 #EXTINF:-1 Радио 7 на семи холмах
 http://radio7server.streamr.ru:8040/radio7256.mp3
 #EXTINF:-1 Радио Bob Jazz - Chelyabinsk
@@ -1200,7 +1200,7 @@ http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 #EXTINF:-1 Радио ВОС
 http://radiovos.ru:9000/radiovos-128
 #EXTINF:-1 Радио Восток России
-http://138.201.190.251:8000/;stream.nsv
+http://138.201.190.251:8000/stream.nsv
 #EXTINF:-1 Радио Гусь
 https://stream.radiogoose.ru:8000/play
 #EXTINF:-1 Радио дача
@@ -1282,7 +1282,7 @@ http://listen7.myradio24.com:9000/alexx333.m3u
 #EXTINF:-1 Радио Образ
 http://213.177.106.78:8006/
 #EXTINF:-1 Радио Образ НН
-http://213.177.106.78:8006/;?
+http://213.177.106.78:8006/?
 #EXTINF:-1 Радио Олдхит
 http://radio.oldxit.ru:8030/radio
 #EXTINF:-1 Радио ОЛДХИТ💃🕺128 MP3

@@ -11,7 +11,7 @@ http://stream2.cnmns.net/life1051-mp3
 #EXTINF:-1 1116 SEN Melbourne
 http://13.54.221.214:8000/sen.mp3
 #EXTINF:-1 2AAA FM - 107.1 FM
-http://stream.mjm-webhosting.com.au:8040/;
+http://stream.mjm-webhosting.com.au:8040/
 #EXTINF:-1 2BMS Fine Music Sydney
 https://fmfm.org.au:8001/finemusicdigital
 #EXTINF:-1 2BOB Radio 104.7 FM
@@ -105,7 +105,7 @@ https://23203.live.streamtheworld.com/6IX.mp3
 #EXTINF:-1 6PR - Perth - 882 AM (MP3)
 http://playerservices.streamtheworld.com/api/livestream-redirect/6PR.mp3
 #EXTINF:-1 774 ABC Melbourne
-http://live-radio01.mediahubaustralia.com/3LRW/mp3/;
+http://live-radio01.mediahubaustralia.com/3LRW/mp3/
 #EXTINF:-1 7HO FM Hobart
 http://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HO.mp3
 #EXTINF:-1 7RPH "Print Radio Tasmania"
@@ -119,73 +119,73 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_96FM.mp3
 #EXTINF:-1 96three
 http://streaming.powerserve.com.au:8000/rhemafm
 #EXTINF:-1 ABC A-League Live (MP3)
-http://live-radio02.mediahubaustralia.com/IT2W/mp3/;
+http://live-radio02.mediahubaustralia.com/IT2W/mp3/
 #EXTINF:-1 ABC Classic 2 Stream (MP3)
 http://live-radio01.mediahubaustralia.com/FM2W/mp3/
 #EXTINF:-1 ABC Classic FM (MP3)
-http://live-radio01.mediahubaustralia.com/2FMW/mp3/;*.mp3
+http://live-radio01.mediahubaustralia.com/2FMW/mp3/*.mp3
 #EXTINF:-1 ABC Country
-http://live-radio01.mediahubaustralia.com/CTRW/mp3/;
+http://live-radio01.mediahubaustralia.com/CTRW/mp3/
 #EXTINF:-1 ABC Country (MP3)
-http://live-radio01.mediahubaustralia.com/CTRW/mp3/;*.mp3
+http://live-radio01.mediahubaustralia.com/CTRW/mp3/*.mp3
 #EXTINF:-1 ABC Double J (MP3)
 http://live-radio01.mediahubaustralia.com/DJDW/mp3/
 #EXTINF:-1 ABC Extra (MP3)
 http://live-radio01.mediahubaustralia.com/XTDW/mp3/
 #EXTINF:-1 ABC Grandstand (MP3)
-http://live-radio02.mediahubaustralia.com/GSDW/mp3/;
+http://live-radio02.mediahubaustralia.com/GSDW/mp3/
 #EXTINF:-1 ABC Jazz (MP3)
 http://live-radio01.mediahubaustralia.com/JAZW/mp3/
 #EXTINF:-1 ABC Kids Listen
 http://www.abc.net.au/res/streaming/audio/mp3/extra.pls
 #EXTINF:-1 ABC Local Radio 100.7  Gippsland, VIC (MP3)
-http://live-radio02.mediahubaustralia.com/3SALE/mp3/;
+http://live-radio02.mediahubaustralia.com/3SALE/mp3/
 #EXTINF:-1 ABC Local Radio 105.7 Darwin, NT (MP3)
 http://live-radio01.mediahubaustralia.com/8LRW/mp3/
 #EXTINF:-1 ABC Local Radio 1233 Newcastle, NSW (MP3)
 http://live-radio01.mediahubaustralia.com/2NEWW/mp3/
 #EXTINF:-1 ABC Local Radio 540 Western Queensland, Longreach, QLD  (MP3)
-http://live-radio02.mediahubaustralia.com/4LONW/mp3/;
+http://live-radio02.mediahubaustralia.com/4LONW/mp3/
 #EXTINF:-1 ABC Local Radio 612 Brisbane (MP3)
 http://live-radio01.mediahubaustralia.com/4LRW/mp3/
 #EXTINF:-1 ABC Local Radio 639 "North and West", Port Pirie, SA (MP3)
-http://live-radio02.mediahubaustralia.com/5PIRW/mp3/;
+http://live-radio02.mediahubaustralia.com/5PIRW/mp3/
 #EXTINF:-1 ABC Local Radio 648 Goldfields, Kalgoorlie, WA (MP3)
-http://live-radio02.mediahubaustralia.com/6KLGW/mp3/;
+http://live-radio02.mediahubaustralia.com/6KLGW/mp3/
 #EXTINF:-1 ABC Local Radio 657 Western Plains, Dubbo, NSW (MP3)
-http://live-radio02.mediahubaustralia.com/2DUBW/mp3/;
+http://live-radio02.mediahubaustralia.com/2DUBW/mp3/
 #EXTINF:-1 ABC Local Radio 666 Canberra, ACT (MP3)
 http://live-radio01.mediahubaustralia.com/1LRW/mp3/
 #EXTINF:-1 ABC Local Radio 675 Kimberley, WA (MP3)
-http://live-radio02.mediahubaustralia.com/6BRMW/mp3/;
+http://live-radio02.mediahubaustralia.com/6BRMW/mp3/
 #EXTINF:-1 ABC Local Radio 684 South West WA, Busselton (MP3)
-http://live-radio02.mediahubaustralia.com/6BUNW/mp3/;
+http://live-radio02.mediahubaustralia.com/6BUNW/mp3/
 #EXTINF:-1 ABC Local Radio 702 North West WA (MP3)
-http://live-radio02.mediahubaustralia.com/6KARW/mp3/;
+http://live-radio02.mediahubaustralia.com/6KARW/mp3/
 #EXTINF:-1 ABC Local Radio 702 Sydney (MP3)
 http://live-radio01.mediahubaustralia.com/2LRW/mp3/
 #EXTINF:-1 ABC Local Radio 720 Perth, WA (MP3)
 http://live-radio01.mediahubaustralia.com/6LRW/mp3/
 #EXTINF:-1 ABC Local Radio 747 Southern Queensland, Toowoomba (MP3)
-http://live-radio02.mediahubaustralia.com/4TOOW/mp3/;
+http://live-radio02.mediahubaustralia.com/4TOOW/mp3/
 #EXTINF:-1 ABC Local Radio 774 Melbourne (MP3)
 http://live-radio01.mediahubaustralia.com/3LRW/mp3/
 #EXTINF:-1 ABC Local Radio 783 Alice Springs, NT (MP3)
-http://live-radio02.mediahubaustralia.com/8ALIW/mp3/;
+http://live-radio02.mediahubaustralia.com/8ALIW/mp3/
 #EXTINF:-1 ABC Local Radio 801 Far North Queensland (MP3)
-http://live-radio02.mediahubaustralia.com/4CRNW/mp3/;
+http://live-radio02.mediahubaustralia.com/4CRNW/mp3/
 #EXTINF:-1 ABC Local Radio 891 Adelaide (MP3)
 http://live-radio01.mediahubaustralia.com/5LRW/mp3/
 #EXTINF:-1 ABC Local Radio 91.7 Gold Coast, QLD (MP3)
 http://www.abc.net.au/res/streaming/audio/mp3/local_goldcoast.pls
 #EXTINF:-1 ABC Local Radio 91.7 Northern Tasmania - Launceston, TAS (MP3)
-http://live-radio02.mediahubaustralia.com/7LAUW/mp3/;
+http://live-radio02.mediahubaustralia.com/7LAUW/mp3/
 #EXTINF:-1 ABC Local Radio 936 Hobart  MP3
 http://live-radio01.mediahubaustralia.com/7LRW/mp3/
 #EXTINF:-1 ABC Local Radio 97.3 Illawarra, NSW (MP3)
 http://live-radio03.mediahubaustralia.com/2WOLW/mp3/
 #EXTINF:-1 ABC Local Radio 97.7 Goulburn Murray, VIC (MP3)
-http://live-radio02.mediahubaustralia.com/3WOD/mp3/;
+http://live-radio02.mediahubaustralia.com/3WOD/mp3/
 #EXTINF:-1 ABC News Radio MP3
 http://www.abc.net.au/res/streaming/audio/mp3/news_radio.pls
 #EXTINF:-1 ABC NewsRadio MP3
@@ -205,11 +205,11 @@ http://www.abc.net.au/res/streaming/audio-live/shout-mp3/local_riverina.pls
 #EXTINF:-1 ABC RN
 https://live-radio01.mediahubaustralia.com/2RNW/mp3/
 #EXTINF:-1 ABC RN VIC
-http://live-radio01.mediahubaustralia.com/3RNW/mp3/;
+http://live-radio01.mediahubaustralia.com/3RNW/mp3/
 #EXTINF:-1 ABC Sport
-http://live-radio01.mediahubaustralia.com/GSDW/mp3/;
+http://live-radio01.mediahubaustralia.com/GSDW/mp3/
 #EXTINF:-1 ABC Triple J (MP3)
-http://live-radio01.mediahubaustralia.com/2TJW/mp3/;stream.nsv
+http://live-radio01.mediahubaustralia.com/2TJW/mp3/stream.nsv
 #EXTINF:-1 ABC Triple J Unearthed  (MP3)
 http://live-radio01.mediahubaustralia.com/UNEW/mp3/
 #EXTINF:-1 Andrew Haug Metal  Radio
@@ -285,7 +285,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/DAR_HOT100.mp3
 #EXTINF:-1 Hot 100 - Darwin - 100.1 FM (MP3)
 http://playerservices.streamtheworld.com/api/livestream-redirect/DAR_HOT100.mp3
 #EXTINF:-1 Huon and Kingston FM
-http://59.167.200.215:88/broadwave.mp3?src=1&amp;rate=1&amp
+http://59.167.200.215:88/broadwave.mp3?src=1&amprate=1&amp
 #EXTINF:-1 Islam2Day Channel 1
 http://www.islam2day.tv/radio-station/ch1.m3u
 #EXTINF:-1 Islam2Day Channel 2
@@ -335,11 +335,11 @@ http://uk5.internet-radio.com:8055/stream
 #EXTINF:-1 Nomad Radio
 https://nomadradiolive.out.airtime.pro/nomadradiolive_a
 #EXTINF:-1 Oak FM
-http://clanhost.com.au:9330/;.mp3
+http://clanhost.com.au:9330/.mp3
 #EXTINF:-1 Orange FM 107.5 - 107.5 FM (MP3)
 http://radio12.shoutcast.net.au:8028/stream
 #EXTINF:-1 Outback Radio 2WEB
-http://stream.outbackradio.com.au:7230/;
+http://stream.outbackradio.com.au:7230/
 #EXTINF:-1 Plastic Age Radio
 http://s6.nexuscast.com/tunein/plasticage.pls
 #EXTINF:-1 plastic radio
@@ -353,7 +353,7 @@ http://streaming.qbn967.com.au:8000/stream/
 #EXTINF:-1 QBN FM - Queanbeyan - 96.7 FM
 http://streaming.qbn967.com.au:8000/stream/
 #EXTINF:-1 Radio 1RPH - Canberra - 1125 AM (MP3)
-http://198.74.51.37:9998/;
+http://198.74.51.37:9998/
 #EXTINF:-1 Radio 2RDJ
 http://104.128.238.80:8000/
 #EXTINF:-1 Radio 2RDJ FM 88.1 - Burwood - 88.1 FM (MP3)
@@ -377,7 +377,7 @@ http://5rti.igateway.com.au:8000/stream
 #EXTINF:-1 Radio Larrakia
 http://stream.radiolarrakia.org:8000/radiolarrakia
 #EXTINF:-1 Radio Maria Australia
-http://onair18.xdevel.com:7960/;
+http://onair18.xdevel.com:7960/
 #EXTINF:-1 Radio Melodia Adelaide
 http://s18.myradiostream.com:4476/
 #EXTINF:-1 RAMfm - Goulburn - 103.3 FM (MP3)
@@ -455,7 +455,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_HITS_S01.
 #EXTINF:-1 Totally Radio - Pop (MP3)
 http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_POP_S01.mp3
 #EXTINF:-1 Triple A FM - Wagga Wagga - 107.1 FM (MP3)
-http://stream.mjm-webhosting.com.au:8040/;
+http://stream.mjm-webhosting.com.au:8040/
 #EXTINF:-1 Triple H FM
 https://c17.radioboss.fm:18193/stream
 #EXTINF:-1 Triple J (QLD)
@@ -485,7 +485,7 @@ http://stream2.cnmns.net/lifefm1019-mp3
 #EXTINF:-1 Wagga's Life FM - Wagga Wagga - 101.9 FM (MP3)
 http://stream2.cnmns.net/lifefm1019-mp3
 #EXTINF:-1 Wow FM 100.7 - Penrith - 100.7 FM (MP3)
-http://streamer3.rightclickitservices.com:9760/;stream.mp3;
+http://streamer3.rightclickitservices.com:9760/stream.mp3
 #EXTINF:-1 Yass FM - 100.3 FM
 http://s4.radio.co/s6c9260fa8/listen
 #EXTINF:-1 Yass FM - Yass - 100.3 FM (MP3)

@@ -17,7 +17,7 @@ https://stream.hitfm.md:8443/HitFM_mp3
 #EXTINF:-1 imago.fm
 http://109.233.192.78:8000/_a
 #EXTINF:-1 LOVE PRO Dj Radio Chisinau
-http://live.prodjradio.net:8000/;
+http://live.prodjradio.net:8000/
 #EXTINF:-1 love radio
 http://37.233.41.76:8000/lovefm
 #EXTINF:-1 Love Radio Moldova
@@ -35,7 +35,7 @@ http://live.maestrofm.md:8000/r1
 #EXTINF:-1 POLI DISC - Новое радио
 http://77.89.206.126:7030/live
 #EXTINF:-1 PRODj Radio
-http://live.prodjradio.net:8000/;?type=http&nocache=4585
+http://live.prodjradio.net:8000/?type=http&nocache=4585
 #EXTINF:-1 Radio Albena Taraclia
 http://109.185.191.129:49400/
 #EXTINF:-1 Radio DAR
@@ -51,7 +51,7 @@ http://live.noroc.tv:8000/radionoroc.mp3
 #EXTINF:-1 Radio One Moldova
 http://live.maestrofm.md:8000/r1
 #EXTINF:-1 Radio Orhei FM
-http://live.prodjradio.net:8030/;
+http://live.prodjradio.net:8030/
 #EXTINF:-1 RADIO PLAI
 http://stream.radioplai.md:8000/live
 #EXTINF:-1 Radio Relax Moldova

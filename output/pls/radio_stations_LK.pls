@@ -27,7 +27,7 @@ File13=https://cp12.serverse.com/proxy/itnfm?mp=/stream
 Title13=Lakhanda
 File14=http://cp11.serverse.com:7643/stream
 Title14=Lakviru Radio
-File15=http://media2.lankasri.fm/;stream.mp3
+File15=http://media2.lankasri.fm/stream.mp3
 Title15=Lankasri fm
 File16=http://stream.zeno.fm/28b20q2fps8uv
 Title16=Mark FM
@@ -55,7 +55,7 @@ File27=https://stream-32.zeno.fm/xekhrn4zetzuv?zs=KXT1gTNYSemcxyslV6-vdA
 Title27=SLBC Tamil National Service
 File28=http://207.148.74.192:7860/stream2.mp3
 Title28=Sri FM
-File29=http://s2.voscast.com:12084/;stream1619441439791/1
+File29=http://s2.voscast.com:12084/stream1619441439791/1
 Title29=Tube Tamil FM Radio டியூப் தமிழ் எஃப்.எம் பண்பலை ரேடியோ
 File30=http://dc1.serverse.com:7178/stream/1/
 Title30=V FM

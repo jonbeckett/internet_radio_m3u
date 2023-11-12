@@ -77,7 +77,7 @@ https://stream.zeno.fm/r1tyr810fkhvv
 #EXTINF:-1 FM89.8烟台汽车音乐广播
 http://lhttp.qingting.fm/live/5022382/64k.mp3
 #EXTINF:-1 Fred Film Radio - 普通话
-https://s10.webradio-hosting.com/proxy/fredradiocn/stream/;
+https://s10.webradio-hosting.com/proxy/fredradiocn/stream/
 #EXTINF:-1 Fred Film Radio(中文)
 https://s10.webradio-hosting.com/proxy/fredradiocn/stream
 #EXTINF:-1 GLRADIO
@@ -125,7 +125,7 @@ http://lhttp.qingting.fm/live/5022434/64k.mp3
 #EXTINF:-1 Radio Collection
 http://www.radioking.com/play/radio-collection/296545
 #EXTINF:-1 Radio Maria Chinese
-https://onair7.xdevel.com/proxy/xautocloud_nwct_1310?mp=/;stream/
+https://onair7.xdevel.com/proxy/xautocloud_nwct_1310?mp=/stream/
 #EXTINF:-1 Raggakings雷鬼音乐频道
 https://raggakings.radio:8443/stream.ogg
 #EXTINF:-1 RTHK Putonghua Channel
@@ -1601,7 +1601,7 @@ https://lhttp.qtfm.cn/live/5022646/64k.mp3
 #EXTINF:-1 红调频·九江综合广播
 https://lhttp.qingting.fm/live/5022729/64k.mp3
 #EXTINF:-1 纽约华语广播国语台
-http://mobilewkdm.serverroom.us:6912/;14481715552093544stream.nsv
+http://mobilewkdm.serverroom.us:6912/14481715552093544stream.nsv
 #EXTINF:-1 经典958（内乡广播电视台）
 https://lhttp.qtfm.cn/live/20500053/64k.mp3
 #EXTINF:-1 绥中综合广播

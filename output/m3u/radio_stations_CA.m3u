@@ -57,7 +57,7 @@ https://vistaradio.streamb.live/SB00084
 #EXTINF:-1 103.9 MAX FM - Moncton's Greatest Hits
 http://mbsradio-ais.leanstream.co/CFQMFM-MP3?args=mobile_01&aw_0_req.gdpr=false&gdpr=false
 #EXTINF:-1 24.7 The Mix - Sudbury, ON
-http://46.105.126.68:7304/;stream.mp3
+http://46.105.126.68:7304/stream.mp3
 #EXTINF:-1 630 CHED
 https://corus.leanstream.co/CHEDAM-MP3
 #EXTINF:-1 70 80 90 ITALIA D'AUTORE
@@ -125,7 +125,7 @@ http://streams.calmradio.com:6828/stream
 #EXTINF:-1 Calm Radio - Baroque
 http://streams.calmradio.com:3328/stream
 #EXTINF:-1 Calm Radio - Brahms - Sampler
-http://streams.calmradio.com/api/287/128/stream/;
+http://streams.calmradio.com/api/287/128/stream/
 #EXTINF:-1 Calm Radio - Cello
 http://streams.calmradio.com:4628/stream
 #EXTINF:-1 Calm Radio - Chamber Music
@@ -137,7 +137,7 @@ http://streams.calmradio.com:10228/stream
 #EXTINF:-1 Calm Radio - Early Baroque
 http://streams.calmradio.com:14328/stream/1/
 #EXTINF:-1 Calm Radio - Flute
-http://streams.calmradio.com:4828/;
+http://streams.calmradio.com:4828/
 #EXTINF:-1 Calm Radio - Gregorian
 http://streams.calmradio.com/api/103/128/stream
 #EXTINF:-1 Calm Radio - Johann Strauss II
@@ -167,11 +167,11 @@ http://streams.calmradio.com:8928/stream
 #EXTINF:-1 Calm Radio - Wagner
 http://streams.calmradio.com:11428/stream
 #EXTINF:-1 Calm Radio -J-pop
-http://streams.calmradio.com:21928/stream/;.m3u
+http://streams.calmradio.com:21928/stream/.m3u
 #EXTINF:-1 Calm Radio-Opera
 http://streams.calmradio.com/api/59/128/stream
 #EXTINF:-1 Calmradio Rossini
-https://proxy.calmradio.com:14128/;
+https://proxy.calmradio.com:14128/
 #EXTINF:-1 CALMRADIO.COM - Zen
 http://streams.calmradio.com:14028/stream/1/
 #EXTINF:-1 CamoesRadio.com - Toronto, ON
@@ -289,7 +289,7 @@ http://www.cfbu.ca/listen.m3u
 #EXTINF:-1 CFBW "BWR 91.3" Hanover, ON
 http://s41.myradiostream.com:29922/listen.mp3
 #EXTINF:-1 CFBX 92.5 "The X" Thompson Rivers University - Kamloops, BC
-http://198.162.21.84:8002/;
+http://198.162.21.84:8002/
 #EXTINF:-1 CFCR-FM 90.5 Saskatoon, SK
 http://68.183.199.246:8000/m4a
 #EXTINF:-1 CFCY 95.1 Charlottetown, PE
@@ -381,7 +381,7 @@ https://centova.radioservers.biz/proxy/canadai1/stream
 #EXTINF:-1 CFQR 600 Montreal, QC
 https://centova.radioservers.biz/proxy/canadai1/stream
 #EXTINF:-1 CFRC 101.9 Queen's University Kingston, ON
-http://audio.cfrc.ca:8000/;.mp3
+http://audio.cfrc.ca:8000/.mp3
 #EXTINF:-1 CFRE
 http://s2.yesstreaming.net:7069/stream
 #EXTINF:-1 CFRH 88.1 & 106.7 Penetanguishene, ON
@@ -395,13 +395,13 @@ https://stream2.statsradio.com:8154/stream
 #EXTINF:-1 CFRZ-FM 98.3 Walpole Island First Nation, ON   
 https://streams.radiomast.io/97c9ddeb-e3f7-4da7-a4a6-132bd0f7c683
 #EXTINF:-1 CFTA 107.9 Tantramar FM  Amherst, NS
-http://176.31.118.39:14808/;.mp3
+http://176.31.118.39:14808/.mp3
 #EXTINF:-1 CFUR-FM 88.7 - University of Northern British Columbia, Prince George BC
 http://listen.cfur.ca/
 #EXTINF:-1 CFUZ-FM 88.7 "Peach City Radio" Penticton, BC
 http://167.114.11.80:5073/peachcityradio
 #EXTINF:-1 CFWN "Northumberland 89.7" Cobourg, ON
-http://northumberland.serverroom.net:8850/;
+http://northumberland.serverroom.net:8850/
 #EXTINF:-1 CFYX-FM 93.3 Rimouski, QC
 http://stream.statsradio.com:8048/stream
 #EXTINF:-1 CHAA-FM 103.3 Longueuil, QC
@@ -411,7 +411,7 @@ https://coyote-new-country.streamb.live/SB00141
 #EXTINF:-1 CHAH "My Radio 580" Edmonton, AB
 https://ais-sa1.streamon.fm/7681_64k.mp3
 #EXTINF:-1 CHAW-FM 103.1 "Country 103" Little Current, ON 
-http://rosetta.shoutca.st:8216/stream;audio.mp3
+http://rosetta.shoutca.st:8216/streamaudio.mp3
 #EXTINF:-1 CHAY 93.1 "Fresh Radio" Barrie, ON
 http://live.leanstream.co/CHAYFM-MP3
 #EXTINF:-1 CHBB 95.9 & 98.1 "Voice of Bonnie Bay" - Norris Point, NL
@@ -537,11 +537,11 @@ https://chyk104.radioca.st/stream
 #EXTINF:-1 CHYL 101.7 FM
 http://184.69.114.194:8000/stream.mp3
 #EXTINF:-1 CHYZ 94.3 Universite Laval - Quebec City, QC
-http://ecoutez.chyz.ca:8000/;
+http://ecoutez.chyz.ca:8000/
 #EXTINF:-1 CIAT-FM 98.1 "Cat Country 98" Assiniboia, SK 
 https://cat-country-98.streamb.live/SB00148
 #EXTINF:-1 CIAU-FM 103.1 Radisson, QC
-https://s47.myradiostream.com:15778/;
+https://s47.myradiostream.com:15778/
 #EXTINF:-1 CIAX-FM 98.3  Windsor, QC 
 https://audio-edge-vqwx4.yyz.g.radiomast.io/84e54914-30b5-4bf8-aafe-d90ad3d50a3d
 #EXTINF:-1 CIBL Montreal
@@ -551,17 +551,17 @@ http://stream02.ustream.ca/cibl128.mp3
 #EXTINF:-1 CIBM-FM 107.1 "FM107" Riviere-du-Loup, QC (128 kbps MP3)
 https://stream.statsradio.com:8050/stream
 #EXTINF:-1 CIBM-FM 107.1 "FM107" Riviere-du-Loup, QC (96 kbps MP3)
-http://podcast.servlinks.com:8407/;stream/1
+http://podcast.servlinks.com:8407/stream/1
 #EXTINF:-1 CIBU-FM "Cool 94.5" Wingham, ON (MP3 Stream)
 http://live.leanstream.co/CIBUFM-MP3
 #EXTINF:-1 CICK 93.9 Smithers, BC
-http://usa13.fastcast4u.com:5148/;
+http://usa13.fastcast4u.com:5148/
 #EXTINF:-1 CICW-FM 101.1 "The Grand 101" Centre Wellington, ON
 https://stream2.statsradio.com:8130/stream
 #EXTINF:-1 CIDI-FM 99.1 Knowlton, QC
-http://s2.radioservers.biz:9998/;stream
+http://s2.radioservers.biz:9998/stream
 #EXTINF:-1 CIEL 103.7 Riviere du Loup, QC
-http://podcast.servlinks.com:8409/;stream/1
+http://podcast.servlinks.com:8409/stream/1
 #EXTINF:-1 CIEU 94.9 Carlton-sur-Mer, QC
 http://stream.statsradio.com:8074/stream
 #EXTINF:-1 CIFA 104.1 "Radio Claire"  Comeauville, NS
@@ -639,7 +639,7 @@ https://streaming.live365.com/a98848
 #EXTINF:-1 CJBE 90.5 "Radio Anticosti" Port-Menier, QC
 https://stream2.statsradio.com:8126/stream
 #EXTINF:-1 CJBI 93.9 Radio Bell Island, NL
-http://ca5.rcast.net:8066/;
+http://ca5.rcast.net:8066/
 #EXTINF:-1 CJBP-FM "CJ 97.1"  Neepawa, MB
 http://dns4.83north.ca:8000/cjbp.mp3
 #EXTINF:-1 CJBQ 800 Belleville, ON
@@ -677,7 +677,7 @@ https://playerservices.streamtheworld.com/pls/CJLM_FM.pls
 #EXTINF:-1 CJLO 1690 Concordia University, Montreal, QC
 http://rosetta.shoutca.st:8883/stream
 #EXTINF:-1 CJLO 1690AM
-http://rosetta.shoutca.st:8883/;
+http://rosetta.shoutca.st:8883/
 #EXTINF:-1 CJLV 1570 LaSalle, QC
 http://centova.radioservers.biz:8264/stream
 #EXTINF:-1 CJLX 91.3 "91X" Loyalist College - Belleville, ON
@@ -781,7 +781,7 @@ https://mbsradio.leanstream.co/CJYCFM-MP3
 #EXTINF:-1 CKAJ 92.5 & 99.7 Saguenay, QC
 http://stream.statsradio.com:8060/stream
 #EXTINF:-1 CKAR-FM 88.7 "The Bay" Huntsville, ON
-https://thebay887.ca:8002/;stream.mp3
+https://thebay887.ca:8002/stream.mp3
 #EXTINF:-1 CKAU-FM "Radio Kushapetsheken" 104.5 Maliotenam & 90.1 Sept-Iles, QC 
 https://edge.mixlr.com/channel/qjvlw
 #EXTINF:-1 CKBN "VIA 90.5 FM" Bécancour, QC
@@ -805,7 +805,7 @@ https://stream2.statsradio.com:8124/stream
 #EXTINF:-1 CKCW 94.5 "K94" Moncton, NB
 http://mbsradio.leanstream.co/CKCWFM-MP3
 #EXTINF:-1 CKDG-FM 105.1 "Mike FM" Montreal, QC 
-http://192.95.31.59:9300/;stream.mp3
+http://192.95.31.59:9300/stream.mp3
 #EXTINF:-1 CKDH 101.7 Amherst, NS
 http://mbsradio.leanstream.co/CKDHFM-MP3
 #EXTINF:-1 CKDJ 107.9 Algonquin College, Ottawa
@@ -863,7 +863,7 @@ http://stream2.statsradio.com:8066/stream
 #EXTINF:-1 CKNT 960 AM
 https://stream2.statsradio.com:8066/stream
 #EXTINF:-1 CKOA 89.7 "The Coast"  Glace Bay, NS
-http://198.100.145.187:15204/;
+http://198.100.145.187:15204/
 #EXTINF:-1 CKOE-FM Radio 107.3 FM Moncton
 http://us2.streamingpulse.com:8110/stream
 #EXTINF:-1 CKPE "The Cape 94.9" Sydney, NS
@@ -887,7 +887,7 @@ http://live.leanstream.co/CKRYFM-MP3
 #EXTINF:-1 CKRZ 100.3  "Voice of the Grand" Ohsweken, ON 
 https://stream2.statsradio.com:8132/stream
 #EXTINF:-1 CKTI 107.7 "The Eagle" Kettle Point, ON
-http://54.39.26.61/proxy/crg/;stream/1
+http://54.39.26.61/proxy/crg/stream/1
 #EXTINF:-1 CKTP 95.7 "The Wolf" Fredericton, NB
 http://149.56.234.138:8173/stream
 #EXTINF:-1 CKTZ-FM 89.5 "Cortes Community Radio" - Cortes Island, BC
@@ -921,11 +921,11 @@ http://184.71.87.162:8000/
 #EXTINF:-1 CKXL-FM 91.1 "Envol FM" Saint Boniface, MB 
 http://stream03.ustream.ca:8000/ckxl128.mp3
 #EXTINF:-1 CKXU 88.3 University of Lethbridge, AB
-http://142.66.2.30:8000/;
+http://142.66.2.30:8000/
 #EXTINF:-1 CKYQ "Hit Country 95.7 Centre-du-Quebec" Plessisville, QC 
 https://playerservices.streamtheworld.com/pls/CKYQ_FM.pls
 #EXTINF:-1 CKZW 1650 "La Radio Gospel" Montreal, QC
-http://a1team.net:8128/;.mp3
+http://a1team.net:8128/.mp3
 #EXTINF:-1 Cladrite Radio at Live365
 http://streaming.live365.com/a43564
 #EXTINF:-1 Clam Radio - Solo Piano & Guitar
@@ -1007,7 +1007,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/CBFFM_SRC.mp3
 #EXTINF:-1 ICI Première Nouveau-Brunswick
 http://playerservices.streamtheworld.com/api/livestream-redirect/CBAFFM_SRC.mp3
 #EXTINF:-1 Ignite Radio (Mohawk College) Hamilton, ON
-http://142.222.6.62:8000/stream/2/;
+http://142.222.6.62:8000/stream/2/
 #EXTINF:-1 iLive Radio.com - Toronto, ON
 http://streaming.radio.co/s735df8c1c/listen
 #EXTINF:-1 Indie 88 (Toronto, Canada)
@@ -1031,25 +1031,25 @@ http://hubble.shoutca.st:8120/stream
 #EXTINF:-1 J-Club Powerplay HipHop
 https://kathy.torontocast.com:3350/
 #EXTINF:-1 J-Idols Project Radio
-http://bluford.torontocast.com:8081/stream/;
+http://bluford.torontocast.com:8081/stream/
 #EXTINF:-1 J-Pop Powerplay (Asia DREAM Radio)
 http://kathy.torontocast.com:3560/
 #EXTINF:-1 J-Pop Powerplay Kawaii
 https://kathy.torontocast.com/kawaii
 #EXTINF:-1 J-Pop Powerplay Kawaii (http)
-http://kathy.torontocast.com:3060/;
+http://kathy.torontocast.com:3060/
 #EXTINF:-1 J-Pop Project Radio
-http://bluford.torontocast.com:8085/stream/;
+http://bluford.torontocast.com:8085/stream/
 #EXTINF:-1 J-Pop Sakura 懐かしい - asia DREAM radio
-https://cast1.torontocast.com:2170/;
+https://cast1.torontocast.com:2170/
 #EXTINF:-1 J-Rock Powerplay
 https://kathy.torontocast.com:3340/
 #EXTINF:-1 J1 GOLD
 https://jenny.torontocast.com:2000/stream/J1GOLD
 #EXTINF:-1 Japan Hits - asia DREAM radio
-https://cast1.torontocast.com:2120/;.mp3
+https://cast1.torontocast.com:2120/.mp3
 #EXTINF:-1 Jazz Club Bandstand
-https://cast1.torontocast.com:2060/;.mp3
+https://cast1.torontocast.com:2060/.mp3
 #EXTINF:-1 JB RADIO-2 (mp3)
 https://maggie.torontocast.com:8076/mp3
 #EXTINF:-1 Journeyscapes Radio
@@ -1059,7 +1059,7 @@ https://streams.1radio.ca/just
 #EXTINF:-1 Juz Radio
 https://stream3.305stream.com/proxy/client06/stream
 #EXTINF:-1 Khalsa FM
-http://198.178.123.8:7798/;stream.mp3
+http://198.178.123.8:7798/stream.mp3
 #EXTINF:-1 KONA Stream
 http://jenny.torontocast.com:9002/stereo
 #EXTINF:-1 Krypton Radio
@@ -1099,13 +1099,13 @@ https://radio.lapfoxradio.com/radio/8000/stream-mp3-320.mp3
 #EXTINF:-1 Lighthouse VOAR-FM
 https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1
 #EXTINF:-1 Lightning Country CNTY
-http://216.126.196.154:4102/;?type=http&nocache=7
+http://216.126.196.154:4102/?type=http&nocache=7
 #EXTINF:-1 lumiRadio - 24/7 Unofficial Homestuck Radio
 https://listen.lumirad.io/listen.m3u
 #EXTINF:-1 Maiqly Maher
 https://backup.qurango.net/radio/maher
 #EXTINF:-1 metalrock.fm
-http://kathy.torontocast.com:2820/;?type=http&nocache=1594751889
+http://kathy.torontocast.com:2820/?type=http&nocache=1594751889
 #EXTINF:-1 Middle East Radio
 https://s2.voscast.com:7387/stream
 #EXTINF:-1 Musicbox4friends
@@ -1121,7 +1121,7 @@ https://maggie.torontocast.com:2020/stream/natureradiorain
 #EXTINF:-1 Nubreaks
 https://www.nubreaks.com/modules/mod_ngs_shoutcast/singleplaylist.php?ip=procyon.shoutca.st&port=8098&format=PLS
 #EXTINF:-1 Oldies Paradise.com Toronto, ON
-http://www.oldiesparadise.com:8000/;stream.mp3
+http://www.oldiesparadise.com:8000/stream.mp3
 #EXTINF:-1 Power92 FM
 http://s12.myradiostream.com:5608/stream
 #EXTINF:-1 PowerPlant Radio
@@ -1151,7 +1151,7 @@ https://giorgia.radiobellissima.it:8040/stream
 #EXTINF:-1 Radio Bellissima Jazz
 https://giorgia.radiobellissima.it:8050/stream
 #EXTINF:-1 Radio Bellissima Latina
-http://martina.radiobellissima.it:8060/;
+http://martina.radiobellissima.it:8060/
 #EXTINF:-1 Radio Bellissima Metal
 https://giorgia.radiobellissima.it:8160/stream
 #EXTINF:-1 Radio Bellissima Relax
@@ -1185,7 +1185,7 @@ https://radio.radiomaria.ca:9262/stream
 #EXTINF:-1 RADIO MARIA CANADA - HMWN
 http://dreamsiteradiocp.com:8016/stream
 #EXTINF:-1 Radio Maria Canada - Spanish
-http://rmcesp.radiomaria.ca:8050/;stream.mp3
+http://rmcesp.radiomaria.ca:8050/stream.mp3
 #EXTINF:-1 Radio Plaisirs Country
 https://onlineradiobox.com/json/ca/plaisirs/play?platform=web
 #EXTINF:-1 Radio Quebec Country.com - Thetford Mines, QC
@@ -1201,7 +1201,7 @@ https://radio.streemlion.com:2435/stream
 #EXTINF:-1 Radio Shemroon
 http://usa7.fastcast4u.com:5919/stream
 #EXTINF:-1 Radio Skipper
-http://s6.mediastreaming.it:7050/;
+http://s6.mediastreaming.it:7050/
 #EXTINF:-1 Radio Unicité
 https://listen.radioking.com/radio/521287/stream/579484
 #EXTINF:-1 radio vaporaki
@@ -1221,7 +1221,7 @@ http://s1.autopo.st:8227/
 #EXTINF:-1 RADIOWAVES
 https://quincy.torontocast.com/radiowaves
 #EXTINF:-1 RADS
-http://radio7.pro-fhi.net:9051/;stream.nsv
+http://radio7.pro-fhi.net:9051/stream.nsv
 #EXTINF:-1 RDMIX 70S GOLDEN HITS
 https://giorgia.radiobellissima.it:8250/radio.mp3
 #EXTINF:-1 RDMIX CHRISTMAS
@@ -1299,7 +1299,7 @@ https://listen.thebase.sc/
 #EXTINF:-1 THE EDM MEGASHUFFLE
 https://maggie.torontocast.com:9030/stream
 #EXTINF:-1 The Lounge Sound.ca - Montreal, QC
-http://streams.theloungesound.ca:8059/;?.mp3
+http://streams.theloungesound.ca:8059/?.mp3
 #EXTINF:-1 THE LYNX CLASSIC ROCK
 http://rock-lynxradio.radioca.st/stream
 #EXTINF:-1 The Lynx Retro 80s
@@ -1311,9 +1311,9 @@ https://jenny.torontocast.com:2000/stream/the-oasis/stream
 #EXTINF:-1 Time Capsule Show
 http://sc3.mystreamserver.com:8060/
 #EXTINF:-1 Tinig Pinoy Radio
-https://s6.voscast.com:8045/;stream.mp3
+https://s6.voscast.com:8045/stream.mp3
 #EXTINF:-1 Tipaul Radio
-http://usa10.fastcast4u.com:6870/;?type=http&nocache=1672764240
+http://usa10.fastcast4u.com:6870/?type=http&nocache=1672764240
 #EXTINF:-1 TNI Radio, Nunavut
 http://perseus.shoutca.st:8599/stream/1/
 #EXTINF:-1 Tokyo Rose Radio
@@ -1345,4 +1345,4 @@ http://streaming.cjpx.leclerccommunication.ca:8000/cjpx.mp3?type=.mp3&1597284756
 #EXTINF:-1 إذاعة القرآن الكريم
 https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
 #EXTINF:-1 华语广播网105.9
-http://s3.voscast.com:9272/;stream.mp3
+http://s3.voscast.com:9272/stream.mp3

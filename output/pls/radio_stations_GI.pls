@@ -49,7 +49,7 @@ File24=https://retrowave.ru/audio/91562d08f1942a4c87cc5a7a98e85dcda12c6789.mp3?h
 Title24=Cornisa Radio - Steampunk
 File25=https://sh.uk.audio-stream.com/proxy/gibralta?mp=/stream
 Title25=GBC Radio Gibraltar
-File26=https://jbengg04.radioca.st/;
+File26=https://jbengg04.radioca.st/
 Title26=Go Go Radio Gibraltar
 File27=https://jbengg04.radioca.st/stream
 Title27=Mary Pinch

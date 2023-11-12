@@ -23,33 +23,33 @@ http://n05.radiojar.com/59096z743d0uv?rj-ttl=5&rj-tok=AAZBfqTS3R8Zo-MbNKypObvbjA
 #EXTINF:-1 RadioSunna
 http://andromeda.shoutca.st:8189/stream
 #EXTINF:-1 Rotana FM
-http://curiosity.shoutca.st:6035/;
+http://curiosity.shoutca.st:6035/
 #EXTINF:-1 UFM
-http://69.61.26.75:8000/;
+http://69.61.26.75:8000/
 #EXTINF:-1 Voice Of Grace
-https://securestreams5.reliastream.com:1820/;
+https://securestreams5.reliastream.com:1820/
 #EXTINF:-1 إذاعة طريق السلف
 
 https://airtime.salafwayfm.ly/
 #EXTINF:-1 إذاعة محمد أيوب
 https://qurango.net/radio/mohammed_ayyub
 #EXTINF:-1 التفسير الميسر مصحوبًا بتلاوة الشيخ محمد أيوب
-https://server03.quran.com.kw:7042/;*.mp3
+https://server03.quran.com.kw:7042/*.mp3
 #EXTINF:-1 الشيخ إدريس أبكر برواية حفص
-http://server2.quraan.us:9300/;*.mp3
+http://server2.quraan.us:9300/*.mp3
 #EXTINF:-1 الشيخ توفيق الصايغ برواية حفص
-http://quraan.us:9796/;*.mp3
+http://quraan.us:9796/*.mp3
 #EXTINF:-1 القارئ علي الحذيفي رواية قالون 
 https://qurango.net/radio/ali_alhuthaifi_qalon
 #EXTINF:-1 تفسير السعدي
-https://server03.quran.com.kw:7004/;*.mp3
+https://server03.quran.com.kw:7004/*.mp3
 #EXTINF:-1 تفسير القرآن الكريم 
 https://qurango.net/radio/tafseer
 #EXTINF:-1 فتاوى الشيخ ابن عثيمين
-http://server2.quraan.us:9890/;*.mp3
+http://server2.quraan.us:9890/*.mp3
 #EXTINF:-1 فتاوى بن عثيمين 
-http://server2.quraan.us:9890/;*.mp3
+http://server2.quraan.us:9890/*.mp3
 #EXTINF:-1 قرآن
-http://quraan.us:9842/;
+http://quraan.us:9842/
 #EXTINF:-1 مقدمة رسالة ابن أبي زيد القيرواني1
 https://www.al-badr.net/download/esound/choroohat/abuzaid_alkirawani/001.mp3

@@ -93,7 +93,7 @@ https://cast.ner.gov.tw/9
 #EXTINF:-1 教育廣播電臺-高雄分臺
 https://cast.ner.gov.tw/5
 #EXTINF:-1 栗子的輕音樂
-http://lizeradio.com:8080/;&type=mp3
+http://lizeradio.com:8080/&type=mp3
 #EXTINF:-1 淡江之聲
 http://163.13.182.81:8001/votk
 #EXTINF:-1 潮州之聲
@@ -107,6 +107,6 @@ http://1.34.23.16:8080/broadwavehigh.mp3
 #EXTINF:-1 苗栗正義電台
 http://211.20.119.103:8081/
 #EXTINF:-1 金聲廣播電台
-http://60.249.186.105:9000/;
+http://60.249.186.105:9000/
 #EXTINF:-1 非凡音電台
 http://43.254.16.40:8000/TC.FM98.5

@@ -4,6 +4,9 @@ print("Reading Stations File")
 with open('input/stations.json', encoding='utf-8') as stations_file:
   stations = json.load(stations_file)
 
+def clean_url(url):
+  return url.replace(";","")
+
 def get_countrycodes():
   codes = [s['countrycode'] for s in stations]
   return sorted(list(set(codes)))
@@ -33,7 +36,7 @@ def create_m3u_file(countrycode):
     for s in stations:
         if ((s['name'] != last_name) and s['lastcheckok'] == 1) and (s['countrycode'] == countrycode) and (s['codec'] == 'MP3'):
           output_file.write("#EXTINF:-1 " + s['name'] + '\n')
-          output_file.write(s['url'] + '\n')
+          output_file.write(clean_url(s['url']) + '\n')
         last_name = s['name']
 
 def create_pls_file(countrycode):
@@ -45,7 +48,7 @@ def create_pls_file(countrycode):
     for s in stations:
       if (s['name'] != last_name) and (s['lastcheckok'] == 1) and (s['countrycode'] == countrycode) and (s['codec'] == 'MP3'):
         i+=1
-        output_file.write("File" + str(i) + "=" + s['url'] + '\n')
+        output_file.write("File" + str(i) + "=" + clean_url(s['url']) + '\n')
         output_file.write("Title" + str(i) + "=" + s['name'] + '\n')
       last_name = s['name']
     output_file.write("NumberOfEntries=" + str(i))
@@ -90,7 +93,7 @@ def create_html_file():
       last_name = ""
       for s in stations:
         if (s['name'] != last_name) and (s['lastcheckok'] == 1) and (s['countrycode'] == country[0]) and (s['codec'] == 'MP3'):
-          html_file.write("<li><a href='" + s['url'] + "'>" + s['name'] + "</a></li>")
+          html_file.write("<li><a href='" + clean_url(s['url']) + "'>" + s['name'] + "</a></li>")
         last_name = s['name']
 
       html_file.write("</ul>\n")

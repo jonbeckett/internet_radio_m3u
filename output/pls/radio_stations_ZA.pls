@@ -69,7 +69,7 @@ File34=https://sv2.famcast.co.za/proxy/magakala_radio/stream
 Title34=Magakala Radio
 File35=https://sv2.famcast.co.za/proxy/merafong?mp=/live
 Title35=Merafong 360 Online Radio
-File36=http://185.105.4.50:5806/;stream.mp3
+File36=http://185.105.4.50:5806/stream.mp3
 Title36=Overvaal stereo
 File37=http://capeant.antfarm.co.za:8000/ptafm
 Title37=Pretoria FM

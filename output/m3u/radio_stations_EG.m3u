@@ -9,7 +9,7 @@ https://qurango.net/radio/salma
 #EXTINF:-1 .إذاعة ماهر المعيقلي 
 https://backup.qurango.net/radio/maher
 #EXTINF:-1 AbderRasheed Sufis
-http://quraan.us:9866/;
+http://quraan.us:9866/
 #EXTINF:-1 Abdulrasheed Soufi
 https://qurango.net/radio/abdulrasheed_soufi_assosi.mp3
 #EXTINF:-1 Amr Diab Radio
@@ -31,21 +31,21 @@ https://carina.streamerr.co:2020/stream/OnSportFM
 #EXTINF:-1 Radio 9090 90.9
 http://9090streaming.mobtada.com/9090FMEGYPT
 #EXTINF:-1 Radio Hits 88.2 Cairo
-https://radiohits882.radioca.st/;
+https://radiohits882.radioca.st/
 #EXTINF:-1 Radio Sawa Egypt
 https://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03?download=1
 #EXTINF:-1 Radio القارئ علي حجاج السويسي
 http://live.mp3quran.net:9842/
 #EXTINF:-1 Tes3enat FM
-http://178.33.135.244:20095/;?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNjA1OTE3OCwiaXNzIjoidGlzcnYifQ.Me0snc2PBcQhvlzte9L7zQxa-IHgNinhu3XdNJ6_Xa8
+http://178.33.135.244:20095/?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNjA1OTE3OCwiaXNzIjoidGlzcnYifQ.Me0snc2PBcQhvlzte9L7zQxa-IHgNinhu3XdNJ6_Xa8
 #EXTINF:-1 إذاعة الشيخ أبو بكر الشاطري برواية حفص
-http://quraan.us:9892/;*.mp3
+http://quraan.us:9892/*.mp3
 #EXTINF:-1 إذاعة الشيخ أحمد العجمي برواية حفص
-http://server2.quraan.us:9852/;*.mp3
+http://server2.quraan.us:9852/*.mp3
 #EXTINF:-1 إذاعة القرآن الكريم من القاهرة
 http://n12.radiojar.com/8s5u5tpdtwzuv?listening-from-radio-garden=1620219571863&rj-tok=AAABeTyl2zYARSWbLVnrEOlqGw&rj-ttl=5
 #EXTINF:-1 إذاعة تفسير الإمام الشعراوي
-https://server03.quran.com.kw:7148/;*.mp3
+https://server03.quran.com.kw:7148/*.mp3
 #EXTINF:-1 إذاعة محمود خليل الحصري
 https://qurango.net/radio/mahmoud_khalil_alhussary_warsh
 #EXTINF:-1 إذاعة مصطفى إسماعيل
@@ -55,7 +55,7 @@ https://qurango.net/radio/yasser_aldosari
 #EXTINF:-1 الشيخ ناصر القطامي
 http://server2.quraan.us:9886/
 #EXTINF:-1 القران الكريم من القاهره
-http://n0c.radiojar.com/8s5u5tpdtwzuv?rj-ttl=5&amp;rj-tok=AAABdI5Qnd0AEmvTTG5DVtU31A&amp;autoplay=1%22%20type=%22audio/mpeg
+http://n0c.radiojar.com/8s5u5tpdtwzuv?rj-ttl=5&amprj-tok=AAABdI5Qnd0AEmvTTG5DVtU31A&ampautoplay=1%22%20type=%22audio/mpeg
 #EXTINF:-1 القران الكريم من القاهره1
 http://n0e.radiojar.com/8s5u5tpdtwzuv?rj=&rj-tok=AAABg5BDP0EA2ElNLJYUJTsVcg&rj-ttl=5
 #EXTINF:-1 تفسير بن عثيمين

@@ -15,6 +15,6 @@ http://radio.bodun.is:8000/stream
 #EXTINF:-1 Retro FM 89.5
 http://www.radio.is:443/retromobile
 #EXTINF:-1 Trolli FM 103.7 Siglufjordu
-http://live.trolli.is:8200/;
+http://live.trolli.is:8200/
 #EXTINF:-1 Útvarp Saga
 https://stream.utvarpsaga.is/Hljodver

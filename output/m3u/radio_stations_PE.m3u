@@ -29,7 +29,7 @@ https://icecasthd.net/proxy/discoclubradio/stream
 #EXTINF:-1 eclesia alianza
 http://185.213.27.145:8000/radio.mp3
 #EXTINF:-1 Estrella - Barranca
-https://sonic-us.streaming-chile.com:7039/;
+https://sonic-us.streaming-chile.com:7039/
 #EXTINF:-1 Filarmonía (OCR-4V, 102.7 MHz FM, Lima) (IRTP)
 http://c22.radioboss.fm:8100/stream
 #EXTINF:-1 FMLima
@@ -59,15 +59,15 @@ https://radio.pjcks.com/7234/stream
 #EXTINF:-1 Mambo INN Radio
 https://radio.perustream.com:7000/stream
 #EXTINF:-1 Moderna Radio Papá
-https://radio.transmite.pe/8020/stream/;type=mp3
+https://radio.transmite.pe/8020/stream/type=mp3
 #EXTINF:-1 Oasis
 http://19013.live.streamtheworld.com/CRP_OAS.mp3?dist=20004
 #EXTINF:-1 PBO Radio
 http://n06.radiojar.com/2fse67zuv8hvv?1669054401=&rj-tok=AAABhJtuNOUAIi7Le3h5PA-2VA&rj-ttl=5
 #EXTINF:-1 Peruana Radio
-http://78.129.185.84:28123/;
+http://78.129.185.84:28123/
 #EXTINF:-1 RADIO AEROESTEREO 94,3 FM
-https://radios.sonidoshd.com:7026/;stream
+https://radios.sonidoshd.com:7026/stream
 #EXTINF:-1 radio aire
 https://stream-150.zeno.fm/2a2qb8z1a5zuv?zs=KCNxf0MEQ1aTZiARpyhokg
 #EXTINF:-1 Radio Amo la Música
@@ -75,7 +75,7 @@ http://stream.zeno.fm/aqmct15qmchvv
 #EXTINF:-1 Radio Andina Tarata
 http://sp.oyotunstream.com:8064/listen.pls
 #EXTINF:-1 radio arumarka 107.3 fm puno
-https://radios.sonidoshd.com/8038/;
+https://radios.sonidoshd.com/8038/
 #EXTINF:-1 Radio Baladitas 
 https://stream.zeno.fm/hf2gsfm1mp8uv
 #EXTINF:-1 Radio Buenaza Digital
@@ -97,7 +97,7 @@ https://sonic.dattassd.com/8258/stream
 #EXTINF:-1 Radio Fidelísima - Chachapoyas
 https://st3.inkaniserver.net:8008/stream
 #EXTINF:-1 Radio Fiesta 98
-http://s9.voscast.com:8496/;
+http://s9.voscast.com:8496/
 #EXTINF:-1 Radio Funky Hits
 https://stream-163.zeno.fm/57h4vyd5pf9uv
 #EXTINF:-1 Radio Identidad
@@ -109,7 +109,7 @@ https://radiohd.us/8022/stream
 #EXTINF:-1 Radio Karicia
 https://shoutcast.tmcreativos.com/proxy/radiokar?mp=/stream
 #EXTINF:-1 Radio La Cheverísima - Utcubamba 
-https://sp.onliveperu.com/8114/stream/;
+https://sp.onliveperu.com/8114/stream/
 #EXTINF:-1 Radio La Inolvidable (OBT-4C, 93.7 MHz FM, Lima)
 http://provisioning.streamtheworld.com/pls/CRP_LI.pls
 #EXTINF:-1 RADIO LA INOLVIDABLE 93.7 FM (PERU)
@@ -117,9 +117,9 @@ https://24943.live.streamtheworld.com/CRP_LI_SC?
 #EXTINF:-1 Radio La Nueva
 https://serverssl.innovatestream.pe:8080/167.114.118.120:7248/stream
 #EXTINF:-1 Radio La Voz del Nor Oriente - Utcubamba
-https://sp.onliveperu.com:7038/;
+https://sp.onliveperu.com:7038/
 #EXTINF:-1 Radio Los Angeles - Chepen
-http://94.23.159.187:9950/;
+http://94.23.159.187:9950/
 #EXTINF:-1 RADIO MAGICA 88.3 FM (PERU)
 https://25093.live.streamtheworld.com/MAG_SC?
 #EXTINF:-1 RADIO MAR PLUS 106.3 (PERU)
@@ -135,7 +135,7 @@ https://servermax.azuracast.com.es/listen/megatronmixfm/MEGATRONMIX20022
 #EXTINF:-1 Radio Milenium - Bagua Grande
 https://sp.onliveperu.com/8102/stream
 #EXTINF:-1 Radio Miraflores TV
-https://eu47-sonic.instainternet.com/8016/;
+https://eu47-sonic.instainternet.com/8016/
 #EXTINF:-1 RADIO MODA 97.3 FM (PERU)
 https://25063.live.streamtheworld.com/CRP_MOD_SC?
 #EXTINF:-1 RADIO MUNICIPAL MONZÓN
@@ -193,9 +193,9 @@ https://stream.zeno.fm/ktk1db7xywzuv
 #EXTINF:-1 Radio90sChimbote
 https://stream-162.zeno.fm/04fmqb2xwd0uv?zs=U7C6x5MaR56uI35rU7KJjA
 #EXTINF:-1 radiocielo
-http://167.114.118.120:7342/;
+http://167.114.118.120:7342/
 #EXTINF:-1 radiocielo 1010 am
-http://167.114.118.120:7342/;
+http://167.114.118.120:7342/
 #EXTINF:-1 Radiomar
 http://18323.live.streamtheworld.com/CRP_MAR.mp3?dist=20004
 #EXTINF:-1 RadioSaurios New Age
@@ -221,7 +221,7 @@ https://stream.zenolive.com/de2yzp59mg0uv
 #EXTINF:-1 Súper Vip
 https://rautemusik-de-hz-fal-stream18.radiohost.de/charthits
 #EXTINF:-1 Superstereo (105.5 FM, Arequipa)
-http://198.148.103.200:8052/;
+http://198.148.103.200:8052/
 #EXTINF:-1 Tropical-Tarapoto
 https://shoutcast.tmcreativos.com/proxy/radiotropical?mp=/stream
 #EXTINF:-1 zona musical esterio * Perú

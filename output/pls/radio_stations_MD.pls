@@ -15,7 +15,7 @@ File7=https://stream.hitfm.md:8443/HitFM_mp3
 Title7=Hit FM Moldova
 File8=http://109.233.192.78:8000/_a
 Title8=imago.fm
-File9=http://live.prodjradio.net:8000/;
+File9=http://live.prodjradio.net:8000/
 Title9=LOVE PRO Dj Radio Chisinau
 File10=http://37.233.41.76:8000/lovefm
 Title10=love radio
@@ -33,7 +33,7 @@ File16=http://live.maestrofm.md:8000/r1
 Title16=Moldova Radio One 
 File17=http://77.89.206.126:7030/live
 Title17=POLI DISC - Новое радио
-File18=http://live.prodjradio.net:8000/;?type=http&nocache=4585
+File18=http://live.prodjradio.net:8000/?type=http&nocache=4585
 Title18=PRODj Radio
 File19=http://109.185.191.129:49400/
 Title19=Radio Albena Taraclia
@@ -49,7 +49,7 @@ File24=http://live.noroc.tv:8000/radionoroc.mp3
 Title24=RADIO NOROC
 File25=http://live.maestrofm.md:8000/r1
 Title25=Radio One Moldova
-File26=http://live.prodjradio.net:8030/;
+File26=http://live.prodjradio.net:8030/
 Title26=Radio Orhei FM
 File27=http://stream.radioplai.md:8000/live
 Title27=RADIO PLAI

@@ -25,17 +25,17 @@ http://s17.hstbr.net:8040/live?1601949995965
 #EXTINF:-1 96 Fm - Arapiraca Alagoas
 http://23.92.209.210:9300/stream
 #EXTINF:-1 96 Fm Arapiraca
-http://96fmarapiraca.com.br:9300/;
+http://96fmarapiraca.com.br:9300/
 #EXTINF:-1 97 Rock Web Radio
 http://euroticast5.euroti.com.br:8094/stream?1696889015855
 #EXTINF:-1 AKIBA
 https://ssl.srvstm.com:9526/stream/1/
 #EXTINF:-1 Altaneira FM
-https://ssl.hdradios.net:15652/;
+https://ssl.hdradios.net:15652/
 #EXTINF:-1 Alternativa Livre
 http://stream.zeno.fm/588dt1kykd0uv
 #EXTINF:-1 Amazon Gospel
-http://directradios.net:8197/;
+http://directradios.net:8197/
 #EXTINF:-1 Amor FM
 https://r10.ciclano.io:15067/stream
 #EXTINF:-1 Antena 1 Rio de Janeiro, RJ (ZYD 463, 103,7 MHz FM)
@@ -59,7 +59,7 @@ https://r13.ciclano.io:15119/stream
 #EXTINF:-1 BandNews BH
 https://cdn-web.tunein.com/assets/media/blank.mp3
 #EXTINF:-1 Barril (Frederico Westphalen)
-http://shoutcast.virtualbit.com.br:8000/;
+http://shoutcast.virtualbit.com.br:8000/
 #EXTINF:-1 Bezerros FM
 https://sv10.hdradios.net:8616/stream
 #EXTINF:-1 Boa Fm - Aracaju Sergipe
@@ -101,9 +101,9 @@ http://streaming10.hstbr.net:8042/live
 #EXTINF:-1 Continental FM
 http://cast4.audiostream.com.br:8650/mp3
 #EXTINF:-1 Dance Bem
-https://stm18.srvstm.com:6096/;?type=http&nocache=1230
+https://stm18.srvstm.com:6096/?type=http&nocache=1230
 #EXTINF:-1 Difusora Manaus 96,9
-http://69.16.236.247:9300/;mp3
+http://69.16.236.247:9300/mp3
 #EXTINF:-1 Dixie Rebel
 https://servidor36.brlogic.com:8572/live
 #EXTINF:-1 DJ EDUARDO
@@ -119,7 +119,7 @@ https://educativainatel.radioca.st/stream
 #EXTINF:-1 Eldorado FM
 https://cast4.audiostream.com.br:2652/mp3
 #EXTINF:-1 Energy FM Brazil
-http://02.stmip.net:8202/;
+http://02.stmip.net:8202/
 #EXTINF:-1 Espacial FM - Pará de Minas 105.5 FM
 http://paineldj4.com.br:8300/stream.mp3?type=.mp3
 #EXTINF:-1 ESTUDIO FM
@@ -141,7 +141,7 @@ http://foreverinrock.radioca.st:9560/stream
 #EXTINF:-1 Fortaleza FM 90.7
 https://www.radios.com.br/play/playlist/24355/listen-radio.m3u
 #EXTINF:-1 Fraternidade (Ijuí)
-http://radio2.suaradionanet.net:8044/;
+http://radio2.suaradionanet.net:8044/
 #EXTINF:-1 Funk Favela
 http://stream.zeno.fm/07z9dqmz0uquv
 #EXTINF:-1 Futebol sport radio
@@ -155,7 +155,7 @@ https://centova.svdns.com.br:19373/stream/2/
 #EXTINF:-1 Gospel FM 89.3
 http://148.72.158.239:8161/live
 #EXTINF:-1 Groove Wave Lounge
-https://stm1.srvif.com:7576/;
+https://stm1.srvif.com:7576/
 #EXTINF:-1 Hitz FM - 80s
 https://stream-157.zeno.fm/a9lb3jrylnjtv?zs=3UtyIXYJS0-5CEQIzGhSqg
 #EXTINF:-1 Hunter FM - 80s
@@ -189,7 +189,7 @@ http://stream.zeno.fm/3mydb487f0hvv
 #EXTINF:-1 Jean Majolo Player
 http://jeanmajolo.com.br:8000/radio
 #EXTINF:-1 Jornal da Manhã (Ijuí)
-https://centova4.transmissaodigital.com:20066/;
+https://centova4.transmissaodigital.com:20066/
 #EXTINF:-1 Jovem Pan - São José dos Campos
 https://r15.ciclano.io:14355/stream
 #EXTINF:-1 Jovem Pan FM - Sorocaba 91.1
@@ -205,7 +205,7 @@ http://cast4.audiostream.com.br:8655/mp3
 #EXTINF:-1 Líder FM Santa Rosa
 https://audio8.cmaudioevideo.com/proxy/radiolid/stream
 #EXTINF:-1 LIGA SAMBA WEB RÁDIO
-http://srv1.braudio.com.br:7308/;stream
+http://srv1.braudio.com.br:7308/stream
 #EXTINF:-1 Lightness of Rock
 https://stream.zeno.fm/n0dt87vrnd0uv
 #EXTINF:-1 Mais FM Santa Rosa Santo Cristo
@@ -237,7 +237,7 @@ http://192.99.14.210:8339/stream
 #EXTINF:-1 Multisom Hits Cataguases
 https://servidor28-3.brlogic.com:8124/live?source=website
 #EXTINF:-1 Mundial (Ijuí)
-https://centova4.transmissaodigital.com:20071/;
+https://centova4.transmissaodigital.com:20071/
 #EXTINF:-1 Mundial Rock
 https://azura.mundialmusic.net/radio/8010/radio.mp3
 #EXTINF:-1 Mundo Livre FM Londrina 93,1
@@ -253,7 +253,7 @@ https://live8.livemus.com.br:27246/stream
 #EXTINF:-1 Norte FM - Londrina
 https://servidor17.brlogic.com:9394/live
 #EXTINF:-1 Nossa Rádio MEPB
-http://s01.painelstream.net:8548/;
+http://s01.painelstream.net:8548/
 #EXTINF:-1 Nova Difusora - Osasco/SP - 79.9MHz
 https://cast.hoost.com.br:8314/stream
 #EXTINF:-1 Novos Horizontes FM
@@ -287,7 +287,7 @@ https://servidor35-1.brlogic.com:8036/live
 #EXTINF:-1 Prus Mano
 http://stream.zeno.fm/hn0fwwy7nzzuv
 #EXTINF:-1 Radicci  FM
-https://ssl.srvstm.com:8082/;
+https://ssl.srvstm.com:8082/
 #EXTINF:-1 Rádio 103 - Aracaju Sergipe
 https://player.voxcast.com.br/proxy/7030
 #EXTINF:-1 Rádio 103-2 - Aracaju Sergipe
@@ -313,7 +313,7 @@ https://cast.animu.com.br:9079/stream
 #EXTINF:-1 Rádio Aquarius 87.9 FM
 https://hts04.kshost.com.br:11198/live
 #EXTINF:-1 Rádio Atalaia SP
-https://stm.smghosting.com.br:15150/stream/stream;?1658967282374
+https://stm.smghosting.com.br:15150/stream/stream?1658967282374
 #EXTINF:-1 Radio Ativa Bom Despacho
 http://148.72.158.239:8036/live
 #EXTINF:-1 Radio Aurora FM
@@ -327,7 +327,7 @@ http://radioims.out.airtime.pro:8000/radioims_a
 #EXTINF:-1 radio bau do flashback
 http://stream.zeno.fm/d0qyfqzy5k0uv
 #EXTINF:-1 Rádio Beach Park FM
-http://www.radioideal.net:8026/;stream/1
+http://www.radioideal.net:8026/stream/1
 #EXTINF:-1 rádio BIZARRO
 http://streaming.live365.com/a07135
 #EXTINF:-1 Rádio boa fm
@@ -343,13 +343,13 @@ http://streaming04.hstbr.net:8190/live
 #EXTINF:-1 Rádio Brasileiríssima
 https://hts04.kshost.com.br:10790/live
 #EXTINF:-1 Rádio Café Viola
-https://stm6.xcast.com.br:9328/;?1685284162874
+https://stm6.xcast.com.br:9328/?1685284162874
 #EXTINF:-1 Radio Calhambeque
 https://s01.transmissaodigital.com:7096/stream
 #EXTINF:-1 Rádio Carioca 710 AM
 http://centova11.ipstm.net:13008/stream?1665102437059
 #EXTINF:-1 Radio Castelo Forte
-http://03.stmip.net:8076/;
+http://03.stmip.net:8076/
 #EXTINF:-1 Rádio Caverá FM 87.9
 https://s05.maxcast.com.br:8012/live?id=692006007223
 #EXTINF:-1 Rádio CBN Vitória 92.5 FM
@@ -455,7 +455,7 @@ https://www.appradio.app:8107/live
 #EXTINF:-1 Rádio LAM
 https://stream1.svrdedicado.org/8028/stream
 #EXTINF:-1 RÁDIO LIGA SAMBA
-http://srv1.braudio.com.br:7308/;stream.nsv
+http://srv1.braudio.com.br:7308/stream.nsv
 #EXTINF:-1 Rádio Máquina Instrumental
 https://servidor29-2.brlogic.com:8578/live
 #EXTINF:-1 Radio Maquina no Rock
@@ -487,7 +487,7 @@ http://stream.zeno.fm/qytqk36wm8quv
 #EXTINF:-1 Rádio Nação Vitoriosa
 http://stream.zeno.fm/2rsloyfvsy9tv
 #EXTINF:-1 Rádio Nacional Gospel 920 AM
-https://stream.redenacionalgospel.com.br:10996/;
+https://stream.redenacionalgospel.com.br:10996/
 #EXTINF:-1 Radio Nostalgia FM
 http://svrstream1.svreua.com:8236/stream
 #EXTINF:-1 Rádio Nova Geração 87.9 FM Jataizinho PR 
@@ -505,7 +505,7 @@ http://servidor18.brlogic.com:7484/live
 #EXTINF:-1 Radio Pagode Brasil
 http://stream.zeno.fm/ffup286wm8quv
 #EXTINF:-1 Radio Palavra da Fe
-http://s9.voscast.com:8224/;
+http://s9.voscast.com:8224/
 #EXTINF:-1 RÁDIO PALOMA DO BRASIL
 https://stream.zeno.fm/zsmehawubv8uv
 #EXTINF:-1 Rádio Pão Diário
@@ -521,7 +521,7 @@ https://orelha.radiolivre.org/radiopaulofreire
 #EXTINF:-1 Rádio Pirafm 
 http://stream.zeno.fm/zyvh88ftvxhvv
 #EXTINF:-1 Radio Piranhas
-http://02.stmip.net:8454/;
+http://02.stmip.net:8454/
 #EXTINF:-1 Radio Prefacio
 https://s10.maxcast.com.br:8014/live
 #EXTINF:-1 Rádio PT
@@ -535,7 +535,7 @@ http://stream.zeno.fm/spzru5axm8quv
 #EXTINF:-1 Radio Record 990 Rio de Janeiro
 http://stream.ouveai.com.br:10718/live
 #EXTINF:-1 Radio Retrô Brasil
-http://s1.reliastream.com/proxy/radioret?mp=/stream:8076/;
+http://s1.reliastream.com/proxy/radioret?mp=/stream:8076/
 #EXTINF:-1 Rádio Ribeirinha Murukutu
 https://s22.maxcast.com.br:8950/live
 #EXTINF:-1 Rádio Rio Verde
@@ -543,7 +543,7 @@ http://paineldj5.com.br:8147/stream
 #EXTINF:-1 Radio RJ FM
 https://live.paineldj.com.br/proxy/radiorjfm?mp=/stream
 #EXTINF:-1 Radio RM
-http://02.stmip.net:8226/;
+http://02.stmip.net:8226/
 #EXTINF:-1 Radio Rock Brasil
 http://stream.zeno.fm/1mv67dbxm8quv
 #EXTINF:-1 Rádio Roma 90.5 FM
@@ -621,7 +621,7 @@ http://radio.uniara.com.br:88/broadwavehigh.mp3
 #EXTINF:-1 Rádio Universitária - FM 107,9 
 http://200.129.35.230:8081/aovivo.ogg.m3u
 #EXTINF:-1 Rádio Universitária UFPI 96,7
-http://fm.ufpi.br:8000/;?type=http&nocache=55
+http://fm.ufpi.br:8000/?type=http&nocache=55
 #EXTINF:-1 Rádio Velho Brasil
 https://servidor39-3.brlogic.com:8572/live
 #EXTINF:-1 Rádio Verdes Mares - Verdinha AM810

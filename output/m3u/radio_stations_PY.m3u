@@ -11,7 +11,7 @@ http://sc.abc.com.py:8000/stream
 #EXTINF:-1 RADIO EXITOS DE AYER
 http://stream.zeno.fm/hvnh6d5uebruv
 #EXTINF:-1 Radio Luz 101.5 FM
-http://167.114.116.223:9960/;stream.nsv
+http://167.114.116.223:9960/stream.nsv
 #EXTINF:-1 RADIO MARIA PARAGUAY
 http://dreamsiteradiocp.com:8090/stream
 #EXTINF:-1 Radio Nacional de Paraguay 95.1 FM

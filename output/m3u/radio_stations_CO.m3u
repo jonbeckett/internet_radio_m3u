@@ -15,7 +15,7 @@ http://stream.zeno.fm/4d2et4w314zuv
 #EXTINF:-1 Baladas Románticas
 http://stream.zeno.fm/y5ztkzpqhueuv
 #EXTINF:-1 Banca del Parque Radio
-http://72.29.87.97:8020/;
+http://72.29.87.97:8020/
 #EXTINF:-1 Bésame FM (Bogotá)
 https://26583.live.streamtheworld.com/BESAME_BOGOTA.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY4MjA0MDMwNiwiaXNzIjoidGlzcnYifQ.ixzI7shcrUZlZD3bry_b0q0lufCUcD3BZmoX-ljX79Y
 #EXTINF:-1 Blu Radio, señal nacional (HJCK, 89.9 MHz FM, Bogotá / HJN42, 96.3 MHz, San Martín, Meta / HJH87, 103.1 MHz, Paipa, Boyacá / HJOM, 1090 KHz, Cartagena de Indias / HJM47 103.1 MHz, Algeciras, Huila / HJQ43, 94.1 MHz, Bugalagrande, Valle del Cauca)
@@ -31,7 +31,7 @@ http://playerservices.streamtheworld.com/pls/CANDELAESTEREO.pls
 #EXTINF:-1 Ciudad Stereo Tunja 94.7 FM 
 http://stream.zeno.fm/5g2k2a6wd5zuv
 #EXTINF:-1 Colombia Bohemia
-http://64.37.50.226:8024/;stream.nsv
+http://64.37.50.226:8024/stream.nsv
 #EXTINF:-1 Colombia Pop Rock
 http://64.37.50.226:8195/stream
 #EXTINF:-1 Colombia Salsa Dura
@@ -41,7 +41,7 @@ http://64.37.50.226:8231/stream?icy=https
 #EXTINF:-1 Colombia Vallenata
 http://64.37.50.226:8042/stream/1/
 #EXTINF:-1 Colombia Vallenata en vivo
-http://64.37.50.226:8042/;
+http://64.37.50.226:8042/
 #EXTINF:-1 Conectando Estéreo 91.5 FM
 https://cloudstream2036.conectarhosting.com/8200/stream
 #EXTINF:-1 Constellations Radio
@@ -59,17 +59,17 @@ http://stream.laut.fm/durisimaradio
 #EXTINF:-1 EBENEZER STEREO
 http://s30.myradiostream.com:32622/listen.mp3
 #EXTINF:-1 Ecos del Combeima (HJNC, 790 kHz AM, Ibagué, Tolima)
-http://s2.viastreaming.net:8030/;
+http://s2.viastreaming.net:8030/
 #EXTINF:-1 Ecos Prensa Radio La Calera Cundinamarca
 https://stream.zeno.fm/a8fgubmrv98uv
 #EXTINF:-1 El Portavoz
 https://radio25.virtualtronics.com:20027/stream
 #EXTINF:-1 Emitc Lasalle
-http://emisora.itc.edu.co:8000/;
+http://emisora.itc.edu.co:8000/
 #EXTINF:-1 Energia 102.5 FM 
 https://audio1.energia1025.com/radio/8000/stream.mp3
 #EXTINF:-1 Estrella Estéreo (HJTD 104.3 MHz, La Estrella/Medellín, Antioquia)
-http://68.233.236.92:8006/;
+http://68.233.236.92:8006/
 #EXTINF:-1 Extrena Radio
 http://65.108.124.70:9416/stream?icy=https
 #EXTINF:-1 Fanática Stereo
@@ -93,7 +93,7 @@ http://stream.zeno.fm/3yuyec46uxquv
 #EXTINF:-1 Inci Radio
 https://radiolatina.live/8038/stream
 #EXTINF:-1 Internacional Stereo (HKJ35, 105.9 MHz FM)
-https://s2.colombiaemite.com:25234/;
+https://s2.colombiaemite.com:25234/
 #EXTINF:-1 JAVERIANA STEREO 91.9 FM
 https://radio06.cehis.net/proxy/javerian?mp=/stream
 #EXTINF:-1 JT 2
@@ -147,7 +147,7 @@ http://192.99.203.81:8704/
 #EXTINF:-1 Oriental Stereo
 https://streamssl.eu:1354/orientalstereoaac
 #EXTINF:-1 Oro Estéreo
-http://51.15.160.78:9005/;%22%3E
+http://51.15.160.78:9005/%22%3E
 #EXTINF:-1 Paz de selva verde 
 https://mediacp15.rootservers.co:8064/stream
 #EXTINF:-1 Pingüino Estéreo
@@ -157,7 +157,7 @@ https://stream.zeno.fm/bufaptza04zuv
 #EXTINF:-1 R2 Audivisual Radio Tunja 
 http://stream.zeno.fm/bufaptza04zuv
 #EXTINF:-1 Radio Bolivariana AM (HJDI, 1110 kHz, Medellín) Universidad Pontificia Bolivariana
-http://streaming4.radiobolivarianavirtual.com:7620/;
+http://streaming4.radiobolivarianavirtual.com:7620/
 #EXTINF:-1 Radio Bolivariana FM (HJA94, 92.4 MHz FM, Medellín) Universidad Pontificia Bolivariana
 http://streaming.radiobolivarianavirtual.com:7630/
 #EXTINF:-1 Radio Centro Cristiano Bogotá 
@@ -173,7 +173,7 @@ http://stream.zeno.fm/mp3w4yvp07zuv
 #EXTINF:-1 Radio HJCK El Mundo En Bogota
 http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HJCK.mp3
 #EXTINF:-1 Radio Ipiales Caracol (HJJJ, 1400 kHz AM)
-http://radiolatina.info:9456/;stream.nsv
+http://radiolatina.info:9456/stream.nsv
 #EXTINF:-1 Radio Policía (Medellín) Nacional 96.4 FM
 https://radio35.virtualtronics.com/proxy/radiopolicia964?mp=/stream
 #EXTINF:-1 Radio Reloj – Cali
@@ -183,9 +183,9 @@ https://usa4.fastcast4u.com/proxy/fundacio/stream
 #EXTINF:-1 Radio UNAD Virtual
 https://streaming.unad.edu.co:8000/RadioUNADVirtual-RUV
 #EXTINF:-1 Radio UNAL
-http://streaming.unradio.unal.edu.co:8010/;stream.mp3
+http://streaming.unradio.unal.edu.co:8010/stream.mp3
 #EXTINF:-1 Radio Universidad Nacional
-http://streaming.unradio.unal.edu.co:8010/;stream.mp3
+http://streaming.unradio.unal.edu.co:8010/stream.mp3
 #EXTINF:-1 Radio Viva Fenix Atlántico (HJH31, 104.1 MHz FM)
 https://radiolatina.info/8168/stream
 #EXTINF:-1 Radio Viva Fenix Ipiales (HJB29, 89.1 MHz FM)

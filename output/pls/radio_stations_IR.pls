@@ -1,5 +1,5 @@
 [playlist]
-File1=https://navairan.com/;stream.nsv
+File1=https://navairan.com/stream.nsv
 Title1= Radio Navahang
 File2=https://qurango.net/radio/mohammed_ayyub
 Title2=..mohammed_ayyub
@@ -9,7 +9,7 @@ File4=http://radio.caltexmusic.com:8042/stream
 Title4=Caltex Music
 File5=http://n13.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABeB5OHJQA07FIiDdZAZNHWw
 Title5=caltexmusic
-File6=http://radio1.sotmasr.com:9354/;
+File6=http://radio1.sotmasr.com:9354/
 Title6=Dengi Islam -Erbilدەنگی ئیسلام-هەولێر
 File7=http://www.radiofaaz.com:8000/radiofaaz
 Title7=Faz
@@ -19,7 +19,7 @@ File9=https://radio.iraninternational.app/iintl_c
 Title9=iraninternational
 File10=http://parsa.icdndhcp.com:18000/stream
 Title10=parsa
-File11=http://37.59.47.192:8200/;stream.mp3
+File11=http://37.59.47.192:8200/stream.mp3
 Title11=Radio Eram
 File12=https://radio.iraninternational.app/iintl_c
 Title12=Radio Iran International

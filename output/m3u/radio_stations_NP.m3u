@@ -9,7 +9,7 @@ https://live.itech.host:8379/stream?1686719146434
 #EXTINF:-1 Butwal FM 94.4
 http://www.surfmusic.de/m3u/butwal-fm-94-4,18031.m3u
 #EXTINF:-1 Capital FM 92.4
-http://streaming.softnep.net:8037/;
+http://streaming.softnep.net:8037/
 #EXTINF:-1 Chitwan Online FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC227_SC
 #EXTINF:-1 Choice FM
@@ -25,7 +25,7 @@ https://radio-broadcast.ekantipur.com/stream
 #EXTINF:-1 Madi Seti FM
 http://live.itech.host:7036/live
 #EXTINF:-1 Naya Radio
-http://live.itech.host:1110/;
+http://live.itech.host:1110/
 #EXTINF:-1 Nepali Radio Network
 https://astream.nepalipatro.com.np:8274/
 #EXTINF:-1 Pakhribas FM

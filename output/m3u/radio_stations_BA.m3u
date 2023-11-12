@@ -3,7 +3,7 @@
 #EXTINF:-1 	Radio Tešanj 92.2MHz
 http://radio.daj.ba:8082/stream
 #EXTINF:-1  Radio DAŠ
-http://158.69.119.6:8095/;&type=mp3
+http://158.69.119.6:8095/&type=mp3
 #EXTINF:-1  Radiopostaja Mir - Međugorje
 http://mirm.live/mir.mp3
 #EXTINF:-1 Antena Radio, Jelah Tešanj
@@ -27,7 +27,7 @@ https://s2.free-shoutcast.com/stream/18170
 #EXTINF:-1 Free Radio
 https://vestreams.com/8008/stream
 #EXTINF:-1 HIT Radio Brčko
-http://51.254.61.148:8152/;autostart=1
+http://51.254.61.148:8152/autostart=1
 #EXTINF:-1 Islamski Radio
 http://eu3.fastcast4u.com:5762/stream
 #EXTINF:-1 Kakanj, Radio Kakanj
@@ -47,11 +47,11 @@ http://www.kupreskiradio.com/kupreski.m3u
 #EXTINF:-1 Megamix
 https://eu1.fastcast4u.com/proxy/megamix?mp=/1
 #EXTINF:-1 Nes Radio
-http://188.40.62.20:8070/;
+http://188.40.62.20:8070/
 #EXTINF:-1 novii
 http://s37.myradiostream.com:8120/
 #EXTINF:-1 Običan Radio
-http://ca4.rcast.net:8010/;
+http://ca4.rcast.net:8010/
 #EXTINF:-1 Običan radio
 http://ca4.rcast.net:8010/stream?type=http&nocache=42605
 #EXTINF:-1 Pakao Radio
@@ -61,7 +61,7 @@ http://cast2.name.ba:8127/stream/
 #EXTINF:-1 Radio 8 Sarajevo
 https://radio8-bhcloud.radioca.st/1.mp3
 #EXTINF:-1 Radio Avlija
-http://51.255.127.128:8900/;
+http://51.255.127.128:8900/
 #EXTINF:-1 Radio BA - Sarajevo
 http://162.241.132.173:10002/Radio_BA.m3u
 #EXTINF:-1 Radio Balkanium
@@ -77,13 +77,13 @@ http://5.9.13.39:8071/stream
 #EXTINF:-1 Radio Bir
 http://opml.radiotime.com/Tune.ashx?id=s102873
 #EXTINF:-1 Radio BN
-http://stream.rtvbn.com:8522/;.mp3
+http://stream.rtvbn.com:8522/.mp3
 #EXTINF:-1 Radio Bobar
 http://94.130.11.28:9010/
 #EXTINF:-1 Radio Bosanska Krupa
 http://195.222.33.217:8091/
 #EXTINF:-1 Radio Bosanska Posavina
-http://78.46.64.6:7000/;
+http://78.46.64.6:7000/
 #EXTINF:-1 Radio Bosanski Brod
 https://zpilipov-geckohost.radioca.st/stream
 #EXTINF:-1 Radio Breza
@@ -101,7 +101,7 @@ http://dm-live-bijeljina.asuscomm.com:8040/
 #EXTINF:-1 Radio Doboj
 http://188.40.62.20:8034/
 #EXTINF:-1 Radio Donji Vakuf
-http://5.9.71.122:8134/;stream.mp3
+http://5.9.71.122:8134/stream.mp3
 #EXTINF:-1 Radio Džungla Doboj
 http://5.9.25.50:9302/stream
 #EXTINF:-1 Radio Džungla Doboj 2
@@ -109,9 +109,9 @@ http://cast2.name.ba:9054/
 #EXTINF:-1 Radio Džungla Doboj 3
 http://cast2.name.ba:8006/
 #EXTINF:-1 Radio Feral 100.4 Sarajevo
-http://185.50.56.3/;stream.nsv
+http://185.50.56.3/stream.nsv
 #EXTINF:-1 Radio Glas Drine
-http://109.105.201.90:8028/;
+http://109.105.201.90:8028/
 #EXTINF:-1 Radio Grude
 http://radio.pa-hosting.de:1040/
 #EXTINF:-1 Radio Kapija
@@ -119,7 +119,7 @@ http://s1.voscast.com:7470/
 #EXTINF:-1 RADIO KISS KISELJAK
 http://stream.kissfm.ba:8010/live
 #EXTINF:-1 Radio Ključ
-http://195.222.33.217:8093/;
+http://195.222.33.217:8093/
 #EXTINF:-1 Radio Lukavac
 http://195.222.33.217:8022/
 #EXTINF:-1 Radio M
@@ -133,21 +133,21 @@ http://cloudrad.io/radiomariabosnia/listen.pls
 #EXTINF:-1 Radio MIX
 http://116.203.7.166:9010/stream/
 #EXTINF:-1 Radio Novi Grad 100MHz
-http://s37.myradiostream.com:8120/;stream.mp3
+http://s37.myradiostream.com:8120/stream.mp3
 #EXTINF:-1 Radio Posavina Zagreb
-http://cmr-hosting.com:8500/;stream.mp3
+http://cmr-hosting.com:8500/stream.mp3
 #EXTINF:-1 Radio Postaja Odzak
 https://livessl.rcast.net/stream/66771/
 #EXTINF:-1 Radio Preporod Odzak 95,2
-http://s1.voscast.com:7986/;
+http://s1.voscast.com:7986/
 #EXTINF:-1 Radio Rujnica Zavidovici
 https://r.name.ba:7115/stream
 #EXTINF:-1 Radio Sarajevo
 http://malla.softnet.si:8000/
 #EXTINF:-1 Radio Sehara
-https://r.name.ba:7320/;
+https://r.name.ba:7320/
 #EXTINF:-1 Radio Slobomir
-http://51.254.61.148:9911/;%20stream
+http://51.254.61.148:9911/%20stream
 #EXTINF:-1 Radio Slon
 http://31.47.0.130:88/broadwavehigh.mp3
 #EXTINF:-1 Radio Srebrenik
@@ -157,7 +157,7 @@ https://c2.radioboss.fm:18249/stream
 #EXTINF:-1 Radio Studio D
 http://radio.studiod.ba:8018/
 #EXTINF:-1 Radio Studio M
-http://188.40.62.20:8014/;
+http://188.40.62.20:8014/
 #EXTINF:-1 Radio Veseli Bosanac
 http://opportunity.shoutca.st:8038/
 #EXTINF:-1 Radio Vihror
@@ -171,7 +171,7 @@ http://stream.rtvze.ba:8000/stream
 #EXTINF:-1 RADIO ZENIT
 http://5.189.168.133:8020/1
 #EXTINF:-1 Radio Zenit - caffe
-http://5.189.168.133:8020/stream/2/;
+http://5.189.168.133:8020/stream/2/
 #EXTINF:-1 Radio ZENIT Zenica
 http://5.189.168.133:8020/1
 #EXTINF:-1 Radio Žepče
@@ -183,16 +183,16 @@ https://radio8-bhcloud.radioca.st/1.mp3
 #EXTINF:-1 RDV
 http://www.shoutcastunlimited.com:8892/stream/1/
 #EXTINF:-1 RSG
-http://116.203.7.166:9000/;*.mp3
+http://116.203.7.166:9000/*.mp3
 #EXTINF:-1 RTV Sana
 http://78.129.185.84:35681/
 #EXTINF:-1 Skala Radio
-http://cast2.name.ba:9049/;
+http://cast2.name.ba:9049/
 #EXTINF:-1 Slon Radio Tuzla
-http://31.47.0.130:88/broadwavehigh.mp3?src=1;
+http://31.47.0.130:88/broadwavehigh.mp3?src=1
 #EXTINF:-1 Srce Krajine
 https://srv.mediastriming.com/8330/stream
 #EXTINF:-1 Studentski eFM Radio
 https://stream-161.zeno.fm/e0uu6uhveg0uv?zs=RSrkwb0QSxKboynGFqHUFA
 #EXTINF:-1 Velkaton
-http://188.40.62.20:8044/;stream.mp3?_=1
+http://188.40.62.20:8044/stream.mp3?_=1

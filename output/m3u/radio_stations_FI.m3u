@@ -85,7 +85,7 @@ http://185.123.117.122:8000/ramona.mp3
 #EXTINF:-1 Radio Ramona - Joulurauma
 http://c0.toivon.net:8100/stream
 #EXTINF:-1 Radio Sandels
-http://suomiradio.pro:8080/;
+http://suomiradio.pro:8080/
 #EXTINF:-1 Radio Santa Claus
 https://streaming.radiostreamlive.com/radiosantaclaus_devices
 #EXTINF:-1 Radio SUN
@@ -109,6 +109,6 @@ https://s3.myradiostream.com/4976/listen.mp3
 #EXTINF:-1 Sea fm
 http://s3.myradiostream.com:4976/listen.pls
 #EXTINF:-1 Sea FM Radio
-http://s3.myradiostream.com:4976/;
+http://s3.myradiostream.com:4976/
 #EXTINF:-1 Synthwave Radio
 https://icecast.synthwaveradio.eu:8000/live?nocache=122809

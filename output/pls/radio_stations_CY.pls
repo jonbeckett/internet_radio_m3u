@@ -11,7 +11,7 @@ File5=http://live3.istoikona.net:8372/stream/2/Title1=Kanali
 Title5=Kanali6 (106.00 | 98.6 | 107.00 | 106.9) Lemesos Cyprus Alternative Stream
 File6=http://r1.phileradio.com:8193/89FM
 Title6=Kiss fm Cyprus 89.0
-File7=http://eco.onestreaming.com:8310/;
+File7=http://eco.onestreaming.com:8310/
 Title7=Klik FM - Paphos
 File8=http://stream.radiojar.com/mw1xsf0dpnruv.mp3
 Title8=Lemoni Radio
@@ -19,7 +19,7 @@ File9=https://s9.webradio-hosting.com/proxy/mix4me/stream
 Title9=Mix4.me uplifitng trance web radio
 File10=https://live3.istoikona.net:18191/stream
 Title10=Radio Proto
-File11=http://live3.istoikona.net:8278/;
+File11=http://live3.istoikona.net:8278/
 Title11=Rock FM Cyprus
 File12=http://sportfm-cyprus.live24.gr/sportfm-cyprus
 Title12=Sport FM Cyprus

@@ -9,17 +9,17 @@ http://stream.europeanhitradio.com:8000/ehr.mp3
 #EXTINF:-1 Kurzemes Radio
 http://31.170.16.6:8000/
 #EXTINF:-1 Latvijas Kristīgais Radio
-https://radio.lkr.lv/;?type=http&nocache=40
+https://radio.lkr.lv/?type=http&nocache=40
 #EXTINF:-1 Latvijas Radio 1
-http://lr1mp1.latvijasradio.lv:8012/;
+http://lr1mp1.latvijasradio.lv:8012/
 #EXTINF:-1 Latvijas Radio 2
-http://lr2mp1.latvijasradio.lv:8002/;
+http://lr2mp1.latvijasradio.lv:8002/
 #EXTINF:-1 Latvijas Radio 3 - Klasika
-http://lr3mp0.latvijasradio.lv:8004/;
+http://lr3mp0.latvijasradio.lv:8004/
 #EXTINF:-1 Latvijas Radio 4
-http://lr4mp1.latvijasradio.lv:8020/;
+http://lr4mp1.latvijasradio.lv:8020/
 #EXTINF:-1 Latvijas Radio 5
-http://lr5mp1.latvijasradio.lv:8012/;
+http://lr5mp1.latvijasradio.lv:8012/
 #EXTINF:-1 LRMAROCKRADIO
 https://c22.radioboss.fm:18318/stream
 #EXTINF:-1 LV Radio 1
@@ -45,7 +45,7 @@ http://www.radioenergy.lv:9000/listen.pls
 #EXTINF:-1 RADIO MARIA LATVIA
 http://dreamsiteradiocp2.com:8046/stream
 #EXTINF:-1 Radio NABA
-http://nabamp0.latvijasradio.lv:8016/;
+http://nabamp0.latvijasradio.lv:8016/
 #EXTINF:-1 Radio Rezekne 
 http://195.13.164.134:8000/source.mp3
 #EXTINF:-1 Radio SWH
@@ -77,4 +77,4 @@ https://topradio.live.advailo.com/topradio/mp3/icecast.audio
 #EXTINF:-1 TOPradio
 http://195.13.200.164:8000/listen.pls
 #EXTINF:-1 TopRadio
-http://195.13.200.164:8000/;
+http://195.13.200.164:8000/

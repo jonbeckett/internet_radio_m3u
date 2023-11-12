@@ -7,7 +7,7 @@ File3=http://playerservices.streamtheworld.com/api/livestream-redirect/BFM.mp3
 Title3=BFM 89.9
 File4=http://51.79.240.13:8000/
 Title4=GegarFmv2
-File5=http://eu8.fastcast4u.com:5068/;
+File5=http://eu8.fastcast4u.com:5068/
 Title5=Jazz Lounge
 File6=https://usa3.fastcast4u.com/proxy/jeifm?mp=/1
 Title6=Jei FM Klang Tamil Radio
@@ -21,6 +21,6 @@ File10=http://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL
 Title10=Nasional FM 88,5 MHz
 File11=https://23743.live.streamtheworld.com/RAKITA_SC
 Title11=RAKITA
-File12=http://java.skychatz.org:8080/;stream/1
+File12=http://java.skychatz.org:8080/stream/1
 Title12=SkyChatzFM
 NumberOfEntries=12

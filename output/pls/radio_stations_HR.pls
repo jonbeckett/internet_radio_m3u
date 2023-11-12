@@ -13,7 +13,7 @@ File6=http://cmr-hosting.com:8070/stream?type=http&nocache=646624
 Title6=..:: CLUB MUSIC RADIO ::....:: TAMBURA ::..
 File7=http://patmos.cdnstream.com:8222/stream?type=http&nocache=120427
 Title7=..:: RADiO LuDNiCA :: Original Croatian Internet Radio ::..
-File8=http://live.antenazagreb.hr:8002/;
+File8=http://live.antenazagreb.hr:8002/
 Title8=Antena Zagreb Uživo
 File9=http://live.antenazadar.hr:9000/stream/
 Title9=Antena ZD
@@ -23,7 +23,7 @@ File11=http://s3.radio.co/se83499ee0/listen
 Title11=Braniteljski radio "Nepokoreni grad"
 File12=https://audio.social3.hr/listen/bravo_kids/stream?3367
 Title12=bravo! kids
-File13=http://s8.iqstreaming.com:8058/stream;
+File13=http://s8.iqstreaming.com:8058/stream
 Title13=City-radio 88.6
 File14=http://cmr-hosting.com:8070/
 Title14=Club Music Radio Tambura
@@ -55,7 +55,7 @@ File27=http://20723.live.streamtheworld.com/VOICEOFCROATIA.mp3
 Title27=GLAS HRVATSKE - HRVATSKI RADIO
 File28=https://onlineradiobox.com/json/hr/gradskivirovitica/play?platform=web
 Title28=Gradski radio Virovitica
-File29=http://s8.iqstreaming.com:8012/;stream.mp3
+File29=http://s8.iqstreaming.com:8012/stream.mp3
 Title29=Hit Radio
 File30=http://s8.iqstreaming.com:8012/listen.pls?sid=1
 Title30=Hit Rado Sinj
@@ -91,7 +91,7 @@ File45=http://live.hrv.hr:8000/hrv
 Title45=Hrvatski radio Vukovar
 File46=http://cmr-hosting.com:8050/stream?type=http&nocache=5796
 Title46=https://clubmusic-1.com/
-File47=http://s8.iqstreaming.com:8060/;stream/1
+File47=http://s8.iqstreaming.com:8060/stream/1
 Title47=Jugoton HIT Radio - Wien/Bec - Vas i nas Radio
 File48=https://klfmorgborg.radioca.st/stream?type=http&nocache=1089
 Title48=KLFM.org
@@ -109,7 +109,7 @@ File54=http://194.145.208.251:8004/start/lfmri
 Title54=Laganini Rijeka
 File55=http://194.145.208.251:8000/start/lfmzg
 Title55=Laganini Zagreb
-File56=https://cmr-hosting.com:7013/;
+File56=https://cmr-hosting.com:7013/
 Title56=Narodni Radio Goga
 File57=http://naxidigital-house128.streaming.rs:8000/listen.pls
 Title57=Naxi House
@@ -139,7 +139,7 @@ File69=http://stream.radio808.info:8003/listen.pls
 Title69=Radio 808
 File70=https://808proxy.contrib.hr/
 Title70=Radio 808 Zagreb
-File71=http://stream1.radio-banovina.hr:8008/;
+File71=http://stream1.radio-banovina.hr:8008/
 Title71=Radio Banovina
 File72=https://onlineradiobox.com/json/hr/bnm/play?platform=web
 Title72=Radio Biograd na Moru
@@ -151,7 +151,7 @@ File75=http://radiocentar.hr:8282/mp3
 Title75=Radio Centar Studio Poreč
 File76=http://85.17.172.242:8070/
 Title76=Radio Daruvar
-File77=http://live.deejay.hr:7002/;
+File77=http://live.deejay.hr:7002/
 Title77=Radio Deejay HR
 File78=http://cmr-hosting.com:8430/stream?type=http&nocache=343
 Title78=Radio DJ Grga
@@ -203,7 +203,7 @@ File101=https://s8.iqstreaming.com:8014/stream
 Title101=Radio Otok Krk
 File102=http://178.218.163.171:8010/ploce
 Title102=Radio Ploce 64,5 MHz
-File103=http://s1.voscast.com:7986/;
+File103=http://s1.voscast.com:7986/
 Title103=Radio Preporod
 File104=http://eu7.fastcast4u.com:6124/stream
 Title104=Radio Prkos
@@ -237,7 +237,7 @@ File118=https://c8.hostingcentar.com/streams/radiotvornica?type=http&nocache=500
 Title118=Radio Tvornica
 File119=https://onlineradiobox.com/json/hr/vinkovci/play?platform=web
 Title119=Radio Vinkovci
-File120=http://c2.hostingcentar.com:9452/;
+File120=http://c2.hostingcentar.com:9452/
 Title120=Radio Vrbovec 94.5
 File121=http://live.radio101.hr:9531/
 Title121=Radio101

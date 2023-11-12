@@ -15,7 +15,7 @@ http://cmr-hosting.com:8070/stream?type=http&nocache=646624
 #EXTINF:-1 ..:: RADiO LuDNiCA :: Original Croatian Internet Radio ::..
 http://patmos.cdnstream.com:8222/stream?type=http&nocache=120427
 #EXTINF:-1 Antena Zagreb Uživo
-http://live.antenazagreb.hr:8002/;
+http://live.antenazagreb.hr:8002/
 #EXTINF:-1 Antena ZD
 http://live.antenazadar.hr:9000/stream/
 #EXTINF:-1 Bijelo-plavi radio
@@ -25,7 +25,7 @@ http://s3.radio.co/se83499ee0/listen
 #EXTINF:-1 bravo! kids
 https://audio.social3.hr/listen/bravo_kids/stream?3367
 #EXTINF:-1 City-radio 88.6
-http://s8.iqstreaming.com:8058/stream;
+http://s8.iqstreaming.com:8058/stream
 #EXTINF:-1 Club Music Radio Tambura
 http://cmr-hosting.com:8070/
 #EXTINF:-1 CMC Classic
@@ -57,7 +57,7 @@ http://20723.live.streamtheworld.com/VOICEOFCROATIA.mp3
 #EXTINF:-1 Gradski radio Virovitica
 https://onlineradiobox.com/json/hr/gradskivirovitica/play?platform=web
 #EXTINF:-1 Hit Radio
-http://s8.iqstreaming.com:8012/;stream.mp3
+http://s8.iqstreaming.com:8012/stream.mp3
 #EXTINF:-1 Hit Rado Sinj
 http://s8.iqstreaming.com:8012/listen.pls?sid=1
 #EXTINF:-1 HKR
@@ -93,7 +93,7 @@ http://live.hrv.hr:8000/hrv
 #EXTINF:-1 https://clubmusic-1.com/
 http://cmr-hosting.com:8050/stream?type=http&nocache=5796
 #EXTINF:-1 Jugoton HIT Radio - Wien/Bec - Vas i nas Radio
-http://s8.iqstreaming.com:8060/;stream/1
+http://s8.iqstreaming.com:8060/stream/1
 #EXTINF:-1 KLFM.org
 https://klfmorgborg.radioca.st/stream?type=http&nocache=1089
 #EXTINF:-1 Laganini FM
@@ -111,7 +111,7 @@ http://194.145.208.251:8004/start/lfmri
 #EXTINF:-1 Laganini Zagreb
 http://194.145.208.251:8000/start/lfmzg
 #EXTINF:-1 Narodni Radio Goga
-https://cmr-hosting.com:7013/;
+https://cmr-hosting.com:7013/
 #EXTINF:-1 Naxi House
 http://naxidigital-house128.streaming.rs:8000/listen.pls
 #EXTINF:-1 Novi Radio Zadar
@@ -141,7 +141,7 @@ http://stream.radio808.info:8003/listen.pls
 #EXTINF:-1 Radio 808 Zagreb
 https://808proxy.contrib.hr/
 #EXTINF:-1 Radio Banovina
-http://stream1.radio-banovina.hr:8008/;
+http://stream1.radio-banovina.hr:8008/
 #EXTINF:-1 Radio Biograd na Moru
 https://onlineradiobox.com/json/hr/bnm/play?platform=web
 #EXTINF:-1 Radio Blagovesti
@@ -153,7 +153,7 @@ http://radiocentar.hr:8282/mp3
 #EXTINF:-1 Radio Daruvar
 http://85.17.172.242:8070/
 #EXTINF:-1 Radio Deejay HR
-http://live.deejay.hr:7002/;
+http://live.deejay.hr:7002/
 #EXTINF:-1 Radio DJ Grga
 http://cmr-hosting.com:8430/stream?type=http&nocache=343
 #EXTINF:-1 RADIO DUBROVNIK
@@ -205,7 +205,7 @@ https://s8.iqstreaming.com:8014/stream
 #EXTINF:-1 Radio Ploce 64,5 MHz
 http://178.218.163.171:8010/ploce
 #EXTINF:-1 Radio Preporod
-http://s1.voscast.com:7986/;
+http://s1.voscast.com:7986/
 #EXTINF:-1 Radio Prkos
 http://eu7.fastcast4u.com:6124/stream
 #EXTINF:-1 Radio Quirinus 91.7
@@ -239,7 +239,7 @@ https://c8.hostingcentar.com/streams/radiotvornica?type=http&nocache=50001
 #EXTINF:-1 Radio Vinkovci
 https://onlineradiobox.com/json/hr/vinkovci/play?platform=web
 #EXTINF:-1 Radio Vrbovec 94.5
-http://c2.hostingcentar.com:9452/;
+http://c2.hostingcentar.com:9452/
 #EXTINF:-1 Radio101
 http://live.radio101.hr:9531/
 #EXTINF:-1 Rovinj FM

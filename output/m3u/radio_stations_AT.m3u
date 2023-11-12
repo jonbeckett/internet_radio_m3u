@@ -125,7 +125,7 @@ https://streams.ilovemusic.de/iloveradio104.mp3
 #EXTINF:-1 JazzW3
 http://jazz.w3.at:8000/w3jazz.mp3
 #EXTINF:-1 Jugoton Hit Radio Wien
-http://s8.iqstreaming.com:8060/;stream.nsv
+http://s8.iqstreaming.com:8060/stream.nsv
 #EXTINF:-1 Kronehit
 http://onair.krone.at/kronehit.mp3
 #EXTINF:-1 KroneHit - Hardstyle
@@ -159,7 +159,7 @@ http://188.138.9.183/digital.mp3
 #EXTINF:-1 LoungeFM UKW Wien
 http://188.138.9.183/lounge-at.mp3
 #EXTINF:-1 Macjingle Heartbeat
-http://host6.cartwall.at:7200/;stream.nsv
+http://host6.cartwall.at:7200/stream.nsv
 #EXTINF:-1 Moj Radio
 http://www.mojradio.net/play/playlist.pls
 #EXTINF:-1 Mountain Reggae Radio
@@ -221,7 +221,7 @@ https://edge06.streamonkey.net/radio886-rotweissrock/stream/mp3?aggregator=886We
 #EXTINF:-1 Radio Agora 105,5
 https://livestream.agora.at/agora
 #EXTINF:-1 Radio Alpenstar
-http://streamplus62.leonex.de:22674/;
+http://streamplus62.leonex.de:22674/
 #EXTINF:-1 Radio Austria
 https://onair.securestream.radioaustria.at/radioaustria
 #EXTINF:-1 Radio B138
@@ -251,7 +251,7 @@ http://orf-live.ors-shoutcast.at/ktn-q2a
 #EXTINF:-1 Radio Klassik Stephansdom
 http://radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3
 #EXTINF:-1 Radio Liria
-http://46.4.104.253:9998/;
+http://46.4.104.253:9998/
 #EXTINF:-1 Radio Maria Austria
 http://live.radiomaria.at:8000/rma.m3u
 #EXTINF:-1 Radio Maria Austria (56 kbps)
@@ -277,7 +277,7 @@ http://orf-live.ors-shoutcast.at/oe3-q2a
 #EXTINF:-1 Radio OP
 https://server4.streamserver24.com:26250/stream
 #EXTINF:-1 Radio Osttirol
-http://streamplus20.leonex.de:28768/;
+http://streamplus20.leonex.de:28768/
 #EXTINF:-1 Radio Pro 
 http://65.108.124.70:7308/stream
 #EXTINF:-1 Radio Seniorkom
@@ -329,7 +329,7 @@ https://radio1.stream24.net:8410/
 #EXTINF:-1 Soundportal (MP3, 128 kBit)
 http://rs8.stream24.net/radio-soundportal.mp3
 #EXTINF:-1 Spirit Live Radio
-http://server7606.streamplus.de/;
+http://server7606.streamplus.de/
 #EXTINF:-1 Stadtradio Krems
 http://musikwelle.com:8000/stream.mp3
 #EXTINF:-1 Stahlradio
@@ -343,11 +343,11 @@ https://trock.fluidstream.eu/trock.mp3
 #EXTINF:-1 Technikum City
 https://stream.radiotechnikum.at/TECHCITY
 #EXTINF:-1 Technikum CITY
-http://technikumsmoothjazz.macjingle.at:8206/;stream/1
+http://technikumsmoothjazz.macjingle.at:8206/stream/1
 #EXTINF:-1 Technikum Gold
 https://stream.radiotechnikum.at/TECHGOLD
 #EXTINF:-1 Technikum ONE
-http://radiotechnikum.macjingle.at:8200/;stream/1
+http://radiotechnikum.macjingle.at:8200/stream/1
 #EXTINF:-1 Technikum One
 https://stream.radiotechnikum.at/TECHONE
 #EXTINF:-1 Technikum Rock

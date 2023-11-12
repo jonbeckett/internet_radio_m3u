@@ -19,7 +19,7 @@ File9=https://servidor14.brlogic.com:8150/live
 Title9=Rádio Larochette
 File10=https://uk1.listen2myradio.com:2199/listen.php?port=8312&type=s2&mount=/stream
 Title10=Radio Puls Luxembourg
-File11=https://shoutcast.datateam.center:8000/radio/rbv/;
+File11=https://shoutcast.datateam.center:8000/radio/rbv/
 Title11=Radio RBV
 File12=http://stream.rtlradio.de/rtl-de-national/mp3-192/
 Title12=RTL Radio - Deutschlands Hit-Radio

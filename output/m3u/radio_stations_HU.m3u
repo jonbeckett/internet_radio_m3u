@@ -5,7 +5,7 @@ https://icast.connectmedia.hu/5301/live.mp3
 #EXTINF:-1 Aktív Rádió
 http://aktivradio.hu:8000/aktiv.mp3
 #EXTINF:-1 Balaton Rádió
-http://91.82.85.41:8200/;
+http://91.82.85.41:8200/
 #EXTINF:-1 BALATONICA RADIO
 http://balatonica.hu:8000/stream_high
 #EXTINF:-1 Bartók Rádió
@@ -21,7 +21,7 @@ https://bdpstrock.hu/live_128.mp3
 #EXTINF:-1 Beat Rádió
 https://stream.nmih.hu:9012/live.mp3
 #EXTINF:-1 Best FM - Budapest
-https://icast.connectmedia.hu/5101/live.mp3/;
+https://icast.connectmedia.hu/5101/live.mp3/
 #EXTINF:-1 Best FM - Debrecen
 http://stream.webthings.hu:8000/fm95-x-128.mp3
 #EXTINF:-1 Best FM - Eger
@@ -33,9 +33,9 @@ https://icast.connectmedia.hu/5128/live.mp3
 #EXTINF:-1 Best FM - Székesfehérvár
 http://icast.connectmedia.hu/5113/live.mp3
 #EXTINF:-1 Best FM - Szolnok
-http://icast.connectmedia.hu/5112/live.mp3/;
+http://icast.connectmedia.hu/5112/live.mp3/
 #EXTINF:-1 Best FM - Zalaegerszeg
-http://icast.connectmedia.hu/5111/live.mp3/;
+http://icast.connectmedia.hu/5111/live.mp3/
 #EXTINF:-1 Best Of Rádió
 https://stream.phost.hu:8000/bestofradio_hq.xspf
 #EXTINF:-1 Bithang Yoo Rádió
@@ -47,11 +47,11 @@ http://188.165.11.30:4500/live.mp3
 #EXTINF:-1 Callisto Radio
 http://adas.poptarisznya.hu:4500/live.mp3
 #EXTINF:-1 Campus Rádió FM90
-https://stream.fm90.hu:8000/;
+https://stream.fm90.hu:8000/
 #EXTINF:-1 CEU Medieval Radio
-http://137.74.85.85:7020/;stream
+http://137.74.85.85:7020/stream
 #EXTINF:-1 Civil Rádió
-http://civilradio.hu:8000/;stream
+http://civilradio.hu:8000/stream
 #EXTINF:-1 Cool FM
 http://mediagw.e-tiger.net/stream/cfmhq
 #EXTINF:-1 Cool FM - Goldie'S
@@ -129,17 +129,17 @@ http://radioe.net:8080/efm_hd
 #EXTINF:-1 FM 103.9 A Rock
 https://stream.rockradio.hu/
 #EXTINF:-1 FM90 Campus Rádió
-http://stream.fm90.hu:8000/;
+http://stream.fm90.hu:8000/
 #EXTINF:-1 Folkrádio
 https://stream.folkradio.hu/folkradio.mp3
 #EXTINF:-1 Folkrádió
 https://stream.folkradio.hu/folkradio.mp3
 #EXTINF:-1 Forrás Rádió
-http://91.82.85.44:9000/;stream
+http://91.82.85.44:9000/stream
 #EXTINF:-1 Forrás radio
 http://91.82.85.44:1630/forrasradio.mp3
 #EXTINF:-1 Friss FM 93.4
-http://stream.frissfm.hu:10050/;
+http://stream.frissfm.hu:10050/
 #EXTINF:-1 Gong Rádió
 http://stream.gongradio.hu:8000/gong-fm.mp3
 #EXTINF:-1 Győr+
@@ -177,7 +177,7 @@ http://hu-stream02.klubradio.hu:8080/32kbit
 #EXTINF:-1 Klubrádió V2
 https://hu-stream05.klubradio.hu:8443/bpstream
 #EXTINF:-1 KORONAfm100
-http://82.141.165.6:8000/;stream
+http://82.141.165.6:8000/stream
 #EXTINF:-1 Kossuth
 https://icast.connectmedia.hu/4736/mr1.mp3
 #EXTINF:-1 Lahmacun Radio
@@ -227,7 +227,7 @@ http://stream.mercyradio.eu/mulatos.mp3
 #EXTINF:-1 Mex Deejay
 http://stream.diazol.hu:31040/deejay.mp3
 #EXTINF:-1 miradionk.hu
-http://92.61.114.191:6030/;
+http://92.61.114.191:6030/
 #EXTINF:-1 Mixradio fresh
 http://adas.adasszerver.hu/live
 #EXTINF:-1 MixradioRetro
@@ -239,7 +239,7 @@ https://stream.diazol.hu:7092/zene.mp3
 #EXTINF:-1 Momó Rádió Mese
 https://stream.diazol.hu:7092/mese.mp3
 #EXTINF:-1 Mustár Rádió
-http://193.138.125.14:8500/;
+http://193.138.125.14:8500/
 #EXTINF:-1 Next FM
 https://stream.nextfm.hu/radio/8000/nextfmhu.mp3?1590416039
 #EXTINF:-1 Nóta FM - 128k MP3
@@ -247,7 +247,7 @@ http://notafm.hu/media/notafm_mp3.m3u
 #EXTINF:-1 NST Music FM
 http://109.169.23.17:8428/nstmusicfm
 #EXTINF:-1 Open Air Radio
-http://79.172.209.223:9200/stream;
+http://79.172.209.223:9200/stream
 #EXTINF:-1 oxigen
 https://oxygenmusic.hu:8443/oxygenmusic
 #EXTINF:-1 Oxygen Black Music
@@ -301,7 +301,7 @@ http://adas.poptarisznya.hu:8200/blues.mp3
 #EXTINF:-1 Poptarisznya Oldies
 http://adas.poptarisznya.hu:8200/oldies.mp3
 #EXTINF:-1 Power FM - Rock FM
-http://s39.myradiostream.com:11590/listen/;.mp3
+http://s39.myradiostream.com:11590/listen/.mp3
 #EXTINF:-1 Rádió 1
 https://icast.connectmedia.hu/5201/live.mp3
 #EXTINF:-1 Rádió 1
@@ -325,15 +325,15 @@ http://stream.radio1pecs.hu:8200/pecs.mp3
 #EXTINF:-1 Rádió 1 Szeged
 http://icast.connectmedia.hu/5232/live.mp3
 #EXTINF:-1 Rádió 1 Szombathely
-http://77.221.39.23:8000/;
+http://77.221.39.23:8000/
 #EXTINF:-1 Rádió 7
 http://netradio.radio7.hu:8300/stream.mp3
 #EXTINF:-1 Rádió 88
-http://stream.radio88.hu:8000/;
+http://stream.radio88.hu:8000/
 #EXTINF:-1 Rádió 88 Club
-http://stream2.radio88.hu:8400/;stream
+http://stream2.radio88.hu:8400/stream
 #EXTINF:-1 Rádió 88 Top
-http://stream3.radio88.hu:8500/;stream
+http://stream3.radio88.hu:8500/stream
 #EXTINF:-1 Rádió Antritt
 http://stream.radioantritt.hu:8000/Antritt
 #EXTINF:-1 Rádió Bézs
@@ -341,13 +341,13 @@ http://195.210.29.82:8001/bezs
 #EXTINF:-1 Rádió Bézs 2
 http://195.210.29.82:8002/bezs2
 #EXTINF:-1 Rádió Dabas
-http://stream3.virtualisan.net:7040/;
+http://stream3.virtualisan.net:7040/
 #EXTINF:-1 Rádió Dikh
 http://icast.connectmedia.hu/6121/live.mp3
 #EXTINF:-1 Radio E
 http://radioe.net:8080/efm_high
 #EXTINF:-1 Radio face black
-http://ca3.rcast.net:8016/;
+http://ca3.rcast.net:8016/
 #EXTINF:-1 RADIO INSIDE
 https://radioinside.eu/live.mp3
 #EXTINF:-1 Radio Kaleid
@@ -355,7 +355,7 @@ https://cast4.my-control-panel.com/proxy/misli/stream
 #EXTINF:-1 Rádió Like
 https://cdn-node-44.hififm.hu:8080/stream001.mp3
 #EXTINF:-1 Rádió M
-http://hosting2.42netmedia.com:10060/;stream.mp3
+http://hosting2.42netmedia.com:10060/stream.mp3
 #EXTINF:-1 RADIO MARIA HUNGARY
 http://dreamsiteradiocp.com:8032/stream
 #EXTINF:-1 Rádió Most
@@ -431,7 +431,7 @@ http://radio.szentkoronaradio.com:8048/
 #EXTINF:-1 SzüNet Rádió
 http://92.61.114.191:1101/listen.mp3
 #EXTINF:-1 Táska Rádió
-http://live.taskaradio.com:7070/;stream.nsv#.mp3
+http://live.taskaradio.com:7070/stream.nsv#.mp3
 #EXTINF:-1 Tilos Rádió
 http://stream.tilos.hu/tilos
 #EXTINF:-1 Tilos Rádió - Jazz is dead?

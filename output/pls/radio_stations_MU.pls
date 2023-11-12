@@ -3,7 +3,7 @@ File1=http://cdn.nrjaudio.fm/adwz1/mu/55802/mp3_128.mp3
 Title1=NRJ Maurice 92,4 FM
 File2=https://webstream.r1.mu/proxy/r1stream128fm/stream
 Title2=Radio One
-File3=http://s4.voscast.com:8432/;?icy=http
+File3=http://s4.voscast.com:8432/?icy=http
 Title3=Radio Plus Mauritius
 File4=https://streamer.radio.co/s3fe39a4a4/listen
 Title4=Radioplus Fever

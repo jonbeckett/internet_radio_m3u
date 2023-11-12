@@ -55,7 +55,7 @@ http://stream.zeno.fm/t7cdutykw38uv.m3u
 #EXTINF:-1 Estilo FM
 http://audio2.tustreaming.cl:8058/stream
 #EXTINF:-1 ESTRELLA DEL MAR
-https://streaming.chiloestreaming.com/9626/;
+https://streaming.chiloestreaming.com/9626/
 #EXTINF:-1 Exitosa
 https://stream-024.zeno.fm/dg69bex4gxquv?zs=XUpp6K5zR3aUWceZbwXJcQ
 #EXTINF:-1 Fanatica CHILL
@@ -67,7 +67,7 @@ http://ascl.denial.cl:8008/
 #EXTINF:-1 Fanatica POP
 http://ascl.denial.cl:8010/
 #EXTINF:-1 Fanática UNO
-http://ascl.denial.cl:8042/;
+http://ascl.denial.cl:8042/
 #EXTINF:-1 Femenina FM
 http://archi-us.digitalproserver.com/femenina.aac
 #EXTINF:-1 FM de los Recuerdos
@@ -99,13 +99,13 @@ http://stream5.eltelon.com/archi-yungay.aac
 #EXTINF:-1 LaRetro
 http://s2.radio.co/s9ecef4f68/listen.m3u
 #EXTINF:-1 LibelulaChile.com señal 1
-https://streaming.viphosting.cl:7138/;
+https://streaming.viphosting.cl:7138/
 #EXTINF:-1 LibelulaChile.com señal 2
-https://streaming.viphosting.cl:7124/;
+https://streaming.viphosting.cl:7124/
 #EXTINF:-1 LibelulaChile.com señal 3
-https://streaming.viphosting.cl:7125/;
+https://streaming.viphosting.cl:7125/
 #EXTINF:-1 LibelulaChile.com señal 4 Tangos y algo más
-https://streaming.viphosting.cl:7126/;
+https://streaming.viphosting.cl:7126/
 #EXTINF:-1 Llacolén
 http://sonando.us.digitalproserver.com/radiollacolen.aac
 #EXTINF:-1 Los 40 Principales Chile
@@ -117,7 +117,7 @@ http://dreamsiteradiocp4.com:8024/
 #EXTINF:-1 MPB Radio Chile
 https://live.one-tv.co.uk/listen/oneradio_chile/streaming.mp3
 #EXTINF:-1 Nuevo Mundo
-http://190.82.105.90:8012/;
+http://190.82.105.90:8012/
 #EXTINF:-1 Nuevo Mundo Patagonia
 http://190.82.105.90:8012/stream/1/
 #EXTINF:-1 NUEVO STYLO CHILOE
@@ -169,7 +169,7 @@ https://audio2.tustreaming.cl:10997/stream
 #EXTINF:-1 Radio Colombina
 https://cast.radioservicios.cl:8314/radio
 #EXTINF:-1 Radio Cómplices
-https://streaming.comunicacioneschile.net:7007/;
+https://streaming.comunicacioneschile.net:7007/
 #EXTINF:-1 Radio Contacto
 https://streaming.comunicacioneschile.net/8038/stream
 #EXTINF:-1 Radio Contexto Ñuble
@@ -185,13 +185,13 @@ http://radio.streemlion.com:3780/stream
 #EXTINF:-1 Radio El Conquistador FM (Santiago)
 https://stream10.usastreams.com/9314/stream/
 #EXTINF:-1 Radio El Sembrador
-https://sonic-cl.streaming-chile.com:7035/;
+https://sonic-cl.streaming-chile.com:7035/
 #EXTINF:-1 Radio Encanto 88.5 FM
 https://archi-us.digitalproserver.com/encanto_ovalle.aac
 #EXTINF:-1 Radio Estallido Tuitero
 https://stream.zeno.fm/ws9z11fhrd0uv
 #EXTINF:-1 Radio Estrella del Norte
-http://sonic.portalfoxmix.cl:8424/;
+http://sonic.portalfoxmix.cl:8424/
 #EXTINF:-1 Radio Exquisita FM
 http://ascl.denial.cl:8002/stream
 #EXTINF:-1 Radio FM Latina Chile 89.1
@@ -223,19 +223,19 @@ https://stream.edelweiss.fm/listen/mirador_temuco_online/radio.mp3
 #EXTINF:-1 Radio Nacional - Chile (AM 114)
 http://s6.jcwebnew.com:8165/stream
 #EXTINF:-1 Radio Nuble 89.7 fm
-http://streaming.comunicacioneschile.net:9358/;
+http://streaming.comunicacioneschile.net:9358/
 #EXTINF:-1 Radio Nuevo Mundo Ovalle
 http://192.99.16.17:8102/stream
 #EXTINF:-1 RADIO NUEVO S. CHILOE  FM
 http://stream.zeno.fm/nzk58p79b9quv.pls
 #EXTINF:-1 Radio Placeres
-https://sonic.streamingchilenos.com/9856/;
+https://sonic.streamingchilenos.com/9856/
 #EXTINF:-1 Radio Portales
 https://stream.polarhost.cl/portales_am
 #EXTINF:-1 Radio Porvenir
 https://stream-41.zeno.fm/q3k1bhxe468uv?zs=t11xxzlZRCmmif4DZg--pQ
 #EXTINF:-1 Radio Rara
-http://190.3.169.87:9952/;
+http://190.3.169.87:9952/
 #EXTINF:-1 Radio Refugio Limache
 http://procyon.shoutca.st:8114/stream
 #EXTINF:-1 Radio Remid FM Chile 
@@ -293,7 +293,7 @@ https://cast01.matisanh.cl/icecast/tenina.fm
 #EXTINF:-1 Universidad Católica de Valparaíso
 http://sonando.us.digitalproserver.com/ucvradio
 #EXTINF:-1 Valparaíso
-http://200.24.229.253:8250/;stream.nsv
+http://200.24.229.253:8250/stream.nsv
 #EXTINF:-1 World Hits Radio
 https://stream.zeno.fm/6vytsnbkb8zuv
 #EXTINF:-1 Yamato

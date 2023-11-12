@@ -1,5 +1,5 @@
 [playlist]
-File1=http://s1.voscast.com:8580/;
+File1=http://s1.voscast.com:8580/
 Title1=103.7 Da Beat
 File2=https://online.kissfm.ua/KissFM_HD
 Title2=106.5 Kiss FM
@@ -39,7 +39,7 @@ File19=http://holos.fm:8000/holos
 Title19=Holos.FM
 File20=http://91.218.212.67:8000/stream
 Title20=Hromadske Radio
-File21=https://main.inf.fm:8101/;?type=http&nocache=221893
+File21=https://main.inf.fm:8101/?type=http&nocache=221893
 Title21=Informator FM
 File22=https://s3.radio.co/sa3e464c40/listen
 Title22=islndradio
@@ -189,7 +189,7 @@ File94=https://online-news.radioplayer.ua/RadioNews
 Title94=Єдині новини
 File95=https://online-news.radioplayer.ua/RadioNews
 Title95=Єдині новини 24 - BREAKING - LIVE
-File96=http://195.234.148.51:8000/;
+File96=http://195.234.148.51:8000/
 Title96=Закарпаття FM
 File97=http://noasrv.caster.fm:10001/live
 Title97=Канал Благодаті

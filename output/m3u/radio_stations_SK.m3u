@@ -121,7 +121,7 @@ http://stream.frontinus.sk:8000/frontinus128.mp3
 #EXTINF:-1 Radio Infovojna
 http://stream.infovojna.bz/live
 #EXTINF:-1 Rádio Janko Hraško
-http://78.24.9.110:31088/;
+http://78.24.9.110:31088/
 #EXTINF:-1 Rádio Jazz
 http://stream.sepia.sk:8000/jazz128.mp3
 #EXTINF:-1 Rádio KIKS
@@ -137,7 +137,7 @@ http://stream.ecce.sk:8000/radiokosice-128.mp3
 #EXTINF:-1 Rádio Košice BA
 http://176.102.98.74:8000/radiokosice-ba-128.mp3
 #EXTINF:-1 Rádio Logos
-http://radioserver.online:8824/;
+http://radioserver.online:8824/
 #EXTINF:-1 Rádio Lumen
 http://audio.lumen.sk:8000/live128.mp3
 #EXTINF:-1 Rádio Melody
@@ -159,7 +159,7 @@ https://stream.bauermedia.sk/rock-hi.mp3
 #EXTINF:-1 Rádio Rock SV
 https://s2.myradiostream.com/:4870/listen.mp3
 #EXTINF:-1 Rádio Šírava
-http://radioserver.online:8804/;stream/1
+http://radioserver.online:8804/stream/1
 #EXTINF:-1 Radio Slovensko
 https://icecast.stv.livebox.sk/slovensko_128.mp3
 #EXTINF:-1 Radio TLIS

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations
 #EXTINF:-1 Africa Online
-http://136.0.17.26:8000/;stream.nsv
+http://136.0.17.26:8000/stream.nsv
 #EXTINF:-1 Digital Congo 
 https://radiodigitalcongofm.ice.infomaniak.ch/digitalcongofm-96.mp3
 #EXTINF:-1 Gospel FM

@@ -23,7 +23,7 @@ File11=http://us5new.listen2myradio.com:2199/listen.php?port=8138&type=ice&mount
 Title11=104.1 Favour FM - Gulu - 104.1 FM (MP3)
 File12=http://stream.zeno.fm/u2uva230xp8uv
 Title12=104.1 Favour FM - The HeartBeat Of God - Gulu - 104.1 FM (MP3)
-File13=http://162.244.80.52:8732/;stream.mp3
+File13=http://162.244.80.52:8732/stream.mp3
 Title13=104.4 Kaboozi Fm
 File14=https://stream-47.zeno.fm/5b2gp19esc9uv
 Title14=104.5 Joy fm
@@ -83,13 +83,13 @@ File41=http://s5.voscast.com:9904/EMMANDUSO
 Title41=89.2 CBS Emanduso 
 File42=http://khodeyo.radioca.st/stream
 Title42=89.4 NBS Fm
-File43=http://ca10.rcast.net:8054/;&name=TOP+RADIO
+File43=http://ca10.rcast.net:8054/&name=TOP+RADIO
 Title43=89.6 Top Radio 
-File44=https://s19.myradiostream.com/:18784/;
+File44=https://s19.myradiostream.com/:18784/
 Title44=89.8 Mukono Fm
 File45=https://s19.myradiostream.com/:18784/
 Title45=89.8 Mukono Fm 
-File46=http://usa14.fastcast4u.com:5192/;
+File46=http://usa14.fastcast4u.com:5192/
 Title46=90.1 Discovery fm Jamaica 
 File47=http://41.190.132.68:8000/stream
 Title47=90.4 Dembe Fm 
@@ -97,7 +97,7 @@ File48=http://41.190.132.68:8000/stream
 Title48=90.4 Dembe Fm
 File49=https://stream.zeno.fm/xna2aad7gc9uv
 Title49=90.6 Busoga one fm
-File50=http://5229.cloudrad.io:8316/;
+File50=http://5229.cloudrad.io:8316/
 Title50=91. 3 Capital fm
 File51=https://stream-42.zeno.fm/07ksvzbz77zuv
 Title51=91.9 Prime radio 
@@ -121,7 +121,7 @@ File60=http://5230.cloudrad.io:8354/
 Title60=96.3 Beat fm
 File61=http://5230.cloudrad.io:8354/
 Title61=96.3 Beat Fm Ekintabuli 
-File62=http://162.244.80.106:10853/;
+File62=http://162.244.80.106:10853/
 Title62=97. 0 Radio City Fm
 File63=http://162.244.80.106:10853/stream
 Title63=97.0 Radio city
@@ -167,7 +167,7 @@ File83=https://stream.radiojar.com/n6c576nrga0uv
 Title83=Bible Indepth Radio
 File84=https://bmiradio.out.airtime.pro/bmiradio_b
 Title84=Bible ministries international 
-File85=http://hoth.alonhosting.com:1100/;
+File85=http://hoth.alonhosting.com:1100/
 Title85=BOLLYHITS RADIO 
 File86=http://stream.zeno.fm/ndi9k9r4lp9uv
 Title86=Boona FM 91.8 - Rukungiri - 91.8 FM (MP3)
@@ -177,11 +177,11 @@ File88=http://stream.zeno.fm/wcancipcbrevv
 Title88=Buyinza Fm
 File89=http://stream.zeno.fm/wcancipcbrevv
 Title89=Buyinza FM (MP3)
-File90=http://5229.cloudrad.io:8316/;
+File90=http://5229.cloudrad.io:8316/
 Title90=CAPITAL FM
-File91=http://5229.cloudrad.io:8316/;
+File91=http://5229.cloudrad.io:8316/
 Title91=Capital FM
-File92=http://5229.cloudrad.io:8316/;
+File92=http://5229.cloudrad.io:8316/
 Title92=CAPITAL FM
 File93=http://capitalfm.cloudrad.io/stream
 Title93=Capital FM - 91.3 FM (MP3)
@@ -225,7 +225,7 @@ File112=https://player.connectuganda.com:8000/connect.mp3
 Title112=CONNECT FM
 File113=https://player.connectuganda.com:8000/connect.mp3
 Title113=CONNECT RADIO 
-File114=http://mp.techsysug.com:21563/;stream
+File114=http://mp.techsysug.com:21563/stream
 Title114=crooze fm
 File115=http://stream.zeno.fm/m96foqqk7bxuv
 Title115=Dema Radio - Gospel Promotions (MP3)
@@ -239,7 +239,7 @@ File119=https://carolinachristian.streamguys1.com/DoveRadio
 Title119=Dove Radio
 File120=https://dw.audiostream.io/dw/1027/mp3/64/dw08
 Title120=DW NEWS
-File121=https://eatv.radioca.st/;
+File121=https://eatv.radioca.st/
 Title121=East Africa Radio 
 File122=https://eu1.reliastream.com/proxy/ejazzug?mp=/stream
 Title122=EJAZZ Radio
@@ -277,9 +277,9 @@ File138=https://listen-nation.sharp-stream.com/hull.mp3
 Title138=Great Hits Manchester 
 File139=http://stream.zeno.fm/rdf0qac95p8uv
 Title139=Heathafro FM
-File140=http://s40.myradiostream.com/21392/;
+File140=http://s40.myradiostream.com/21392/
 Title140=Hills FM - Kabale - 100.4 FM (MP3)
-File141=https://s40.myradiostream.com/21392/;?type=http&nocache=1641238033?0.3088607174505158
+File141=https://s40.myradiostream.com/21392/?type=http&nocache=1641238033?0.3088607174505158
 Title141=Hills FM 100.4
 File142=https://stream-53.zeno.fm/08dadxzxfkhvv
 Title142=HOPE FM
@@ -317,7 +317,7 @@ File158=http://streams.radio.co/s79fbbb432/listen
 Title158=MCF Radio - Kampala - 98.7 FM (MP3)
 File159=https://stream.zeno.fm/pvvz3mrtsf9uv
 Title159=MTV Indonesia 
-File160=http://s10.voscast.com:7246/;stream1660718601002/1
+File160=http://s10.voscast.com:7246/stream1660718601002/1
 Title160=Music Cristiana International 
 File161=http://air.radioart.com/fMusic_for_kids.mp3
 Title161=Music for kids
@@ -353,7 +353,7 @@ File176=https://node-28.zeno.fm/1k0y9f0cm0quv
 Title176=Punjab Radio 
 File177=https://samuel.i-radio.co:9000/radiobendicion
 Title177=Radio Benediction Dominican 
-File178=http://162.244.80.106:10853/;
+File178=http://162.244.80.106:10853/
 Title178=RADIO CITY
 File179=http://stream.zeno.fm/7f4w4us5wp8uv
 Title179=RADIO EAST NIGERIA 
@@ -381,7 +381,7 @@ File190=https://gains.reviveradio.net/proxy/rafaradio?mp=/stream
 Title190=Rafa  radio music 
 File191=https://gains.reviveradio.net/proxy/rafabibleradioeng?mp=/stream
 Title191=Rafa Bible radio
-File192=https://secure1.reliastream.com/977recordfm/;
+File192=https://secure1.reliastream.com/977recordfm/
 Title192=RECORD FM
 File193=http://ice55.securenetsystems.net/DASH79
 Title193=Reggae king
@@ -423,13 +423,13 @@ File211=http://stream.ykbcloud.com:8210/stream
 Title211=STEP FM
 File212=https://stream.radio.co:80/sbb4e6ffc8/listen
 Title212=Super fm 88.5
-File213=http://radio.talksport.com/stream2?awparams=platform:ts-web&amsparams=playerid:ts-web;
+File213=http://radio.talksport.com/stream2?awparams=platform:ts-web&amsparams=playerid:ts-web
 Title213=TALKSPORT 
-File214=http://radio.talksport.com/stream2?awparams=platform:ts-web&amsparams=playerid:ts-web;
+File214=http://radio.talksport.com/stream2?awparams=platform:ts-web&amsparams=playerid:ts-web
 Title214=TALKSPORT
 File215=https://radio.talksport.com/stream
 Title215=TALKSPORT 1
-File216=http://radio.talksport.com/stream2?awparams=platform:ts-web&amsparams=playerid:ts-web;
+File216=http://radio.talksport.com/stream2?awparams=platform:ts-web&amsparams=playerid:ts-web
 Title216=Talksport 2
 File217=https://radio.talksport.com/stream
 Title217=Talksport Premier League

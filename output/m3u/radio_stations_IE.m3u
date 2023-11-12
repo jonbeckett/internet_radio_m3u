@@ -51,7 +51,7 @@ http://wg.cdn.tibus.net/96fm
 #EXTINF:-1 Deep House Radio
 https://deephouseradio.radioca.st/deep
 #EXTINF:-1 DeepHouse Radio Station
-https://deephouseradio.radioca.st/;?1606103293673
+https://deephouseradio.radioca.st/?1606103293673
 #EXTINF:-1 Dublin Digital Radio
 http://dublindigitalradio.out.airtime.pro:8000/dublindigitalradio_a
 #EXTINF:-1 Dublin South FM
@@ -61,7 +61,7 @@ https://stream.audioxi.com/98
 #EXTINF:-1 Dublin's FM104
 https://wg.cdn.tibus.net/fm104MP3128
 #EXTINF:-1 Dundalk FM
-http://80.249.249.245:8000/;?1485109331489
+http://80.249.249.245:8000/?1485109331489
 #EXTINF:-1 East Coast FM
 http://sirius.shoutca.st:8461/
 #EXTINF:-1 East Coast FM Wicklow
@@ -69,7 +69,7 @@ http://sirius.shoutca.st:8461/
 #EXTINF:-1 Easy Radio Ireland, Easy Mix
 https://streaming.exclusive.radio/uber/easymix/icecast.audio
 #EXTINF:-1 Finn Valley FM
-http://visual.shoutca.st:8000/;
+http://visual.shoutca.st:8000/
 #EXTINF:-1 Flirt FM 101.3
 http://streams.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900
 #EXTINF:-1 Free FM Ireland
@@ -83,7 +83,7 @@ https://wg.cdn.tibus.net/galwaybay.mp3
 #EXTINF:-1 GEM New Wave Radio
 http://95.217.34.48:8928/stream
 #EXTINF:-1 Gem Radio New Wave
-https://gemradionw.radioca.st/;stream.nsv
+https://gemradionw.radioca.st/stream.nsv
 #EXTINF:-1 Head Wax Radio
 https://headwaxradio.radioca.st/stream
 #EXTINF:-1 Heartbeat FM
@@ -119,11 +119,11 @@ http://gbradio.cdn.tibus.net/LMFMCountry?aw_0_1st.platform=website&aw_0_1st.play
 #EXTINF:-1 Midwest Radio [MP3]
 http://direct.sharp-stream.com/midwestfmie.mp3
 #EXTINF:-1 MixLive.ie - InsomniaFM
-http://635.cloudrad.io:8092/;stream
+http://635.cloudrad.io:8092/stream
 #EXTINF:-1 MixLive.ie - Progressive, Tech House
-http://2.58.194.54:8870/;progressive-tech
+http://2.58.194.54:8870/progressive-tech
 #EXTINF:-1 MixLive.ie - Psybient Sunset
-http://2.58.194.54:8876/;psybient-sunset
+http://2.58.194.54:8876/psybient-sunset
 #EXTINF:-1 MPB Radio 1
 https://live.one-tv.co.uk/listen/oneradio/320kbps.mp3
 #EXTINF:-1 MPB Radio 2
@@ -145,7 +145,7 @@ https://edge2.audioxi.com/NOVA
 #EXTINF:-1 Off The Ball
 https://stream.audioxi.com/OTB?aw_0_1st.playerId=BMIE_GoLoudWeb&aw_0_1st.playerId=BMIE_GoLoudWeb&aw_0_1st.premium=false
 #EXTINF:-1 Open Your Mind Radio
-http://eu3.fastcast4u.com:5624/;
+http://eu3.fastcast4u.com:5624/
 #EXTINF:-1 OpenTempoFM
 http://eu7.fastcast4u.com:2199/tunein/opentemp.pls
 #EXTINF:-1 Phever Dublin
@@ -203,9 +203,9 @@ https://stream.audioxi.com/SW
 #EXTINF:-1 St. Ita's Hospital Radio
 http://uk2.streamingpulse.com:8042/stream
 #EXTINF:-1 Storm North East
-http://80.249.249.243:8050/;
+http://80.249.249.243:8050/
 #EXTINF:-1 Sunshine 106.8
-http://sirius.shoutca.st:8291/;stream.mp3
+http://sirius.shoutca.st:8291/stream.mp3
 #EXTINF:-1 The Zone - Dublin
 https://uk1.internet-radio.com/stream/thezone/stream.pls
 #EXTINF:-1 Tipp Mid West Radio

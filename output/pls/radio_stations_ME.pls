@@ -1,7 +1,7 @@
 [playlist]
 File1=http://radioservis.me:8010/antenamlive
 Title1=Antena M
-File2=http://5.63.151.52:7025/;
+File2=http://5.63.151.52:7025/
 Title2=Aroma radio
 File3=https://player.radiobruskin.me/proxy/radiobruskin/stream
 Title3=Bruškin
@@ -21,9 +21,9 @@ File10=https://stream.playradio.me:8443/play-me.mp3
 Title10=Play Radio Montenegro
 File11=https://mpc2.mediacp.eu/stream/andrijevica/stream
 Title11=Radio Andrijevica
-File12=http://livestream.barinfo.me:9000/;
+File12=http://livestream.barinfo.me:9000/
 Title12=Radio Bar
-File13=https://stream.iradio.pro/proxy/radioberane?mp=/stream;
+File13=https://stream.iradio.pro/proxy/radioberane?mp=/stream
 Title13=Radio Berane
 File14=http://136.243.134.202:8122/stream
 Title14=Radio Bijelo Polje
@@ -31,9 +31,9 @@ File15=https://c8.radioboss.fm:18199/stream
 Title15=Radio Budva
 File16=http://78.129.228.187:8007/stream
 Title16=Radio Cetinje
-File17=https://rtcg.ipradio.rs:9008/;
+File17=https://rtcg.ipradio.rs:9008/
 Title17=Radio Crne Gore 1
-File18=https://r98.ipradio.rs:10100/;
+File18=https://r98.ipradio.rs:10100/
 Title18=Radio Crne Gore 2 R98
 File19=http://tachyon.shoutca.st:8289/xstream
 Title19=Radio D Podgorica
@@ -71,9 +71,9 @@ File35=https://r.name.ba:7316/
 Title35=Radio Renome
 File36=https://radio.dukahosting.com/8008/stream
 Title36=Radio Tivat
-File37=http://freeuk18.listen2myradio.com:33901/;
+File37=http://freeuk18.listen2myradio.com:33901/
 Title37=Radio Zeta
-File38=https://rtcg.ipradio.rs:9103/;
+File38=https://rtcg.ipradio.rs:9103/
 Title38=Rcg Yug
 File39=http://5.189.179.77:8000/stream
 Title39=Reggaeneracija Montenegro

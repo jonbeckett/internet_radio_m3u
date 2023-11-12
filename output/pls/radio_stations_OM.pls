@@ -1,5 +1,5 @@
 [playlist]
-File1=http://uk7.internet-radio.com:8067/;
+File1=http://uk7.internet-radio.com:8067/
 Title1=Al Wisal
 File2=https://listen-halafm.sharp-stream.com/halafmlow.mp3
 Title2=Hala FM
