@@ -16,12 +16,12 @@ def encodeXMLText(text):
     return text
 
 def get_countrycodes():
-  codes = [s['countrycode'] for s in stations]
+  codes = [s['countrycode'].upper() for s in stations]
   return sorted(list(set(codes)))
 
 def create_countries_csv_file():
   print("Creating Countries CSV file")
-  countries = ([(s['countrycode'], s['country']) for s in stations])
+  countries = ([(s['countrycode'].upper(), s['country']) for s in stations])
   countries = sorted(list(set(countries)))
   with open('output/countries.csv', 'w', encoding='utf-8') as countries_file:
     for country in countries:
@@ -29,7 +29,7 @@ def create_countries_csv_file():
 
 def create_countries_txt_file():
   print("Creating Countries TXT file")
-  countries = ([(s['countrycode'], s['country']) for s in stations])
+  countries = ([(s['countrycode'].upper(), s['country']) for s in stations])
   countries = sorted(list(set(countries)))
   with open('output/countries.txt', 'w', encoding='utf-8') as countries_file:
     for country in countries:
@@ -42,7 +42,7 @@ def create_m3u_file(countrycode):
     output_file.write("#PLAYLIST:Internet Radio Stations\n")
     last_name = ""
     for s in stations:
-        if ((s['name'] != last_name) and s['lastcheckok'] == 1) and (s['countrycode'] == countrycode) and (s['codec'] == 'MP3'):
+        if ((s['name'] != last_name) and s['lastcheckok'] == 1) and (s['countrycode'].upper() == countrycode) and (s['codec'] == 'MP3'):
           output_file.write("#EXTINF:-1 " + s['name'] + '\n')
           output_file.write(clean_url(s['url']) + '\n')
         last_name = s['name']
@@ -54,7 +54,7 @@ def create_pls_file(countrycode):
     i = 0
     last_name = ""
     for s in stations:
-      if (s['name'] != last_name) and (s['lastcheckok'] == 1) and (s['countrycode'] == countrycode) and (s['codec'] == 'MP3'):
+      if (s['name'] != last_name) and (s['lastcheckok'] == 1) and (s['countrycode'].upper() == countrycode) and (s['codec'] == 'MP3'):
         i+=1
         output_file.write("File" + str(i) + "=" + clean_url(s['url']) + '\n')
         output_file.write("Title" + str(i) + "=" + s['name'] + '\n')
@@ -68,14 +68,14 @@ def create_opml_file():
     opml_file.write("<opml version=\"1.0\">\n")
     opml_file.write("<head>\n<title>Internet Radio Stations</title>\n</head>\n<body>\n")
     
-    countries = ([(s['countrycode'], s['country']) for s in stations])
+    countries = ([(s['countrycode'].upper(), s['country']) for s in stations])
     countries = sorted(list(set(countries)))
 
     for country in countries:
       opml_file.write("<outline title=\"" + encodeXMLText(country[1]) + "\" text=\"" + encodeXMLText(country[1]) + "\">\n")
       last_name = ""
       for s in stations:
-        if (s['name'] != last_name) and (s['lastcheckok'] == 1) and (s['countrycode'] == country[0]) and (s['codec'] == 'MP3'):
+        if (s['name'] != last_name) and (s['lastcheckok'] == 1) and (s['countrycode'].upper() == country[0]) and (s['codec'] == 'MP3'):
           opml_file.write("<outline text=\"" + encodeXMLText(s['name']) + "\" title=\"" + encodeXMLText(s['name']) + "\" type=\"audio\" url=\"" + encodeXMLText(clean_url(s['url'])) + "\" />\n")
         last_name = s['name']
 
@@ -90,7 +90,7 @@ def create_html_file():
     html_file.write("<html>\n<head>\n<title>Internet Radio Stations</title>\n</head>\n")
     html_file.write("<body>\n")
     
-    countries = ([(s['countrycode'], s['country']) for s in stations])
+    countries = ([(s['countrycode'].upper(), s['country']) for s in stations])
     countries = sorted(list(set(countries)))
 
     html_file.write("<h1>Internet Radio Stations</h1>")
@@ -122,7 +122,7 @@ def create_html_file():
 
       last_name = ""
       for s in stations:
-        if (s['name'] != last_name) and (s['lastcheckok'] == 1) and (s['countrycode'] == country[0]) and (s['codec'] == 'MP3'):
+        if (s['name'] != last_name) and (s['lastcheckok'] == 1) and (s['countrycode'].upper() == country[0]) and (s['codec'] == 'MP3'):
           html_file.write("<li><a href='" + clean_url(s['url']) + "'>" + s['name'] + "</a></li>")
         last_name = s['name']
 
@@ -137,6 +137,6 @@ create_opml_file()
 
 codes = get_countrycodes()
 for code in codes:
-  create_m3u_file(code)
-  create_pls_file(code)
+  create_m3u_file(code.upper())
+  create_pls_file(code.upper())
 

@@ -6862,6 +6862,7 @@ All Time Independent Classics
 <outline text="Erzgebirgs-Weihnacht" title="Erzgebirgs-Weihnacht" type="audio" url="http://stream.laut.fm/erzgebirgs-weihnacht.m3u" />
 <outline text="ESC Radio (Eurovision Song Contest Radio)" title="ESC Radio (Eurovision Song Contest Radio)" type="audio" url="http://stream.escradio.com:8030/" />
 <outline text="Esounds" title="Esounds" type="audio" url="http://stream.laut.fm/esounds" />
+<outline text="euer-radio (www.Euer - Radio.DE)" title="euer-radio (www.Euer - Radio.DE)" type="audio" url="http://s2.euer.tv/audio320" />
 <outline text="Euro Smooth Jazz" title="Euro Smooth Jazz" type="audio" url="http://stream.laut.fm/eurosmoothjazz" />
 <outline text="Eurobeat" title="Eurobeat" type="audio" url="http://stream.laut.fm/eurobeat" />
 <outline text="Eurodance" title="Eurodance" type="audio" url="https://eurodance.stream.laut.fm/eurodance" />
@@ -11525,6 +11526,7 @@ All Time Independent Classics
 <outline text="Xiberoko botza" title="Xiberoko botza" type="audio" url="https://hosting.studioradiomedia.fr:2975/stream" />
 <outline text="Yiddish pour tous" title="Yiddish pour tous" type="audio" url="https://www.radioking.com/play/radio-yiddish-pour-tous" />
 <outline text="Yoga Chill" title="Yoga Chill" type="audio" url="http://178.32.111.41:8027/stream-128kmp3-YogaChill" />
+<outline text="Yumi Co. Radio" title="Yumi Co. Radio" type="audio" url="http://yumicoradio.net:8000/stream" />
 <outline text="ZEBRadio" title="ZEBRadio" type="audio" url="http://www.zebradio.fr:8000/player.mp3" />
 <outline text="Zone Mix" title="Zone Mix" type="audio" url="https://zone-mix.stream.laut.fm/zone-mix?t302=2018-02-12_08-42-17&amp;uuid=960992d8-7019-468f-8628-5cec46e9fa42" />
 <outline text="Международное Французское Радио RFI" title="Международное Французское Радио RFI" type="audio" url="http://live02.rfi.fr/rfirusse-96k.mp3" />
@@ -19617,6 +19619,7 @@ All Time Independent Classics
 <outline text="Sizeer" title="Sizeer" type="audio" url="https://rs103-krk-cyfronet.rmfstream.pl/sizeer_fm" />
 <outline text="Śląskie Radio" title="Śląskie Radio" type="audio" url="https://stream10.hosterion.pl:7032/?v=63125/type=mp3" />
 <outline text="Slonskie Radio Hitmix" title="Slonskie Radio Hitmix" type="audio" url="http://s1.slotex.pl:7294/" />
+<outline text="SmoothJazz.com.pl" title="SmoothJazz.com.pl" type="audio" url="https://bcast.vigormultimedia.com:48888/sjcompl320mp3" />
 <outline text="SoundFM" title="SoundFM" type="audio" url="http://s1.slotex.pl:7494/" />
 <outline text="Stacja Mikrofonia" title="Stacja Mikrofonia" type="audio" url="https://s1.slotex.pl/shoutcast/7458/stream" />
 <outline text="Stars TV" title="Stars TV" type="audio" url="http://85.14.116.58:8001/starstv.m3u" />
@@ -25796,19 +25799,6 @@ JOHN FREDERICKS RADIO NETWORK" type="audio" url="https://us2.maindigitalstream.c
 <outline title="Zimbabwe" text="Zimbabwe">
 <outline text="Khulumani FM" title="Khulumani FM" type="audio" url="http://197.221.250.170:88/broadwavehigh.mp3" />
 <outline text="Zimbabwe Khulumani Radio" title="Zimbabwe Khulumani Radio" type="audio" url="http://197.221.250.170:88/broadwavehigh.mp3?src=1" />
-</outline>
-<outline title="Germany" text="Germany">
-<outline text="euer-radio (www.Euer - Radio.DE)" title="euer-radio (www.Euer - Radio.DE)" type="audio" url="http://s2.euer.tv/audio320" />
-</outline>
-<outline title="France" text="France">
-<outline text="Yumi Co. Radio" title="Yumi Co. Radio" type="audio" url="http://yumicoradio.net:8000/stream" />
-</outline>
-<outline title="Indonesia" text="Indonesia">
-</outline>
-<outline title="Poland" text="Poland">
-<outline text="SmoothJazz.com.pl" title="SmoothJazz.com.pl" type="audio" url="https://bcast.vigormultimedia.com:48888/sjcompl320mp3" />
-</outline>
-<outline title="The United States Of America" text="The United States Of America">
 </outline>
 </body>
 </opml>
