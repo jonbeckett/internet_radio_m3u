@@ -76,7 +76,7 @@ def create_opml_file():
       last_name = ""
       for s in stations:
         if (s['name'] != last_name) and (s['lastcheckok'] == 1) and (s['countrycode'] == country[0]) and (s['codec'] == 'MP3'):
-          opml_file.write("<outline text=\"" + encodeXMLText(s['name']) + "\" title=\"" + encodeXMLText(s['name']) + "\" type=\"audio\" url=\"" + clean_url(s['url']) + "\" />\n")
+          opml_file.write("<outline text=\"" + encodeXMLText(s['name']) + "\" title=\"" + encodeXMLText(s['name']) + "\" type=\"audio\" url=\"" + encodeXMLText(clean_url(s['url'])) + "\" />\n")
         last_name = s['name']
 
       opml_file.write("</outline>\n")
