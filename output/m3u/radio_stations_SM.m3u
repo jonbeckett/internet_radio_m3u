@@ -1,0 +1,4 @@
+#EXTM3U
+#PLAYLIST:Internet Radio Stations
+#EXTINF:-1 USMARADIO
+http://usmaradio.out.airtime.pro:8000/usmaradio_a

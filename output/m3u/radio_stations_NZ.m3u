@@ -1,0 +1,226 @@
+#EXTM3U
+#PLAYLIST:Internet Radio Stations
+#EXTINF:-1 100,3FM South Canterbury
+http://uk4-vn.mixstream.net:8066/stream/1/
+#EXTINF:-1 2XS FM Palmerston North
+http://125.236.204.178:8001/listen.mp3
+#EXTINF:-1 8K.NZ
+http://radio8k.out.airtime.pro:8000/radio8k_a.m3u
+#EXTINF:-1 8K.NZ
+http://radio8k.out.airtime.pro:8000/radio8k_a
+#EXTINF:-1 95BFM
+https://streams.95bfm.com/stream95
+#EXTINF:-1 Andhow fm
+https://us4.internet-radio.com/proxy/andhowfm?mp=/stream
+#EXTINF:-1 Auckland 80s
+https://streamer.radio.co/s81fc850fd/listen
+#EXTINF:-1 Bay FM 100.7
+https://s38.myradiostream.com:8876/;;?listening-from-radio-garden=1686796930
+#EXTINF:-1 BeachFM 106.3
+http://s8.myradiostream.com:58408/
+#EXTINF:-1 Beagle Radio 88.1FM
+https://secure1.reliastream.com/beagleradio/stream
+#EXTINF:-1 Beagle Radio Live
+https://secure1.reliastream.com/beagleradio/stream
+#EXTINF:-1 Big River FM
+http://bigriver.broadcast.co.nz/bigriverfm.mp3
+#EXTINF:-1 Calvary Radio NZ
+https://s1.voscast.com:11363/live?_=994563
+#EXTINF:-1 Coast Access Radio MP3
+https://live.accessmedia.nz/Coast.stream/playlist.m3u8
+#EXTINF:-1 Coast FM 96.5 Westport - New Zealand
+http://37.59.37.6:12364/;nocache=1625478274?0.931107896726214
+#EXTINF:-1 Compass FM
+http://stream.compassfm.org.nz:8000/Compass_FM_104.9
+#EXTINF:-1 Cool Blue Taupo
+http://falcon.shoutca.st:8166/stream
+#EXTINF:-1 Country Radio Invercargill 105.2FM
+http://countryradio2.no-ip.org:8000/;
+#EXTINF:-1 Country Radio Invercargilll
+http://countryradio2.no-ip.org:8000/;
+#EXTINF:-1 Dave FM
+http://davefmradio.no-ip.org:8000/stream
+#EXTINF:-1 Drop FM
+https://s2.radio.co/s7649837db/listen
+#EXTINF:-1 East FM
+http://listen.eastfm.nz/stream.mp3
+#EXTINF:-1 Easy 80s
+http://procyon.shoutca.st:8032/;
+#EXTINF:-1 Galaxy 107 FM  Kawerau
+http://s39.myradiostream.com:14858/;listen.mp3
+#EXTINF:-1 Gone Country
+https://usa10.fastcast4u.com:6010/;?type=http&nocache=1676417570
+#EXTINF:-1 https://badradio.nz/ - 24/7 PHONK
+https://s2.radio.co/s2b2b68744/listen
+#EXTINF:-1 Hutt Radio 88.3FM
+https://stream.zeno.fm/argf5n7rbrruv
+#EXTINF:-1 KAOS Blenheim NZ
+http://74.91.125.187:8068/stream
+#EXTINF:-1 KIX FM
+https://stream.kixfm.co.nz:8178/stream
+#EXTINF:-1 LibertyNZ on The Wireless
+https://stream.zeno.fm/lamr6x1fxrruv.pls
+#EXTINF:-1 LifeFM
+http://rhema-radio.streamguys1.com/rhema-lifefm.mp3
+#EXTINF:-1 MAD FM Auckland 106.7
+https://madfm-gecko.radioca.st/stream
+#EXTINF:-1 Magic Muzik Madness
+https://eu10.fastcast4u.com/3mfm
+#EXTINF:-1 MFM Te Reo O Te Iwi
+https://stream-150.zeno.fm/utfkkxfawp8uv?zs=K14ATu12TS2dc8uy0OiMBw
+#EXTINF:-1 Mountainside FM
+http://stream.nrgkits.co.nz:5000/mountainside
+#EXTINF:-1 Mouthfull Radio
+https://mouthfull-radio.radiocult.fm/stream
+#EXTINF:-1 MPR Manawatu People's Radio
+https://live.accessmedia.nz/MPR.stream/playlist.m3u8
+#EXTINF:-1 Mushroom Escape
+https://cast3.my-control-panel.com/proxy/jonatha1/escape?1664781783632
+#EXTINF:-1 Mushroom Escape
+http://mushroomfm.com/media/escape.pls
+#EXTINF:-1 Mushroom FM
+https://www.mushroomfm.com/media/listen.pls
+#EXTINF:-1 Nelson Community Radio 88.1FM
+https://crnz.net:8000/;?type=http&nocache=6
+#EXTINF:-1 Nelson Community Radio Station 88.1 FM - New Zealand
+https://crnz.net:8000/;?type=http&nocache=6
+#EXTINF:-1 New Zealand Net Radio
+http://www.nznetradio.net.nz:8000/stream.mp3
+#EXTINF:-1 Niu FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFM.mp3?dist=onlineradiobox
+#EXTINF:-1 Nui FM Taupo
+https://nuifmjac-gecko.radioca.st/index
+#EXTINF:-1 Oamaru Heritage Radio
+http://202.9.116.204:8000/ohrweb
+#EXTINF:-1 OAR 105.4FM Dunedin
+https://live.accessmedia.nz/Otago.stream/playlist.m3u8
+#EXTINF:-1 One Christian Radio
+https://radio.wanderingsheep.net:33001/onechristianradio
+#EXTINF:-1 Paekakariki
+http://icecast.groundtruth.co.nz:8000/paekakfm.mp3.m3u
+#EXTINF:-1 Positively Morrinsville 87.7FM
+https://c16.radioboss.fm:8262/stream?1652324863134
+#EXTINF:-1 Power Hit FM 87.8 - Christchurch, NZ
+http://listen.powerhitfm.co.nz:16100/stream
+#EXTINF:-1 Radio - X
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC65_SC?dist=onlineradiobox
+#EXTINF:-1 Radio A - Nelson NZ
+https://listen.radioking.com/radio/106324/stream/145267
+#EXTINF:-1 Radio Bay FM 100.7
+https://s38.myradiostream.com:8876/;;?listening-from-radio-garden=1686969300
+#EXTINF:-1 Radio Central
+https://stream.radioapp.co.nz/radiocentral
+#EXTINF:-1 Radio Dannevirke
+http://radiodvke.ddns.net:8000/stream
+#EXTINF:-1 Radio Hawkes Bay
+https://live.accessmedia.nz/Kidnappers.stream/playlist.m3u8
+#EXTINF:-1 Radio Hydra
+https://streaming.radio.co/sed9109681/listen
+#EXTINF:-1 Radio New Zealand National
+http://radionz-ice.streamguys.com/national.mp3
+#EXTINF:-1 Radio One 91FM in Dunedin
+http://stream.r1.co.nz:8090/r1-high.mp3
+#EXTINF:-1 Radio Planeta 107.7
+http://radionz-ice.streamguys.com/national.mp3
+#EXTINF:-1 Radio Redwood
+http://123.255.61.226:8020/;?type=http&nocache=76646
+#EXTINF:-1 Radio Rock FM
+http://www.radiorockfm.co.nz:8000/listenlive
+#EXTINF:-1 Radio Samoa 1593am
+http://radiosamoa.stream.broadcast.co.nz:8000/rsamoa48k
+#EXTINF:-1 Radio Spice (Auckland, New Zealand)
+http://stream9.broadcast.co.nz:8000/radiospicewebsiteaudio.mp3
+#EXTINF:-1 Radio Te Aroha 88FM
+https://c2.radioboss.fm:18440/stream
+#EXTINF:-1 Radio Woodville
+http://103.146.193.211:88/broadwave.mp3
+#EXTINF:-1 Radioactive.FM 88.6
+https://radio123-gecko.radioca.st/radioactivefm
+#EXTINF:-1 Radiowave NZ
+https://listen.radioking.com/radio/106324/stream/145267
+#EXTINF:-1 Rag-FM 107.7 Raglan
+https://ssl.shoutcaststreaming.us:8138/;
+#EXTINF:-1 RDU
+https://rdu985fm-gecko.radioca.st/stream
+#EXTINF:-1 Rhema
+http://rhema-radio.streamguys1.com/rhema.mp3
+#EXTINF:-1 RNZ - Radio New Zealand - In Parliament
+http://radionz-ice.streamguys.com/parliament.mp3
+#EXTINF:-1 RNZ - Radio New Zealand Classic
+http://radionz-ice.streamguys.com/concert.mp3
+#EXTINF:-1 RNZ - Radio New Zealand International
+http://radionz-ice.streamguys.com/international.mp3
+#EXTINF:-1 RNZ AM Network
+http://radionz-ice.streamguys.com/parliament.mp3
+#EXTINF:-1 RNZ Concert
+http://radionz-ice.streamguys.com/concert.mp3
+#EXTINF:-1 RNZ National
+http://radionz-ice.streamguys.com/national.mp3
+#EXTINF:-1 RNZ Pacific
+http://radionz-ice.streamguys.com/international.mp3
+#EXTINF:-1 RNZ Parliament
+http://radionz-ice.streamguys.com/parliament.mp3
+#EXTINF:-1 Rush FM
+http://rushbroadcasting.serverroom.us:5204/;
+#EXTINF:-1 sleep radio
+http://65.109.81.84:9851/stream
+#EXTINF:-1 Sleep Radio
+https://cast4.asurahosting.com:2199/tunein/sleeprad.pls
+#EXTINF:-1 Smash 107FM
+https://s19.myradiostream.com/:18892/;?type=http&nocache=1653124007?0.30724640509725076
+#EXTINF:-1 Star
+http://rhema-radio.streamguys1.com/rhema-star.mp3
+#EXTINF:-1 Sub FM
+https://fmsub.radioca.st/stream?type=http&nocache=140
+#EXTINF:-1 The Cheese
+http://thecheese.ddns.net:8000/
+#EXTINF:-1 The Flea FM 88.2
+http://49.50.246.42:8020/listen.pls
+#EXTINF:-1 The Generator
+https://s1.myradiostream.com/:14268/;?type=http&nocache=1608640718?0.7458407789862892
+#EXTINF:-1 The Generator FM
+https://s1.myradiostream.com/14268/stream/1/
+#EXTINF:-1 The Hawk FM
+http://s45.myradiostream.com:19816/;
+#EXTINF:-1 The Most Fm
+http://gordon.mostfm.com:8000/high.m3u
+#EXTINF:-1 The Most FM 104.4
+http://gordon.mostfm.com:8000/high
+#EXTINF:-1 The Pulse NZ
+http://173.255.253.156:8000/pulse
+#EXTINF:-1 The Wireless (Today's Best Country)
+https://stream.zeno.fm/lamr6x1fxrruv
+#EXTINF:-1 TLC Radio Northland
+http://203.118.136.79:88/broadwave.mp3
+#EXTINF:-1 Total FM Dunedin 107.3
+http://listen.totalfm.nz:8000/stream
+#EXTINF:-1 True Light 87.8FM
+http://stream.truelightfm.co.nz:8000/mp3
+#EXTINF:-1 True Light FM
+http://stream.truelightfm.co.nz:8000/mp3
+#EXTINF:-1 UP FM 107.5
+https://stream.upfm.live/radio/8000/radio.mp3
+#EXTINF:-1 Waiheke Radio 88.3
+https://s47.myradiostream.com:9962/listen
+#EXTINF:-1 Waiheke Wireless Meditate
+http://66.70.249.70:5654/stream
+#EXTINF:-1 Wandering Sheep Radio - Christian Smooth Jazz
+http://radio.wanderingsheep.tv:8021/christianjazz
+#EXTINF:-1 Wandering Sheep Radio - Hope Alive
+http://radio.wanderingsheep.tv:8012/hopealive
+#EXTINF:-1 Wandering Sheep Radio - Jazz Cafe
+http://radio.wanderingsheep.tv:8000/jazzcafe
+#EXTINF:-1 WCR 87.6 FM
+http://stream2.nrgkits.co.nz:5000/wcrfm
+#EXTINF:-1 Wellington Access Radio
+https://live.accessmedia.nz/Wellington.stream/playlist.m3u8
+#EXTINF:-1 West FM Swing Radio
+http://dledgar.dyndns.org:8000/westfm
+#EXTINF:-1 XS80s
+http://s1.myradiostream.com:12508/listen.mp3
+#EXTINF:-1 ZFM Global
+http://nebula.shoutca.st:8545/stream/1/
+#EXTINF:-1 新西兰华人之声AM936新超凡
+http://radio.936.nz:8000/am936
+#EXTINF:-1 新西兰华人之声FM994真快活
+http://radio.936.nz:8000/fm994

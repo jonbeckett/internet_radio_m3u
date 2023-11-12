@@ -1,0 +1,6 @@
+#EXTM3U
+#PLAYLIST:Internet Radio Stations
+#EXTINF:-1 Radio Alpha Blondy 97.9 Abidjan
+https://www.radioking.com/play/alphablondyfm
+#EXTINF:-1 Radio Nostalgie 101.1 Abidjan
+http://213.136.96.14:8000/nostalgie2.mp3

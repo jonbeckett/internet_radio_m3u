@@ -1,0 +1,56 @@
+[playlist]
+File1=https://navairan.com/;stream.nsv
+Title1= Radio Navahang
+File2=https://n0c.radiojar.com/59096z743d0uv?rj-ttl=5&rj-tok=AAABhd07tHIAJ2GRl2KNynaKow
+Title2=. Islam call 
+File3=https://qurango.net/radio/mohammed_ayyub
+Title3=..mohammed_ayyub
+File4=https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
+Title4=.al quran radio 
+File5=http://radio.caltexmusic.com:8042/stream
+Title5=Caltex Music
+File6=http://n13.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABeB5OHJQA07FIiDdZAZNHWw
+Title6=caltexmusic
+File7=http://radio1.sotmasr.com:9354/;
+Title7=Dengi Islam -Erbilدەنگی ئیسلام-هەولێر
+File8=http://www.radiofaaz.com:8000/radiofaaz
+Title8=Faz
+File9=http://voa-19.akacast.akamaistream.net/7/309/322031/v1/ibb.akacast.akamaist
+Title9=faz
+File10=https://radio.iraninternational.app/iintl_c
+Title10=iraninternational
+File11=http://parsa.icdndhcp.com:18000/stream
+Title11=parsa
+File12=http://37.59.47.192:8200/;stream.mp3
+Title12=Radio Eram
+File13=https://radio.iraninternational.app/iintl_c
+Title13=Radio Iran International
+File14=http://rj1.rjstream.com/
+Title14=Radio Javan
+File15=http://74.115.215.36/
+Title15=Radio Javan - The Best Persian Music 24/7
+File16=https://s2.radio.co/s830691c74/listen
+Title16=Radio Mojahed - رادیو مجاهد
+File17=http://ic2326.c1261.fast-serv.com/rm128
+Title17=Radio Mojdeh
+File18=https://ic2326.c1261.fastserv.com/rm128
+Title18=Radio Mojdeh - Iranian Farsi/Persian Christian music and talk
+File19=http://r.pgbu.ir:8000/live
+Title19=Radio persian
+File20=http://sarcheshmeh.icdndhcp.com:18452/stream
+Title20=Radio Sarcheshme
+File21=http://usa7.fastcast4u.com:5919/stream
+Title21=Radio Shemroon
+File22=https://stream.zeno.fm/jl8n7thgcdftv
+Title22=RadioSimorgh
+File23=https://stream.zenolive.com/dqahw5a6vrquv
+Title23=RadioSimorgh Authentic Iranian music
+File24=https://stream.zeno.fm/9svfnobkrxrvv
+Title24=RadioSimorgh Authentic Iranian music
+File25=https://stream.zenolive.com/dqahw5a6vrquv
+Title25=RadioSimorgh Authentic Iranian music
+File26=https://shoutcast.glwiz.com/RadioYAR.mp3
+Title26=RadioYar
+File27=https://stream.radiojar.com/cp13r2cpn3quv
+Title27=ایران‎  Radio Liberty (Iran) (official stream)
+NumberOfEntries=27

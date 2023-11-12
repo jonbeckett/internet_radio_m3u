@@ -1,0 +1,44 @@
+[playlist]
+File1=http://136.0.17.26:8000/;stream.nsv
+Title1=Africa Online
+File2=https://radiodigitalcongofm.ice.infomaniak.ch/digitalcongofm-96.mp3
+Title2=Digital Congo 
+File3=http://stream.zeno.fm/n3sgwrm2mg8uv
+Title3=Gospel FM
+File4=https://cast4.asurahosting.com/proxy/deograt2/stream
+Title4=Interkinois Gospel
+File5=https://cast4.asurahosting.com/proxy/deograt2/stream
+Title5=Interkinois Gospel
+File6=https://cast3.asurahosting.com/proxy/deograt1/stream
+Title6=Interkinois Radio
+File7=https://cast3.asurahosting.com/proxy/deograti/stream
+Title7=LUSHIACTU RADIO
+File8=http://stream.zeno.fm/471pmgfd5f8uv
+Title8=MILLENIUM RADIO
+File9=http://136.0.17.26:8000/
+Title9=Radio Africa Online
+File10=http://136.0.17.26:8000/
+Title10=Radio Africa Online
+File11=http://soukous.org/ht.asx
+Title11=Radio Africa Online
+File12=https://radiomaendeleobukavu.ice.infomaniak.ch/radiomaendeleobukavu-sk.mp3
+Title12=Radio Maendeleo 
+File13=https://radiomaendeleobukavu.ice.infomaniak.ch/radiomaendeleobukavu-sk.mp3
+Title13=Radio Maendeleo 
+File14=http://dreamsiteradiocp.com:8116/stream
+Title14=RADIO MARIA DEM.REP. CONGO
+File15=http://rs1.radiostreamer.com:8000/listen.pls
+Title15=Radio Okapi
+File16=http://rs1.radiostreamer.com:8000/listen.pls;?type=http&nocache=1353
+Title16=Radio Okapi
+File17=http://rs1.radiostreamer.com:8000/listen.pls
+Title17=Radio Okapi
+File18=https://radio4.pro-fhi.net/live/RadioMotoButemboBeni
+Title18=rmbb
+File19=https://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3
+Title19=Top Congo FM
+File20=http://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3
+Title20=Top Congo FM 88.4 Kinshasa
+File21=https://stream-47.zeno.fm/xwx18us91k8uv?zs=D6hP5IeET_CVAjQuCUtmkg
+Title21=Watoto Radio
+NumberOfEntries=21

@@ -1,0 +1,4 @@
+#EXTM3U
+#PLAYLIST:Internet Radio Stations
+#EXTINF:-1 Yumi Co. Radio
+http://yumicoradio.net:8000/stream

@@ -1,0 +1,65 @@
+#EXTM3U
+#PLAYLIST:Internet Radio Stations
+#EXTINF:-1 . القارئ محمد أيوب 
+https://qurango.net/radio/mohammed_ayyub
+#EXTINF:-1 . مختصر السيرة
+https://qurango.net/radio/almukhtasar_fi_alsiyra
+#EXTINF:-1 .صور من حياة الصحابة 
+https://qurango.net/radio/sahabah
+#EXTINF:-1 .ماهر المعيقلي 
+https://backup.qurango.net/radio/maher
+#EXTINF:-1 AlifAlif FM
+https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3
+#EXTINF:-1 Annahj - Islam Arabic - إذاعة النهج الواضح
+https://node33.obviousapproach.com:9000/stream
+#EXTINF:-1 Fred Film Radio(لغة عربية)
+https://s10.webradio-hosting.com/proxy/fredradioar/stream
+#EXTINF:-1 MIX FM KSA
+https://s1.voscast.com:11377/live.mp3
+#EXTINF:-1 Mp3Quran Main
+https://qurango.net/radio/mix
+#EXTINF:-1 Mp3Quran Tarateel
+https://qurango.net/radio/tarateel
+#EXTINF:-1 Radio nida alislam
+http://n05.radiojar.com/59096z743d0uv?rj-ttl=5&rj-tok=AAZBfqTS3R8Zo-MbNKypObvbjA
+#EXTINF:-1 RadioSunna
+http://andromeda.shoutca.st:8189/stream
+#EXTINF:-1 Rotana FM
+http://curiosity.shoutca.st:6035/;
+#EXTINF:-1 UFM
+http://69.61.26.75:8000/;
+#EXTINF:-1 Voice Of Grace
+https://securestreams5.reliastream.com:1820/;
+#EXTINF:-1 إذاعة السنة
+http://andromeda.shoutca.st:8189/live
+#EXTINF:-1 إذاعة طريق السلف
+
+
+https://airtime.salafwayfm.ly/
+#EXTINF:-1 إذاعة طريق السلف
+
+https://airtime.salafwayfm.ly/
+#EXTINF:-1 إذاعة محمد أيوب
+https://qurango.net/radio/mohammed_ayyub
+#EXTINF:-1 التفسير الميسر مصحوبًا بتلاوة الشيخ محمد أيوب
+https://server03.quran.com.kw:7042/;*.mp3
+#EXTINF:-1 الشيخ إدريس أبكر برواية حفص
+http://server2.quraan.us:9300/;*.mp3
+#EXTINF:-1 الشيخ توفيق الصايغ برواية حفص
+http://quraan.us:9796/;*.mp3
+#EXTINF:-1 القارئ علي الحذيفي رواية قالون 
+https://qurango.net/radio/ali_alhuthaifi_qalon
+#EXTINF:-1 تفسير السعدي
+https://server03.quran.com.kw:7004/;*.mp3
+#EXTINF:-1 تفسير القرآن الكريم 
+https://qurango.net/radio/tafseer
+#EXTINF:-1 تفسير بن عثيمين رحمه الله تعالى 
+https://qurango.net/radio/tafseer
+#EXTINF:-1 فتاوى الشيخ ابن عثيمين
+http://server2.quraan.us:9890/;*.mp3
+#EXTINF:-1 فتاوى بن عثيمين 
+http://server2.quraan.us:9890/;*.mp3
+#EXTINF:-1 قرآن
+http://quraan.us:9842/;
+#EXTINF:-1 مقدمة رسالة ابن أبي زيد القيرواني1
+https://www.al-badr.net/download/esound/choroohat/abuzaid_alkirawani/001.mp3

@@ -1,0 +1,22 @@
+[playlist]
+File1=http://iis.ge:8000/hereti.mp3
+Title1=Hereti FM
+File2=http://stream.it-solutions.ge:8000/mp3-radiomarneulifm
+Title2=Marneuli FM
+File3=https://listen.radioking.com/radio/282820/stream/328621
+Title3=Mutant Radio
+File4=https://streamer.radio.co/s34b5469e0/listen
+Title4=Radio Amra
+File5=http://stream.loveprod.ru:8020/soothingjazz
+Title5=Soothing Jazz radio
+File6=http://stream.loveprod.ru:8010/soothingradio
+Title6=Soothing radio
+File7=http://iis.ge:8000/radiotbilisi.mp3
+Title7=Tbilisi FM 93,5
+File8=http://109.172.136.60:8081/broadwavelow.mp3
+Title8=Голос Абхазии / Voice of Abkhazia
+File9=http://iis.ge:8000/sk.mp3
+Title9=Радио SK
+File10=http://iis.ge:8000/radiodk.mp3
+Title10=რადიო "ძველი ქალაქი Старый город
+NumberOfEntries=10

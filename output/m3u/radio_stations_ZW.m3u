@@ -1,0 +1,6 @@
+#EXTM3U
+#PLAYLIST:Internet Radio Stations
+#EXTINF:-1 Khulumani FM
+http://197.221.250.170:88/broadwavehigh.mp3
+#EXTINF:-1 Zimbabwe Khulumani Radio
+http://197.221.250.170:88/broadwavehigh.mp3?src=1

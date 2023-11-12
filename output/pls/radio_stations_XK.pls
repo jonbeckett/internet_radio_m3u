@@ -1,0 +1,26 @@
+[playlist]
+File1=https://stream.glamradio.fm:8443/glamradio
+Title1=GlamRADIO
+File2=http://s4.radio.co/sd1d1904dc/listen.m3u
+Title2=KLAN Kosova FM
+File3=http://s6.voscast.com:8824/;stream.mp3
+Title3=Radio Dukagjini
+File4=http://s6.voscast.com:8824/;stream.mp3
+Title4=Radio Dukagjini
+File5=http://s6.voscast.com:8824/listen.pls
+Title5=Radio Dukagjini
+File6=http://fm.radiokfor.com:8080/;
+Title6=Radio K4 Shqip
+File7=http://82.114.72.2:8088/
+Title7=Radio Kosova 1
+File8=http://82.114.72.2:8098/
+Title8=Radio Kosova 2
+File9=http://quasar.shoutca.st:8018/
+Title9=Radio Kosova E Lire
+File10=http://radio.1dhe1.com:8090/listen.pls
+Title10=Radio Zëri i Shtimes
+File11=http://82.114.72.2:8088/;.mp3
+Title11=RTK Radio Kosova 1
+File12=http://82.114.72.2:8098/;stream.mp3
+Title12=RTK Radio Kosova 2
+NumberOfEntries=12

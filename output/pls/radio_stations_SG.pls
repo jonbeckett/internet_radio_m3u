@@ -1,0 +1,20 @@
+[playlist]
+File1=https://23683.live.streamtheworld.com/HAO_963_SC
+Title1=963 Hao FM
+File2=https://14033.live.streamtheworld.com/987FM_SC
+Title2=987
+File3=https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_MANILA.mp3
+Title3=AXR Manila
+File4=http://provisioning.streamtheworld.com/pls/AXR_SINGAPORE.pls
+Title4=AXR Singapore
+File5=https://22893.live.streamtheworld.com/938NOW_SC
+Title5=CNA 938
+File6=https://22403.live.streamtheworld.com/GOLD905_SC
+Title6=GOLD 905
+File7=http://ssl.geckohost.nz:9191/autodj
+Title7=Radio Melody with Brother Bjorn
+File8=https://22393.live.streamtheworld.com/RIA897FM_SC
+Title8=RIA 897
+File9=http://xradio.zone:9420/stream
+Title9=XRadio
+NumberOfEntries=9

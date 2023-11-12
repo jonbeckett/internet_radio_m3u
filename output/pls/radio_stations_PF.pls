@@ -1,0 +1,26 @@
+[playlist]
+File1=http://n0a.radiojar.com/u0yz7p0mb.mp3
+Title1=HITI FM
+File2=https://n01.radiojar.com/u0yz7p0mb.mp3
+Title2=Hiti FM
+File3=https://listen.radioking.com/radio/397660/stream/449635
+Title3=Nrj Tahiti
+File4=https://polynesie.ice.infomaniak.ch/polynesie-128.mp3
+Title4=Polynésie 1ère
+File5=https://polynesie.ice.infomaniak.ch/polynesie-128.mp3
+Title5=Polynésie 1ère
+File6=https://polynesie.ice.infomaniak.ch/polynesie-128.mp3
+Title6=Polynesie Première
+File7=https://live.radio1.pf:8443/radio1
+Title7=Radio 1 PF
+File8=http://live.radio1.pf:8001/radio1
+Title8=Radio 1 Tahiti
+File9=https://live.radio1.pf:8443/radio1
+Title9=Radio1 Tahiti
+File10=http://s10.myradiostream.com/:36098/listen.mp3
+Title10=Tahiti Web Radio
+File11=https://live.tiarefm.pf:8443/tiarefm
+Title11=Tiare FM
+File12=https://live.tiarefm.pf:8443/tiarefm
+Title12=Tiare FM
+NumberOfEntries=12

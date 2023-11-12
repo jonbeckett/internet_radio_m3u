@@ -1,0 +1,65 @@
+[playlist]
+File1=https://qurango.net/radio/mohammed_ayyub
+Title1=. القارئ محمد أيوب 
+File2=https://qurango.net/radio/almukhtasar_fi_alsiyra
+Title2=. مختصر السيرة
+File3=https://qurango.net/radio/sahabah
+Title3=.صور من حياة الصحابة 
+File4=https://backup.qurango.net/radio/maher
+Title4=.ماهر المعيقلي 
+File5=https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3
+Title5=AlifAlif FM
+File6=https://node33.obviousapproach.com:9000/stream
+Title6=Annahj - Islam Arabic - إذاعة النهج الواضح
+File7=https://s10.webradio-hosting.com/proxy/fredradioar/stream
+Title7=Fred Film Radio(لغة عربية)
+File8=https://s1.voscast.com:11377/live.mp3
+Title8=MIX FM KSA
+File9=https://qurango.net/radio/mix
+Title9=Mp3Quran Main
+File10=https://qurango.net/radio/tarateel
+Title10=Mp3Quran Tarateel
+File11=http://n05.radiojar.com/59096z743d0uv?rj-ttl=5&rj-tok=AAZBfqTS3R8Zo-MbNKypObvbjA
+Title11=Radio nida alislam
+File12=http://andromeda.shoutca.st:8189/stream
+Title12=RadioSunna
+File13=http://curiosity.shoutca.st:6035/;
+Title13=Rotana FM
+File14=http://69.61.26.75:8000/;
+Title14=UFM
+File15=https://securestreams5.reliastream.com:1820/;
+Title15=Voice Of Grace
+File16=http://andromeda.shoutca.st:8189/live
+Title16=إذاعة السنة
+File17=https://airtime.salafwayfm.ly/
+Title17=إذاعة طريق السلف
+
+
+File18=https://airtime.salafwayfm.ly/
+Title18=إذاعة طريق السلف
+
+File19=https://qurango.net/radio/mohammed_ayyub
+Title19=إذاعة محمد أيوب
+File20=https://server03.quran.com.kw:7042/;*.mp3
+Title20=التفسير الميسر مصحوبًا بتلاوة الشيخ محمد أيوب
+File21=http://server2.quraan.us:9300/;*.mp3
+Title21=الشيخ إدريس أبكر برواية حفص
+File22=http://quraan.us:9796/;*.mp3
+Title22=الشيخ توفيق الصايغ برواية حفص
+File23=https://qurango.net/radio/ali_alhuthaifi_qalon
+Title23=القارئ علي الحذيفي رواية قالون 
+File24=https://server03.quran.com.kw:7004/;*.mp3
+Title24=تفسير السعدي
+File25=https://qurango.net/radio/tafseer
+Title25=تفسير القرآن الكريم 
+File26=https://qurango.net/radio/tafseer
+Title26=تفسير بن عثيمين رحمه الله تعالى 
+File27=http://server2.quraan.us:9890/;*.mp3
+Title27=فتاوى الشيخ ابن عثيمين
+File28=http://server2.quraan.us:9890/;*.mp3
+Title28=فتاوى بن عثيمين 
+File29=http://quraan.us:9842/;
+Title29=قرآن
+File30=https://www.al-badr.net/download/esound/choroohat/abuzaid_alkirawani/001.mp3
+Title30=مقدمة رسالة ابن أبي زيد القيرواني1
+NumberOfEntries=30

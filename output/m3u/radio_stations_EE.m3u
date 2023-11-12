@@ -1,0 +1,104 @@
+#EXTM3U
+#PLAYLIST:Internet Radio Stations
+#EXTINF:-1 Äripäeva Raadio
+https://www.aripaev.ee/raadio/stream.mp3
+#EXTINF:-1 DFM
+https://le10.euddn.net/6ba757fbb07c38b4203333f8da597dfe02364614545d611faee0cae3d5054c28998483e6a36ae77e8017007b680acfd8f3d9469776bc6bf03bec160af728b4e948a98efed04587b8dfe7a058ed6643a614aa6443b182f8f2ae0ccbd5fbb35c505217badbf4aff456020c96c0a214f787619f1c7ac0b589b36b9388395e577132f54b72799791f65ab27e574488f80f605c7d5d207c982f533fa02509dd85d1d6/dfm.mp3
+#EXTINF:-1 ERR Klassikaraadio
+http://icecast.err.ee/klassikaraadio.mp3
+#EXTINF:-1 ERR Raadio 2
+http://icecast.err.ee/raadio2.mp3
+#EXTINF:-1 ERR Raadio 2 - 320kbps
+http://icecast.err.ee/raadio2korge.mp3.m3u
+#EXTINF:-1 ERR Raadio 4
+http://icecast.err.ee/raadio4.mp3?type=.mp3/;stream.mp3
+#EXTINF:-1 FinEst Radio
+https://shoutcast.finestfm.fi/stream/1/:80/;stream
+#EXTINF:-1 Happy U
+http://www.happyu.ee/streaming/happyu.m3u
+#EXTINF:-1 Hard FM Estonia
+http://s5.radio.co/s69e02764f/listen
+#EXTINF:-1 KlaRa Jazz
+https://icecast.err.ee/klarajazz.mp3
+#EXTINF:-1 KlaRa Klassika
+https://icecast.err.ee/klaraklassika.mp3
+#EXTINF:-1 KlaRa Nostalgia
+https://icecast.err.ee/klaranostalgia.mp3
+#EXTINF:-1 Kuma FM 101.0
+http://5.39.16.62:8004/tre
+#EXTINF:-1 Nõmmeraadio
+http://149.210.138.12:8000/nommeraadio
+#EXTINF:-1 NRJ Tallinn
+https://edge03.cdn.bitflip.ee:8888/NRJ
+#EXTINF:-1 Pereraadio Kuressaare
+http://icecast.pereraadio.ee:8000/Kuressaare
+#EXTINF:-1 Pereraadio Kuressaare
+http://icecast.pereraadio.ee:8000/Kuressaare
+#EXTINF:-1 Pereraadio Tallinn
+http://icecast.pereraadio.ee:8000/Tallinn
+#EXTINF:-1 Pereraadio Tallinn
+http://icecast.pereraadio.ee:8000/Tallinn
+#EXTINF:-1 Pereraadio Tartu
+http://icecast.pereraadio.ee:8000/Tartu
+#EXTINF:-1 Pereraadio Tartu
+http://icecast.pereraadio.ee:8000/Tartu
+#EXTINF:-1 R2 Eesti
+https://icecast.err.ee/r2eestikorge.mp3
+#EXTINF:-1 Raadio 2 (HQ)
+http://icecast.err.ee/raadio2korge.mp3.m3u
+#EXTINF:-1 Raadio 2 HQ
+http://icecast.err.ee/raadio2korge.mp3
+#EXTINF:-1 Raadio 7
+https://edge05.cdn.bitflip.ee:8888/R7
+#EXTINF:-1 Raadio Kuku
+https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_high.mp3
+#EXTINF:-1 Raadio Tallinn
+http://icecast.err.ee/raadiotallinn.mp3?type=.mp3/;stream.mp3
+#EXTINF:-1 Radio Eli
+http://icecast.pereraadio.ee:8000/RadioEli
+#EXTINF:-1 Radio Eli
+http://icecast.pereraadio.ee:8000/RadioEli
+#EXTINF:-1 Retro FM Estonia
+https://edge02.cdn.bitflip.ee:8888/RETRO?_i=258f436b
+#EXTINF:-1 Rock FM
+https://edge02.cdn.bitflip.ee:8888/rck?_i=5f5ab186
+#EXTINF:-1 Semeinoje Radio
+http://icecast.pereraadio.ee:8000/Semeinoje
+#EXTINF:-1 Semeinoje Radio
+http://icecast.pereraadio.ee:8000/Semeinoje
+#EXTINF:-1 Sky Plus
+https://stream.skymedia.ee/live/SKYPLUS
+#EXTINF:-1 Sky Plus DnB
+https://edge03.cdn.bitflip.ee:8888/NRJdnb
+#EXTINF:-1 Sky-Radio
+https://stream.skymedia.ee/live/SKY
+#EXTINF:-1 Sooviraadio
+http://media.uunox.net:8888/listen.pls
+#EXTINF:-1 SSS-Radio
+http://217.146.76.112:8000/sss-radio
+#EXTINF:-1 Tartu Family Radio
+http://worker.pereraadio.ee:8000/
+#EXTINF:-1 Tartu Pereraadio
+http://bee.pereraadio.ee:8000/
+#EXTINF:-1 Tre Raadio Kesk-Eesti
+http://cdn.treraadio.ee/kesk-eesti-tre
+#EXTINF:-1 Tre Raadio Pärnu
+http://cdn.treraadio.ee/parnu-tre
+#EXTINF:-1 Tre Raadio Põhja-Eesti
+http://cdn.treraadio.ee/pohja-tre
+#EXTINF:-1 Tre Raadio Rapla
+https://cdn.treraadio.ee/rapla-tre
+#EXTINF:-1 Tre Raadio Ring FM
+https://cdn.treraadio.ee/ringfm
+#EXTINF:-1 Tre Raadio Ruut FM
+https://cdn.treraadio.ee/ruutfm
+#EXTINF:-1 Tre Raadio Virumaa
+http://sc2.treraadio.ee/viru-tre
+#EXTINF:-1 VIKERRAADIO
+http://icecast.err.ee/vikerraadiokorge.mp3
+#EXTINF:-1 VIKERRAADIO
+http://icecast.err.ee/vikerraadiokorge.mp3
+#EXTINF:-1 Vikerraadio
+http://icecast.err.ee/vikerraadio.mp3.m3u
+#EXTINF:-1 Võmba FM
+https://c4.radioboss.fm:18123/stream.m3u

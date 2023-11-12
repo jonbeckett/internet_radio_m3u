@@ -1,0 +1,22 @@
+[playlist]
+File1=http://prem1.di.fm/classictrance_hi?907a839cb7ee13512903cbcf
+Title1=Classic Trance
+File2=https://mediagw.e-tiger.net/stream/zc06
+Title2=Coolfm Dance 90
+File3=http://prem4.di.fm/epictrance_hi?907a839cb7ee13512903cbcf
+Title3=Epic Trance
+File4=http://169.61.85.22/grits
+Title4=Grits Radio
+File5=https://streaming.live365.com/a03037
+Title5=MXTR FM
+File6=https://stream.radiojar.com/cp13r2cpn3quv
+Title6=Radio Farda
+File7=https://streaming.radio.co/sca22d43b1/listen
+Title7=Rockin' the Suburbs Radio
+File8=http://206.244.84.72:8000/WLFC-FM.mp3
+Title8=WLFC 88.3 - Univ. of Findlay North Baltimore,  OH
+File9=https://ais-edge37-live365-dal02.cdnstream.com/a01501
+Title9=WNAP
+File10=https://www.stepnorthdigitalradio.com:6008/stream
+Title10=WSNR.US
+NumberOfEntries=10

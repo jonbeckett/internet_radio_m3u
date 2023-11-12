@@ -1,0 +1,26 @@
+[playlist]
+File1=https://radio.vaticannews.va/stream-be
+Title1=Radio Vaticana Belarus
+File2=https://radio.vaticannews.va/stream-bg
+Title2=Radio Vaticana Bulgaria
+File3=https://radio.vaticannews.va/stream-cs
+Title3=Radio Vaticana Čeština
+File4=https://radio.vaticannews.va/stream-de
+Title4=Radio Vaticana Deutsch
+File5=https://radio.vaticannews.va/stream-en
+Title5=Radio Vaticana English
+File6=https://radio.vaticannews.va/stream-hr
+Title6=Radio Vaticana Hrvatski
+File7=https://radio.vaticannews.va/stream-it
+Title7=Radio Vaticana Italia
+File8=https://radio.vaticannews.va/stream-pl
+Title8=Radio Vaticana Polska
+File9=https://radio.vaticannews.va/stream-ro
+Title9=Radio Vaticana România
+File10=https://radio.vaticannews.va/stream-sl
+Title10=Radio Vaticana Slovenščina
+File11=https://radio.vaticannews.va/stream-sk
+Title11=Radio Vaticana Solvenčina
+File12=https://radio.vaticannews.va/stream-uk
+Title12=Radio Vaticana Ukraine
+NumberOfEntries=12

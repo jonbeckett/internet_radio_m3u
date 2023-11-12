@@ -1,0 +1,14 @@
+#EXTM3U
+#PLAYLIST:Internet Radio Stations
+#EXTINF:-1 A Net Station
+http://anetstation.com/MP3/ANETSTATIONDOTCOM.m3u
+#EXTINF:-1 A Net Station
+https://anetstation.com/MP3/ANETSTATIONDOTCOM.m3u
+#EXTINF:-1 Doujindance
+http://radio.funkot.net:8010/playlist
+#EXTINF:-1 lassulus radio
+http://lassul.us:8000/radio.mp3
+#EXTINF:-1 Radio Nacional Arcangel San Gabriel - LRA 36 Antartida
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad32
+#EXTINF:-1 UKNova
+http://uknr.org:8000/

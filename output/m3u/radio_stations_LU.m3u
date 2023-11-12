@@ -1,0 +1,38 @@
+#EXTM3U
+#PLAYLIST:Internet Radio Stations
+#EXTINF:-1 Eldoradio
+http://81.92.238.33/
+#EXTINF:-1 Free Radio Luxembourg FRL
+https://www.radioking.com/play/rfm-luxembourg/137599
+#EXTINF:-1 Generation Dance Radio
+http://generationdance.lu/radio/8030/hd
+#EXTINF:-1 Generation Dance Radio
+http://generationdance.lu/radio/8030/hd
+#EXTINF:-1 L'Essentiel Radio
+http://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3
+#EXTINF:-1 Radio 100,7
+http://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3
+#EXTINF:-1 Radio 100komma7
+https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3
+#EXTINF:-1 Radio 100komma7
+http://100komma7.cast.addradio.de/100komma7/live/mp3/320/stream.mp3
+#EXTINF:-1 Radio Aktiv
+http://zeus.lrb.lu:8000/stream
+#EXTINF:-1 Radio Gutt Laun
+https://streams.radio.co/sa631ff66a/listen
+#EXTINF:-1 Rádio Larochette
+https://servidor14.brlogic.com:8150/live
+#EXTINF:-1 Radio Puls Luxembourg
+https://uk1.listen2myradio.com:2199/listen.php?port=8312&type=s2&mount=/stream
+#EXTINF:-1 Radio RBV
+https://shoutcast.datateam.center:8000/radio/rbv/;
+#EXTINF:-1 RTL Gold
+https://shoutcast.rtl.lu/rtlgold
+#EXTINF:-1 RTL Radio - Deutschlands Hit-Radio
+http://stream.rtlradio.de/rtl-de-national/mp3-192/
+#EXTINF:-1 RTL Radio - Die besten Hits aller Zeiten
+http://stream.rtlradio.de/rtl-de-beste-hits/mp3-192
+#EXTINF:-1 RTL Radio Letzebuerg
+http://sc-rtllive.newmedia.lu/
+#EXTINF:-1 RTL Schlagerliebe
+http://stream.rtlradio.de/schlagerliebe/mp3-192/

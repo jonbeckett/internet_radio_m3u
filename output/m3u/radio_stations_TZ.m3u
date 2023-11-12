@@ -1,0 +1,44 @@
+#EXTM3U
+#PLAYLIST:Internet Radio Stations
+#EXTINF:-1 Bongo Radio
+http://www.bongoradio.com/listen128k.pls
+#EXTINF:-1 Bongo Radio – African Grooves Channel
+http://www.bongoradio.com:8000/dance.mp3
+#EXTINF:-1 Bongo Radio – East African Music Channel
+http://bongoradio.com:8000/african.mp3
+#EXTINF:-1 Bongo Radio – Taarab & Mduara Channel
+http://www.bongoradio.com:8000/taarab.mp3
+#EXTINF:-1 Capital Radio
+https://capitalradio.radioca.st/stream
+#EXTINF:-1 Christian FM Radio
+http://stream.zeno.fm/eequgfw72hhvv
+#EXTINF:-1 Clouds FM
+http://eu6.fastcast4u.com:5306/;
+#EXTINF:-1 Daniel Edward 
+http://stream.zeno.fm/ex6ng25chfhvv
+#EXTINF:-1 East Africa Radio FM
+https://eatv.radioca.st/stream
+#EXTINF:-1 Heaven FM Radio
+http://stream.zeno.fm/eequgfw72hhvv
+#EXTINF:-1 Heaven FM Radio
+http://stream.zeno.fm/eequgfw72hhvv
+#EXTINF:-1 Heaven Radio
+http://stream.zeno.fm/eequgfw72hhvv
+#EXTINF:-1 Kipiti Radio
+http://stream.zeno.fm/7ebq5q3tcv8uv
+#EXTINF:-1 Ml Christian Radio online 
+http://stream.zeno.fm/wq22xu1u0uhvv
+#EXTINF:-1 Qiblaten FM
+http://s36.myradiostream.com:20772/;
+#EXTINF:-1 Radio Kwizera
+http://uk4-vn.mixstream.net:8052/;listen.mp3
+#EXTINF:-1 Radio Mbiu
+http://dreamsiteradiocp5.com:8004/stream.mp3
+#EXTINF:-1 Radio Ngamia
+http://stream.zeno.fm/41e3gsdgmdouv
+#EXTINF:-1 Radio One Stereo
+https://radioonetanzania.radioca.st/stream
+#EXTINF:-1 street One radio
+http://stream.zeno.fm/d3as2fmadnruv
+#EXTINF:-1 Wasafi Fm
+http://streaming.radionomy.com/JamendoLounge

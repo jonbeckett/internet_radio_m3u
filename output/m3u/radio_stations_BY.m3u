@@ -1,0 +1,62 @@
+#EXTM3U
+#PLAYLIST:Internet Radio Stations
+#EXTINF:-1 gjr
+https://kathy.torontocast.com:3375/stream
+#EXTINF:-1 humor fm Minsk
+http://live.humorfm.by:8000/veseloe
+#EXTINF:-1 Legendy FM
+http://live.legendy.by:8000/legendyfm
+#EXTINF:-1 Love Is Radio Belarus
+https://myradio24.org/3355
+#EXTINF:-1 niepokalanov 
+http://88.199.169.10:7600/rn.mp3
+#EXTINF:-1 niepokalanov 
+http://88.199.169.10:7600/rn.mp3
+#EXTINF:-1 Radio 4you
+http://a1.radioheart.ru:8003/RH17982
+#EXTINF:-1 Radio Plato
+https://azura.radioplato.by/radio/8000/radio.mp3
+#EXTINF:-1 Radio.Uvaga.By
+http://up.uvaga.by:8100/uvaga128
+#EXTINF:-1 Rawsound
+http://stream.rawsound.by:8080/
+#EXTINF:-1 Trance 
+http://185.33.21.112/trance_64a
+#EXTINF:-1 Unistar
+https://unistar.webcaramba.com/unistar_main128.mp3
+#EXTINF:-1 Адкрытае Слова
+https://rs.radioslovo.net:4005/radio?1619348678875
+#EXTINF:-1 Ватыканскае радыё
+https://radio.vaticannews.va/stream-be
+#EXTINF:-1 Еўрарадыё Alternative
+http://stream1.euroradio.fm:8000/euroradio1?seed=1493710910
+#EXTINF:-1 Еўрарадыё BY
+http://stream1.euroradio.fm:8000/euroradio1
+#EXTINF:-1 Еўрарадыё Soft Rock
+http://stream1.euroradio.fm:8000/euroradio3?seed=1493711245
+#EXTINF:-1 Канал "Культура"
+https://stream2.datacenter.by/kultura
+#EXTINF:-1 Компас FM
+https://radio.mil.by/live
+#EXTINF:-1 МВ-Радио
+https://stream2.datacenter.by/mvradio
+#EXTINF:-1 Правда Радио
+http://79.98.49.5:8132/pravda?type=.mp3
+#EXTINF:-1 Радио Брест 104.8 Fm
+https://stream2.datacenter.by:2199/tunein/trkbres1.pls
+#EXTINF:-1 Радио Могилёв
+https://stream2.datacenter.by/tvrmogilev
+#EXTINF:-1 Радыё "Сталіца"
+https://stream2.datacenter.by/stalica
+#EXTINF:-1 Радыё Relax
+http://live.humorfm.by:8000/radiorelax
+#EXTINF:-1 Радыё Марыя
+https://server.radiorm.by:8443/live
+#EXTINF:-1 Радые Марыя 
+https://server.radiorm.by:8443/live
+#EXTINF:-1 Радыё Свабода. Навіны Беларусі
+https://rfe10.akacast.akamaistream.net/7/894/437768/v1/ibb.akacast.akamaistream.net/rfe10
+#EXTINF:-1 Русское радио Витебск
+http://86.57.240.92:2530/
+#EXTINF:-1 Юмор FM
+http://live.humorfm.by:8000/veseloeradio

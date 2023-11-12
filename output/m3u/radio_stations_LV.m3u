@@ -1,0 +1,96 @@
+#EXTM3U
+#PLAYLIST:Internet Radio Stations
+#EXTINF:-1 Alise Plus
+http://fm2inet.aliseplus.lv:8080/
+#EXTINF:-1 AlisePlus
+http://fm2inet.aliseplus.lv:8080/
+#EXTINF:-1 Eiropas Hītu Radio
+http://stream.europeanhitradio.com:8000/ehr.mp3
+#EXTINF:-1 Kurzemes Radio
+http://31.170.16.6:8000/
+#EXTINF:-1 Latvijas Kristīgais Radio
+https://radio.lkr.lv/;?type=http&nocache=40
+#EXTINF:-1 Latvijas Kristīgais Radio
+https://radio.lkr.lv/;?type=http&nocache=40
+#EXTINF:-1 Latvijas Radio 1
+http://lr1mp1.latvijasradio.lv:8012/;
+#EXTINF:-1 Latvijas Radio 2
+http://lr2mp1.latvijasradio.lv:8002/;
+#EXTINF:-1 Latvijas Radio 3 - Klasika
+http://lr3mp0.latvijasradio.lv:8004/;
+#EXTINF:-1 Latvijas Radio 4
+http://lr4mp1.latvijasradio.lv:8020/;
+#EXTINF:-1 Latvijas Radio 5
+http://lr5mp1.latvijasradio.lv:8012/;
+#EXTINF:-1 LRMAROCKRADIO
+https://c22.radioboss.fm:18318/stream
+#EXTINF:-1 LV Radio 1
+http://lr1mp1.latvijasradio.lv:8012/
+#EXTINF:-1 LV Radio 2
+http://lr2mp1.latvijasradio.lv:8002/
+#EXTINF:-1 LV Radio 4
+http://lr4mp1.latvijasradio.lv:8020/
+#EXTINF:-1 LV Radio 5
+http://live.pieci.lv/live19-hq.mp3
+#EXTINF:-1 NewDanceRadio
+http://stream.newdanceradio.ru/
+#EXTINF:-1 NewDanceRadio
+http://stream.newdanceradio.ru/
+#EXTINF:-1 Nordic Chillout Radio
+https://nordicbeatradio.radioca.st/listen.mp3
+#EXTINF:-1 PIECI FM
+https://live.pieci.lv/live19-hq.mp3
+#EXTINF:-1 Radio 7
+http://stream.radio7.lv:8024/Radio7.m3u
+#EXTINF:-1 Radio ENERGY.LV
+http://www.radioenergy.lv:8000/listen.pls
+#EXTINF:-1 Radio ENERGY.LV - Russian
+http://www.radioenergy.lv:9000/listen.pls
+#EXTINF:-1 RADIO MARIA LATVIA
+http://dreamsiteradiocp2.com:8046/stream
+#EXTINF:-1 Radio NABA
+http://nabamp0.latvijasradio.lv:8016/;
+#EXTINF:-1 Radio Rezekne 
+http://195.13.164.134:8000/source.mp3
+#EXTINF:-1 Radio SWH
+http://80.232.162.149:8000/swh96mp3.m3u
+#EXTINF:-1 Radio SWH - Spin FM
+http://80.232.162.149:8000/spin96mp3.m3u
+#EXTINF:-1 Radio SWH Gold
+http://80.232.162.149:8000/gold96mp3.m3u
+#EXTINF:-1 Radio SWH Kurzeme
+http://87.110.219.34:8000/swhmp3
+#EXTINF:-1 Radio SWH Rock
+http://80.232.162.149:8000/rock96mp3.m3u
+#EXTINF:-1 Radio SWH+
+http://80.232.162.149:8000/plus96mp3.m3u
+#EXTINF:-1 Radio SWH+
+https://live.radioswh.lv:8443/plusmp3
+#EXTINF:-1 Star Fm
+http://starfm.live.advailo.com/audio/mp3/icecast.audio
+#EXTINF:-1 SWH
+http://80.232.162.149:8000/swh96mp3
+#EXTINF:-1 SWH
+http://80.232.162.149:8000/swh96mp3
+#EXTINF:-1 SWH
+http://80.232.162.149:8000/swh96mp3
+#EXTINF:-1 SWH Plus
+http://80.232.162.149:8000/plus96mp3
+#EXTINF:-1 SWHPlus
+http://80.232.162.149:8000/plus96mp3
+#EXTINF:-1 SWHPlus
+http://80.232.162.149:8000/plus96mp3
+#EXTINF:-1 SWHPlus
+http://80.232.162.149:8000/plus96mp3
+#EXTINF:-1 Talsi Lounge
+http://radio.kuums.lv:5555/listen.pls
+#EXTINF:-1 Talsi Remix
+http://radio.kuums.lv:5555/
+#EXTINF:-1 TOP radio
+https://topradio.live.advailo.com/topradio/mp3/icecast.audio
+#EXTINF:-1 TOP radio
+https://topradio.live.advailo.com/topradio/mp3/icecast.audio
+#EXTINF:-1 TOPradio
+http://195.13.200.164:8000/listen.pls
+#EXTINF:-1 TopRadio
+http://195.13.200.164:8000/;

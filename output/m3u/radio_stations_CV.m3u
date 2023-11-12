@@ -1,0 +1,10 @@
+#EXTM3U
+#PLAYLIST:Internet Radio Stations
+#EXTINF:-1 Caboradio
+https://listen.radioking.com/radio/281506/stream/327253
+#EXTINF:-1 Radio Praia FM
+http://radios.vpn.sapo.pt/CV/radio4.mp3
+#EXTINF:-1 RCV Radio Cabo Verde
+https://radios.vpn.sapo.pt/CV/radio7.mp3
+#EXTINF:-1 RCV+ Rádio Cabo Verde Jovem
+https://radios.vpn.sapo.pt/CV/radio6.mp3

@@ -1,0 +1,60 @@
+[playlist]
+File1=https://qurango.net/radio/mukhtasartafsir
+Title1=.. مختصر التفسير 
+File2=https://n0c.radiojar.com/59096z743d0uv?rj-ttl=5&rj-tok=AAABhd07tHIAJ2GRl2KNynaKow
+Title2=.Nidaa Islam 
+File3=https://stream.almadinafm.com/;stream.mp3
+Title3=AL MADDINA FM
+File4=http://edge.mixlr.com/channel/qtgru
+Title4=Arta FM
+File5=http://edge.mixlr.com/channel/qtgru
+Title5=Arta Radio
+File6=https://asima.out.airtime.pro/asima_a
+Title6=Asima Online Radio
+File7=http://asima.out.airtime.pro:8000/asima_a
+Title7=Asima Online Radio
+File8=https://stream-151.zeno.fm/vg1qmu7d0s8uv?zs=5O6dNzaUTVuMLRQS9gTE8w
+Title8=Dawet FM
+File9=https://denge-cudi.stream.laut.fm/denge-cudi?pl=m3u
+Title9=denge cudi
+File10=https://dengeqamishlo.stream.laut.fm/dengeqamishlo
+Title10=Denge Qamishlo
+File11=https://stream-149.zeno.fm/4luag56o066uv
+Title11=Emaar FM Radio
+File12=https://streaming.exclusive.radio/er/meatloaf/icecast.audio
+Title12=Exclusively Meat Loaf
+File13=http://167.114.3.184:8000/;
+Title13=Farah FM
+File14=https://radio.farah.fm/
+Title14=Farah FM
+File15=http://streaming.inet.sy:8000/melodyfm
+Title15=Melody FM 97.9 Syria
+File16=http://streaming.inet.sy:8000/melodyfm
+Title16=Melody FM Syria
+File17=https://stream.mixfmsyria.net/;stream.mp3
+Title17=Mix FM Syria
+File18=http://ninarfm.grtvstream.com:8896/;
+Title18=Ninar Radio
+File19=http://188.247.86.66/RadioFann/Audio128/playlist.m3u8
+Title19=Radio Fann
+File20=http://148.113.153.70/uszmihkbhc0uv?zs=7xmO009yTO2_CPemhJETPQ
+Title20=Rayan FM / راديو ريان أف أم
+File21=https://rasti.out.airtime.pro/rasti_a
+Title21=Rebaz FM
+File22=http://sc8new.shoutcaststreaming.us:8032/stream.mp3
+Title22=Sada FM
+File23=http://radioshamfm.grtvstream.com:2199/tunein/shamfm.pls
+Title23=sham fm
+File24=https://radioshamfm.grtvstream.com:8400/;
+Title24=Sham FM
+File25=http://swaida.com:9996/
+Title25=Swaida
+File26=https://versionfm.com:8100/stream
+Title26=Version FM
+File27=http://192.99.170.8:5470/;/;stream.mp3
+Title27=Watan FM (Idlib, Hama, Halab)
+File28=http://usa6.fastcast4u.com:5109/live
+Title28=قديم FM
+File29=https://qurango.net/radio/mohammed_ayyub
+Title29=لا القارئ محمد أيوب 
+NumberOfEntries=29
