@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for ER Eritrea</title>
+</head>
+<body>
+<outline text="hip hop " title="hip hop " type="rss" url="http://stream.rtlradio.de/rnb/mp3-192/" />
+<outline text="Radio Tigrinya Eritrea" title="Radio Tigrinya Eritrea" type="rss" url="http://104.7.66.64:8090/home.html?sid=1" />
+</body>
+</opml>

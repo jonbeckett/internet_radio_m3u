@@ -4,20 +4,28 @@
 <title>Internet Radio Stations for SV El Salvador</title>
 </head>
 <body>
-<outline text="100.1 ABC Stereo" title="100.1 ABC Stereo" type="rss" url="https://streaming.rcs.com.sv/8008/stream" />
 <outline text="100.7 Stereo" title="100.7 Stereo" type="rss" url="https://stream20.usastreams.com/8138/stream" />
-<outline text="102 Nueve" title="102 Nueve" type="rss" url="https://streaming.rcs.com.sv/8012/stream" />
-<outline text="102.9 Astral" title="102.9 Astral" type="rss" url="https://streaming.rcs.com.sv/8012/astral" />
+<outline text="105 Salsa " title="105 Salsa " type="rss" url="https://stream.zeno.fm/mdn371ycuwzuv" />
+<outline text="COOL FM 89.3" title="COOL FM 89.3" type="rss" url="http://media.dominiocreativo.com:8006/coolfm" />
+<outline text="Cuscatlán 98.5 FM" title="Cuscatlán 98.5 FM" type="rss" url="http://icecasthd.net:8298/" />
+<outline text="La Central 103.7 FM" title="La Central 103.7 FM" type="rss" url="https://radio.videct.com/8176/stream" />
 <outline text="La Jefa Radio El Salvador" title="La Jefa Radio El Salvador" type="rss" url="http://stream.zeno.fm/b264csn0sy8uv" />
 <outline text="La Tribu FM" title="La Tribu FM" type="rss" url="https://streamer.radio.co/s3a3c12873/listen" />
+<outline text="Plenitud Radio" title="Plenitud Radio" type="rss" url="https://ssl.rockhost.com/proxy/plenitud?mp=/mp3_64" />
 <outline text="Radio  Cadena YSKL La Poderosa" title="Radio  Cadena YSKL La Poderosa" type="rss" url="http://media.dominiocreativo.com:8000/radioyskl" />
-<outline text="Radio Astral" title="Radio Astral" type="rss" url="https://streaming.rcs.com.sv/8012/astral" />
+<outline text="Radio Astral 102.9 FM" title="Radio Astral 102.9 FM" type="rss" url="https://streaming.rcs.com.sv/proxy/astral/stream" />
 <outline text="Radio Bautista" title="Radio Bautista" type="rss" url="https://s2.radio.co/s3a7dc3d82/listen" />
+<outline text="Radio El Camino" title="Radio El Camino" type="rss" url="https://www.streamingcp.com:2000/stream/elcaminofm/" />
 <outline text="Radio El Mundo - 93.7 FM" title="Radio El Mundo - 93.7 FM" type="rss" url="http://streaming.mundoclasicaupa.com:8000/radioelmundo" />
-<outline text="Radio Evangélica Mekaddesh 90.9 FM" title="Radio Evangélica Mekaddesh 90.9 FM" type="rss" url="https://tv.radiohosting.online:9922/stream" />
+<outline text="Radio La Campirana " title="Radio La Campirana " type="rss" url="http://195.154.33.87:7206/" />
+<outline text="Radio Mercado Metapan" title="Radio Mercado Metapan" type="rss" url="https://centova.playerfullhd.com/proxy/brfrtxcf/stream" />
+<outline text="Radio Mil 80 101.7 FM" title="Radio Mil 80 101.7 FM" type="rss" url="https://radio.videct.com/8002/stream" />
 <outline text="Radio Nacional de El Salvador  - 96.9" title="Radio Nacional de El Salvador  - 96.9" type="rss" url="https://streamingcwsradio30.com/8156/stream" />
 <outline text="Radio Salem 92.5" title="Radio Salem 92.5" type="rss" url="http://streamingcontrol.com:8500/" />
+<outline text="Radio Sonora 104.5 FM" title="Radio Sonora 104.5 FM" type="rss" url="http://190.5.147.67:8000/radiosonora" />
+<outline text="Radio YSKL 104.1 FM" title="Radio YSKL 104.1 FM" type="rss" url="https://media.dominiocreativo.com:8000/stream/1/" />
 <outline text="Radio YSUCA, 91.7 FM" title="Radio YSUCA, 91.7 FM" type="rss" url="https://fast.citrus3.com:8314/stream" />
-<outline text="Restauracion / 100.5 FM - Mision Cristiana Elim" title="Restauracion / 100.5 FM - Mision Cristiana Elim" type="rss" url="https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_320" />
+<outline text="Taylor Swift Radio" title="Taylor Swift Radio" type="rss" url="https://stream.zeno.fm/xiothj9jrxfvv" />
+<outline text="Xtremevibes" title="Xtremevibes" type="rss" url="https://c17.radioboss.fm:8162/stream" />
 </body>
 </opml>

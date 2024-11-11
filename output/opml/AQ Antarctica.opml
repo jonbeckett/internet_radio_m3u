@@ -5,9 +5,13 @@
 </head>
 <body>
 <outline text="A Net Station" title="A Net Station" type="rss" url="http://anetstation.com/MP3/ANETSTATIONDOTCOM.m3u" />
+<outline text="addyfm" title="addyfm" type="rss" url="https://streams.radio.co/seebf5dae6/listen" />
 <outline text="Doujindance" title="Doujindance" type="rss" url="http://radio.funkot.net:8010/playlist" />
-<outline text="lassulus radio" title="lassulus radio" type="rss" url="http://lassul.us:8000/radio.mp3" />
-<outline text="Radio Nacional Arcangel San Gabriel - LRA 36 Antartida" title="Radio Nacional Arcangel San Gabriel - LRA 36 Antartida" type="rss" url="https://sa.mp3.icecast.magma.edge-access.net/sc_rad32" />
+<outline text="Gachi Station (Ukrainian playlist) #1" title="Gachi Station (Ukrainian playlist) #1" type="rss" url="https://stream.zeno.fm/bmb6ihzfbpdtv" />
+<outline text="Gachi Station #1" title="Gachi Station #1" type="rss" url="https://stream.zeno.fm/y513614qvzzuv" />
+<outline text="Gachi Station #2" title="Gachi Station #2" type="rss" url="https://stream.zeno.fm/p7ume1dmbd0uv" />
+<outline text="Gachi Station #3" title="Gachi Station #3" type="rss" url="https://stream.zeno.fm/cucqe20mixktv" />
+<outline text="lassulus radio" title="lassulus radio" type="rss" url="http://radio.lassul.us/radio.mp3" />
 <outline text="UKNova" title="UKNova" type="rss" url="http://uknr.org:8000/" />
 </body>
 </opml>

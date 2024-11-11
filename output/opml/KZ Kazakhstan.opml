@@ -4,11 +4,11 @@
 <title>Internet Radio Stations for KZ Kazakhstan</title>
 </head>
 <body>
+<outline text="((beu))" title="((beu))" type="rss" url="https://stream.beufm.kz/beufm" />
 <outline text="Auto Radio Kazakhstan" title="Auto Radio Kazakhstan" type="rss" url="http://178.88.167.62:8080/AVTORADIO_192" />
 <outline text="Avtoradio" title="Avtoradio" type="rss" url="http://178.88.167.62:8080/AVTORADIO_192" />
 <outline text="Business FM 89.6" title="Business FM 89.6" type="rss" url="http://94.247.130.243:5050/business" />
-<outline text="Love Radio KZ" title="Love Radio KZ" type="rss" url="https://stream.gakku.tv:8443/love128.mp3" />
-<outline text="LuxFM" title="LuxFM" type="rss" url="https://icecast.luxfm.kz/luxfm" />
+<outline text="Love Radio Kazakhstan" title="Love Radio Kazakhstan" type="rss" url="https://stream.gakku.tv:8443/love128.mp3" />
 <outline text="NS 106 FM" title="NS 106 FM" type="rss" url="http://89.219.35.26:8000/radions" />
 <outline text="NS-Lounge" title="NS-Lounge" type="rss" url="https://icecast.ns.kz/radions-lounge" />
 <outline text="NS-Rock" title="NS-Rock" type="rss" url="https://icecast.ns.kz/radions" />
@@ -21,20 +21,30 @@
 <outline text="Radio Bulbul" title="Radio Bulbul" type="rss" url="https://radiobulbul.stream.laut.fm/radiobulbul" />
 <outline text="Radio City" title="Radio City" type="rss" url="https://kvs01.businessfm.kz/city" />
 <outline text="Radio Nostalgie (Kazakhstan)" title="Radio Nostalgie (Kazakhstan)" type="rss" url="https://listen7.myradio24.com/alexx333" />
+<outline text="Radio Tengri FM" title="Radio Tengri FM" type="rss" url="http://91.201.214.229:8000/tengrifm" />
+<outline text="Radio TMK" title="Radio TMK" type="rss" url="https://listen.myrh.ru/radiotmk" />
+<outline text="Radio TMK " title="Radio TMK " type="rss" url="https://a4.radioheart.ru:9036/RH13170" />
 <outline text="Russian Dance Radio" title="Russian Dance Radio" type="rss" url="https://lux-radio.com:8015/stream" />
 <outline text="Russkoye Radio Asia 104.7 FM" title="Russkoye Radio Asia 104.7 FM" type="rss" url="http://31.148.22.35:9000/stream" />
 <outline text="Shalqar" title="Shalqar" type="rss" url="https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio" />
 <outline text="Space Beat" title="Space Beat" type="rss" url="http://95.182.123.100/listen/space_beat/radio.mp3" />
 <outline text="Tengri FM" title="Tengri FM" type="rss" url="http://91.201.214.229:8000/tengrifm" />
+<outline text="The Holy Quran  by Sheikh Mahmoud Al-Husari" title="The Holy Quran  by Sheikh Mahmoud Al-Husari" type="rss" url="https://qurango.net/radio/mahmoud_khalil_alhussary_warsh" />
+<outline text="Zhulduz Radio" title="Zhulduz Radio" type="rss" url="http://91.201.214.229:8000/zhulduz" />
+<outline text="ВАШЕ РАДИО" title="ВАШЕ РАДИО" type="rss" url="https://live.zhanafm.kz:8443/vasheradio" />
 <outline text="ЖАНА FM" title="ЖАНА FM" type="rss" url="https://live.zhanafm.kz:8443/zhanafm_onair" />
+<outline text="Жаңа Lounge" title="Жаңа Lounge" type="rss" url="https://live.zhanafm.kz:8443/zhanalounge" />
+<outline text="Жаңа MIX" title="Жаңа MIX" type="rss" url="https://live.zhanafm.kz:8443/zhanamix" />
+<outline text="Жаңа Rock" title="Жаңа Rock" type="rss" url="https://live.zhanafm.kz:8443/zhanarock" />
 <outline text="Народное Радио" title="Народное Радио" type="rss" url="http://178.88.167.62:8080/DALA_192" />
 <outline text="Радио 7 (Казахстан)" title="Радио 7 (Казахстан)" type="rss" url="https://listen2.myradio24.com/8334" />
 <outline text="Радио Classic" title="Радио Classic" type="rss" url="https://radio-streams.kaztrk.kz/classic/classic/icecast.audio" />
+<outline text="Радио NS-Jazz" title="Радио NS-Jazz" type="rss" url="https://icecast.ns.kz/radions-jazz" />
+<outline text="Радио NS-Rock" title="Радио NS-Rock" type="rss" url="https://icecast.ns.kz/radions-rock" />
+<outline text="Радио NS-Русский хит" title="Радио NS-Русский хит" type="rss" url="https://icecast.ns.kz/radions-russian" />
 <outline text="Радио SANA" title="Радио SANA" type="rss" url="https://listen4.myradio24.com/radiosana" />
-<outline text="Радио Алау" title="Радио Алау" type="rss" url="https://s0.radioheart.ru:8000/RH67172" />
-<outline text="Радио Микс Казахстан" title="Радио Микс Казахстан" type="rss" url="http://streaming.radionomy.com/JamendoLounge" />
 <outline text="Радио Рауан" title="Радио Рауан" type="rss" url="https://listen4.myradio24.com/rauan" />
 <outline text="Радио Талап" title="Радио Талап" type="rss" url="https://okeyradio.ru/okey" />
-<outline text="Той Думан" title="Той Думан" type="rss" url="https://stream.gakku.tv:8443/live.mp3" />
+<outline text="Радио ТМК" title="Радио ТМК" type="rss" url="https://listen.myrh.ru/radiotmk" />
 </body>
 </opml>

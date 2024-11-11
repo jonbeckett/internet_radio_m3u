@@ -12,11 +12,18 @@
 <outline text="..:: CLUB MUSIC RADIO ::....:: TAMBURA ::.." title="..:: CLUB MUSIC RADIO ::....:: TAMBURA ::.." type="rss" url="http://cmr-hosting.com:8070/stream?type=http&amp;nocache=646624" />
 <outline text="..:: RADiO LuDNiCA :: Original Croatian Internet Radio ::.." title="..:: RADiO LuDNiCA :: Original Croatian Internet Radio ::.." type="rss" url="http://patmos.cdnstream.com:8222/stream?type=http&amp;nocache=120427" />
 <outline text="Antena Zagreb Uživo" title="Antena Zagreb Uživo" type="rss" url="http://live.antenazagreb.hr:8002/" />
-<outline text="Antena ZD" title="Antena ZD" type="rss" url="http://live.antenazadar.hr:9000/stream/" />
+<outline text="Banovina Turbo" title="Banovina Turbo" type="rss" url="https://audio.radio-banovina.hr:7010/stream" />
 <outline text="Bijelo-plavi radio" title="Bijelo-plavi radio" type="rss" url="http://s8.iqstreaming.com:8028/stream" />
 <outline text="Braniteljski radio &quot;Nepokoreni grad&quot;" title="Braniteljski radio &quot;Nepokoreni grad&quot;" type="rss" url="http://s3.radio.co/se83499ee0/listen" />
 <outline text="bravo! kids" title="bravo! kids" type="rss" url="https://audio.social3.hr/listen/bravo_kids/stream?3367" />
 <outline text="City-radio 88.6" title="City-radio 88.6" type="rss" url="http://s8.iqstreaming.com:8058/stream" />
+<outline text="Club Music Radio - 70&apos;s 80&apos;s 90&apos;s" title="Club Music Radio - 70&apos;s 80&apos;s 90&apos;s" type="rss" url="https://cmr-hosting.com:7003/stream/1" />
+<outline text="Club Music Radio - CRO HITS" title="Club Music Radio - CRO HITS" type="rss" url="https://cmr-hosting.com:7006/stream/1" />
+<outline text="Club Music Radio - Dance" title="Club Music Radio - Dance" type="rss" url="https://cmr-hosting.com:7002/stream/1" />
+<outline text="Club Music Radio - FOLK" title="Club Music Radio - FOLK" type="rss" url="https://cmr-hosting.com:7001/stream/1" />
+<outline text="Club Music Radio - ITALO DISCO" title="Club Music Radio - ITALO DISCO" type="rss" url="https://cmr-hosting.com:7005/stream/1" />
+<outline text="Club Music Radio - LOVE SONG" title="Club Music Radio - LOVE SONG" type="rss" url="https://cmr-hosting.com:7004/stream/1" />
+<outline text="Club Music Radio - TAMBURA" title="Club Music Radio - TAMBURA" type="rss" url="https://cmr-hosting.com:7007/stream/1" />
 <outline text="Club Music Radio Tambura" title="Club Music Radio Tambura" type="rss" url="http://cmr-hosting.com:8070/" />
 <outline text="CMC Classic" title="CMC Classic" type="rss" url="http://radio-stream.cmc.com.hr:8100/autodj" />
 <outline text="CMC Dalmatina" title="CMC Dalmatina" type="rss" url="http://radio-stream.cmc.com.hr:8040/autodj" />
@@ -24,33 +31,27 @@
 <outline text="CMC Jugoton" title="CMC Jugoton" type="rss" url="http://radio-stream.cmc.com.hr:8020/autodj" />
 <outline text="CMC Kids" title="CMC Kids" type="rss" url="http://radio-stream.cmc.com.hr:8090/autodj" />
 <outline text="CMC Lagano" title="CMC Lagano" type="rss" url="http://radio-stream.cmc.com.hr:8030/autodj" />
-<outline text="CMC Radio" title="CMC Radio" type="rss" url="https://radio-stream.cmc.com.hr:9011/autodj" />
+<outline text="CMC Radio" title="CMC Radio" type="rss" url="http://radio-stream.cmc.com.hr:8001/autodj" />
 <outline text="CMC Rock" title="CMC Rock" type="rss" url="http://radio-stream.cmc.com.hr:8060/autodj" />
 <outline text="CMC Tambure" title="CMC Tambure" type="rss" url="http://radio-stream.cmc.com.hr:8050/autodj" />
 <outline text="CMC Zabavni" title="CMC Zabavni" type="rss" url="http://radio-stream.cmc.com.hr:8085/autodj" />
-<outline text="CRASH" title="CRASH" type="rss" url="http://live.radiocrash.net/" />
-<outline text="DRUGI PROGRAM - HRVATSKI RADIO" title="DRUGI PROGRAM - HRVATSKI RADIO" type="rss" url="http://23543.live.streamtheworld.com/PROGRAM2.mp3" />
-<outline text="GLAS HRVATSKE - HRVATSKI RADIO" title="GLAS HRVATSKE - HRVATSKI RADIO" type="rss" url="http://20723.live.streamtheworld.com/VOICEOFCROATIA.mp3" />
-<outline text="Gradski radio Virovitica" title="Gradski radio Virovitica" type="rss" url="https://onlineradiobox.com/json/hr/gradskivirovitica/play?platform=web" />
+<outline text="Cro International DJ Radio" title="Cro International DJ Radio" type="rss" url="http://stream.zeno.fm/t47dykadrchvv" />
 <outline text="Hit Radio" title="Hit Radio" type="rss" url="http://s8.iqstreaming.com:8012/stream.mp3" />
 <outline text="Hit Rado Sinj" title="Hit Rado Sinj" type="rss" url="http://s8.iqstreaming.com:8012/listen.pls?sid=1" />
 <outline text="HKR" title="HKR" type="rss" url="http://stream.hkr.hr:8000/hkr.mp3" />
-<outline text="HRT HR 1 - Prvi program" title="HRT HR 1 - Prvi program" type="rss" url="https://25593.live.streamtheworld.com/PROGRAM1.mp3" />
-<outline text="HRT HR2 - Drugi program" title="HRT HR2 - Drugi program" type="rss" url="https://25593.live.streamtheworld.com/PROGRAM2.mp3" />
-<outline text="HRT Radio Sljeme" title="HRT Radio Sljeme" type="rss" url="https://25593.live.streamtheworld.com/SLJEME.mp3" />
-<outline text="Hrvat" title="Hrvat" type="rss" url="http://213.239.215.181:9036/stream" />
+<outline text="HRT HR 1 - Prvi program" title="HRT HR 1 - Prvi program" type="rss" url="http://provisioning.streamtheworld.com/pls/PROGRAM1.pls" />
+<outline text="HRT HR 2" title="HRT HR 2" type="rss" url="https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2.mp3" />
 <outline text="Hrvatski katolicki radio" title="Hrvatski katolicki radio" type="rss" url="https://stream.hkr.hr/hkr.mp3" />
 <outline text="Hrvatski Katolički Radio" title="Hrvatski Katolički Radio" type="rss" url="https://stream.hkr.hr/hkr.mp3" />
-<outline text="Hrvatski Radio - Drugi Program" title="Hrvatski Radio - Drugi Program" type="rss" url="http://21223.live.streamtheworld.com/PROGRAM2.mp3" />
-<outline text="Hrvatski Radio - Knin" title="Hrvatski Radio - Knin" type="rss" url="http://20723.live.streamtheworld.com/KNIN.mp3" />
-<outline text="Hrvatski Radio - Split" title="Hrvatski Radio - Split" type="rss" url="http://21223.live.streamtheworld.com/SPLIT.mp3" />
-<outline text="Hrvatski Radio - Treci Program" title="Hrvatski Radio - Treci Program" type="rss" url="http://21223.live.streamtheworld.com/PROGRAM3.mp3" />
+<outline text="Hrvatski radio - Jazz" title="Hrvatski radio - Jazz" type="rss" url="https://provisioning.streamtheworld.com/pls/HR_JAZZ.pls" />
+<outline text="Hrvatski radio - Klasik" title="Hrvatski radio - Klasik" type="rss" url="https://provisioning.streamtheworld.com/pls/HR_CLASSICS.pls" />
+<outline text="Hrvatski radio - Pop glazba" title="Hrvatski radio - Pop glazba" type="rss" url="https://provisioning.streamtheworld.com/pls/HR_POP.pls" />
+<outline text="Hrvatski radio - Rock" title="Hrvatski radio - Rock" type="rss" url="https://provisioning.streamtheworld.com/pls/HR_ROCK.pls" />
 <outline text="Hrvatski Radio Čakovec d.o.o. Stream" title="Hrvatski Radio Čakovec d.o.o. Stream" type="rss" url="http://live.radio-cakovec.hr:7020/stream" />
 <outline text="Hrvatski radio Čakovec d.o.o. Stream" title="Hrvatski radio Čakovec d.o.o. Stream" type="rss" url="http://live.radio-cakovec.hr:7020/stream" />
 <outline text="Hrvatski radio Karlovac" title="Hrvatski radio Karlovac" type="rss" url="http://s8.iqstreaming.com:8002/" />
 <outline text="Hrvatski radio Vukovar" title="Hrvatski radio Vukovar" type="rss" url="http://live.hrv.hr:8000/hrv" />
 <outline text="https://clubmusic-1.com/" title="https://clubmusic-1.com/" type="rss" url="http://cmr-hosting.com:8050/stream?type=http&amp;nocache=5796" />
-<outline text="Jugoton HIT Radio - Wien/Bec - Vas i nas Radio" title="Jugoton HIT Radio - Wien/Bec - Vas i nas Radio" type="rss" url="http://s8.iqstreaming.com:8060/stream/1" />
 <outline text="KLFM.org" title="KLFM.org" type="rss" url="https://klfmorgborg.radioca.st/stream?type=http&amp;nocache=1089" />
 <outline text="Laganini FM" title="Laganini FM" type="rss" url="http://194.145.208.251:8000/start/lfmzg" />
 <outline text="Laganini FM - Rijeka" title="Laganini FM - Rijeka" type="rss" url="http://194.145.208.251:8004/stream?type=http&amp;nocache=149" />
@@ -59,43 +60,37 @@
 <outline text="Laganini Požega" title="Laganini Požega" type="rss" url="http://194.145.208.251:8008/start/lfmpz" />
 <outline text="Laganini Rijeka" title="Laganini Rijeka" type="rss" url="http://194.145.208.251:8004/start/lfmri" />
 <outline text="Laganini Zagreb" title="Laganini Zagreb" type="rss" url="http://194.145.208.251:8000/start/lfmzg" />
-<outline text="Narodni Radio Goga" title="Narodni Radio Goga" type="rss" url="https://cmr-hosting.com:7013/" />
 <outline text="Naxi House" title="Naxi House" type="rss" url="http://naxidigital-house128.streaming.rs:8000/listen.pls" />
 <outline text="Novi Radio Zadar" title="Novi Radio Zadar" type="rss" url="http://s8.iqstreaming.com:8022/stream" />
 <outline text="Obiteljski Radio Ivanić" title="Obiteljski Radio Ivanić" type="rss" url="http://s8.iqstreaming.com:8080/stream" />
 <outline text="Online Radio Kneginec" title="Online Radio Kneginec" type="rss" url="http://stream.zeno.fm/yetzdv442k8uv" />
 <outline text="Pitomi Radio" title="Pitomi Radio" type="rss" url="http://194.145.208.251:8022/stream?1580651040750.mp3" />
-<outline text="Pomorski Radio Bakar" title="Pomorski Radio Bakar" type="rss" url="https://onlineradiobox.com/json/hr/pomorski/play?platform=web" />
 <outline text="Poslovni FM" title="Poslovni FM" type="rss" url="https://ec2s.crolive.com.hr:2665/stream" />
-<outline text="PRVI PROGRAM - HRVATSKI RADIO" title="PRVI PROGRAM - HRVATSKI RADIO" type="rss" url="http://21223.live.streamtheworld.com/PROGRAM1.mp3" />
 <outline text="Radio 057" title="Radio 057" type="rss" url="http://streaming.zadar.net:8000/radio057" />
 <outline text="Radio 101" title="Radio 101" type="rss" url="https://live.radio101.hr:8000/" />
+<outline text="Radio 101 ROCK" title="Radio 101 ROCK" type="rss" url="https://live.radio101.hr:8010/" />
 <outline text="Radio 101 Rock" title="Radio 101 Rock" type="rss" url="https://live.radio101.hr:8010/" />
 <outline text="Radio 101 Soft Sound" title="Radio 101 Soft Sound" type="rss" url="https://live.radio101.hr:8020/" />
+<outline text="Radio 4 You" title="Radio 4 You" type="rss" url="http://84.16.232.202:7154/stream" />
 <outline text="Radio 808" title="Radio 808" type="rss" url="http://stream.radio808.info:8003/listen.pls" />
 <outline text="Radio 808 Zagreb" title="Radio 808 Zagreb" type="rss" url="https://808proxy.contrib.hr/" />
-<outline text="Radio Antena" title="Radio Antena" type="rss" url="http://live.antenazadar.hr:9000/?type=http&amp;nocache=10737" />
 <outline text="Radio Banovina" title="Radio Banovina" type="rss" url="http://stream1.radio-banovina.hr:8008/" />
 <outline text="Radio Biograd na Moru" title="Radio Biograd na Moru" type="rss" url="https://onlineradiobox.com/json/hr/bnm/play?platform=web" />
 <outline text="Radio Blagovesti" title="Radio Blagovesti" type="rss" url="http://radio.manastir-lepavina.org:8000/listen.pls" />
-<outline text="Radio Brac" title="Radio Brac" type="rss" url="http://s8.iqstreaming.com:8066/listen.pls" />
+<outline text="Radio Brac" title="Radio Brac" type="rss" url="http://s8.iqstreaming.com:8066/stream" />
 <outline text="Radio Centar Studio Poreč" title="Radio Centar Studio Poreč" type="rss" url="http://radiocentar.hr:8282/mp3" />
-<outline text="Radio Daruvar" title="Radio Daruvar" type="rss" url="http://85.17.172.242:8070/" />
 <outline text="Radio Deejay HR" title="Radio Deejay HR" type="rss" url="http://live.deejay.hr:7002/" />
 <outline text="Radio DJ Grga" title="Radio DJ Grga" type="rss" url="http://cmr-hosting.com:8430/stream?type=http&amp;nocache=343" />
-<outline text="RADIO DUBROVNIK" title="RADIO DUBROVNIK" type="rss" url="http://21223.live.streamtheworld.com/DUBROVNIK.mp3" />
 <outline text="Radio Eurostar Umag" title="Radio Eurostar Umag" type="rss" url="http://mcp1.mydataknox.com:8012/stream" />
 <outline text="Radio Gorski kotar" title="Radio Gorski kotar" type="rss" url="http://144.76.39.214:9500/stream.mp3" />
 <outline text="Radio Grubišno Polje" title="Radio Grubišno Polje" type="rss" url="https://ec2s.crolive.com.hr:8215/stream" />
-<outline text="Radio Hrvat" title="Radio Hrvat" type="rss" url="http://213.239.215.181:9036/stream" />
-<outline text="Radio Imotski 107.4 FM" title="Radio Imotski 107.4 FM" type="rss" url="http://radioimotski.radioca.st/stream" />
 <outline text="Radio Jaska" title="Radio Jaska" type="rss" url="https://uk1.streamingpulse.com/ssl/RadioJaska" />
-<outline text="RADIO KNIN" title="RADIO KNIN" type="rss" url="http://23603.live.streamtheworld.com/KNIN.mp3" />
-<outline text="Radio Koprivnica" title="Radio Koprivnica" type="rss" url="http://194.152.206.205:8000/" />
+<outline text="RADIO KASTAV" title="RADIO KASTAV" type="rss" url="http://proxima.shoutca.st:8559/stream" />
+<outline text="Radio Koprivnica" title="Radio Koprivnica" type="rss" url="https://443-1.reliastream.com/51/" />
 <outline text="Radio Križevci" title="Radio Križevci" type="rss" url="https://s8.iqstreaming.com:8048/stream" />
 <outline text="Radio Ludnica" title="Radio Ludnica" type="rss" url="http://192.111.140.6:8222/" />
-<outline text="Radio M 90,1 MHz" title="Radio M 90,1 MHz" type="rss" url="http://radiomvelaluka.ddns.net:8000/stream" />
 <outline text="Radio Maestral" title="Radio Maestral" type="rss" url="http://ec2s.crolive.com.hr:1630/stream" />
+<outline text="Radio Maestral Pula" title="Radio Maestral Pula" type="rss" url="http://ec2s.crolive.com.hr:1630/stream" />
 <outline text="Radio Martin" title="Radio Martin" type="rss" url="http://genf196.server4you.de:8585/" />
 <outline text="Radio Media Servis" title="Radio Media Servis" type="rss" url="http://live.mediaservis.hr:8084/stream?type=http&amp;nocache=557757" />
 <outline text="Radio Megaton" title="Radio Megaton" type="rss" url="https://chopin.bizmusic.net/radio/8030/radio.mp3" />
@@ -104,25 +99,23 @@
 <outline text="Radio NACIONAL" title="Radio NACIONAL" type="rss" url="https://nnc1-bpmmc501.radioca.st/stream" />
 <outline text="Radio Nacional Croatia" title="Radio Nacional Croatia" type="rss" url="http://nnc1-bpmmc501.radioca.st/stream" />
 <outline text="Radio Nova Gradiška" title="Radio Nova Gradiška" type="rss" url="http://comet.shoutca.st:8050/" />
+<outline text="Radio Novska" title="Radio Novska" type="rss" url="http://genf196.server4you.de:8686/" />
 <outline text="Radio Orahovica" title="Radio Orahovica" type="rss" url="https://ec2s.crolive.com.hr:2595/stream" />
 <outline text="Radio Otocac" title="Radio Otocac" type="rss" url="http://s8.iqstreaming.com:8024/stream" />
 <outline text="Radio Otok Krk" title="Radio Otok Krk" type="rss" url="https://s8.iqstreaming.com:8014/stream" />
-<outline text="Radio Ploce 64,5 MHz" title="Radio Ploce 64,5 MHz" type="rss" url="http://178.218.163.171:8010/ploce" />
 <outline text="Radio Preporod" title="Radio Preporod" type="rss" url="http://s1.voscast.com:7986/" />
 <outline text="Radio Prkos" title="Radio Prkos" type="rss" url="http://eu7.fastcast4u.com:6124/stream" />
 <outline text="Radio Quirinus 91.7" title="Radio Quirinus 91.7" type="rss" url="http://s8.iqstreaming.com:8064/stream" />
 <outline text="Radio Ritam Šibenik" title="Radio Ritam Šibenik" type="rss" url="https://ec2s.crolive.com.hr:8455/stream" />
 <outline text="Radio Roza" title="Radio Roza" type="rss" url="http://stream.radio-roza.org/live.mp3" />
-<outline text="Radio Rudina " title="Radio Rudina " type="rss" url="https://azuracast.datea.services/public/radio_rudina/playlist.pls" />
 <outline text="Radio Samobor" title="Radio Samobor" type="rss" url="http://185.150.235.162/" />
 <outline text="Radio Šibenik" title="Radio Šibenik" type="rss" url="http://144.76.219.22:8215/stream.mp3?ver=421911" />
-<outline text="Radio Slatina" title="Radio Slatina" type="rss" url="http://85.17.172.242:8020/live2.mp3" />
 <outline text="Radio Slavonija" title="Radio Slavonija" type="rss" url="http://s8.iqstreaming.com:8026/listen.pls" />
 <outline text="Radio Slunj  95.2" title="Radio Slunj  95.2" type="rss" url="http://s3.iqstreaming.com/tunein.php/slunj/playlist.pls" />
 <outline text="Radio Sova" title="Radio Sova" type="rss" url="http://evcast.mediacp.eu:1960/stream" />
-<outline text="RADIO SPLIT - HRVATSKI RADIO" title="RADIO SPLIT - HRVATSKI RADIO" type="rss" url="http://23543.live.streamtheworld.com/SPLIT.mp3" />
 <outline text="Radio stubica" title="Radio stubica" type="rss" url="http://radiostubica.hc.hr:7006/stream" />
 <outline text="Radio Techno Dance Kneginec" title="Radio Techno Dance Kneginec" type="rss" url="http://stream.zeno.fm/8d2pyzm5wp8uv" />
+<outline text="Radio Techno Zagreb" title="Radio Techno Zagreb" type="rss" url="http://mercury.reliastream.com:8085/stream.mp3" />
 <outline text="Radio Tvornica" title="Radio Tvornica" type="rss" url="https://c8.hostingcentar.com/streams/radiotvornica?type=http&amp;nocache=50001" />
 <outline text="Radio Vinkovci" title="Radio Vinkovci" type="rss" url="https://onlineradiobox.com/json/hr/vinkovci/play?platform=web" />
 <outline text="Radio Vrbovec 94.5" title="Radio Vrbovec 94.5" type="rss" url="http://c2.hostingcentar.com:9452/" />
@@ -131,9 +124,13 @@
 <outline text="Slavonski Radio" title="Slavonski Radio" type="rss" url="https://ec2s.crolive.com.hr:8035/stream" />
 <outline text="Studentski radio UNIOS" title="Studentski radio UNIOS" type="rss" url="http://radio.unios.hr:8000/stream.mp3" />
 <outline text="Super Radio" title="Super Radio" type="rss" url="https://mcp1.mydataknox.com:2000/tunein/stream_4/stream/pls" />
-<outline text="Trend Radio Karlovac" title="Trend Radio Karlovac" type="rss" url="https://trend.com.hr/stream/playlist.php?name=listen.asx" />
+<outline text="Top Radio Gold" title="Top Radio Gold" type="rss" url="https://audio.social3.hr/listen/top_radio_gold/stream?7802" />
+<outline text="Top Radio Pop" title="Top Radio Pop" type="rss" url="https://audio.social3.hr/listen/top_radio_pop/stream?5483" />
+<outline text="Top Radio Rock" title="Top Radio Rock" type="rss" url="https://audio.social3.hr/listen/top_radio_rock/stream?7435" />
+<outline text="Top Radio Yugo" title="Top Radio Yugo" type="rss" url="https://audio.social3.hr/listen/top_exyu/stream?8298" />
 <outline text="Zabavni radio" title="Zabavni radio" type="rss" url="https://genf196.server4you.de:8585/" />
 <outline text="ZFM" title="ZFM" type="rss" url="https://ec2s.crolive.com.hr:7015/stream" />
+<outline text="ZFM 99.5 &amp; 96.0" title="ZFM 99.5 &amp; 96.0" type="rss" url="https://ec2s.crolive.com.hr:7015/stream" />
 <outline text="Županijski Radio Virovitica" title="Županijski Radio Virovitica" type="rss" url="https://radio.icv.hr/9300/stream" />
 </body>
 </opml>

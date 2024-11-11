@@ -4,12 +4,18 @@
 <title>Internet Radio Stations for RW Rwanda</title>
 </head>
 <body>
+<outline text="90.7 Magic FM" title="90.7 Magic FM" type="rss" url="http://listen.rba.co.rw:8080/" />
 <outline text="Country FM 105.7" title="Country FM 105.7" type="rss" url="https://radio.garden/api/ara/content/listen/neJlRqje/channel.mp3?1692198466055" />
+<outline text="DFM Radio " title="DFM Radio " type="rss" url="https://stream.zeno.fm/mtrcigb9yhitv" />
+<outline text="DFM Radio (RW)" title="DFM Radio (RW)" type="rss" url="https://stream.zeno.fm/fygodpmrgcquv" />
+<outline text="DFM Radio Rwanda " title="DFM Radio Rwanda " type="rss" url="https://stream.zeno.fm/fygodpmrgcquv" />
 <outline text="Heaven FM Radio Rwanda" title="Heaven FM Radio Rwanda" type="rss" url="http://stream.zeno.fm/eequgfw72hhvv" />
 <outline text="KT Radio (96.7 MHz FM, Kigali)" title="KT Radio (96.7 MHz FM, Kigali)" type="rss" url="http://197.243.1.130:8006/k2dlivemp3" />
 <outline text="Magic FM" title="Magic FM" type="rss" url="http://listen.rba.co.rw:8080/" />
 <outline text="Radio 1" title="Radio 1" type="rss" url="http://80.241.215.175:5000/" />
+<outline text="Radio Rwanda" title="Radio Rwanda" type="rss" url="http://listen.rba.co.rw:8000/" />
 <outline text="Radio10 Rwanda (87.6 MHz FM, Kigali)" title="Radio10 Rwanda (87.6 MHz FM, Kigali)" type="rss" url="http://radio10-876fm.ice.infomaniak.ch/radio10-kigali.mp3" />
 <outline text="Royal FM" title="Royal FM" type="rss" url="http://80.241.215.175:3000/" />
+<outline text="Royal FM 94.3 Rwanda" title="Royal FM 94.3 Rwanda" type="rss" url="http://80.241.215.175:3000/" />
 </body>
 </opml>

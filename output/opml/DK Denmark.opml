@@ -5,19 +5,25 @@
 </head>
 <body>
 <outline text="100% Kim Larsen" title="100% Kim Larsen" type="rss" url="http://stream2.wlmm.dk/kimlarsenmp3" />
-<outline text="24syv" title="24syv" type="rss" url="https://stream.radioloud.dk/loud128" />
 <outline text="2town Radio" title="2town Radio" type="rss" url="http://streaming.radio.co/sd9d980ff0/listen" />
 <outline text="902 FM" title="902 FM" type="rss" url="http://s38.myradiostream.com:8598/.mp3" />
-<outline text="Albertslund Nærradio" title="Albertslund Nærradio" type="rss" url="http://87.61.251.162:8080/stream" />
 <outline text="Alfa Gold" title="Alfa Gold" type="rss" url="https://radioserver.dk/alfaevent" />
-<outline text="ALWAYS ELVIS Radio" title="ALWAYS ELVIS Radio" type="rss" url="http://89.249.7.68/alwayselvisradio" />
+<outline text="Always Elvis Radio" title="Always Elvis Radio" type="rss" url="http://radioserver.dk/alwayselvisradio" />
+<outline text="Always ELVIS Radio" title="Always ELVIS Radio" type="rss" url="https://radioserver.dk/alwayselvisradio" />
 <outline text="ANR" title="ANR" type="rss" url="http://stream.anr.dk/anr" />
+<outline text="Arctic Outpost Radio" title="Arctic Outpost Radio" type="rss" url="https://radio.streemlion.com:3715/stream" />
+<outline text="Classic Dance [DK]" title="Classic Dance [DK]" type="rss" url="https://stream.classicpop.dk/dance" />
+<outline text="Classic FM" title="Classic FM" type="rss" url="http://webradio.classicfm.dk/classichorsens" />
+<outline text="Classic FM (Fyn)" title="Classic FM (Fyn)" type="rss" url="https://netradio.classicfm.dk/cla12a" />
+<outline text="Classic POP [DK]" title="Classic POP [DK]" type="rss" url="https://stream.classicpop.dk/stream" />
+<outline text="Classic Pop 90&apos;er Hits [DK]" title="Classic Pop 90&apos;er Hits [DK]" type="rss" url="https://stream.classicpop.dk/event" />
 <outline text="Classic Rock Danmark" title="Classic Rock Danmark" type="rss" url="https://netradio.classicfm.dk/classicrock" />
 <outline text="Classic.fm" title="Classic.fm" type="rss" url="http://netradio.classicfm.dk/cla8d" />
+<outline text="Danmarks Radio P2" title="Danmarks Radio P2" type="rss" url="https://live-icy.dr.dk/A/A27L.mp3" />
+<outline text="Danmarks Radio p2" title="Danmarks Radio p2" type="rss" url="https://live-icy.dr.dk/A/A04L.mp3" />
 <outline text="Danmarks Radio P4; Trekanten" title="Danmarks Radio P4; Trekanten" type="rss" url="http://live-icy.gss.dr.dk/A/A13H.mp3.m3u" />
 <outline text="Danmarks Radio P6" title="Danmarks Radio P6" type="rss" url="https://live-icy.dr.dk/A/A29H.mp3" />
 <outline text="Dansktop Kanalen" title="Dansktop Kanalen" type="rss" url="https://netradio.classicfm.dk/dansktop" />
-<outline text="Den tunge radio" title="Den tunge radio" type="rss" url="https://26453.live.streamtheworld.com/SAM08AAC276.mp3" />
 <outline text="Det Rigtige Faaborg" title="Det Rigtige Faaborg" type="rss" url="http://stream2.wlmm.dk/detrigtigefaaborg" />
 <outline text="DFM Radio Television International" title="DFM Radio Television International" type="rss" url="http://stereo.dfm.nu:8205/dfm_1" />
 <outline text="Din Radio" title="Din Radio" type="rss" url="http://stream.wlmm.dk/DinRadiomp3" />
@@ -53,23 +59,20 @@
 <outline text="DR P8 Jazz" title="DR P8 Jazz" type="rss" url="http://live-icy.gss.dr.dk/A/A22H.mp3" />
 <outline text="DR Ramasjang/Ultra Radio" title="DR Ramasjang/Ultra Radio" type="rss" url="http://live-icy.gss.dr.dk/A/A24H.mp3" />
 <outline text="DRR" title="DRR" type="rss" url="http://radioserver.dk/abc" />
+<outline text="Esbjerg Classic FM" title="Esbjerg Classic FM" type="rss" url="https://webradio.classicfm.dk/classicvejle" />
 <outline text="FemernFM" title="FemernFM" type="rss" url="https://cast1.asurahosting.com/proxy/femernfm/stream" />
 <outline text="Globus Guld" title="Globus Guld" type="rss" url="http://stream.wlmm.dk/listen.pls?sid=1" />
+<outline text="Globus Guld Jul" title="Globus Guld Jul" type="rss" url="https://stream.probroadcast.dk/guldjul" />
 <outline text="Globus Guld Kolding" title="Globus Guld Kolding" type="rss" url="http://media.wlmm.dk:8000/guldkolding" />
-<outline text="Globus Guld Midt" title="Globus Guld Midt" type="rss" url="http://media.wlmm.dk/guld2" />
 <outline text="Globus Guld Tonder" title="Globus Guld Tonder" type="rss" url="http://media.wlmm.dk:8000/guldtoender" />
 <outline text="GLR - Gentofte Lokal Radio" title="GLR - Gentofte Lokal Radio" type="rss" url="https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3" />
-<outline text="go FM " title="go FM " type="rss" url="http://stream1.webfm.dk/Webfm" />
 <outline text="go!FM" title="go!FM" type="rss" url="https://radioserver.dk/gofm" />
-<outline text="HNR - Hvidovre Nærradio" title="HNR - Hvidovre Nærradio" type="rss" url="http://stream.wlmm.dk/hnrmp3" />
-<outline text="Højderyggens Lokalradio HLR" title="Højderyggens Lokalradio HLR" type="rss" url="http://78.156.96.48:1212/broadwave.mp3?src=1&amp;rate=1" />
-<outline text="Hvidovre Naerradio" title="Hvidovre Naerradio" type="rss" url="http://media.wlmm.dk/hnrmp3" />
 <outline text="Jazzkanalen" title="Jazzkanalen" type="rss" url="http://ca6.rcast.net:4058/stream" />
 <outline text="København Jazz Radio " title="København Jazz Radio " type="rss" url="https://asima.out.airtime.pro:8000/radiojazzcopenhagen_a" />
+<outline text="Limfjord Mix" title="Limfjord Mix" type="rss" url="https://media.limfjordnetradio.dk/limfjord128" />
 <outline text="Limfjord Plus" title="Limfjord Plus" type="rss" url="http://media.limfjordnetradio.dk/plus128" />
 <outline text="Limfjord Plus Slager" title="Limfjord Plus Slager" type="rss" url="http://media.limfjordnetradio.dk/plusslager128" />
 <outline text="Lumi Radio" title="Lumi Radio" type="rss" url="http://stream2.wlmm.dk/syddanmark.m3u" />
-<outline text="Mariagerfjord Lokalradio" title="Mariagerfjord Lokalradio" type="rss" url="http://89.249.7.68/mariager" />
 <outline text="Midtfjord Radio / Radio Nibenitten" title="Midtfjord Radio / Radio Nibenitten" type="rss" url="http://stream.midtfjordradio.dk/netradio" />
 <outline text="Mix FM Gribskov, Retro Nord" title="Mix FM Gribskov, Retro Nord" type="rss" url="https://netradio.mixfm.dk/stream" />
 <outline text="Musaiko " title="Musaiko " type="rss" url="http://fluo.muzaiko.saluton.dk:8000/radio.mp3" />
@@ -78,22 +81,22 @@
 <outline text="Nordsjællands Kristne Radio" title="Nordsjællands Kristne Radio" type="rss" url="http://studie.hkr.dk:8000/stream.mp3" />
 <outline text="Norea Radio" title="Norea Radio" type="rss" url="http://radio.norea.dk:8080/" />
 <outline text="Nova" title="Nova" type="rss" url="http://live-bauerdk.sharp-stream.com/nova128.mp3" />
+<outline text="NOVA - Horsens 103.6 FM" title="NOVA - Horsens 103.6 FM" type="rss" url="https://live-bauerdk.sharp-stream.com/nova_dk_mp3" />
+<outline text="Nova FM" title="Nova FM" type="rss" url="https://live-bauerdk.sharp-stream.com/nova_dk_mp3" />
 <outline text="Party Fm" title="Party Fm" type="rss" url="http://stream1.partyfm.dk/Party320" />
 <outline text="Partyfm " title="Partyfm " type="rss" url="http://stream1.partyfm.dk/Party320" />
 <outline text="PartyFM" title="PartyFM" type="rss" url="http://stream.partyfm.dk/Party320/" />
+<outline text="POP FM DK" title="POP FM DK" type="rss" url="http://live-bauerdk.sharp-stream.com/popfm128.mp3" />
 <outline text="Psyradio - Chillout" title="Psyradio - Chillout" type="rss" url="http://komplex2.psyradio.org:8020/chillout/" />
-<outline text="Psyradio - Progressive" title="Psyradio - Progressive" type="rss" url="http://ipx.psyradio.org:8010/" />
-<outline text="Psyradio - Psytrance" title="Psyradio - Psytrance" type="rss" url="http://ipx.psyradio.org:8030/" />
-<outline text="Radio 100" title="Radio 100" type="rss" url="https://edge-bauerdk-02-thn.sharp-stream.com/radio100_dk_tunein_mp3?" />
-<outline text="Radio 208" title="Radio 208" type="rss" url="http://stream.wlmm.dk:8010/radio208mp3" />
+<outline text="Radio 100" title="Radio 100" type="rss" url="https://live-bauerdk.sharp-stream.com/radio100_dk_mp3" />
 <outline text="Radio 40plus" title="Radio 40plus" type="rss" url="http://stream.radiosolutions.dk/radio40plus" />
 <outline text="Radio ABC" title="Radio ABC" type="rss" url="http://netradio.radioabc.dk/" />
 <outline text="Radio Alfa" title="Radio Alfa" type="rss" url="https://radioserver.dk/alfa" />
+<outline text="Radio Alfa - Gold" title="Radio Alfa - Gold" type="rss" url="https://radioserver.dk/alfaevent" />
 <outline text="Radio Alfa Aarhus" title="Radio Alfa Aarhus" type="rss" url="https://radioserver.dk/alfaaarhus" />
 <outline text="Radio Alfa Midtjylland" title="Radio Alfa Midtjylland" type="rss" url="https://radioserver.dk/alfamidt" />
 <outline text="Radio Alfa Silkeborg" title="Radio Alfa Silkeborg" type="rss" url="https://radioserver.dk/alfasilk" />
 <outline text="Radio Alfa Skive" title="Radio Alfa Skive" type="rss" url="https://radioserver.dk/alfaskive" />
-<outline text="Radio Alfa Sydfyn" title="Radio Alfa Sydfyn" type="rss" url="http://icecast1.radiostuff.dk:8000/Alfasydfyn128" />
 <outline text="Radio Alfa Viborg" title="Radio Alfa Viborg" type="rss" url="https://radioserver.dk/alfaviborg" />
 <outline text="Radio ALR" title="Radio ALR" type="rss" url="http://streamer.radio.co/s6a9beb92e/listen" />
 <outline text="Radio Boost" title="Radio Boost" type="rss" url="http://6434.cloudrad.io:8066/" />
@@ -104,14 +107,13 @@
 <outline text="Radio Freja" title="Radio Freja" type="rss" url="http://solid67.streamupsolutions.com:15507/stream" />
 <outline text="Radio Globus" title="Radio Globus" type="rss" url="https://stream.probroadcast.dk/radioglobus" />
 <outline text="Radio Haderslev " title="Radio Haderslev " type="rss" url="http://media.wlmm.dk/radiohaderslevmp3" />
-<outline text="Radio Halsnæs" title="Radio Halsnæs" type="rss" url="http://halsstream.spdns.de/" />
 <outline text="Radio Helsingør FM" title="Radio Helsingør FM" type="rss" url="https://stream.radiohelsingor.dk/rh" />
 <outline text="Radio Humleborg" title="Radio Humleborg" type="rss" url="https://stream2.rcast.net/64145" />
+<outline text="Radio IIII" title="Radio IIII" type="rss" url="https://netradio.radio4.dk/radio4" />
 <outline text="Radio Klitholm" title="Radio Klitholm" type="rss" url="http://stream.radioklitholm.dk:8000/stream" />
 <outline text="Radio Klitholm - Det Ny Kanal 1" title="Radio Klitholm - Det Ny Kanal 1" type="rss" url="http://stream.radioklitholm.dk:8000/stream" />
 <outline text="Radio Koge" title="Radio Koge" type="rss" url="http://stream.wlmm.dk/stream/53/" />
 <outline text="Radio Limfjord" title="Radio Limfjord" type="rss" url="http://media.limfjordnetradio.dk/limfjord128" />
-<outline text="Radio Loud" title="Radio Loud" type="rss" url="https://stream.radioloud.dk/loud128" />
 <outline text="Radio M" title="Radio M" type="rss" url="https://radioserver.dk/radiom" />
 <outline text="Radio Mælkebøtten" title="Radio Mælkebøtten" type="rss" url="http://live2.rcast.net:8722/stream" />
 <outline text="Radio MB" title="Radio MB" type="rss" url="http://live2.rcast.net:8722/stream" />
@@ -122,24 +124,22 @@
 <outline text="Radio Odsherred" title="Radio Odsherred" type="rss" url="http://87.104.40.139:88/broadwave.mp3" />
 <outline text="Radio Ost FM" title="Radio Ost FM" type="rss" url="http://stream.wlmm.dk/oestfmmp3" />
 <outline text="Radio Østsjælland Rollo" title="Radio Østsjælland Rollo" type="rss" url="http://stream.radiosolutions.dk/rollo" />
-<outline text="Radio Playback" title="Radio Playback" type="rss" url="http://stream02.radioplayback.dk/stream" />
+<outline text="Radio Playback" title="Radio Playback" type="rss" url="https://stream02.radioplayback.dk/stream" />
 <outline text="Radio Ringkøbing" title="Radio Ringkøbing" type="rss" url="http://netradio.radioringkobing.dk:8000/" />
 <outline text="Radio Rollo" title="Radio Rollo" type="rss" url="http://stream.radiosolutions.dk/rollo" />
-<outline text="Radio Silkeborg" title="Radio Silkeborg" type="rss" url="https://stream.radiosilkeborg.dk/silkeborg" />
-<outline text="Radio Skive" title="Radio Skive" type="rss" url="http://89.249.7.68/skive" />
 <outline text="Radio SLR" title="Radio SLR" type="rss" url="http://stream.wlmm.dk/stream/54/" />
 <outline text="Radio Soft" title="Radio Soft" type="rss" url="http://tx-bauerdk.sharp-stream.com/http_live.php?i=radiosoft_dk_mp3" />
 <outline text="Radio Soft - Københavns NR - Bispebjerg LR - Bella Chr" title="Radio Soft - Københavns NR - Bispebjerg LR - Bella Chr" type="rss" url="https://live-bauerdk.sharp-stream.com/radiosoft_dk_tunein_mp3" />
 <outline text="Radio Solo" title="Radio Solo" type="rss" url="https://radioserver.dk/solo" />
-<outline text="Radio Solo Herning" title="Radio Solo Herning" type="rss" url="http://89.249.7.68/solohern" />
-<outline text="Radio Solo Randers" title="Radio Solo Randers" type="rss" url="http://89.249.7.68/solo" />
-<outline text="Radio Solo Silkeborg" title="Radio Solo Silkeborg" type="rss" url="http://89.249.7.68/solosilk" />
-<outline text="Radio Solo Skive" title="Radio Solo Skive" type="rss" url="http://89.249.7.68/soloskiv" />
 <outline text="Radio Stinesen" title="Radio Stinesen" type="rss" url="https://st1.stinesen.dk/StineM320" />
 <outline text="Radio Sydhavs Øerne" title="Radio Sydhavs Øerne" type="rss" url="https://stream.probroadcast.dk/sydhavsradiomp3" />
 <outline text="Radio Varde" title="Radio Varde" type="rss" url="http://stream.wlmm.dk/radiovardemp3" />
+<outline text="Radio Viborg" title="Radio Viborg" type="rss" url="https://webradio.radioviborg.dk/viborg" />
 <outline text="Radio Victoria" title="Radio Victoria" type="rss" url="http://stream.wlmm.dk/NyRadiomp3" />
 <outline text="Radio Viva" title="Radio Viva" type="rss" url="http://stream.wlmm.dk/radioviva" />
+<outline text="Radio Viva - Kolding" title="Radio Viva - Kolding" type="rss" url="https://stream.probroadcast.dk/radioviva" />
+<outline text="Radio VLR" title="Radio VLR" type="rss" url="https://netradio.vlr.dk/vlr8d" />
+<outline text="Radio VLR - Classic Christmas" title="Radio VLR - Classic Christmas" type="rss" url="https://netradio.vlr.dk/popup2" />
 <outline text="Radio4" title="Radio4" type="rss" url="http://netradio.radio4.dk/radio4" />
 <outline text="Retro Millennium" title="Retro Millennium" type="rss" url="https://tx-2.retro-radio.dk/TX-2" />
 <outline text="Retro Radio" title="Retro Radio" type="rss" url="https://tx-2.retro-radio.dk/TX-2" />
@@ -147,21 +147,19 @@
 <outline text="Retro-Radio Millennium" title="Retro-Radio Millennium" type="rss" url="http://tx-2.retro-radio.dk/TX-2" />
 <outline text="Retro1" title="Retro1" type="rss" url="http://streammp3.retro-radio.dk/retro-mp3" />
 <outline text="Roskilde Dampradio" title="Roskilde Dampradio" type="rss" url="https://stream.rcast.net/60962" />
-<outline text="Silkeborg Nærradio" title="Silkeborg Nærradio" type="rss" url="http://89.249.7.68/silkeborgnr" />
 <outline text="Skaga FM" title="Skaga FM" type="rss" url="http://stream.wlmm.dk/skagafm.m3u" />
-<outline text="Stina FM" title="Stina FM" type="rss" url="http://10312.cloudrad.io:9208/" />
+<outline text="Skala FM" title="Skala FM" type="rss" url="http://webradio.skala.fm/kolding" />
+<outline text="Tango Copenhagen" title="Tango Copenhagen" type="rss" url="https://stream.laut.fm/tangocopenhagen.m3u" />
 <outline text="Tango Copenhagen Radio" title="Tango Copenhagen Radio" type="rss" url="https://tangocopenhagen.stream.laut.fm/tangocopenhagen?t302=2021-01-15_18-47-40&amp;uuid=64db9a91-4a6e-4bc8-ba24-26a2fa7f24d0" />
 <outline text="TechnoBase.FM - MP3 192k" title="TechnoBase.FM - MP3 192k" type="rss" url="http://listen.technobase.fm/tunein-mp3-pls" />
 <outline text="The Lake Radio" title="The Lake Radio" type="rss" url="http://hyades.shoutca.st:8627/" />
 <outline text="The Voice" title="The Voice" type="rss" url="http://live-bauerdk.sharp-stream.com/voice128.mp3" />
 <outline text="The Voice - Danmarks Hitstation" title="The Voice - Danmarks Hitstation" type="rss" url="https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3" />
 <outline text="UMLANDO Radio" title="UMLANDO Radio" type="rss" url="https://a2.asurahosting.com:6520/radio.mp3" />
-<outline text="Viborg Nærradio" title="Viborg Nærradio" type="rss" url="http://89.249.7.68/viborgnr" />
 <outline text="Vinylhits.dk" title="Vinylhits.dk" type="rss" url="http://stream.vinylhits.dk/vinylmp3" />
-<outline text="VIPradio Christmas" title="VIPradio Christmas" type="rss" url="http://149.56.175.167:5505//stream.mp3" />
 <outline text="Vox Pop" title="Vox Pop" type="rss" url="http://stream.midlar.fo/voxpop-128" />
-<outline text="WEBFM" title="WEBFM" type="rss" url="http://netradio.webfm.dk/Webfm" />
 <outline text="World Music Radio" title="World Music Radio" type="rss" url="http://stream.wlmm.dk:8010/wmrmp3" />
 <outline text="X FM K" title="X FM K" type="rss" url="https://uniradio.out.airtime.pro/uniradio_a" />
+<outline text="Ymse Radio" title="Ymse Radio" type="rss" url="https://radio.ymseimpro.org/" />
 </body>
 </opml>

@@ -5,29 +5,58 @@
 </head>
 <body>
 <outline text="AFN 360 Guantanamo Bay" title="AFN 360 Guantanamo Bay" type="rss" url="http://playerservices.streamtheworld.com/m3u/AFNE_GMO.m3u" />
-<outline text="Baragua - Palma Soriano" title="Baragua - Palma Soriano" type="rss" url="https://icecast.teveo.cu/3CMM7zph" />
-<outline text="Ciudad de La Habana" title="Ciudad de La Habana" type="rss" url="https://icecast.teveo.cu/g73XCjCH" />
-<outline text="CMHW" title="CMHW" type="rss" url="https://icecast.teveo.cu/TsxMM94R" />
+<outline text="Canal Radio 64Kb Cruces Cienfuegos " title="Canal Radio 64Kb Cruces Cienfuegos " type="rss" url="https://stream.zeno.fm/ktfyf1jfkzsuv" />
+<outline text="Canal Radio Cruces Cienfuegos " title="Canal Radio Cruces Cienfuegos " type="rss" url="https://stream.laut.fm/canalradio" />
+<outline text="CMBF - Radio Musical Nacional" title="CMBF - Radio Musical Nacional" type="rss" url="https://icecast.teveo.cu/Nbtz7HT3" />
+<outline text="CMHS Radio Caibarien(Villa Clara)" title="CMHS Radio Caibarien(Villa Clara)" type="rss" url="https://icecast.teveo.cu/srJ4vqkv" />
 <outline text="CMKC Digital - Santiago de Cuba" title="CMKC Digital - Santiago de Cuba" type="rss" url="https://icecast.teveo.cu/C9vVPN7h" />
 <outline text="CMKO Radio Angulo" title="CMKO Radio Angulo" type="rss" url="https://icecast.teveo.cu/hmVcdgM7" />
-<outline text="Cuba80s" title="Cuba80s" type="rss" url="https://stream2.305stream.com/proxy/cubashec?mp=/stream" />
+<outline text="CMKS Radio Trinchera Antimperialista" title="CMKS Radio Trinchera Antimperialista" type="rss" url="https://icecast.teveo.cu/Csb3zdfv" />
+<outline text="CMLL Radio Victoria (Las Tunas)" title="CMLL Radio Victoria (Las Tunas)" type="rss" url="https://icecast.teveo.cu/P77NJX4X" />
 <outline text="Cuban Flow Radio" title="Cuban Flow Radio" type="rss" url="http://nap.casthost.net:9194/stream.mp3" />
 <outline text="CubanFlow Radio" title="CubanFlow Radio" type="rss" url="http://nap.casthost.net:9194/" />
+<outline text="Emisora de Radio &quot;ATodaMecha&quot;" title="Emisora de Radio &quot;ATodaMecha&quot;" type="rss" url="https://stream.zeno.fm/gjexooyemj3uv" />
+<outline text="Hostal Azul Radio " title="Hostal Azul Radio " type="rss" url="https://stream.zeno.fm/b4m2tic2ibbtv" />
 <outline text="Prensa Latina" title="Prensa Latina" type="rss" url="https://cdn4.onstream.audio:9267/stream" />
 <outline text="Prensa Latina - Agencia Informativa Latinoamericana" title="Prensa Latina - Agencia Informativa Latinoamericana" type="rss" url="https://cdn4.onstream.audio:9267/stream?download=false" />
 <outline text="Radio 26" title="Radio 26" type="rss" url="https://icecast.teveo.cu/LsxKNz7b" />
+<outline text="Radio Arimao CMEM (Villa Clara)" title="Radio Arimao CMEM (Villa Clara)" type="rss" url="https://icecast.teveo.cu/4fNcwkpC" />
+<outline text="Radio Cadena Agramonte" title="Radio Cadena Agramonte" type="rss" url="https://icecast.teveo.cu/j99xztkT" />
+<outline text="Radio Caribe CMBN
+
+Isla de la Juventud " title="Radio Caribe CMBN
+
+Isla de la Juventud " type="rss" url="https://icecast.teveo.cu/dXhtHs4P" />
+<outline text="Radio Caster" title="Radio Caster" type="rss" url="https://stream.laut.fm/canalradio" />
+<outline text="Radio Ciudad Bandera " title="Radio Ciudad Bandera " type="rss" url="https://icecast.teveo.cu/dn9JTKtH" />
 <outline text="Radio Ciudad del Mar" title="Radio Ciudad del Mar" type="rss" url="https://icecast.teveo.cu/CL7jRXqn" />
+<outline text="Radio Coco" title="Radio Coco" type="rss" url="https://icecast.teveo.cu/fvc4RVRz" />
 <outline text="Radio COCO" title="Radio COCO" type="rss" url="https://icecast.teveo.cu/fvc4RVRz" />
+<outline text="Radio Cubitas" title="Radio Cubitas" type="rss" url="https://icecast.teveo.cu/FRKq3RTV" />
 <outline text="Radio Enciclopedia" title="Radio Enciclopedia" type="rss" url="https://icecast.teveo.cu/9Rnrbjzq" />
 <outline text="Radio Estéreo Centro" title="Radio Estéreo Centro" type="rss" url="https://icecast.teveo.cu/mHFR9zFb" />
+<outline text="Radio Granma" title="Radio Granma" type="rss" url="https://icecast.teveo.cu/9RLhkmRH" />
+<outline text="Radio guamá" title="Radio guamá" type="rss" url="https://icecast.teveo.cu/ngcdcV3k" />
+<outline text="Radio Habana Cuba" title="Radio Habana Cuba" type="rss" url="https://icecast.teveo.cu/McW3fLhs" />
 <outline text="Radio Habana Cuba - RHC" title="Radio Habana Cuba - RHC" type="rss" url="https://icecast.teveo.cu/McW3fLhs" />
+<outline text="Radio Holguín " title="Radio Holguín " type="rss" url="https://icecast.teveo.cu/dn9JTKtH" />
+<outline text="Radio Holguin La Nueva CMKE" title="Radio Holguin La Nueva CMKE" type="rss" url="https://icecast.teveo.cu/dn9JTKtH" />
 <outline text="Radio Libertad" title="Radio Libertad" type="rss" url="https://icecast.teveo.cu/kcLKb4qv" />
+<outline text="Radio Llanura de Colón CMDQ	 Matanzas (Colon)" title="Radio Llanura de Colón CMDQ	 Matanzas (Colon)" type="rss" url="https://icecast.teveo.cu/sjcNk3Jb" />
+<outline text="Radio María de la Caridad" title="Radio María de la Caridad" type="rss" url="https://stream.zeno.fm/5rul798y3xatv" />
 <outline text="Radio Metropolitana" title="Radio Metropolitana" type="rss" url="https://icecast.teveo.cu/ktW3mW74" />
+<outline text="Radio Nuevitas" title="Radio Nuevitas" type="rss" url="https://icecast.teveo.cu/9VVnwcww" />
 <outline text="Radio Progreso" title="Radio Progreso" type="rss" url="https://icecast.teveo.cu/XjfW7qWN" />
-<outline text="Radio Reloj" title="Radio Reloj" type="rss" url="https://icecast.teveo.cu/b3jbfThq" />
-<outline text="Radio Reloj, emisora cubana de noticias" title="Radio Reloj, emisora cubana de noticias" type="rss" url="https://icecast.teveo.cu/b3jbfThq" />
+<outline text="Radio Rebelde - AM " title="Radio Rebelde - AM " type="rss" url="https://icecast.teveo.cu/kHKL7tWd" />
+<outline text="Radio Rebelde - FM" title="Radio Rebelde - FM" type="rss" url="https://icecast.teveo.cu/zrXXWK9F" />
+<outline text="Radio Rebelde (AM)" title="Radio Rebelde (AM)" type="rss" url="https://icecast.teveo.cu/kHKL7tWd" />
+<outline text="Radio Rebelde (FM)" title="Radio Rebelde (FM)" type="rss" url="https://icecast.teveo.cu/zrXXWK9F" />
+<outline text="Radio rebelde am" title="Radio rebelde am" type="rss" url="https://icecast.teveo.cu/zrXXWK9F" />
+<outline text="Radio Rebelde AM Cuba" title="Radio Rebelde AM Cuba" type="rss" url="https://icecast.teveo.cu/kHKL7tWd" />
+<outline text="Radio Rebelde FM Cuba" title="Radio Rebelde FM Cuba" type="rss" url="https://icecast.teveo.cu/zrXXWK9F" />
+<outline text="Radio Revolucion" title="Radio Revolucion" type="rss" url="https://icecast.teveo.cu/C9vVPN7h" />
+<outline text="Radio Sagua (Villa Clara)" title="Radio Sagua (Villa Clara)" type="rss" url="https://icecast.teveo.cu/wHm3qrMx" />
 <outline text="Radio Sancti Spiritus" title="Radio Sancti Spiritus" type="rss" url="https://icecast.teveo.cu/NqWrgw7j" />
-<outline text="Radio Taino" title="Radio Taino" type="rss" url="https://icecast.teveo.cu/3MCwWg3V" />
-<outline text="Victoria - Las Tunas" title="Victoria - Las Tunas" type="rss" url="https://icecast.teveo.cu/F9tgnJVT" />
+<outline text="Radio Victoria CMLL (Las Tunas)" title="Radio Victoria CMLL (Las Tunas)" type="rss" url="https://icecast.teveo.cu/P77NJX4X" />
 </body>
 </opml>

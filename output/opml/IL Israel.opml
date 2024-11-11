@@ -5,52 +5,53 @@
 </head>
 <body>
 <outline text=".assalam" title=".assalam" type="rss" url="https://backup.qurango.net/radio/ahmad_khader_altarabulsi" />
+<outline text="#joint radio Beat Trance" title="#joint radio Beat Trance" type="rss" url="https://jointil.com/stream-beat" />
+<outline text="#joint radio Blues Rock" title="#joint radio Blues Rock" type="rss" url="https://jointil.com/stream-blues" />
+<outline text="#joint radio Reggae" title="#joint radio Reggae" type="rss" url="https://jointil.com/stream-reggae" />
+<outline text="#Joint Radio Reggae" title="#Joint Radio Reggae" type="rss" url="https://jointil.com/stream-reggae" />
 <outline text="#Radio CS" title="#Radio CS" type="rss" url="https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&amp;rj-tok=AAABhdgGORQA-2acfyF3_4WY2g" />
-<outline text="90FM" title="90FM" type="rss" url="http://90.cdnwz.net/90fm" />
+<outline text="91FM" title="91FM" type="rss" url="https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio" />
+<outline text="94fm רדיו גלי ישראל" title="94fm רדיו גלי ישראל" type="rss" url="https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio" />
+<outline text="Agape FM" title="Agape FM" type="rss" url="https://s3.radio.co/s43b65d791/listen" />
+<outline text="AudioVersity" title="AudioVersity" type="rss" url="https://1062onair.runi.ac.il/idc123.mp3" />
 <outline text="AVIVmedia" title="AVIVmedia" type="rss" url="https://equinox.shoutca.st/tunein/avivmediafm.pls" />
-<outline text="ECO 99 FM" title="ECO 99 FM" type="rss" url="http://cp19-103fm.livecdn.biz/99fm" />
 <outline text="Galei Zahal" title="Galei Zahal" type="rss" url="http://glzwizzlv.bynetcdn.com/glz_mp3" />
 <outline text="Galgalatz 91.8 FM" title="Galgalatz 91.8 FM" type="rss" url="https://glzicylv01.bynetcdn.com/glglz_mp3" />
-<outline text="Geula FM" title="Geula FM" type="rss" url="http://www.geula.fm/live/playlist.pls" />
 <outline text="Glglz" title="Glglz" type="rss" url="https://api.bynetcdn.com/Redirector/glz/glglz/ICE-LIVE" />
-<outline text="Glglz classic rock" title="Glglz classic rock" type="rss" url="http://glzwizzlv.bynetcdn.com/glglz_rock_mp3?awCollectionId=misc&amp;awEpisodeId=glglz_rock" />
 <outline text="Glz" title="Glz" type="rss" url="http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&amp;awEpisodeId=glz" />
 <outline text="GUITAR - J. WILLIAMS " title="GUITAR - J. WILLIAMS " type="rss" url="http://drive.uber.radio/uber/crjohnwilliamsguitarist/icecast.audio" />
-<outline text="Israeli voice radio" title="Israeli voice radio" type="rss" url="http://sweb.co.il:8042//stream?type=http&amp;nocache=4379" />
+<outline text="Israel National News - Arutz Sheva" title="Israel National News - Arutz Sheva" type="rss" url="https://dfw.audio-stream.com/proxy/israelne?mp=/live_live" />
+<outline text="Israel News Talk Radio" title="Israel News Talk Radio" type="rss" url="https://dfw.audio-stream.com/proxy/israelne?mp=/live_live" />
+<outline text="Ivri 6" title="Ivri 6" type="rss" url="https://streaming.radio.co/sa06221901/listen" />
 <outline text="Jewish Music Stream" title="Jewish Music Stream" type="rss" url="https://stream.jewishmusicstream.com:8000/" />
-<outline text="Joint Radio Beat" title="Joint Radio Beat" type="rss" url="http://star.jointil.net/proxy/jrn_beat?mp=/stream" />
-<outline text="Joint Radio Blues Rock" title="Joint Radio Blues Rock" type="rss" url="http://star.jointil.net/proxy/jrn_blues?mp=/stream" />
-<outline text="Joint Radio Reggae" title="Joint Radio Reggae" type="rss" url="http://star.jointil.net/proxy/jrn_reggae?mp=/stream" />
 <outline text="Kabbalah Fr" title="Kabbalah Fr" type="rss" url="http://icecast.kab.tv/live1-spa-574bcfd5.mp3" />
 <outline text="KAN 88" title="KAN 88" type="rss" url="http://kanliveicy.media.kan.org.il/icy/749623_mp3?providername=tunein" />
 <outline text="Kan 88 " title="Kan 88 " type="rss" url="http://kanliveicy.media.kan.org.il/icy/kan88_mp3" />
 <outline text="Kan Gimel" title="Kan Gimel" type="rss" url="http://kanliveicy01.bynetcdn.com/icy/kangimmel_mp3" />
 <outline text="KAN gimel (real)" title="KAN gimel (real)" type="rss" url="http://kanliveicy.media.kan.org.il/icy/749625_mp3" />
 <outline text="Kan Israel 88 FM" title="Kan Israel 88 FM" type="rss" url="http://kanliveicy.media.kan.org.il/icy/kan88_mp3" />
-<outline text="Kan Israel Bet 95.5 FM" title="Kan Israel Bet 95.5 FM" type="rss" url="http://kanliveicy.media.kan.org.il/icy/kanbet_mp3" />
 <outline text="Kan Israel Reshet Moreshet 92.5 FM" title="Kan Israel Reshet Moreshet 92.5 FM" type="rss" url="http://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3" />
 <outline text="Kan Israel Tarbut" title="Kan Israel Tarbut" type="rss" url="http://kanliveicy.media.kan.org.il/icy/kantarbut_mp3" />
 <outline text="Kan Kol HaMusica" title="Kan Kol HaMusica" type="rss" url="http://kanliveicy.media.kan.org.il/icy/kankolhamusica_mp3" />
+<outline text="Kan Reka" title="Kan Reka" type="rss" url="http://kanliveicy01.bynetcdn.com/icy/kanreka_mp3" />
 <outline text="Kan Tarbut" title="Kan Tarbut" type="rss" url="https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3?dist" />
-<outline text="Kcm 24" title="Kcm 24" type="rss" url="https://live.ecast.co.il/stream/kcm/24" />
+<outline text="kan.org.il, reshet-bet" title="kan.org.il, reshet-bet" type="rss" url="http://kanliveicy.media.kan.org.il/icy/kanbet_mp3" />
 <outline text="Kcm FM Channel 01 Live" title="Kcm FM Channel 01 Live" type="rss" url="https://media2.93fm.co.il/livemusic" />
-<outline text="Kcm FM Channel 02" title="Kcm FM Channel 02" type="rss" url="https://live.ecast.co.il/stream/kcm/02" />
-<outline text="Kcm FM Channel 03" title="Kcm FM Channel 03" type="rss" url="https://live.ecast.co.il/stream/kcm/3" />
-<outline text="Kcm FM Channel 04" title="Kcm FM Channel 04" type="rss" url="https://live.ecast.co.il/stream/kcm/4" />
-<outline text="Kcm FM Channel 06" title="Kcm FM Channel 06" type="rss" url="https://live.ecast.co.il/stream/kcm/6" />
-<outline text="Kcm FM Channel 07" title="Kcm FM Channel 07" type="rss" url="https://live.ecast.co.il/stream/kcm/7" />
-<outline text="Kcm FM Channel 20" title="Kcm FM Channel 20" type="rss" url="https://live.ecast.co.il/stream/kcm/20" />
-<outline text="Kcm FM Channel 21" title="Kcm FM Channel 21" type="rss" url="https://live.ecast.co.il/stream/kcm/21" />
-<outline text="Kcm FM Channel 22" title="Kcm FM Channel 22" type="rss" url="https://live.ecast.co.il/stream/kcm/22" />
-<outline text="Kcm FM Channel 23" title="Kcm FM Channel 23" type="rss" url="https://live.ecast.co.il/stream/kcm/23" />
+<outline text="kol hai" title="kol hai" type="rss" url="https://live.kcm.fm/livemusic" />
 <outline text="kzradio" title="kzradio" type="rss" url="https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio" />
+<outline text="LoveIsrael" title="LoveIsrael" type="rss" url="https://liveradio.co.il/radiolove" />
+<outline text="mizrahit radio" title="mizrahit radio" type="rss" url="https://mzr.mediacast.co.il/mzradio" />
 <outline text="Nostalgia" title="Nostalgia" type="rss" url="http://194.213.4.197:8000/listen.pls?sid=1" />
 <outline text="Radio 103FM" title="Radio 103FM" type="rss" url="https://cdn.cybercdn.live/103FM/Live/icecast.audio" />
 <outline text="Radio Agape Israel" title="Radio Agape Israel" type="rss" url="https://s3.radio.co/s43b65d791/listen" />
+<outline text="Radio Breslev Carmiel" title="Radio Breslev Carmiel" type="rss" url="https://securestreams6.autopo.st:2294/mp3" />
 <outline text="Radio El Shofar" title="Radio El Shofar" type="rss" url="http://ssradioonline.com:8444/autodj" />
+<outline text="radio lev hamedina" title="radio lev hamedina" type="rss" url="https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio" />
+<outline text="Radio Lev Hamedina" title="Radio Lev Hamedina" type="rss" url="http://91fm.streamgates.net/Lev91Fm" />
 <outline text="Radio Love Israel " title="Radio Love Israel " type="rss" url="http://liveradio.co.il/radiolove" />
 <outline text="Radio Ran" title="Radio Ran" type="rss" url="http://185.80.220.12:8047/live" />
 <outline text="RadioPlus" title="RadioPlus" type="rss" url="http://s3.yesstreaming.net:7049/stream" />
+<outline text="Radios 100FM   רדיוס" title="Radios 100FM   רדיוס" type="rss" url="https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio" />
 <outline text="reka" title="reka" type="rss" url="http://kanliveicy.media.kan.org.il/icy/kanreka_mp3" />
 <outline text="Лучшее Радио" title="Лучшее Радио" type="rss" url="http://live.cdnwz.net/thebest" />
 <outline text="Первое радио 89.1FM" title="Первое радио 89.1FM" type="rss" url="https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio" />
@@ -58,25 +59,19 @@
 <outline text="גלגלצ - Glglz" title="גלגלצ - Glglz" type="rss" url="http://glzwizzlv.bynetcdn.com/glglz_mp3" />
 <outline text="גלי ישראל Galey Yisrael" title="גלי ישראל Galey Yisrael" type="rss" url="https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio" />
 <outline text="גלצ" title="גלצ" type="rss" url="http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&amp;awEpisodeId=glz" />
-<outline text="הקול שלנו " title="הקול שלנו " type="rss" url="http://sweb.co.il:8042//stream?type=http&amp;nocache=4379" />
 <outline text="הקצה - Hakatze" title="הקצה - Hakatze" type="rss" url="http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio" />
-<outline text="כאן ב - Kan Bet" title="כאן ב - Kan Bet" type="rss" url="http://kanliveicy01.bynetcdn.com/icy/kanbet_mp3" />
 <outline text="כאן מורשת - Kan Moreshet" title="כאן מורשת - Kan Moreshet" type="rss" url="https://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3" />
-<outline text="מבשר טוב - Mevaser Tov" title="מבשר טוב - Mevaser Tov" type="rss" url="http://770tv.no-ip.org:7777/stream/1" />
 <outline text="נושמים מזרחית - Noshmim Mizrahit" title="נושמים מזרחית - Noshmim Mizrahit" type="rss" url="http://www.rs.mizrahit.fm:7777/" />
 <outline text="קבלה לעם אנגלית - Kabbalah eng" title="קבלה לעם אנגלית - Kabbalah eng" type="rss" url="http://icecast.kab.tv/live1-eng-574bcfd5.mp3" />
 <outline text="קבלה לעם עברית - Kabbalah heb" title="קבלה לעם עברית - Kabbalah heb" type="rss" url="http://icecast.kab.tv/live1-heb-574bcfd5.mp3" />
 <outline text="קבלה לעם צרפתית - Kabbalah fre" title="קבלה לעם צרפתית - Kabbalah fre" type="rss" url="http://icecast.kab.tv/live1-fre-574bcfd5.mp3" />
 <outline text="קבלה לעם רוסית - Kabbalah rus" title="קבלה לעם רוסית - Kabbalah rus" type="rss" url="http://icecast.kab.tv/live1-rus-574bcfd5.mp3" />
 <outline text="קול ברמה - Kol Barama" title="קול ברמה - Kol Barama" type="rss" url="http://kb.cdnwz.net/kol_barama" />
-<outline text="קול השפלה - Kol Hashfela" title="קול השפלה - Kol Hashfela" type="rss" url="http://1036kh.cdnwz.net/1036kh" />
 <outline text="קול חי - Kol Chai" title="קול חי - Kol Chai" type="rss" url="https://media2.93fm.co.il/live-new" />
 <outline text="קול חי מיוזיק - Kol Chai Music" title="קול חי מיוזיק - Kol Chai Music" type="rss" url="https://media2.93fm.co.il/livemusic" />
-<outline text="קול נתניה - Kol Netanya" title="קול נתניה - Kol Netanya" type="rss" url="http://netanya.cdnwz.net/netanya" />
-<outline text="קול פליי | kol-play" title="קול פליי | kol-play" type="rss" url="https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio" />
 <outline text="רדיו יאסו - Radio Yasoo" title="רדיו יאסו - Radio Yasoo" type="rss" url="http://radio-yasoo.ath.cx:7500/" />
-<outline text="רדיו מזרחית - Radio Mizrachit" title="רדיו מזרחית - Radio Mizrachit" type="rss" url="http://rm.radiom.co.il:7777/" />
-<outline text="اذاعة الشمس - A-Shams" title="اذاعة الشمس - A-Shams" type="rss" url="https://cdna.streamgates.net/Ashams/Live/icecast.audio" />
+<outline text="רדיו מזרחית" title="רדיו מזרחית" type="rss" url="https://mzr.mediacast.co.il/mzradio" />
+<outline text="רשת ג בדיקה" title="רשת ג בדיקה" type="rss" url="http://kanliveicy.media.kan.org.il/icy/kangimmel_mp3" />
 <outline text="راديو مكان  - Kan Israel Makan" title="راديو مكان  - Kan Israel Makan" type="rss" url="http://kanliveicy.media.kan.org.il/icy/makan_mp3" />
 </body>
 </opml>

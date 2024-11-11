@@ -4,6 +4,8 @@
 <title>Internet Radio Stations for NA Namibia</title>
 </head>
 <body>
+<outline text="Afrika-Boom" title="Afrika-Boom" type="rss" url="https://stream.radio.co/se53fee01d/listen" />
+<outline text="Code Zero Radio" title="Code Zero Radio" type="rss" url="https://streaming.live365.com/a95159" />
 <outline text="Hitradio Namibia" title="Hitradio Namibia" type="rss" url="https://s37.derstream.net/hitradio-namibia.mp3" />
 <outline text="Kosmos 94.1" title="Kosmos 94.1" type="rss" url="https://edge.iono.fm/xice/88_high.mp3" />
 <outline text="Nam Radio Local" title="Nam Radio Local" type="rss" url="https://music-station.live/radio/8010/radio.mp3" />

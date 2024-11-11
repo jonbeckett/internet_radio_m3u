@@ -4,10 +4,28 @@
 <title>Internet Radio Stations for CW Curacao</title>
 </head>
 <body>
+<outline text="DIRECT 92.1FM" title="DIRECT 92.1FM" type="rss" url="https://s9.voscast.com:7369/921fm" />
+<outline text="Direct Life 92.1 FM" title="Direct Life 92.1 FM" type="rss" url="https://s9.voscast.com:7369/921fm" />
 <outline text="Dolfijn FM" title="Dolfijn FM" type="rss" url="http://85.214.231.253:8080/" />
 <outline text="Dolfijn FM 97.3 Seaquarium Beach" title="Dolfijn FM 97.3 Seaquarium Beach" type="rss" url="http://85.214.231.253:8080/stream.mp3" />
+<outline text="Easy 97.9 FM" title="Easy 97.9 FM" type="rss" url="http://64.150.176.42:8011/live" />
 <outline text="Easy FM 79.9" title="Easy FM 79.9" type="rss" url="http://64.150.176.42:8011/live" />
+<outline text="HITradio 915 Curacao" title="HITradio 915 Curacao" type="rss" url="http://stream.paradisefm.cw/HITradio915" />
+<outline text="Paradise FM 00&apos;s &amp; 10&apos;s" title="Paradise FM 00&apos;s &amp; 10&apos;s" type="rss" url="https://stream.paradisefm.cw/00s10s" />
+<outline text="Paradise FM 103.1 Curacao" title="Paradise FM 103.1 Curacao" type="rss" url="http://stream.paradisefm.cw/ParadiseFM" />
+<outline text="Paradise FM 60s &amp; 70s" title="Paradise FM 60s &amp; 70s" type="rss" url="https://stream.paradisefm.cw/60s70s" />
+<outline text="Paradise FM 80&apos;s &amp; 90&apos;s" title="Paradise FM 80&apos;s &amp; 90&apos;s" type="rss" url="https://stream.paradisefm.cw/80s90s" />
+<outline text="Paradise FM Disco Inferno" title="Paradise FM Disco Inferno" type="rss" url="https://stream.paradisefm.cw/ParadiseDiscoInferno" />
+<outline text="Paradise FM Latin" title="Paradise FM Latin" type="rss" url="https://stream.paradisefm.cw/ParadiseLatin" />
+<outline text="Paradise FM Nonstop" title="Paradise FM Nonstop" type="rss" url="https://stream.paradisefm.cw/ParadiseNonstop" />
 <outline text="Radio 94 Korsou - 94.5 Willemstad" title="Radio 94 Korsou - 94.5 Willemstad" type="rss" url="http://162.243.94.61:8028/stream.mp3" />
+<outline text="Radio Active 104.5 FM" title="Radio Active 104.5 FM" type="rss" url="https://kadushi.westream.cloud/listen/radioactive/RadioActive" />
+<outline text="Radio Deltha 92.7 FM" title="Radio Deltha 92.7 FM" type="rss" url="https://kadushi.westream.cloud/listen/delta/live" />
+<outline text="Radio Direct 107.1FM" title="Radio Direct 107.1FM" type="rss" url="https://edge1.direct107.com/?type=http&amp;nocache=28" />
+<outline text="Radio Hoyer 1 101.9" title="Radio Hoyer 1 101.9" type="rss" url="https://s1.voscast.com:10487/live" />
+<outline text="Radio Hoyer 2 105.1" title="Radio Hoyer 2 105.1" type="rss" url="https://s1.voscast.com:10489/live" />
+<outline text="Radio Mas 99.7 FM" title="Radio Mas 99.7 FM" type="rss" url="https://kadushi.westream.cloud/listen/mas99/live" />
+<outline text="Radio Semiya 98.5 FM" title="Radio Semiya 98.5 FM" type="rss" url="http://11331.cloudrad.io:9172/" />
 <outline text="radio semiya FM 98.5" title="radio semiya FM 98.5" type="rss" url="http://11331.cloudrad.io:9172/live" />
 </body>
 </opml>

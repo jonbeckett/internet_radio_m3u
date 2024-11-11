@@ -1,10 +1,10 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations for BW Botswana
+#EXTINF:-1 Duma FM
+http://s3.voscast.com:10076/stream
 #EXTINF:-1 DumaFM
 http://s3.voscast.com:10076/
 #EXTINF:-1 Gabz FM 96.2 Gaberone
 http://fmt01.egihosting.com:17721/
-#EXTINF:-1 Jazzy Soul Radio Nata
-http://209.95.50.189:8112/stream
-#EXTINF:-1 RERA Online Christian Radio
-https://s2.radio.co/sc93b4c6aa/listen
+#EXTINF:-1 Gabz-FM
+http://fmt01.egihosting.com:17721/

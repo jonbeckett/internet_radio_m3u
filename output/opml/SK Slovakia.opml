@@ -4,19 +4,16 @@
 <title>Internet Radio Stations for SK Slovakia</title>
 </head>
 <body>
-<outline text="	Best FM" title="	Best FM" type="rss" url="http://stream.bestfm.sk/128.mp3" />
 <outline text="	Fun Radio" title="	Fun Radio" type="rss" url="http://stream.funradio.sk:8000/fun128.mp3" />
 <outline text="BB FM rádio" title="BB FM rádio" type="rss" url="http://stream.bbfm.sk/bbfm128.mp3" />
-<outline text="BEST FM" title="BEST FM" type="rss" url="http://stream.bestfm.sk/128.mp3" />
-<outline text="Best FM" title="Best FM" type="rss" url="http://stream.bestfm.sk/128.mp3" />
-<outline text="Bratislavské Rádio" title="Bratislavské Rádio" type="rss" url="https://solid1.streamupsolutions.com/proxy/lesgqyll/BAradio" />
+<outline text="Československé radio " title="Československé radio " type="rss" url="http://live.topradio.cz:8000/csradio128" />
 <outline text="Detské rádio" title="Detské rádio" type="rss" url="https://stream.21.sk/detskeradio-192.mp3" />
 <outline text="Detské Rádio" title="Detské Rádio" type="rss" url="http://stream.21.sk/detskeradio-192.mp3" />
-<outline text="Dobré rádio" title="Dobré rádio" type="rss" url="http://stream.dobreradio.sk:8813/dobreradio.mp3" />
 <outline text="Duflo Radio" title="Duflo Radio" type="rss" url="http://stream.zeno.fm/kxwhyvz2fm0uv" />
 <outline text="Europa 2 " title="Europa 2 " type="rss" url="https://stream.bauermedia.sk/europa2.mp3" />
 <outline text="Europa 2" title="Europa 2" type="rss" url="https://stream.bauermedia.sk/europa2.mp3" />
 <outline text="Fit Famili Rádio " title="Fit Famili Rádio " type="rss" url="https://solid1.streamupsolutions.com/proxy/utwrguip/stream" />
+<outline text="Fred Film Radio-25 Slovenčina" title="Fred Film Radio-25 Slovenčina" type="rss" url="https://s10.webradio-hosting.com/proxy/fredradiosk/stream" />
 <outline text="FRESH Rádio " title="FRESH Rádio " type="rss" url="https://icecast2.radionet.sk/freshradio.sk" />
 <outline text="FRESH rádio" title="FRESH rádio" type="rss" url="https://icecast2.radionet.sk/freshradio.sk" />
 <outline text="Fun Radio" title="Fun Radio" type="rss" url="http://stream.funradio.sk:8000/fun128.mp3" />
@@ -28,42 +25,37 @@
 <outline text="Fun Radio Dance" title="Fun Radio Dance" type="rss" url="http://stream.funradio.sk:8000/dance128.mp3" />
 <outline text="FunRadio Live " title="FunRadio Live " type="rss" url="http://stream.funradio.sk:8000/funpgm256.mp3" />
 <outline text="FunRadio Live (256kbps)" title="FunRadio Live (256kbps)" type="rss" url="https://stream.funradio.sk:8000/funpgm256.mp3" />
+<outline text="Funrádio Mileniálky" title="Funrádio Mileniálky" type="rss" url="http://stream.funradio.sk:8000/milenialky128.mp3" />
 <outline text="G-Radio" title="G-Radio" type="rss" url="http://88.212.34.18:8050/mp3midband" />
 <outline text="Hitrádio Slovakia" title="Hitrádio Slovakia" type="rss" url="https://hitradioslovakia.stream.laut.fm/hitradioslovakia" />
 <outline text="House Radio" title="House Radio" type="rss" url="http://stream.zeno.fm/qm8e21gta18uv" />
-<outline text="Info vojna" title="Info vojna" type="rss" url="http://stream.infovojna.bz/live" />
-<outline text="INFOVOJNA" title="INFOVOJNA" type="rss" url="http://stream.infovojna.bz/live" />
-<outline text="Infovojna 128 kb/s" title="Infovojna 128 kb/s" type="rss" url="http://stream.infovojna.bz/live" />
-<outline text="Infovojna 128kb" title="Infovojna 128kb" type="rss" url="http://stream.infovojna.bz/live" />
-<outline text="iRock" title="iRock" type="rss" url="https://radioserver.online:9927/irockHQ.mp3" />
+<outline text="Infovojna" title="Infovojna" type="rss" url="http://stream3.infovojna.bz:8000/live" />
 <outline text="janko hraško" title="janko hraško" type="rss" url="http://78.24.9.110:31088/" />
 <outline text="Kosice International ATC" title="Kosice International ATC" type="rss" url="https://www.liveatc.net/play/lzkz.pls" />
+<outline text="mars dance" title="mars dance" type="rss" url="https://stream-153.zeno.fm/683gf5xrxfeuv?zs=gtI4gERBSUGu8f0FOcDOWw&amp;1686916511841" />
 <outline text="METALSCENA netRADIO" title="METALSCENA netRADIO" type="rss" url="https://listen.radioking.com/radio/263218/stream/308365" />
 <outline text="Mirjam Rádio - Mária Rádió Felvidék" title="Mirjam Rádio - Mária Rádió Felvidék" type="rss" url="http://193.87.81.131:8081/MariaRadioFelvidek" />
-<outline text="Numberstation" title="Numberstation" type="rss" url="https://icecast2.nezbednik.eu.org:2025/numberstation.mp3" />
 <outline text="Party Mix Radio" title="Party Mix Radio" type="rss" url="http://stream.zeno.fm/rw6ckefezs8uv" />
 <outline text="Pátria Rádió" title="Pátria Rádió" type="rss" url="https://icecast.stv.livebox.sk/patria_128.mp3" />
 <outline text="Radio 7" title="Radio 7" type="rss" url="https://play.radio7.sk/128" />
 <outline text="Rádio Aetter" title="Rádio Aetter" type="rss" url="http://stream.aetter.sk:8000/aetter" />
+<outline text="Rádio BestFM" title="Rádio BestFM" type="rss" url="https://stream3.bestfm.sk:8000/128.mp3" />
 <outline text="Rádio Beta" title="Rádio Beta" type="rss" url="http://109.71.67.102:8000/beta_live_high.mp3" />
 <outline text="Rádio Beta - České a Slovenské hity" title="Rádio Beta - České a Slovenské hity" type="rss" url="http://109.71.67.102:8000/beta_cspop.mp3" />
 <outline text="RÁDIO BETA - České a Slovenské hity" title="RÁDIO BETA - České a Slovenské hity" type="rss" url="http://109.71.67.102:8000/beta_cspop.mp3" />
 <outline text="Rádio Beta - Hity 80&apos;s a 90&apos;s" title="Rádio Beta - Hity 80&apos;s a 90&apos;s" type="rss" url="http://109.71.67.102:8000/beta_80a90.mp3" />
-<outline text="Rádio Beta - Hráme jubilantom" title="Rádio Beta - Hráme jubilantom" type="rss" url="http://109.71.67.102:8000/beta_jubilanti.mp3" />
 <outline text="RÁDIO BETA 80-90" title="RÁDIO BETA 80-90" type="rss" url="http://109.71.67.102:8000/beta_80a90.mp3" />
 <outline text="RADIO BIBLIA SK" title="RADIO BIBLIA SK" type="rss" url="http://radiobiblia.online:8000/stream.ogg" />
+<outline text="Rádio Devín" title="Rádio Devín" type="rss" url="http://live.slovakradio.sk:8000/Devin_256.mp3" />
 <outline text="Radio Dychovka" title="Radio Dychovka" type="rss" url="https://epanel.mediacp.eu:7661/stream" />
-<outline text="Radio Expres" title="Radio Expres" type="rss" url="http://195.168.61.226:8000/96.mp3" />
-<outline text="Rádio Expres" title="Rádio Expres" type="rss" url="http://195.168.61.226:8000/128.mp3" />
-<outline text="Radio Expres" title="Radio Expres" type="rss" url="http://195.168.61.226:8000/96.mp3" />
-<outline text="Radio Expres SK" title="Radio Expres SK" type="rss" url="https://stream.expres.sk/128.mp3" />
+<outline text="Radio Ekspres" title="Radio Ekspres" type="rss" url="https://stream.nextmedia.si/proxy/ekspres1?mp=/stream" />
+<outline text="Rádio Expres" title="Rádio Expres" type="rss" url="http://stream.expres.sk/128.mp3" />
 <outline text="Radio Extra" title="Radio Extra" type="rss" url="http://live.topradio.cz:8000/extra192" />
 <outline text="RÁDIO FM" title="RÁDIO FM" type="rss" url="https://icecast.stv.livebox.sk/fm_128.mp3" />
 <outline text="Rádio FM" title="Rádio FM" type="rss" url="https://icecast.stv.livebox.sk/fm_128.mp3" />
 <outline text="Radio FM" title="Radio FM" type="rss" url="https://icecast.stv.livebox.sk/fm_128.mp3" />
-<outline text="RÁDIO FRONTINUS" title="RÁDIO FRONTINUS" type="rss" url="http://stream.frontinus.sk:8000/frontinus128.mp3" />
+<outline text="Rádio FM" title="Rádio FM" type="rss" url="https://icecast.stv.livebox.sk/fm_128.mp3" />
 <outline text="Rádio Frontinus" title="Rádio Frontinus" type="rss" url="http://stream.frontinus.sk:8000/frontinus128.mp3" />
-<outline text="Radio Infovojna" title="Radio Infovojna" type="rss" url="http://stream.infovojna.bz/live" />
 <outline text="Rádio Janko Hraško" title="Rádio Janko Hraško" type="rss" url="http://78.24.9.110:31088/" />
 <outline text="Rádio Jazz" title="Rádio Jazz" type="rss" url="http://stream.sepia.sk:8000/jazz128.mp3" />
 <outline text="Rádio KIKS" title="Rádio KIKS" type="rss" url="https://online.radiokiks.sk:8000/kiks_hq.mp3" />
@@ -72,23 +64,39 @@
 <outline text="Rádio KIKS - Rock Music" title="Rádio KIKS - Rock Music" type="rss" url="https://online.radiokiks.sk:8000/kiks_rock.mp3" />
 <outline text="Rádio Košice" title="Rádio Košice" type="rss" url="http://stream.ecce.sk:8000/radiokosice-128.mp3" />
 <outline text="Rádio Košice BA" title="Rádio Košice BA" type="rss" url="http://176.102.98.74:8000/radiokosice-ba-128.mp3" />
+<outline text="Rádio Litera" title="Rádio Litera" type="rss" url="https://icecast.stv.livebox.sk/litera_128.mp3" />
 <outline text="Rádio Logos" title="Rádio Logos" type="rss" url="http://radioserver.online:8824/" />
 <outline text="Rádio Lumen" title="Rádio Lumen" type="rss" url="http://audio.lumen.sk:8000/live128.mp3" />
+<outline text="Rádio MÁRIA SLOVENSKO " title="Rádio MÁRIA SLOVENSKO " type="rss" url="https://dreamsiteradiocp5.com/proxy/radiomariaslomp3?mp=/stream.mp3" />
 <outline text="Rádio Melody" title="Rádio Melody" type="rss" url="https://stream.bauermedia.sk/melody-hi.mp3" />
+<outline text="Radio Melody" title="Radio Melody" type="rss" url="https://stream.bauermedia.sk/melody-lo.mp3?aw_0_req.gdpr=false&amp;aw_0_1st.playerid=melody_web_mobile" />
 <outline text="Rádio Modra" title="Rádio Modra" type="rss" url="http://185.98.208.12:8000/" />
 <outline text="Rádio Muzika" title="Rádio Muzika" type="rss" url="https://listen.radioking.com/radio/276343/stream/321988" />
 <outline text="Rádio Paráda" title="Rádio Paráda" type="rss" url="https://extra.mediacp.eu/stream/RadioParada,o.z." />
 <outline text="Rádio Piešťany" title="Rádio Piešťany" type="rss" url="http://live.radiopiestany.sk:8000/live.mp3" />
+<outline text="Rádio Pohoda 2 " title="Rádio Pohoda 2 " type="rss" url="http://mpc1.mediacp.eu:18111/stream" />
+<outline text="Rádio Pyramída" title="Rádio Pyramída" type="rss" url="https://icecast.stv.livebox.sk/klasika_128.mp3" />
+<outline text="Rádio Regina Západ" title="Rádio Regina Západ" type="rss" url="https://icecast.stv.livebox.sk/regina-ba_128.mp3" />
+<outline text="Rádio REGINA ZÁPAD" title="Rádio REGINA ZÁPAD" type="rss" url="https://icecast.stv.livebox.sk/regina-ba_128.mp3" />
 <outline text="Rádio ROCK" title="Rádio ROCK" type="rss" url="https://stream.bauermedia.sk/rock-hi.mp3" />
 <outline text="Rádio Rock" title="Rádio Rock" type="rss" url="https://stream.bauermedia.sk/rock-hi.mp3" />
 <outline text="Rádio Rock SV" title="Rádio Rock SV" type="rss" url="https://s2.myradiostream.com/:4870/listen.mp3" />
+<outline text="Rádio RSI" title="Rádio RSI" type="rss" url="https://icecast.stv.livebox.sk/rsi_128.mp3" />
 <outline text="Rádio Šírava" title="Rádio Šírava" type="rss" url="http://radioserver.online:8804/stream/1" />
+<outline text="RÁDIO SLOVENSKO " title="RÁDIO SLOVENSKO " type="rss" url="https://icecast.stv.livebox.sk/slovensko_128.mp3" />
 <outline text="Radio Slovensko" title="Radio Slovensko" type="rss" url="https://icecast.stv.livebox.sk/slovensko_128.mp3" />
+<outline text="Rádio Slovensko" title="Rádio Slovensko" type="rss" url="https://icecast.stv.livebox.sk/slovensko_128.mp3" />
 <outline text="Radio TLIS" title="Radio TLIS" type="rss" url="https://stream.tlis.sk/tlis.mp3" />
 <outline text="Rádio Topolčany" title="Rádio Topolčany" type="rss" url="http://80.242.44.249:8000/" />
+<outline text="Rádio Topoľčany " title="Rádio Topoľčany " type="rss" url="http://80.242.44.249:8000/" />
+<outline text="Rádio TOPOĽČANY " title="Rádio TOPOĽČANY " type="rss" url="http://80.242.44.249:8000/" />
 <outline text="Rádio v Nitre" title="Rádio v Nitre" type="rss" url="http://195.210.28.150:8932/radiovnitre_live.mp3" />
+<outline text="Radio Vega" title="Radio Vega" type="rss" url="http://stream.sepia.sk:8000/vega128.mp3" />
+<outline text="Rádio Vega" title="Rádio Vega" type="rss" url="http://stream.sepia.sk:8000/vega128.mp3" />
+<outline text="Radio Vega Slovakia" title="Radio Vega Slovakia" type="rss" url="https://stream.sepia.sk:8000/vega128.mp3" />
 <outline text="RÁDIO VIVA" title="RÁDIO VIVA" type="rss" url="http://stream.sepia.sk:8000/viva128.mp3" />
 <outline text="Rádio Viva" title="Rádio Viva" type="rss" url="http://stream.sepia.sk:8000/viva128.mp3" />
+<outline text="Radio VIVA" title="Radio VIVA" type="rss" url="https://stream.sepia.sk/viva128.mp3" />
 <outline text="Radio Viva Metropol" title="Radio Viva Metropol" type="rss" url="http://stream.sepia.sk:8000/viva128.mp3" />
 <outline text="Rádio Vlna" title="Rádio Vlna" type="rss" url="http://stream.radiovlna.sk/vlna-hi.mp3" />
 <outline text="RÁDIO VLNA 60-70" title="RÁDIO VLNA 60-70" type="rss" url="https://stream.radiovlna.sk/gold-hi.mp3" />
@@ -99,8 +107,20 @@
 <outline text="radio WoW" title="radio WoW" type="rss" url="https://radioserver.online:9816/radiowow.mp3" />
 <outline text="Radio Zabava" title="Radio Zabava" type="rss" url="https://stream.zeno.fm/eyac00cx1nhvv" />
 <outline text="RÁDIO_FM" title="RÁDIO_FM" type="rss" url="http://live.slovakradio.sk:8000/FM_256.mp3" />
+<outline text="RadioX" title="RadioX" type="rss" url="http://158.193.82.41:8000/radiox_128.mp3" />
+<outline text="RadioX - Alternative X" title="RadioX - Alternative X" type="rss" url="http://158.193.82.41:8000/alternative.mp3" />
+<outline text="RadioX - Chillout X" title="RadioX - Chillout X" type="rss" url="http://158.193.82.41:8000/chillout.mp3" />
+<outline text="RadioX - Dance X" title="RadioX - Dance X" type="rss" url="http://158.193.82.41:8000/dance.mp3" />
+<outline text="RadioX - DnB X" title="RadioX - DnB X" type="rss" url="http://158.193.82.41:8000/dnb.mp3" />
+<outline text="RadioX - Folklore X" title="RadioX - Folklore X" type="rss" url="http://158.193.82.41:8000/ludovky.mp3" />
+<outline text="RadioX - Metal X" title="RadioX - Metal X" type="rss" url="http://158.193.82.41:8000/metal.mp3" />
+<outline text="RadioX - Mood X" title="RadioX - Mood X" type="rss" url="http://158.193.82.41:8000/mood.mp3" />
+<outline text="RadioX - Oldies X" title="RadioX - Oldies X" type="rss" url="http://158.193.82.41:8000/oldies.mp3" />
+<outline text="Regina Východ" title="Regina Východ" type="rss" url="https://icecast.stv.livebox.sk/regina-ke_128.mp3" />
 <outline text="Repete" title="Repete" type="rss" url="http://stream.rusyn.fm/rusyny-low.mp3" />
 <outline text="Rock Radio" title="Rock Radio" type="rss" url="https://stream.bauermedia.sk/rock-hi.mp3" />
+<outline text="RTVS Litera256" title="RTVS Litera256" type="rss" url="http://live.slovakradio.sk:8000/Litera_256.mp3" />
+<outline text="RTVS Pyramida256" title="RTVS Pyramida256" type="rss" url="http://live.slovakradio.sk:8000/Pyramida_128.mp3" />
 <outline text="Rusyn FM" title="Rusyn FM" type="rss" url="https://stream.rusyn.fm/rusyny.mp3" />
 <outline text="RusynFM" title="RusynFM" type="rss" url="http://stream.rusyn.fm/rusyny.mp3" />
 <outline text="SKY Rádio" title="SKY Rádio" type="rss" url="http://stream.skyradio.sk:8000/sky128" />
@@ -120,7 +140,9 @@
 <outline text="SRo9 Rádio Junior" title="SRo9 Rádio Junior" type="rss" url="http://live.slovakradio.sk:8000/Junior_128.mp3" />
 <outline text="SRo9 Rádio Junior (256k)" title="SRo9 Rádio Junior (256k)" type="rss" url="http://live.slovakradio.sk:8000/Junior_256.mp3" />
 <outline text="SUB:FM" title="SUB:FM" type="rss" url="http://stream.subfm.sk/subfm" />
+<outline text="SubFM" title="SubFM" type="rss" url="https://stream.subfm.sk/subfm" />
 <outline text="TLIS Rádio" title="TLIS Rádio" type="rss" url="http://stream.tlis.sk/tlis.mp3" />
+<outline text="Top Rádio" title="Top Rádio" type="rss" url="https://solid1.streamupsolutions.com/proxy/vhhggmih/stream" />
 <outline text="TRNAVSKÉ RÁDIO" title="TRNAVSKÉ RÁDIO" type="rss" url="http://stream.trnavskeradio.sk/trnavske" />
 <outline text="Trnavské rádio" title="Trnavské rádio" type="rss" url="http://stream.trnavskeradio.sk/trnavske" />
 <outline text="Záhorácke Rádio" title="Záhorácke Rádio" type="rss" url="http://live.zahorackeradio.sk:8080/zr128.mp3" />

@@ -5,15 +5,12 @@
 </head>
 <body>
 <outline text="Bay 89.7" title="Bay 89.7" type="rss" url="https://stream.v3.network/proxy/897bay/stream.mp3?_=1" />
-<outline text="Bay Pride" title="Bay Pride" type="rss" url="https://stream.v3.network/proxy/baypride/stream.mp3?_=1" />
-<outline text="Bay Retro" title="Bay Retro" type="rss" url="https://stream.v3.network/proxy/retro/stream.mp3?_=1" />
-<outline text="Campus FM" title="Campus FM" type="rss" url="https://rbx2.hnux.com/http://e11648.cloudrad.io:8174/campusfm_live?_=0.2807693347745841" />
-<outline text="Fantasy Radio Malta" title="Fantasy Radio Malta" type="rss" url="http://109.169.76.104:38753/listen.pls" />
-<outline text="Magic Malta" title="Magic Malta" type="rss" url="http://s46.myradiostream.com:6076/stream" />
-<outline text="Malta Sunshine Radio" title="Malta Sunshine Radio" type="rss" url="http://78.129.185.81:20225/listen.pls" />
+<outline text="Bay Easy 100.2" title="Bay Easy 100.2" type="rss" url="https://stream.v3.network/proxy/easy/stream.mp3" />
+<outline text="Calypso Radio" title="Calypso Radio" type="rss" url="https://s4.radio.co/sf3aa4c25a/listen" />
+<outline text="Campus 103.7" title="Campus 103.7" type="rss" url="https://campusfm.radioca.st/campusfm_live" />
+<outline text="Christmas Radio Malta" title="Christmas Radio Malta" type="rss" url="http://philae.shoutca.st:8402/stream?type=http&amp;nocache=165" />
 <outline text="MALTIN BISS" title="MALTIN BISS" type="rss" url="https://s4.voscast.com:8837/default" />
 <outline text="One Radio" title="One Radio" type="rss" url="http://s10.voscast.com:8202/stream" />
-<outline text="Radio Malta" title="Radio Malta" type="rss" url="http://s38.myradiostream.com:6982/" />
 <outline text="Radju Maria Malta" title="Radju Maria Malta" type="rss" url="http://dreamsiteradiocp.com:8102/" />
 <outline text="RADJU MARIJA MALTA" title="RADJU MARIJA MALTA" type="rss" url="http://dreamsiteradiocp.com:8102/stream" />
 <outline text="Vibe FM" title="Vibe FM" type="rss" url="https://s9.voscast.com:7825/1" />

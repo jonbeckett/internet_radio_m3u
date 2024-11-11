@@ -1,18 +1,18 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations for SG Singapore
-#EXTINF:-1 963 Hao FM
-https://23683.live.streamtheworld.com/HAO_963_SC
 #EXTINF:-1 987
 https://14033.live.streamtheworld.com/987FM_SC
-#EXTINF:-1 AXR Singapore
-http://provisioning.streamtheworld.com/pls/AXR_SINGAPORE.pls
 #EXTINF:-1 CNA 938
 https://22893.live.streamtheworld.com/938NOW_SC
 #EXTINF:-1 GOLD 905
 https://22403.live.streamtheworld.com/GOLD905_SC
+#EXTINF:-1 kiss92
+https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92_SC
+#EXTINF:-1 Power 98 Love Songs
+https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3
 #EXTINF:-1 Radio Melody with Brother Bjorn
 http://ssl.geckohost.nz:9191/autodj
 #EXTINF:-1 RIA 897
 https://22393.live.streamtheworld.com/RIA897FM_SC
-#EXTINF:-1 XRadio
-http://xradio.zone:9420/stream
+#EXTINF:-1 Singapore Chinese POP YES FM 933
+https://22893.live.streamtheworld.com/YES933_SC?dist=radiosingapore

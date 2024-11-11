@@ -2,5 +2,15 @@
 #PLAYLIST:Internet Radio Stations for AG Antigua And Barbuda
 #EXTINF:-1 Antigua Observer Radio 91.1 St. John's
 http://s8.voscast.com:8176/
+#EXTINF:-1 DNECA Anglican Radio
+http://64.18.108.237:1300/broadwave.mp3?src=1
+#EXTINF:-1 Flava FM 100.7
+http://167.114.11.80:5322/stream/
+#EXTINF:-1 Healthy Choice FM
+https://www.liveradio.es/http://ic.streann.com:8000/hcfm
+#EXTINF:-1 Radio La Senda Antigua
+https://play10.tikast.com/proxy/lasenda?mp=/stream
+#EXTINF:-1 Vibz FM
+https://testvibz-silcomwireless.radioca.st/stream.mp3
 #EXTINF:-1 Zoom Radio 95.7 St. John's
 http://108.178.13.122:8170/

@@ -4,13 +4,9 @@
 <title>Internet Radio Stations for BJ Benin</title>
 </head>
 <body>
-<outline text="Capp FM" title="Capp FM" type="rss" url="http://cappfm.ice.infomaniak.ch/cappfm-96.mp3" />
-<outline text="ORTB Radio Bénin" title="ORTB Radio Bénin" type="rss" url="https://listen.radioking.com/radio/47608/stream/84430" />
-<outline text="ORTB Radio Parakou" title="ORTB Radio Parakou" type="rss" url="https://listen.radioking.com/radio/51919/stream/88927" />
 <outline text="ORTF Radio Bénin Alafia" title="ORTF Radio Bénin Alafia" type="rss" url="https://www.radioking.com/play/radio-benin-alafia/368243" />
 <outline text="Radio Cotonou 94.3" title="Radio Cotonou 94.3" type="rss" url="https://stream.zeno.fm/o9bspgm4y78vv" />
 <outline text="Radio Frissons 95.2 Cotonou" title="Radio Frissons 95.2 Cotonou" type="rss" url="http://frissonsradio.ice.infomaniak.ch/frissonsradio-128.mp3" />
 <outline text="Radio Planète 95.7 Cotonou" title="Radio Planète 95.7 Cotonou" type="rss" url="https://listen.radioking.com/radio/111193/stream/150295" />
-<outline text="Radio Tokpa" title="Radio Tokpa" type="rss" url="https://www.surfmusic.de/m3u/radio-tokpa-104-3-fm,16625.m3u" />
 </body>
 </opml>

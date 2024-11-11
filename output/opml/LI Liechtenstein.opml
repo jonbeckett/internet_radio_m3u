@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for LI Liechtenstein</title>
+</head>
+<body>
+<outline text="Radio Liechtenstein" title="Radio Liechtenstein" type="rss" url="http://live.radiol.li:8000/live" />
+</body>
+</opml>

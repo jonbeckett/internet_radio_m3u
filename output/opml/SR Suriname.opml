@@ -5,6 +5,6 @@
 </head>
 <body>
 <outline text="Radio Garuda" title="Radio Garuda" type="rss" url="http://162.244.80.245:8012/" />
-<outline text="Sky Suriname" title="Sky Suriname" type="rss" url="http://pipel.kloud.xyz:8010/radio.mp3" />
+<outline text="Radio Shruti" title="Radio Shruti" type="rss" url="https://rs.suricloud.com/radio/8000/radio.mp3" />
 </body>
 </opml>

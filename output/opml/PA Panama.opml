@@ -4,12 +4,15 @@
 <title>Internet Radio Stations for PA Panama</title>
 </head>
 <body>
-<outline text=": Radio Venao :" title=": Radio Venao :" type="rss" url="http://s1.sonicabroadcast.com:8805/listen.mp3" />
 <outline text="AM Original 1180 Veraguas" title="AM Original 1180 Veraguas" type="rss" url="http://rosetta.shoutca.st:9264/stream" />
+<outline text="Blast panama" title="Blast panama" type="rss" url="https://stream.mixesurbanospty.com:8020/blasturbana.mp3" />
+<outline text="CHT FM 107.7" title="CHT FM 107.7" type="rss" url="https://radios.host-pa.com:8046/" />
+<outline text="Faro de David 104.5 FM" title="Faro de David 104.5 FM" type="rss" url="https://tv.farodedavid.com:8002/live" />
+<outline text="FM Corazón 102.5" title="FM Corazón 102.5" type="rss" url="https://sp4.colombiatelecom.com.co/8006/stream" />
 <outline text="Los 40 Principales Panamá" title="Los 40 Principales Panamá" type="rss" url="http://provisioning.streamtheworld.com/pls/LOS40_PAN.pls" />
 <outline text="Original Stereo 90.7 FM" title="Original Stereo 90.7 FM" type="rss" url="http://rosetta.shoutca.st:8931/" />
 <outline text="Radio Disney Panamá" title="Radio Disney Panamá" type="rss" url="http://ic.streann.com:8000/disneypanama" />
 <outline text="RADIO MARIA PANAMA" title="RADIO MARIA PANAMA" type="rss" url="http://dreamsiteradiocp.com:8082/stream" />
-<outline text="Radio Venao" title="Radio Venao" type="rss" url="https://ssl1.viastreaming.net:8805/" />
+<outline text="XTREME MUSIC RADIO" title="XTREME MUSIC RADIO" type="rss" url="https://radios.sonicp.com/8020/stream" />
 </body>
 </opml>

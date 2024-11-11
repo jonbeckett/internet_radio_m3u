@@ -4,9 +4,9 @@
 <title>Internet Radio Stations for BW Botswana</title>
 </head>
 <body>
+<outline text="Duma FM" title="Duma FM" type="rss" url="http://s3.voscast.com:10076/stream" />
 <outline text="DumaFM" title="DumaFM" type="rss" url="http://s3.voscast.com:10076/" />
 <outline text="Gabz FM 96.2 Gaberone" title="Gabz FM 96.2 Gaberone" type="rss" url="http://fmt01.egihosting.com:17721/" />
-<outline text="Jazzy Soul Radio Nata" title="Jazzy Soul Radio Nata" type="rss" url="http://209.95.50.189:8112/stream" />
-<outline text="RERA Online Christian Radio" title="RERA Online Christian Radio" type="rss" url="https://s2.radio.co/sc93b4c6aa/listen" />
+<outline text="Gabz-FM" title="Gabz-FM" type="rss" url="http://fmt01.egihosting.com:17721/" />
 </body>
 </opml>

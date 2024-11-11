@@ -4,17 +4,20 @@
 <title>Internet Radio Stations for BY Belarus</title>
 </head>
 <body>
+<outline text="Aplus Beat" title="Aplus Beat" type="rss" url="http://107.173.210.247:9000/aplus_beat_128.m3u" />
+<outline text="Aplus Progressive Techno" title="Aplus Progressive Techno" type="rss" url="https://shoutcast.aplus.fm/aplus_progressive-techno_128.m3u" />
 <outline text="gjr" title="gjr" type="rss" url="https://kathy.torontocast.com:3375/stream" />
+<outline text="http://ice-the.musicradio.com/CapitalXTRANationalM" title="http://ice-the.musicradio.com/CapitalXTRANationalM" type="rss" url="http://ice-the.musicradio.com/CapitalXTRANationalMP3" />
 <outline text="humor fm Minsk" title="humor fm Minsk" type="rss" url="http://live.humorfm.by:8000/veseloe" />
 <outline text="Legendy FM" title="Legendy FM" type="rss" url="http://live.legendy.by:8000/legendyfm" />
 <outline text="Love Is Radio Belarus" title="Love Is Radio Belarus" type="rss" url="https://myradio24.org/3355" />
 <outline text="niepokalanov " title="niepokalanov " type="rss" url="http://88.199.169.10:7600/rn.mp3" />
-<outline text="Radio 4you" title="Radio 4you" type="rss" url="http://a1.radioheart.ru:8003/RH17982" />
+<outline text="Radio 4YOU" title="Radio 4YOU" type="rss" url="https://myradio24.org/2455" />
 <outline text="Radio Plato" title="Radio Plato" type="rss" url="https://azura.radioplato.by/radio/8000/radio.mp3" />
-<outline text="Radio.Uvaga.By" title="Radio.Uvaga.By" type="rss" url="http://up.uvaga.by:8100/uvaga128" />
-<outline text="Rawsound" title="Rawsound" type="rss" url="http://stream.rawsound.by:8080/" />
+<outline text="Radio retro" title="Radio retro" type="rss" url="https://air.sammit.tv/retro" />
+<outline text="Radio Roks" title="Radio Roks" type="rss" url="https://stream.pcradio.ru/roks_minsk-hi" />
+<outline text="Radio Roks Minsk" title="Radio Roks Minsk" type="rss" url="https://stream.pcradio.ru/roks_minsk-hi" />
 <outline text="Trance " title="Trance " type="rss" url="http://185.33.21.112/trance_64a" />
-<outline text="Unistar" title="Unistar" type="rss" url="https://unistar.webcaramba.com/unistar_main128.mp3" />
 <outline text="Адкрытае Слова" title="Адкрытае Слова" type="rss" url="https://rs.radioslovo.net:4005/radio?1619348678875" />
 <outline text="Ватыканскае радыё" title="Ватыканскае радыё" type="rss" url="https://radio.vaticannews.va/stream-be" />
 <outline text="Еўрарадыё Alternative" title="Еўрарадыё Alternative" type="rss" url="http://stream1.euroradio.fm:8000/euroradio1?seed=1493710910" />
@@ -23,15 +26,20 @@
 <outline text="Канал &quot;Культура&quot;" title="Канал &quot;Культура&quot;" type="rss" url="https://stream2.datacenter.by/kultura" />
 <outline text="Компас FM" title="Компас FM" type="rss" url="https://radio.mil.by/live" />
 <outline text="МВ-Радио" title="МВ-Радио" type="rss" url="https://stream2.datacenter.by/mvradio" />
-<outline text="Правда Радио" title="Правда Радио" type="rss" url="http://79.98.49.5:8132/pravda?type=.mp3" />
+<outline text="Первое союзное радиоё" title="Первое союзное радиоё" type="rss" url="https://souz.hostingradio.ru:80/souz128.mp3" />
+<outline text="Першы нацыянальны" title="Першы нацыянальны" type="rss" url="https://stream2.datacenter.by/1kanal" />
+<outline text="Першы Нацыянальны канал Беларускага радыё" title="Першы Нацыянальны канал Беларускага радыё" type="rss" url="https://stream2.datacenter.by/1kanal" />
+<outline text="Радио Беларусь FM/Radio Belarus FM" title="Радио Беларусь FM/Radio Belarus FM" type="rss" url="http://stream2.datacenter.by:8009/belarusfm" />
+<outline text="Радио Беларусь/Radio Belarus" title="Радио Беларусь/Radio Belarus" type="rss" url="http://stream2.datacenter.by:8008/belarus" />
 <outline text="Радио Брест 104.8 Fm" title="Радио Брест 104.8 Fm" type="rss" url="https://stream2.datacenter.by:2199/tunein/trkbres1.pls" />
+<outline text="радио Минск 92.4" title="радио Минск 92.4" type="rss" url="https://radio.mk.by:8443/radiominsk" />
 <outline text="Радио Могилёв" title="Радио Могилёв" type="rss" url="https://stream2.datacenter.by/tvrmogilev" />
 <outline text="Радыё &quot;Сталіца&quot;" title="Радыё &quot;Сталіца&quot;" type="rss" url="https://stream2.datacenter.by/stalica" />
 <outline text="Радыё Relax" title="Радыё Relax" type="rss" url="http://live.humorfm.by:8000/radiorelax" />
 <outline text="Радыё Марыя" title="Радыё Марыя" type="rss" url="https://server.radiorm.by:8443/live" />
 <outline text="Радые Марыя " title="Радые Марыя " type="rss" url="https://server.radiorm.by:8443/live" />
 <outline text="Радыё Свабода. Навіны Беларусі" title="Радыё Свабода. Навіны Беларусі" type="rss" url="https://rfe10.akacast.akamaistream.net/7/894/437768/v1/ibb.akacast.akamaistream.net/rfe10" />
-<outline text="Русское радио Витебск" title="Русское радио Витебск" type="rss" url="http://86.57.240.92:2530/" />
+<outline text="Свое Радио (Пинск)" title="Свое Радио (Пинск)" type="rss" url="https://live.svoyoradio.by:8443/svoyoradio" />
 <outline text="Юмор FM" title="Юмор FM" type="rss" url="http://live.humorfm.by:8000/veseloeradio" />
 </body>
 </opml>

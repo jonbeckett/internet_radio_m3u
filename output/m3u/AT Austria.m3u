@@ -4,10 +4,6 @@
 http://stream.laut.fm/1000-electronic-dance-music
 #EXTINF:-1 1000-ELECTRONIC-DANCE-MUSIC
 http://stream.laut.fm/1000-electronic-dance-music.m3u
-#EXTINF:-1 48ap
-http://stream.laut.fm/48ap
-#EXTINF:-1 ALPHA-RADIO
-http://streamsrv-austrianpub.kechit.eu/alpha_main.m3u
 #EXTINF:-1 Antenne Austro Hits
 https://live.antenne.at/auh
 #EXTINF:-1 Antenne Kärnten
@@ -46,48 +42,54 @@ https://static.arabella.at/streamadressen/arabella-rock.m3u
 https://static.arabella.at/streamadressen/arabella-schlager.m3u
 #EXTINF:-1 Arabella Tiamo
 https://static.arabella.at/streamadressen/arabella-tiamo.m3u
-#EXTINF:-1 Arabella wienerschmaeh
-https://static.arabella.at/streamadressen/arabella-wienerschmaeh.m3u
 #EXTINF:-1 ARBÖ Verkehrsradio
 http://live.datamatix.at:8022/
 #EXTINF:-1 Austria-Kult-Radio
 http://stream.laut.fm/austria-kultradio.m3u
 #EXTINF:-1 AustriaKult-Radio
 http://stream.laut.fm/austria-kultradio
-#EXTINF:-1 AustriaMusikRadio
-https://stream.zeno.fm/c6e7ttwg0aqtv
 #EXTINF:-1 Austrian Rock Radio
 http://live.antenne.at/arr
-#EXTINF:-1 AustrianKultRadio
-https://stream.zeno.fm/c6e7ttwg0aqtv
-#EXTINF:-1 AustrianPub-Radio
-https://streamsrv-austrianpub.kechit.eu/main.m3u
+#EXTINF:-1 Austrianpower radio
+https://streamsrv-austrianpub.kechit.eu/main_lo
+#EXTINF:-1 best of Austria
+https://austro.securestream.radioaustria.at/austro?rp_source=1&=&&___cb=145081122944263
 #EXTINF:-1 Blechradio 1
 https://streamt.at/radio/8000/blechradio1.mp3
 #EXTINF:-1 Blechradio 2
-https://streamt.at:8010/website_popandrock.mp3
+https://streamt.at:8010/website_popandrock.mp3?ver=141186
 #EXTINF:-1 Blechradio 3
-https://streamt.at:8020/website_tanzlmusi.mp3
+https://streamt.at:8020/website_tanzlmusi.mp3?ver=800211
 #EXTINF:-1 Bluffphonica 
 http://stream.laut.fm/bluffphonica.m3u
+#EXTINF:-1 BoBBa FM
+https://radio.edith.gg/listen/mybobbafm/radio.mp3
 #EXTINF:-1 Campus & City Radio 94.4
 http://cr944.at:8000/cr944-high
 #EXTINF:-1 Campus & City Radio St. Pölten
 http://cr944.at:8000/cr944-high
-#EXTINF:-1 Chill Out Zone
-http://air.chillout.zone:8000/radio
 #EXTINF:-1 Chromatique-Sky
 http://stream.laut.fm/chromatique-sky
+#EXTINF:-1 City Jazz
+https://stream.radiotechnikum.at/CITYJAZZ
 #EXTINF:-1 CITY23
 http://live.radiomax.technology/city23
+#EXTINF:-1 CR 94.4
+https://cr944.at:50443/cr944
+#EXTINF:-1 Dark Synth Radio
+http://darksynthradio.stream.laut.fm/darksynthradio?t302=2023-11-20_08-30-31&uuid=c4e07d87-378c-4318-bb0a-00c0fd1be5aa
 #EXTINF:-1 Darksynth Radio
 http://stream.laut.fm/darksynthradio
 #EXTINF:-1 Dein Salzkammergutradio
 http://rs2.myradio24.de:8410/stream
+#EXTINF:-1 DIKS ДИКС
+http://strm112.1.fm/acpl_mobile_mp3
+#EXTINF:-1 Diks Дикс
+http://strm112.1.fm/acpl_mobile_mp3
 #EXTINF:-1 DrumandBass.FM
 http://stream.laut.fm/drumandbass_fm
-#EXTINF:-1 Energy-NRJ Innsbruck
-http://stream1.energy.at:8000/ibk
+#EXTINF:-1 ENERGY ÖSTERREICH
+https://scdn.nrjaudio.fm/adwz1/at/36001/mp3_128.mp3
 #EXTINF:-1 Energy-NRJ Wien
 http://cdn.nrjaudio.fm/adwz1/at/36001/mp3_128.mp3
 #EXTINF:-1 ERF Plus Oesterreich 128k
@@ -102,36 +104,36 @@ http://stream.erf.at:8000/erfplus_320
 http://stream.erf.at:8000/erfplus_96
 #EXTINF:-1 ERF Suedtirol 192k
 http://stream.erf.at:8000/erfplus_192
-#EXTINF:-1 FM 4
-https://orf-live.ors-shoutcast.at/fm4-q2a
-#EXTINF:-1 FM4
-https://orf-live.ors-shoutcast.at/fm4-q2a
-#EXTINF:-1 fm4 | orf | 128
+#EXTINF:-1 Flash90s
+https://stream.flash90s.at/flash90s/mp3-192/
+#EXTINF:-1 fm4 | ORF
 https://orf-live.ors-shoutcast.at/fm4-q1a
+#EXTINF:-1 fm4 | ORF | HQ
+https://orf-live.ors-shoutcast.at/fm4-q2a
 #EXTINF:-1 Freies Radio Freistadt
 http://212.89.182.114:8008/frf
-#EXTINF:-1 Freies Radio Österreich
-http://www.fro.at:8008/fro64.mp3
 #EXTINF:-1 Freies Radio Salzkammergut
 http://stream.xaok.org:8000/frs.mp3
+#EXTINF:-1 Gamesboro Radio
+https://radio.gamesboro.org/listen/gamesboro_radio/radio.mp3
 #EXTINF:-1 Hardstyle and Hardcore
 http://stream.laut.fm/hardstyle-and-hardcore
 #EXTINF:-1 Heiligenkreuz_101 (102k)
 http://live.radiomaria.at:8000/rma101
 #EXTINF:-1 Heiligenkreuz_102 (166k)
 http://live.radiomaria.at:8000/rma102
+#EXTINF:-1 Her.st Propaganda Broadcast
+https://radio.her.st/listen/listen/128.mp3
 #EXTINF:-1 I-love-Radio-104
 https://streams.ilovemusic.de/iloveradio104.mp3
 #EXTINF:-1 JazzW3
 http://jazz.w3.at:8000/w3jazz.mp3
-#EXTINF:-1 Jugoton Hit Radio Wien
-http://s8.iqstreaming.com:8060/stream.nsv
+#EXTINF:-1 KOOLFM 100.2 TODAY'S BEST MUSIC 
+https://stream.zeno.fm/eiz4xwqvihwtv.m3u
 #EXTINF:-1 Kronehit
 http://onair.krone.at/kronehit.mp3
 #EXTINF:-1 KroneHit - Hardstyle
 https://secureonair.krone.at/kronehit16.mp3
-#EXTINF:-1 Kronehit AustroPOP
-https://secureonair.krone.at/kronehit17.mp3
 #EXTINF:-1 KroneHit Digital
 http://onair-ha1.krone.at/kronehit1058.mp3
 #EXTINF:-1 Kronehit Disco
@@ -146,24 +148,34 @@ https://secureonair.krone.at/kronehit12.mp3
 https://secureonair.krone.at/kronehit11.mp3
 #EXTINF:-1 LCR Radio
 https://streaming.radio.co/sba5c95896/listen
+#EXTINF:-1 Life Radio
+http://stream1.liferadio.at/
+#EXTINF:-1 Life Radio 80er
+https://stream.liferadio.at/80er/mp3-192/stream.liferadio.at/
+#EXTINF:-1 Life Radio 90er
+http://stream3.liferadio.at/
 #EXTINF:-1 Life Radio Chill Out
 https://stream8.liferadio.at/
+#EXTINF:-1 Life Radio Chill Out Hits
+https://stream.liferadio.at/chillout/mp3-192/stream.liferadio.at/
 #EXTINF:-1 Life Radio Classic Rock 
 https://stream11.liferadio.at/
+#EXTINF:-1 Life Radio ClassicRock
+https://stream.liferadio.at/clrock/mp3-192/stream.liferadio.at/
+#EXTINF:-1 Life Radio Greatest Hits
+https://stream.liferadio.at/greatest-hits/mp3-192/stream.liferadio.at/
+#EXTINF:-1 Life Radio Kuschelrock
+https://stream.liferadio.at/kuschelrock/mp3-192/stream.liferadio.at/
+#EXTINF:-1 Life Radio Sommersongs
+https://stream.liferadio.at/sommer/mp3-192/stream.liferadio.at/
 #EXTINF:-1 Life Radio Tirol
 https://stream.liferadio.tirol/live/mp3-192/link
 #EXTINF:-1 Lounge.FM - 100% Austria
 https://s35.derstream.net/100austria.mp3
-#EXTINF:-1 LoungeFM 100% Austria
-http://188.138.9.183/100austria.mp3
-#EXTINF:-1 LoungeFM Digital
-http://188.138.9.183/digital.mp3
-#EXTINF:-1 LoungeFM UKW Wien
-http://188.138.9.183/lounge-at.mp3
-#EXTINF:-1 Macjingle Heartbeat
-http://host6.cartwall.at:7200/stream.nsv
-#EXTINF:-1 Moj Radio
-http://www.mojradio.net/play/playlist.pls
+#EXTINF:-1 Lounge.FM Kanal 2 - Wien
+https://s35.derstream.net/ukwwien.mp3
+#EXTINF:-1 Metal Radio
+https://stream.radiotechnikum.at/METALRadio
 #EXTINF:-1 Mountain Reggae Radio
 https://mountainreggaeradio.stream.laut.fm/mountainreggaeradio
 #EXTINF:-1 museumsradio
@@ -172,6 +184,8 @@ https://museum.streamserver24.com:8080/stream
 https://museum.streamserver24.com:8080/stream
 #EXTINF:-1 NJoy Radio 88.2 Steiermark
 http://live.njoyradio.at/njoy
+#EXTINF:-1 NOSTALGIE Österreich
+https://scdn.nrjaudio.fm/adwz1/at/58914/mp3_128.mp3
 #EXTINF:-1 Now Radio 128k
 http://stream.erf.at:8000/nowradio_128
 #EXTINF:-1 Now Radio 192k
@@ -180,40 +194,76 @@ http://stream.erf.at:8000/nowradio_192
 http://stream.erf.at:8000/nowradio_320
 #EXTINF:-1 Now Radio 96k
 http://stream.erf.at:8000/nowradio_96
-#EXTINF:-1 Ö3
-https://ors-sn03.ors-shoutcast.at/wie-q1a
-#EXTINF:-1 oe3
-https://orf-live.ors-shoutcast.at/oe3-q1a.m3u
+#EXTINF:-1 Ö1 | ORF
+http://orf-live.ors-shoutcast.at/oe1-q1a
+#EXTINF:-1 Ö1 | ORF | HQ
+http://orf-live.ors-shoutcast.at/oe1-q2a
+#EXTINF:-1 oe24 Radio Best of 80s
+https://80.securestream.radioaustria.at/80?aw_0_req.userConsentV2=[PLAYER_TC_STRING]&=&&___cb=187178757070491
 #EXTINF:-1 Oldie Party
 http://streams.norawebstreams.de/oldieparty/mp3-192/vtuner/
+#EXTINF:-1 ORANGE 94.0
+https://securestream.o94.at/live.mp3
 #EXTINF:-1 Orange 94.0 secure
 https://securestream.o94.at/live.mp3
+#EXTINF:-1 ORF - Radio Salzburg
+https://orf-live.ors-shoutcast.at/sbg-q1a
 #EXTINF:-1 ORF Hitradio Ö3
-http://orf-live.ors-shoutcast.at/oe3-q1a
-#EXTINF:-1 ORF Ö1
-https://orf-live.ors-shoutcast.at/oe1-q1a
+https://ors-sn03.ors-shoutcast.at/oe3-q1a
+#EXTINF:-1 ORF Hitradio Ö3 | HQ
+https://orf-live.ors-shoutcast.at/oe3-q2a
 #EXTINF:-1 ORF Ö1 Campus
 https://orf-live.ors-shoutcast.at/campus-q1a
+#EXTINF:-1 ORF Ö1 Campus | HQ
+https://orf-live.ors-shoutcast.at/campus-q2a
+#EXTINF:-1 ORF Radio Burgenland
+https://orf-live.ors-shoutcast.at/bgl-q1a
 #EXTINF:-1 ORF Radio Kärnten
 http://ors-sn02.ors-shoutcast.at/ktn-q1a
+#EXTINF:-1 ORF Radio Kärnten HQ
+https://orf-live.ors-shoutcast.at/ktn-q2a
+#EXTINF:-1 ORF Radio Niederösterreich
+https://orf-live.ors-shoutcast.at/noe-q1a
+#EXTINF:-1 ORF Radio Niederösterreich | HQ
+http://orf-live.ors-shoutcast.at/noe-q2a
 #EXTINF:-1 ORF Radio Oberösterreich
-https://orf-live.ors-shoutcast.at/ooe-q2a.m3u
-#EXTINF:-1 ORF Radio Salzburg neu http
-http://orf-live.ors-shoutcast.at/sbg-q2a
+https://orf-live.ors-shoutcast.at/ooe-q1a
+#EXTINF:-1 ORF Radio Oberösterreich | HQ
+https://orf-live.ors-shoutcast.at/ooe-q2a
+#EXTINF:-1 ORF Radio Salzburg HQ
+https://orf-live.ors-shoutcast.at/sbg-q2a
+#EXTINF:-1 ORF Radio Steiermark
+http://orf-live.ors-shoutcast.at/stm-q1a
+#EXTINF:-1 ORF Radio Steiermark | HQ
+http://orf-live.ors-shoutcast.at/stm-q2a
 #EXTINF:-1 ORF Radio Wien
-http://orf-live.ors-shoutcast.at/wie-q2a.m3u
-#EXTINF:-1 ORF Tirol http
-http://orf-live.ors-shoutcast.at/tir-q2a
-#EXTINF:-1 ORF Tirol http1
+http://orf-live.ors-shoutcast.at/wie-q1a
+#EXTINF:-1 ORF Radio Wien | HQ
+http://orf-live.ors-shoutcast.at/wie-q2a
+#EXTINF:-1 ORF Slovenski spored
+http://orf-live.ors-shoutcast.at/wie-q1a
+#EXTINF:-1 ORF Slovenski spored | HQ
+http://ors-sn03.ors-shoutcast.at/slo-q2a
+#EXTINF:-1 ORF Tirol
 http://orf-live.ors-shoutcast.at/tir-q1a
-#EXTINF:-1 ORF-V
-https://orf-live.ors-shoutcast.at/vbg-q1a
-#EXTINF:-1 ORF.AT Schlagersterne
-https://orf-live.ors-shoutcast.at/ktn-q2a?cb=1666746171587&player=sound_v1&referer=sound.orf.at&userid=399b1538-3aa9-4bf9-93fc-766dd33f1a1e
+#EXTINF:-1 ORF Tirol HQ
+http://orf-live.ors-shoutcast.at/tir-q2a
 #EXTINF:-1 ÖsterreichRadio
 https://laut.fm/oesterreichradio
+#EXTINF:-1 PENNY live
+http://listen.radiomax.technology/penny
 #EXTINF:-1 PetersPlattentek
 https://server7524.streamplus.de/stream.mp3
+#EXTINF:-1 Pfarr-Radio Enzersfeld
+http://server4.streamserver24.com:43615/stream
+#EXTINF:-1 Popwelle Wörthersee,AutoDJ
+https://popwellezwei.sp.radio.fm/stream
+#EXTINF:-1 Popwelle. Das Musikradio,AutoDJ
+https://popwelle.sp.radio.fm/stream
+#EXTINF:-1 Proton - das freie Radio
+https://radioproton.at:8443/proton
+#EXTINF:-1 Purzelradio
+https://s5.radio.co/sa760ba7af/listen
 #EXTINF:-1 Radino - Mein Kinderradio Wien 103,2
 http://stream01.zogl.net:8906/stream
 #EXTINF:-1 Radio 88,6 Classic Rock
@@ -226,24 +276,26 @@ https://edge51.streamonkey.net/radio886-hardrock/stream/mp3?aggregator=886Websit
 https://edge51.streamonkey.net/radio886-newrock/stream/mp3?aggregator=886Website
 #EXTINF:-1 Radio 88.6 Rot-Weiß-Rock
 https://edge06.streamonkey.net/radio886-rotweissrock/stream/mp3?aggregator=886Website
+#EXTINF:-1 Radio Agora
+https://livestream.agora.at/agora
 #EXTINF:-1 Radio Agora 105,5
 https://livestream.agora.at/agora
 #EXTINF:-1 Radio Alpenstar
 http://streamplus62.leonex.de:22674/
 #EXTINF:-1 Radio Austria
 https://onair.securestream.radioaustria.at/radioaustria
+#EXTINF:-1 RADIO AUSTRIA
+https://onair.securestream.radioaustria.at/radioaustria
 #EXTINF:-1 Radio B138
 http://radiob138.out.airtime.pro:8000/radiob138_a
 #EXTINF:-1 Radio Balkan EU
 http://cast2.name.ba:8185/
-#EXTINF:-1 Radio Burgenland neu
+#EXTINF:-1 Radio Burgenland HQ
 http://orf-live.ors-shoutcast.at/bgl-q2a
 #EXTINF:-1 Radio ECHOPLUS
 http://radio2.stream24.net:9120/live.mp3
-#EXTINF:-1 Radio FM4
-http://orf-live.ors-shoutcast.at/fm4-q2a
-#EXTINF:-1 radio FM4 (192 kbps)
-https://orf-live.ors-shoutcast.at/fm4-q2a
+#EXTINF:-1 Radio GÖD
+https://radiogoed.securestream.kapper.net/stream
 #EXTINF:-1 Radio Grün Weiß
 http://live.gruen-weiss.at/rgw.mp3
 #EXTINF:-1 Radio Harmonie
@@ -254,12 +306,8 @@ http://live.helsinki.at:8088/live128.mp3
 http://live.helsinki.at:8088/live160.mp3
 #EXTINF:-1 Radio Himmelberg
 http://stream.laut.fm/radio-himmelberg
-#EXTINF:-1 Radio Kärnten neu
-http://orf-live.ors-shoutcast.at/ktn-q2a
 #EXTINF:-1 Radio Klassik Stephansdom
 http://radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3
-#EXTINF:-1 Radio Liria
-http://46.4.104.253:9998/
 #EXTINF:-1 Radio Maria Austria
 http://live.radiomaria.at:8000/rma.m3u
 #EXTINF:-1 Radio Maria Austria (56 kbps)
@@ -274,42 +322,36 @@ http://listen.radiomax.technology/merkur
 http://listen.radiomax.technology/penny
 #EXTINF:-1 Radio MORA - HQ
 http://server4.streamserver24.com:26253/stream
-#EXTINF:-1 Radio Niederösterreich neu
-http://orf-live.ors-shoutcast.at/noe-q2a
-#EXTINF:-1 Radio Oberösterreich neu
-http://orf-live.ors-shoutcast.at/ooe-q2a
-#EXTINF:-1 Radio OE1 neu
-http://orf-live.ors-shoutcast.at/oe1-q2a
-#EXTINF:-1 Radio OE3 neu
-http://orf-live.ors-shoutcast.at/oe3-q2a
 #EXTINF:-1 Radio OP
 https://server4.streamserver24.com:26250/stream
 #EXTINF:-1 Radio Osttirol
 http://streamplus20.leonex.de:28768/
-#EXTINF:-1 Radio Pro 
-http://65.108.124.70:7308/stream
+#EXTINF:-1 Radio Rudina
+https://azuracast.datea.services:8000/radio.mp3
 #EXTINF:-1 Radio Seniorkom
 http://93.185.134.22:8080/seniorkom
 #EXTINF:-1 Radio SOL 95.5
 http://sol.anw.at:8023/stream
-#EXTINF:-1 Radio steiermark
-http://orf-live.ors-shoutcast.at/stm-q2a
 #EXTINF:-1 Radio Steiermark 80er POP
 https://live.antenne.at/80s
-#EXTINF:-1 Radio Steiermark neu
-http://orf-live.ors-shoutcast.at/stm-q2a
+#EXTINF:-1 Radio Stephansdom
+http://radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3
 #EXTINF:-1 Radio Studio Enns
 https://server4.streamserver24.com:61414/
 #EXTINF:-1 Radio U1 Tirol
 https://live.u1-radio.at/
 #EXTINF:-1 Radio VM1
 https://radiovm1.fluidstream.eu/radiovm1.mp3
+#EXTINF:-1 Radio VM1 - Steiermark
+https://radiovm1.fluidstream.eu/radiovm1_a1.mp3
+#EXTINF:-1 Radio VM1 - Wien
+https://radiovm1.fluidstream.eu/radiovm1_a2.mp3
 #EXTINF:-1 Radio Vorarlberg
 https://orf-live.ors-shoutcast.at/vbg-q1a
-#EXTINF:-1 Radio Vorarlberg neu
-http://orf-live.ors-shoutcast.at/vbg-q2a
-#EXTINF:-1 Radio Wien neu
-http://orf-live.ors-shoutcast.at/wie-q2a
+#EXTINF:-1 Radio Vorarlberg HQ
+https://orf-live.ors-shoutcast.at/vbg-q2a
+#EXTINF:-1 Radio X-MAS
+http://www.radio-xmas.at:443/xmas?type=http
 #EXTINF:-1 Radio Xmas
 http://www.radio-xmas.at:443/xmas?1512905036085
 #EXTINF:-1 Radio886
@@ -318,8 +360,6 @@ https://frontend.streamonkey.net/radio886-onair/stream/mp3
 https://radiofabrik.at/rafab_stream_low.m3u
 #EXTINF:-1 radioYpsilon - Wir hör'n uns!
 http://mp3.radioypsilon.at:8000/mp3-160
-#EXTINF:-1 Replayscape (128)
-http://radio.replayscape.com:8128/listen.pls
 #EXTINF:-1 Replayscape (64)
 http://radio.replayscape.com:8064/listen.pls
 #EXTINF:-1 Replayscape (96)
@@ -327,17 +367,21 @@ http://radio.replayscape.com:8096/listen.pls
 #EXTINF:-1 RES.RADIO
 https://edge.mixlr.com/channel/zwtuo
 #EXTINF:-1 Rock Antenne Österreich
-http://mp3channels.webradio.de/rockantenne-oesterreich
+https://stream.rockantenne.at/rockantenne-oesterreich/stream/mp3
 #EXTINF:-1 Rockhuhn
 http://stream.laut.fm/rockhuhn
 #EXTINF:-1 Schwendermarkt
 https://laut.fm/schwendermarkt
 #EXTINF:-1 SKG-Radio (Dein Salzkammergut Radio)
 https://radio1.stream24.net:8410/
+#EXTINF:-1 Soundportal
+https://rs8.stream24.net/radio-soundportal.mp3?ref=soundportal.at
 #EXTINF:-1 Soundportal (MP3, 128 kBit)
 http://rs8.stream24.net/radio-soundportal.mp3
 #EXTINF:-1 Spirit Live Radio
 http://server7606.streamplus.de/
+#EXTINF:-1 Splatoon Station Seven
+http://audio.gendercriminals.gay/listen/splatoon_station_seven/radio-browser
 #EXTINF:-1 Stadtradio Krems
 http://musikwelle.com:8000/stream.mp3
 #EXTINF:-1 Stahlradio
@@ -360,27 +404,21 @@ http://radiotechnikum.macjingle.at:8200/stream/1
 https://stream.radiotechnikum.at/TECHONE
 #EXTINF:-1 Technikum Rock
 https://stream.radiotechnikum.at/TECHROCK
-#EXTINF:-1 Toilette Live
-http://n12.radiojar.com/ya73ubvq6yzuv
-#EXTINF:-1 Viyana FM
-https://radyo.viyanafm.at/1453/stream
-#EXTINF:-1 ViyanaFM
-https://radyo.viyanafm.at/1453/stream
+#EXTINF:-1 U1 Tirol
+https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192
+#EXTINF:-1 UP THE IRONS
+https://stream.laut.fm/up_the_irons.m3u
 #EXTINF:-1 Volksmusik Pur
 https://server3.streamserver-unlimited.de:8529/stream
-#EXTINF:-1 Welle 1 - Kärnten, 128k
-https://live.welle1.at:15128/stream
-#EXTINF:-1 Welle 1 - Kärnten, 256k
-https://live.welle1.at:15256/stream
+#EXTINF:-1 WELLE 1 - Oberöstereich
+https://live.welle1.at:17128/stream
+#EXTINF:-1 WELLE 1 - Oberösterreich - HQ
+https://live.welle1.at:17256/stream
+#EXTINF:-1 Welle 1 - Salzburg
+https://live.welle1.at:18128/stream
+#EXTINF:-1 Welle 1 - Salzburg - HQ
+https://live.welle1.at:18256/stream
 #EXTINF:-1 Welle 1 - Wien/DAB+
 https://live.welle1.at:19000/stream
-#EXTINF:-1 WELLE 1 music radio DAB+ Österreich PREMIUM 256k stereo
-https://live.welle1.at:19000/stream
-#EXTINF:-1 WELLE 1 music radio Oberöstereich 91,8 128k stereo
-https://live.welle1.at:17128/stream
-#EXTINF:-1 WELLE 1 music radio Oberösterreich 91,8 PREMIUM 256k stereo
-https://live.welle1.at:17256/stream
-#EXTINF:-1 Welle 1 Salzburg
-https://live.welle1.at:18256/stream
-#EXTINF:-1 Welle1
-https://live.welle1.at:17128/stream
+#EXTINF:-1 Yu Radio
+https://stream.radiotechnikum.at:80/YURADIO

@@ -1,0 +1,12 @@
+#EXTM3U
+#PLAYLIST:Internet Radio Stations for KG Kyrgyzstan
+#EXTINF:-1   Мич кыял FM
+https://liveradio.utrk.kg/1000kiyal
+#EXTINF:-1 Coldstar Online,ColdStar.Online Radio (Low quality)
+https://ice.coldstar.online/low.mp3
+#EXTINF:-1 Kyrgyz Radiosu 
+https://liveradio.utrk.kg/kyrgyzradio
+#EXTINF:-1 Биринчи Radio
+https://liveradio.utrk.kg/1radio
+#EXTINF:-1 Радио Тумар FM (Radio Tumar FM)
+https://radio.tumar.fm:8005/stream

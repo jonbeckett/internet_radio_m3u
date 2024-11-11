@@ -4,8 +4,9 @@
 <title>Internet Radio Stations for VI US Virgin Islands</title>
 </head>
 <body>
+<outline text="Beach Bar Radio" title="Beach Bar Radio" type="rss" url="https://streaming.radio.co/s23d2a636c/listen" />
+<outline text="Hiphop" title="Hiphop" type="rss" url="http://listen.181fm.com/181-oldschool_128k.mp3" />
 <outline text="WSTX-AM 970 Christiansted" title="WSTX-AM 970 Christiansted" type="rss" url="http://wstxradio2.serverroom.net:8340/" />
 <outline text="WSTX-FM 100.3 Christiansted" title="WSTX-FM 100.3 Christiansted" type="rss" url="http://wstxradio.serverroom.net:7490/" />
-<outline text="X Transmission FM" title="X Transmission FM" type="rss" url="http://radio.xtransmissionfm.com:8000/xtfm" />
 </body>
 </opml>

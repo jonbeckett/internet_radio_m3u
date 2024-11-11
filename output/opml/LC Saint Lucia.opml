@@ -6,8 +6,10 @@
 <body>
 <outline text="Caribbean Hot FM 105.3 - Castries" title="Caribbean Hot FM 105.3 - Castries" type="rss" url="http://auds2.intacs.com/caribbeanhotfm" />
 <outline text="Caribbean KISS FM 105.5 Castries" title="Caribbean KISS FM 105.5 Castries" type="rss" url="http://auds2.intacs.com/caribbeankissfm" />
-<outline text="RelaxingJazz" title="RelaxingJazz" type="rss" url="http://77.68.84.201/stream/3/" />
+<outline text="Power 97.9" title="Power 97.9" type="rss" url="https://usa10.fastcast4u.com/power979fm" />
+<outline text="REV-UP SLU" title="REV-UP SLU" type="rss" url="https://caribspy.com/proxy/revupslu/stream" />
 <outline text="RFI 102.1 FM" title="RFI 102.1 FM" type="rss" url="http://167.114.131.90:5908/" />
+<outline text="Sky FM 93.1" title="Sky FM 93.1" type="rss" url="https://caribspy.com/proxy/skyfm931/stream/?type=http&amp;nocache=107036" />
 <outline text="Vibe Radio 100.9 &amp; 92.9 Vigie" title="Vibe Radio 100.9 &amp; 92.9 Vigie" type="rss" url="http://45.79.186.124/proxy/vyberadio?mp=/stream" />
 </body>
 </opml>

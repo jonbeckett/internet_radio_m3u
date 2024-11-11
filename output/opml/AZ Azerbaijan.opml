@@ -11,12 +11,23 @@
 <outline text="ASAN Radio" title="ASAN Radio" type="rss" url="https://play.asanradio.az/" />
 <outline text="AutoLife Radio Azerbaijan" title="AutoLife Radio Azerbaijan" type="rss" url="http://radio.autoliferadio.com:8090/radio" />
 <outline text="AVTO FM" title="AVTO FM" type="rss" url="http://5.191.241.101:8000/avtofm" />
-<outline text="Azad Azərbaycan radiosu" title="Azad Azərbaycan radiosu" type="rss" url="https://audiostr.atv.az/106.3fm" />
+<outline text="Azerbaijan Radiosu 105 Fm" title="Azerbaijan Radiosu 105 Fm" type="rss" url="http://85.132.27.212:8888/azradio?listening-from-radio-radio-garden=1654328466" />
+<outline text="Baku Hit FM" title="Baku Hit FM" type="rss" url="http://5.191.241.101:8000/bakuhitfm" />
 <outline text="Baku Jukebox" title="Baku Jukebox" type="rss" url="http://78.109.52.73:8000/listening-from-radio-garden-1696020096" />
+<outline text="Baku Retro Fm" title="Baku Retro Fm" type="rss" url="http://5.191.241.101:8000/bakuretrofm" />
+<outline text="bakuretrofm" title="bakuretrofm" type="rss" url="http://5.191.241.101:8000/bakuretrofm" />
+<outline text="Balkan Rainbow" title="Balkan Rainbow" type="rss" url="https://s0.radioheart.ru:8000/RH20730" />
+<outline text="Caspian Business Radio BOSS" title="Caspian Business Radio BOSS" type="rss" url="https://myradio24.org/bosscomaz" />
 <outline text="Cipcip" title="Cipcip" type="rss" url="https://stream.zeno.fm/bqrnn6cx868uv" />
-<outline text="Media FM 105.5" title="Media FM 105.5" type="rss" url="http://95.217.196.109:8000/mediafm" />
-<outline text="Muğam" title="Muğam" type="rss" url="http://95.217.196.109:8000/mediamugam" />
-<outline text="Radio Veten" title="Radio Veten" type="rss" url="http://stream.zeno.fm/p1hx0c3y14zuv.m3u" />
+<outline text="CodeRadio from FreeCodeCamp" title="CodeRadio from FreeCodeCamp" type="rss" url="https://coderadio-admin-v2.freecodecamp.org/listen/coderadio/radio.mp3" />
+<outline text="Day.Az Radio" title="Day.Az Radio" type="rss" url="https://radio.day.az:9443/192" />
+<outline text="Media Fm 105.5" title="Media Fm 105.5" type="rss" url="https://icecast.livetv.az/mediafm" />
+<outline text="Media FM Muğam" title="Media FM Muğam" type="rss" url="https://icecast.livetv.az/mediamugam" />
+<outline text="NAZ RADIO" title="NAZ RADIO" type="rss" url="https://s31.myradiostream.com/:9114/listen.mp3" />
+<outline text="Radio Enerji 101.1 FM" title="Radio Enerji 101.1 FM" type="rss" url="https://icecast.livetv.az/antennfm" />
+<outline text="Radio Veten" title="Radio Veten" type="rss" url="http://stream-162.zeno.fm/p1hx0c3y14zuv?zs=sLIAy_oBSIeGj72L-NHzmg" />
+<outline text="Sağlam Radio" title="Sağlam Radio" type="rss" url="https://s24.myradiostream.com/:17446/listen.mp3?nocache=1717082000" />
+<outline text="TMB 100.5" title="TMB 100.5" type="rss" url="http://s39.myradiostream.com:5458/" />
 <outline text="Xezer FM" title="Xezer FM" type="rss" url="https://s40.myradiostream.com/:22546/listen.mp3?" />
 <outline text="Yurd FM" title="Yurd FM" type="rss" url="https://icecast.livetv.az/yurdfm" />
 </body>

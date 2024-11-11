@@ -4,6 +4,7 @@
 <title>Internet Radio Stations for MM Myanmar</title>
 </head>
 <body>
+<outline text="Cherry FM" title="Cherry FM" type="rss" url="https://cherry.akiyaresearch.com:444/stream/89/" />
 <outline text="DWG Radio Bumese" title="DWG Radio Bumese" type="rss" url="http://server32349.streamplus.de/?type=http&amp;#038nocache=227" />
 <outline text="MandalayFM" title="MandalayFM" type="rss" url="https://edge.mixlr.com/channel/nmtev" />
 </body>

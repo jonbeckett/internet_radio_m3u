@@ -1,12 +1,24 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations for RW Rwanda
+#EXTINF:-1 90.7 Magic FM
+http://listen.rba.co.rw:8080/
 #EXTINF:-1 Country FM 105.7
 https://radio.garden/api/ara/content/listen/neJlRqje/channel.mp3?1692198466055
+#EXTINF:-1 DFM Radio 
+https://stream.zeno.fm/mtrcigb9yhitv
+#EXTINF:-1 DFM Radio (RW)
+https://stream.zeno.fm/fygodpmrgcquv
+#EXTINF:-1 DFM Radio Rwanda 
+https://stream.zeno.fm/fygodpmrgcquv
 #EXTINF:-1 Heaven FM Radio Rwanda
 http://stream.zeno.fm/eequgfw72hhvv
 #EXTINF:-1 KT Radio (96.7 MHz FM, Kigali)
 http://197.243.1.130:8006/k2dlivemp3
+#EXTINF:-1 Radio Rwanda
+http://listen.rba.co.rw:8000/
 #EXTINF:-1 Radio10 Rwanda (87.6 MHz FM, Kigali)
 http://radio10-876fm.ice.infomaniak.ch/radio10-kigali.mp3
 #EXTINF:-1 Royal FM
+http://80.241.215.175:3000/
+#EXTINF:-1 Royal FM 94.3 Rwanda
 http://80.241.215.175:3000/

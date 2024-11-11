@@ -4,7 +4,12 @@
 <title>Internet Radio Stations for CI Coted Ivoire</title>
 </head>
 <body>
+<outline text="Africa Radio Abidjan" title="Africa Radio Abidjan" type="rss" url="https://africaradio.ice.infomaniak.ch/abidjan128.mp3" />
+<outline text="Afrobeat international" title="Afrobeat international" type="rss" url="https://listen.radioking.com/radio/397789/stream/449770" />
+<outline text="Life radio Côte d’Ivoire" title="Life radio Côte d’Ivoire" type="rss" url="https://cast4.asurahosting.com/proxy/life/stream" />
 <outline text="Radio Alpha Blondy 97.9 Abidjan" title="Radio Alpha Blondy 97.9 Abidjan" type="rss" url="https://www.radioking.com/play/alphablondyfm" />
+<outline text="Radio Jam" title="Radio Jam" type="rss" url="https://listen.radioking.com/radio/61201/stream/98566" />
 <outline text="Radio Nostalgie 101.1 Abidjan" title="Radio Nostalgie 101.1 Abidjan" type="rss" url="http://213.136.96.14:8000/nostalgie2.mp3" />
+<outline text="Radio Nostalgie Côte d’Ivoire" title="Radio Nostalgie Côte d’Ivoire" type="rss" url="http://csirt.aviso.ci:8000/nostalgie2.mp3" />
 </body>
 </opml>

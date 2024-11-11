@@ -4,15 +4,19 @@
 <title>Internet Radio Stations for XK Kosovo</title>
 </head>
 <body>
+<outline text="Club FM Kosovë" title="Club FM Kosovë" type="rss" url="https://cp1.sednastream.com/proxy/clubfmkosova?mp=/stream" />
+<outline text="Glam Radio" title="Glam Radio" type="rss" url="https://stream.glamradio.fm:8443/glamradio" />
 <outline text="GlamRADIO" title="GlamRADIO" type="rss" url="https://stream.glamradio.fm:8443/glamradio" />
 <outline text="KLAN Kosova FM" title="KLAN Kosova FM" type="rss" url="http://s4.radio.co/sd1d1904dc/listen.m3u" />
-<outline text="Radio Dukagjini" title="Radio Dukagjini" type="rss" url="http://s6.voscast.com:8824/stream.mp3" />
+<outline text="Radio Dukagjini" title="Radio Dukagjini" type="rss" url="https://s2.voscast.com:8825/radiodukagjini" />
 <outline text="Radio K4 Shqip" title="Radio K4 Shqip" type="rss" url="http://fm.radiokfor.com:8080/" />
 <outline text="Radio Kosova 1" title="Radio Kosova 1" type="rss" url="http://82.114.72.2:8088/" />
 <outline text="Radio Kosova 2" title="Radio Kosova 2" type="rss" url="http://82.114.72.2:8098/" />
 <outline text="Radio Kosova E Lire" title="Radio Kosova E Lire" type="rss" url="http://quasar.shoutca.st:8018/" />
+<outline text="Radio Plus" title="Radio Plus" type="rss" url="https://cast2.my-control-panel.com/proxy/radiopl1/stream" />
 <outline text="Radio Zëri i Shtimes" title="Radio Zëri i Shtimes" type="rss" url="http://radio.1dhe1.com:8090/listen.pls" />
 <outline text="RTK Radio Kosova 1" title="RTK Radio Kosova 1" type="rss" url="http://82.114.72.2:8088/.mp3" />
 <outline text="RTK Radio Kosova 2" title="RTK Radio Kosova 2" type="rss" url="http://82.114.72.2:8098/stream.mp3" />
+<outline text="Urban FM 103.5" title="Urban FM 103.5" type="rss" url="https://radio.itprishtina.com/urbanfm.ogg" />
 </body>
 </opml>

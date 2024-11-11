@@ -5,8 +5,5 @@
 </head>
 <body>
 <outline text="Caboradio" title="Caboradio" type="rss" url="https://listen.radioking.com/radio/281506/stream/327253" />
-<outline text="Radio Praia FM" title="Radio Praia FM" type="rss" url="http://radios.vpn.sapo.pt/CV/radio4.mp3" />
-<outline text="RCV Radio Cabo Verde" title="RCV Radio Cabo Verde" type="rss" url="https://radios.vpn.sapo.pt/CV/radio7.mp3" />
-<outline text="RCV+ Rádio Cabo Verde Jovem" title="RCV+ Rádio Cabo Verde Jovem" type="rss" url="https://radios.vpn.sapo.pt/CV/radio6.mp3" />
 </body>
 </opml>

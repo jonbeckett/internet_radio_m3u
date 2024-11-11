@@ -4,30 +4,38 @@
 <title>Internet Radio Stations for TH Thailand</title>
 </head>
 <body>
+<outline text="101.5 Chula Radio" title="101.5 Chula Radio" type="rss" url="http://radio11.plathong.net:7590/stream.mp3" />
+<outline text="102.5 Get FM" title="102.5 Get FM" type="rss" url="https://radio12.plathong.net/7172/stream" />
+<outline text="106 Family News Radio" title="106 Family News Radio" type="rss" url="https://radio11.plathong.net/7138/stream.mp3" />
 <outline text="666 Radio Station Khonkaen - FM 90.75" title="666 Radio Station Khonkaen - FM 90.75" type="rss" url="http://media.login.in.th:8845/" />
 <outline text="90 rakthai" title="90 rakthai" type="rss" url="http://radio11.plathong.net:8896/stream.mp3" />
+<outline text="90.5 Smart News มิติข่าว" title="90.5 Smart News มิติข่าว" type="rss" url="http://live3.smartbomb.co.th:8624/stream.mp3" />
+<outline text="91.5 FM Panzer Radio Station" title="91.5 FM Panzer Radio Station" type="rss" url="http://radio.servradio.com:9398/stream.mp3" />
+<outline text="94 Bangkok Smile" title="94 Bangkok Smile" type="rss" url="http://fm94.tv5.co.th:8000/fm94ch3" />
 <outline text="Ban Kruat FM 99.25 MHz บ้านกรวดเวิลด์ " title="Ban Kruat FM 99.25 MHz บ้านกรวดเวิลด์ " type="rss" url="http://lnwradio.hostsevenplus.com:9564/" />
-<outline text="Bangkok Community Radio" title="Bangkok Community Radio" type="rss" url="https://listen.radioking.com/radio/437057/stream/491105" />
-<outline text="Best Radio FM. 89.0 MHz." title="Best Radio FM. 89.0 MHz." type="rss" url="https://80sv2.hostpleng.com/?url=http://112.121.150.133:8198/" />
 <outline text="BigFM RadioSocial" title="BigFM RadioSocial" type="rss" url="http://media.login.in.th:8195/stream.mp3" />
 <outline text="Bluewave 97" title="Bluewave 97" type="rss" url="https://80sv2.hostpleng.com/?url=http://112.121.151.133:8109/stream" />
 <outline text="Bluewave 97 (CR)" title="Bluewave 97 (CR)" type="rss" url="http://112.121.151.133:8109/live" />
-<outline text="Buriram Radio FM 103 MHz บุรีรัมย์ เรดิโอ" title="Buriram Radio FM 103 MHz บุรีรัมย์ เรดิโอ" type="rss" url="http://lnwradio.hostsevenplus.com:9504/" />
+<outline text="City Radio Pattaya" title="City Radio Pattaya" type="rss" url="https://streaming.thaismarthost.com:8020/ctmobile.mp3" />
+<outline text="cityradio pattaya" title="cityradio pattaya" type="rss" url="https://streaming.thaismarthost.com/radio/8020/ctmobile.mp3" />
 <outline text="Cool fahrenheit" title="Cool fahrenheit" type="rss" url="https://coolism-web.cdn.byteark.com/stream/1" />
 <outline text="Cool Fahrenheit" title="Cool Fahrenheit" type="rss" url="https://coolism-web.cdn.byteark.com/stream/1" />
 <outline text="Cool fahrenheit" title="Cool fahrenheit" type="rss" url="https://coolism-web3rd.cdn.byteark.com/stream/1/" />
 <outline text="COOLISM" title="COOLISM" type="rss" url="https://coolism-web.cdn.byteark.com/stream/1" />
+<outline text="Fabulous 103" title="Fabulous 103" type="rss" url="https://fabulous.thailandstreaming.net/fabulous.mp3" />
+<outline text="FM 91" title="FM 91" type="rss" url="https://www.fm91bkk.com:8900/stream.mp3" />
 <outline text="FM ONE" title="FM ONE" type="rss" url="https://apps4.mcot.net/stream578.aac" />
+<outline text="Friends Bangkok" title="Friends Bangkok" type="rss" url="http://210.1.60.244:8000/FriendsBangkok" />
 <outline text="Huahin Radio Thailand" title="Huahin Radio Thailand" type="rss" url="https://inter1.plathong.net/7008/stream.mp3" />
 <outline text="Isan FM 98" title="Isan FM 98" type="rss" url="http://radio11.plathong.net:8900/stream.mp3" />
+<outline text="JS 100" title="JS 100" type="rss" url="http://103.246.19.203:8004/listen.pls?sid=1" />
 <outline text="JS100" title="JS100" type="rss" url="http://103.246.19.203:8004/stream?type=http&amp;nocache=145" />
-<outline text="MCOT NEWS - FM 100.5" title="MCOT NEWS - FM 100.5" type="rss" url="http://rstream.mcot.net:8000/fm1005" />
-<outline text="MCOT News Network" title="MCOT News Network" type="rss" url="http://rstream.mcot.net:8000/fm1005" />
+<outline text="Looktung Eing" title="Looktung Eing" type="rss" url="https://inter.lannaradio.com/radio/8000/radio.mp3" />
+<outline text="Looktung Eingdoi" title="Looktung Eingdoi" type="rss" url="https://inter.lannaradio.com/radio/8000/radio.mp3" />
 <outline text="Mcot Radio Buriram 92.0 FM" title="Mcot Radio Buriram 92.0 FM" type="rss" url="http://rstream.mcot.net:9050/" />
 <outline text="MCOT อุดรธานี" title="MCOT อุดรธานี" type="rss" url="http://rstream.mcot.net:9044/.mp3" />
-<outline text="Merci God Radio" title="Merci God Radio" type="rss" url="http://122.155.0.201:9000/" />
 <outline text="Metro Radio 90.5 Khon Kaen" title="Metro Radio 90.5 Khon Kaen" type="rss" url="http://radio4.thzhost.com:4114/" />
-<outline text="PRD Radio Thailand (Foreign Program)" title="PRD Radio Thailand (Foreign Program)" type="rss" url="http://prdonline.prd.go.th:8200/stream.mp3" />
+<outline text="Mommaemradio" title="Mommaemradio" type="rss" url="http://112.121.150.133:9386/autodj" />
 <outline text="Rad Radio" title="Rad Radio" type="rss" url="http://radio1.serverradio.net:8592/?type=http" />
 <outline text="requestradio" title="requestradio" type="rss" url="http://27.254.142.208:8300/" />
 <outline text="RequestRadio Dance" title="RequestRadio Dance" type="rss" url="https://cast.requestradio.in.th:850//stream/3" />
@@ -35,10 +43,6 @@
 <outline text="requestradio String" title="requestradio String" type="rss" url="https://cast.requestradio.in.th:2199/tunein/shoutcast1.pls" />
 <outline text="RequestRadio เพื่อชีวิต" title="RequestRadio เพื่อชีวิต" type="rss" url="https://cast.requestradio.in.th:830/stream/" />
 <outline text="requestradio/looktung/" title="requestradio/looktung/" type="rss" url="http://27.254.142.208:8300/" />
-<outline text="SaingDham Radio Buriram FM 93.0 MHz" title="SaingDham Radio Buriram FM 93.0 MHz" type="rss" url="http://202.142.203.28:8000/siangdham.mp3" />
-<outline text="Sukson Radio | International Easy Listening" title="Sukson Radio | International Easy Listening" type="rss" url="https://stream.pjcdn.com:8000/SuksonRadio" />
-<outline text="Sukson Radio | Thai Easy Listening เพลงไทย" title="Sukson Radio | Thai Easy Listening เพลงไทย" type="rss" url="https://stream.pjcdn.com:9000/SuksonRadio" />
-<outline text="Sukson Radio สุขสันต์ เรดิโอ | Thai Looktung เพลงลูกทุ่ง " title="Sukson Radio สุขสันต์ เรดิโอ | Thai Looktung เพลงลูกทุ่ง " type="rss" url="https://stream.pjcdn.com:8200/SuksonRadio" />
 <outline text="Sunshine Radio" title="Sunshine Radio" type="rss" url="http://c1.hostpleng.cloud:8046/live" />
 <outline text="Sunshine Radio Pattaya" title="Sunshine Radio Pattaya" type="rss" url="http://c1.hostpleng.cloud:8046/live" />
 <outline text="บ้านธัมมะ" title="บ้านธัมมะ" type="rss" url="https://radio10.plathong.net/7238/stream.mp3" />
@@ -46,26 +50,15 @@
 <outline text="ล้านนา เรดิโอ " title="ล้านนา เรดิโอ " type="rss" url="https://inter.lannaradio.com/radio/8000/radio.mp3" />
 <outline text="ลานนาเรดิโอ" title="ลานนาเรดิโอ" type="rss" url="https://inter.lannaradio.com/radio/8000/radio.mp3" />
 <outline text="ลูกทุ่ง รักไทย ๙๐" title="ลูกทุ่ง รักไทย ๙๐" type="rss" url="http://radio11.plathong.net:8896/stream.mp3" />
-<outline text="ลูกทุ่งเน็ตเวิร์ก" title="ลูกทุ่งเน็ตเวิร์ก" type="rss" url="https://media.login.in.th:8443/smilehost/8200" />
-<outline text="ลูกทุ่งเน็ตเวิร์ค" title="ลูกทุ่งเน็ตเวิร์ค" type="rss" url="https://media.login.in.th:8443/smilehost/8200" />
+<outline text="ลูกทุ่งเน็ตเวิร์ค" title="ลูกทุ่งเน็ตเวิร์ค" type="rss" url="http://media.login.in.th:8200/stream.mp3" />
 <outline text="วัดปากบ่อ" title="วัดปากบ่อ" type="rss" url="http://radio1.siamlivehost.com:8001/" />
 <outline text="วัดป่าไทรงาม" title="วัดป่าไทรงาม" type="rss" url="https://radio10.plathong.net/7110/stream.mp3" />
-<outline text="วัดพุทธาวาส ภูสิงห์" title="วัดพุทธาวาส ภูสิงห์" type="rss" url="http://radio1.serverradio.net:8060/stream/1/" />
-<outline text="วัดลอมพระเจ้าตอง" title="วัดลอมพระเจ้าตอง" type="rss" url="https://apps4.mcot.net/stream729.aac" />
-<outline text="วัดลอมพระเจ้าตอง FM 101.00 MHZ. ลำพูน" title="วัดลอมพระเจ้าตอง FM 101.00 MHZ. ลำพูน" type="rss" url="https://apps4.mcot.net/stream729.aac" />
 <outline text="วิทยุวัดนายโรง" title="วิทยุวัดนายโรง" type="rss" url="http://103.7.56.219:4106/" />
 <outline text="วิทยุเสียงอิสลาม" title="วิทยุเสียงอิสลาม" type="rss" url="https://radio12.plathong.net/7234/stream.mp3" />
-<outline text="สวท ลำพูน FM95" title="สวท ลำพูน FM95" type="rss" url="https://radio-org-01-ott.prd.go.th/lpn_fm95" />
-<outline text="สวท.พะเยา" title="สวท.พะเยา" type="rss" url="http://prdonline.prd.go.th:8124/stream.mp3" />
-<outline text="สวท.สุราษฎร์ธานี A.M.1215 KHz" title="สวท.สุราษฎร์ธานี A.M.1215 KHz" type="rss" url="http://prdonline.prd.go.th:8202/" />
 <outline text="สวพ.91" title="สวพ.91" type="rss" url="http://122.155.16.48:8955/stream.mp3" />
 <outline text="สังฆทานธรม" title="สังฆทานธรม" type="rss" url="https://cdn-th2.livestreaming.in.th/shoutcast/8615" />
 <outline text="สังฆทานธรรม" title="สังฆทานธรรม" type="rss" url="https://cdn-th2.livestreaming.in.th/shoutcast/8615" />
-<outline text="หลวงตา" title="หลวงตา" type="rss" url="http://202.142.203.28:8000/siangdham.mp3" />
-<outline text="เครือข่ายวิทยุฯ เพื่อเด็ก เยาวชน และครอบครัว" title="เครือข่ายวิทยุฯ เพื่อเด็ก เยาวชน และครอบครัว" type="rss" url="http://prdonline.prd.go.th:8210/stream.mp3" />
 <outline text="เพื่อชีวิต" title="เพื่อชีวิต" type="rss" url="https://cast.requestradio.in.th:830/stream/" />
-<outline text="เสียงธรรม" title="เสียงธรรม" type="rss" url="http://202.142.203.28:8000/siangdham.mp3" />
-<outline text="เสียงธรรม หลวงตา" title="เสียงธรรม หลวงตา" type="rss" url="http://202.142.203.28:8000/siangdham.mp3" />
 <outline text="ไทยลานนาเรดิโอ FM 106.5 จังหวัดตาก" title="ไทยลานนาเรดิโอ FM 106.5 จังหวัดตาก" type="rss" url="https://inter.lannaradio.com/radio/8000/radio.mp3" />
 </body>
 </opml>

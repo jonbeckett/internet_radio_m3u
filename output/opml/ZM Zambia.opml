@@ -5,9 +5,7 @@
 </head>
 <body>
 <outline text="5fm Radio Zambia" title="5fm Radio Zambia" type="rss" url="http://ca9.rcast.net:8014/stream.mp3" />
-<outline text="Chikuni Community Radio Station" title="Chikuni Community Radio Station" type="rss" url="https://chikunir.radioca.st/stream" />
 <outline text="Energy Broadcst Accouant" title="Energy Broadcst Accouant" type="rss" url="https://sv2.famcast.co.za/proxy/energyfm?mp=/stream" />
-<outline text="Flava (Kitwe)" title="Flava (Kitwe)" type="rss" url="http://s2.voscast.com:9304/" />
 <outline text="Hot FM 87.7" title="Hot FM 87.7" type="rss" url="http://s2.yesstreaming.net:7091/stream?type=.mp3%2F%3Bstream.mp3&amp;_=1" />
 <outline text="Sun Fm Zambia" title="Sun Fm Zambia" type="rss" url="http://11233.cloudrad.io:9102/live" />
 <outline text="ThaBiggRadio" title="ThaBiggRadio" type="rss" url="http://stream.zeno.fm/c17yxm6rrg0uv" />

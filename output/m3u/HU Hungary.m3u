@@ -1,11 +1,17 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations for HU Hungary
+#EXTINF:-1  Győr+ Rádió 
+https://stream.42netmedia.com:8443/sc_gyor1
 #EXTINF:-1 103.9 rock
 https://icast.connectmedia.hu/5301/live.mp3
 #EXTINF:-1 Aktív Rádió
 http://aktivradio.hu:8000/aktiv.mp3
+#EXTINF:-1 Argentine Tango Radio
+https://listen.argentinetangoradio.com/
 #EXTINF:-1 Balaton Rádió
 http://91.82.85.41:8200/
+#EXTINF:-1 Balatonica
+http://balatonica.hu:8000/stream_low
 #EXTINF:-1 BALATONICA RADIO
 http://balatonica.hu:8000/stream_high
 #EXTINF:-1 Bartók Rádió
@@ -18,8 +24,6 @@ https://bdpstrock.hu/live.mp3
 https://bdpstrock.hu/live_320.mp3
 #EXTINF:-1 BDPST ROCK -  96 kbit/s;
 https://bdpstrock.hu/live_128.mp3
-#EXTINF:-1 Beat Rádió
-https://stream.nmih.hu:9012/live.mp3
 #EXTINF:-1 Best FM - Budapest
 https://icast.connectmedia.hu/5101/live.mp3/
 #EXTINF:-1 Best FM - Debrecen
@@ -36,8 +40,12 @@ http://icast.connectmedia.hu/5113/live.mp3
 http://icast.connectmedia.hu/5112/live.mp3/
 #EXTINF:-1 Best FM - Zalaegerszeg
 http://icast.connectmedia.hu/5111/live.mp3/
-#EXTINF:-1 Best Of Rádió
-https://stream.phost.hu:8000/bestofradio_hq.xspf
+#EXTINF:-1 Best FM Debrecen-Debrecen kedvenc rádiója!
+http://stream.webthings.hu:8000/fm95-x-128.mp3
+#EXTINF:-1 BestFM Debrecen
+http://stream.webthings.hu:8000/fm95-x-128.mp3
+#EXTINF:-1 Bias Radio
+https://admin.biasradio.com/listen/bias_radio/live
 #EXTINF:-1 Bithang Yoo Rádió
 http://stream.diazol.hu:35160/live.mp3
 #EXTINF:-1 Buddha FM
@@ -48,10 +56,18 @@ http://188.165.11.30:4500/live.mp3
 http://adas.poptarisznya.hu:4500/live.mp3
 #EXTINF:-1 Campus Rádió FM90
 https://stream.fm90.hu:8000/
+#EXTINF:-1 Cegléd Rádió
+http://stream.cegledradio.hu:4387/mp3
 #EXTINF:-1 CEU Medieval Radio
 http://137.74.85.85:7020/stream
+#EXTINF:-1 Chiqui Radio
+https://stream.zeno.fm/gvz27wezgghtv
+#EXTINF:-1 Civil Radio
+http://civilradio.hu:8000/listen.mp3
 #EXTINF:-1 Civil Rádió
 http://civilradio.hu:8000/stream
+#EXTINF:-1 Club Dance Online - Retro
+http://stream.clubdance.online:8000/retro
 #EXTINF:-1 Cool FM
 http://mediagw.e-tiger.net/stream/cfmhq
 #EXTINF:-1 Cool FM - Goldie'S
@@ -110,24 +126,48 @@ https://mediagw.e-tiger.net/stream/zc26
 https://mediagw.e-tiger.net/stream/zc22
 #EXTINF:-1 coronita fm
 http://stream.zeno.fm/ktzdc7rf7f0uv
+#EXTINF:-1 Csukás Meserádió
+https://mr-stream.connectmedia.hu/4611/mr10.mp3
 #EXTINF:-1 DANCE 90'S
 https://mediagw.e-tiger.net/stream/zc06?ver=887687
 #EXTINF:-1 Dance Wave Retro!
-http://retro.dancewave.online/retrodance.mp3.pls
+https://retro.dancewave.online/retrodance.mp3
 #EXTINF:-1 Dance Wave!
-http://stream.dancewave.online:8080/dance.mp3
+https://dancewave.online/dance.mp3
+#EXTINF:-1 DANCEable Radio
+http://s9.myradiostream.com:35944/listen.pls?sid=1
 #EXTINF:-1 Danubius
 https://stream.danubiusradio.hu/danubius_320k
 #EXTINF:-1 Danubius Rádió
-http://stream.danubiusradio.hu/danubius_128k
-#EXTINF:-1 Deejay Rádió
-http://stream.diazol.hu:31040/autodj.mp3
-#EXTINF:-1 DEEPHOUSE
-https://stream1.rdstrm.com/deep-house-radio-dance-music.mp3
+https://stream.danubiusradio.hu/danubius_192k
 #EXTINF:-1 disco diamond 2
 http://discodiamond.radioca.st/stream
+#EXTINF:-1 Disco Diamond Radio
+https://ddr2020.radioca.st/stream
+#EXTINF:-1 Diveky-radio-gramofon
+http://178.238.223.39:8000/gramofon.m3u
+#EXTINF:-1 Diveky-radio-klasszikusok
+http://178.238.223.39:8000/klasszikusok.m3u
+#EXTINF:-1 Diveky-radio-könnyűzene
+http://178.238.223.39:8000/konnyuzene.m3u
+#EXTINF:-1 Diveky-radio-madeinhungary
+http://178.238.223.39:8000/madeinhungary.m3u
+#EXTINF:-1 Diveky-radio-swing
+http://178.238.223.39:8000/swing.m3u
+#EXTINF:-1 Diveky-radio-táncdalok
+http://178.238.223.39:8000/tancdalok.m3u
+#EXTINF:-1 DomBRádiÓ-Online-Dombrád
+http://dombradio.dyndns.tv:8000/live.mp3
+#EXTINF:-1 Drop Now!
+https://nowradiok.eu/listen/dropnow/dropnow
 #EXTINF:-1 Enying FM Hungary
 http://radioe.net:8080/efm_hd
+#EXTINF:-1 Euphonic Moments
+http://5.189.174.137:8000/Euphonicmoments_radio256kbps.mp3
+#EXTINF:-1 Euro Music Radio
+https://a1.asurahosting.com:9480/radio.mp3
+#EXTINF:-1 Ez az a nap! rádió
+https://www.radioking.com/play/ez-az-a-nap-radio
 #EXTINF:-1 FM 103.9 A Rock
 https://stream.rockradio.hu/
 #EXTINF:-1 FM90 Campus Rádió
@@ -146,50 +186,50 @@ http://stream.frissfm.hu:10050/
 http://stream.gongradio.hu:8000/gong-fm.mp3
 #EXTINF:-1 Győr+
 https://stream.42netmedia.com:8443/sc_gyor1
-#EXTINF:-1 Hangulat disco
-http://79.139.60.24:8000/mixfm
-#EXTINF:-1 Hangulat retró
-http://79.139.60.24:8000/telstar
 #EXTINF:-1 Hobby Rádió
 http://www.hobbyradio.hu:8000/hobbyradio.mp3
+#EXTINF:-1 Hujujuj
+http://radionova.hujujuj.com:8000/main
+#EXTINF:-1 Hungarian dance 
+http://gamershouse.hu:8000/livemega.mp3
 #EXTINF:-1 I Love Pécs Rádió
 http://radio.ilovepecs.hu:8200/ilp.mp3
 #EXTINF:-1 Inforádió
 http://stream.infostart.hu/lejatszo/index.html?sid=1
 #EXTINF:-1 insane
 https://newinsane.info/ochi/insane.m3u
+#EXTINF:-1 Jazzy
+https://radio.musorok.org/listen/jazzy/jazzy.mp3
+#EXTINF:-1 Jazzy 90.9
+https://jazzy.hu/jazzy.mp3
 #EXTINF:-1 Jazzy Cool
 https://radio.musorok.org/listen/jazzycool/jazzycool.mp3
 #EXTINF:-1 Jazzy Groove
-https://jazzy.hu/jazzygroove.mp3
-#EXTINF:-1 Jazzy Rádió
-https://radio.musorok.org/listen/jazzy/jazzy.mp3
+https://radio.musorok.org/listen/jazzygroove/jazzygroove.mp3
 #EXTINF:-1 Jazzy Soul
 https://radio.musorok.org/listen/jazzysoul/jazzysoul.mp3
-#EXTINF:-1 JUVENTUS Rádió
-https://radiojuventus.hu/stream_320k
 #EXTINF:-1 Klasszik Rádió 92.1
 http://www.klasszikradio.hu/klasszik.mp3
-#EXTINF:-1 Klubrádió
-http://stream.klubradio.hu:8080/bpstream
-#EXTINF:-1 Klubrádio
-https://hu-stream02.klubradio.hu:8443/bpstream
-#EXTINF:-1 Klubrádió 32kbps
-http://hu-stream02.klubradio.hu:8080/32kbit
-#EXTINF:-1 Klubrádió V2
-https://hu-stream05.klubradio.hu:8443/bpstream
+#EXTINF:-1 Klubrádió - Zebrádió
+https://stream.zebradio.hu:8443/zebradio
+#EXTINF:-1 Klubrádió 95,3
+https://a7.asurahosting.com:8160/radio.mp3
 #EXTINF:-1 KORONAfm100
 http://82.141.165.6:8000/stream
+#EXTINF:-1 KoronaFM100
+https://www.koronafm100.hu/live.mp3
 #EXTINF:-1 Kossuth
 https://icast.connectmedia.hu/4736/mr1.mp3
+#EXTINF:-1 Kossuth Radio
+http://stream002.radio.hu/mr1.mp3
 #EXTINF:-1 Lahmacun Radio
 https://streaming.lahmacun.hu/radio/8000/radio.mp3
-#EXTINF:-1 Lépés - Sláger Rádió
-http://lepesradio.hu/slager.mp3
+#EXTINF:-1 Lahmacun radio
+https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3
+#EXTINF:-1 Laza Rádió - Mulatós
+https://stream.lazaradio.com/mulatos.mp3
 #EXTINF:-1 Lépés Rádió
 http://stream.lepesradio.hu:4000/live.mp3
-#EXTINF:-1 Live radio
-http://radio.nnkcrazyclub.hu:7163/crazyklub
 #EXTINF:-1 Luxfunk Blackmix
 http://188.165.11.30:5000/luxfunkblackmix.mp3
 #EXTINF:-1 Luxfunk Dance
@@ -198,6 +238,8 @@ http://188.165.11.30:5000/luxfunkdance.mp3
 http://188.165.11.30:5000/luxfunkradio.mp3
 #EXTINF:-1 magic disco
 http://stream1.virtualisan.net:4420/live.mp3
+#EXTINF:-1 Magic Disco Radio
+https://free.rcast.net/66407
 #EXTINF:-1 Magic Disco Rádió
 http://live2.magicdiscoradio.com:4420/live.mp3
 #EXTINF:-1 Magic Disco Radio
@@ -210,8 +252,6 @@ http://icast.connectmedia.hu/4780/live.mp3
 http://honlap.mariaradio.hu:8000/mr
 #EXTINF:-1 Maxi rádió
 http://46.107.212.101:9240/live
-#EXTINF:-1 Mega Rádió
-http://megaradio.hu/megastream
 #EXTINF:-1 MegaDance Rádió
 http://megadanceradio.hopto.org:8000/livemega.mp3
 #EXTINF:-1 Megadance Rádió
@@ -226,10 +266,6 @@ http://stream.mercyradio.eu/mercyradio.mp3
 http://stream.mercyradio.eu/kabare.mp3
 #EXTINF:-1 Mercy Rádió - Mulatós
 http://stream.mercyradio.eu/mulatos.mp3
-#EXTINF:-1 Mex Deejay
-http://stream.diazol.hu:31040/deejay.mp3
-#EXTINF:-1 miradionk.hu
-http://92.61.114.191:6030/
 #EXTINF:-1 Mixradio fresh
 http://adas.adasszerver.hu/live
 #EXTINF:-1 MixradioRetro
@@ -240,16 +276,30 @@ https://s03.diazol.hu:7092/zene.mp3
 https://stream.diazol.hu:7092/zene.mp3
 #EXTINF:-1 Momó Rádió Mese
 https://stream.diazol.hu:7092/mese.mp3
+#EXTINF:-1 MR1 - Kossuth Rádió
+https://mr-stream.connectmedia.hu/4736/mr1.mp3
+#EXTINF:-1 MR2 - Petőfi Rádió
+https://mr-stream.connectmedia.hu/4738/mr2.mp3
+#EXTINF:-1 MR3 - Bartók Rádió
+https://mr-stream.connectmedia.hu/4741/mr3.mp3
+#EXTINF:-1 MR4 - Nemzetiségi Adások
+https://mr-stream.connectmedia.hu/4744/mr4.mp3
+#EXTINF:-1 MR5 - Parlamenti Adások
+https://mr-stream.connectmedia.hu/4746/mr5.mp3
+#EXTINF:-1 MR7 - Dankó Rádió
+https://mr-stream.connectmedia.hu/4748/mr7.mp3
+#EXTINF:-1 MR8 - Duna World Rádió
+https://mr-stream.connectmedia.hu/4761/dwr.mp3
 #EXTINF:-1 Mustár Rádió
 http://193.138.125.14:8500/
+#EXTINF:-1 Nemzeti Sportrádió
+https://icast.connectmedia.hu/4657/mr11.mp3
 #EXTINF:-1 Next FM
 https://stream.nextfm.hu/radio/8000/nextfmhu.mp3?1590416039
 #EXTINF:-1 Nóta FM - 128k MP3
 http://notafm.hu/media/notafm_mp3.m3u
 #EXTINF:-1 NST Music FM
-http://109.169.23.17:8428/nstmusicfm
-#EXTINF:-1 Open Air Radio
-http://79.172.209.223:9200/stream
+http://212.84.160.3:9819/nstmusicfm
 #EXTINF:-1 oxigen
 https://oxygenmusic.hu:8443/oxygenmusic
 #EXTINF:-1 Oxygen Black Music
@@ -258,10 +308,8 @@ https://oxygenmusic.hu:8443/blackmusic_128
 https://oxygenmusic.hu:8443/oxygenclassicrock
 #EXTINF:-1 Oxygen Classics
 https://oxygenmusic.hu:8443/Classic_128
-#EXTINF:-1 Oxygen Fitness
-https://oxygenmusic.hu:8443/oxygenfitness
 #EXTINF:-1 Oxygen Happy
-https://oxygenmusic.hu:8443/oxygenhappy
+https://oxygenmusic.hu:8443/oxygenhappy_128
 #EXTINF:-1 Oxygen Indie
 https://oxygenmusic.hu:8443/oxygenindie
 #EXTINF:-1 Oxygen Italo Hits
@@ -270,7 +318,7 @@ https://oxygenmusic.hu:8443/oxygenitalohits
 https://oxygenmusic.hu:8443/oxygenkids
 #EXTINF:-1 Oxygen Lounge
 https://oxygenmusic.hu:8443/oxygenlounge
-#EXTINF:-1 Oxygen Love Songs
+#EXTINF:-1 OXYGEN LOVE SONGS
 https://oxygenmusic.hu:8443/oxygenlovesongs
 #EXTINF:-1 Oxygen Magyar Zene
 https://oxygenmusic.hu:8443/oxygenmagyarzene
@@ -292,8 +340,12 @@ https://oxygenmusic.hu:8443/ozonefm_128.mp3
 https://oxygenmusic.hu:8443/ozonefm_320
 #EXTINF:-1 Pannónia Rádió
 http://kft.kesintisizyayin.com:8130/stream
+#EXTINF:-1 Park FM
+https://s03.diazol.hu:7142/stream.mp3
 #EXTINF:-1 Pécs Aktuál Rádió
 https://stream.pecsaktual.hu/paradio.mp3
+#EXTINF:-1 Periszkop Radio
+https://mumia.periszkopradio.hu:8443/stream.mp3
 #EXTINF:-1 Petőfi
 https://icast.connectmedia.hu/4738/mr2.mp3
 #EXTINF:-1 Petőfi Rádió
@@ -320,22 +372,18 @@ http://icast.connectmedia.hu/5201/live.mp3
 https://icast.connectmedia.hu/5039/live.mp3
 #EXTINF:-1 Rádió 1 Debrecen
 http://91.82.85.44:8080/debrecenradiofm95
-#EXTINF:-1 Rádió 1 Kiskunfélegyháza
-http://siriusradio.hu:8500/relay_mobile_911
 #EXTINF:-1 Rádió 1 Miskolc
 https://icast.connectmedia.hu/5211/live.mp3
-#EXTINF:-1 Rádió 1 Pécs
-http://stream.radio1pecs.hu:8200/pecs.mp3
 #EXTINF:-1 Rádió 1 Szeged
 http://icast.connectmedia.hu/5232/live.mp3
-#EXTINF:-1 Rádió 1 Szombathely
-http://77.221.39.23:8000/
 #EXTINF:-1 Rádió 7
 http://netradio.radio7.hu:8300/stream.mp3
 #EXTINF:-1 Rádió 88
 http://stream.radio88.hu:8000/
 #EXTINF:-1 Rádió 88 Club
 http://stream2.radio88.hu:8400/stream
+#EXTINF:-1 Rádió 88 Retro
+http://stream1.radio88.hu:8300/stream
 #EXTINF:-1 Rádió 88 Top
 http://stream3.radio88.hu:8500/stream
 #EXTINF:-1 Rádió Antritt
@@ -350,8 +398,6 @@ http://stream3.virtualisan.net:7040/
 http://icast.connectmedia.hu/6121/live.mp3
 #EXTINF:-1 Radio E
 http://radioe.net:8080/efm_high
-#EXTINF:-1 Radio face black
-http://ca3.rcast.net:8016/
 #EXTINF:-1 RADIO INSIDE
 https://radioinside.eu/live.mp3
 #EXTINF:-1 Radio Kaleid
@@ -370,81 +416,93 @@ https://trance.out.airtime.pro/trance_a
 https://oxygenmusic.hu:8443/radiopapa.mp3
 #EXTINF:-1 Radio Sense
 http://s03.diazol.hu:7010/stream.mp3
-#EXTINF:-1 Rádió Smile
-http://radiosmile.hu:8010/stream
+#EXTINF:-1 RADIO SMILE
+https://smile.str.42net.hu/stream/
+#EXTINF:-1 Rádió X - A fiatalok rádiója
+https://stream.phost.hu:8002/stream3
 #EXTINF:-1 Radio1
 https://icast.connectmedia.hu/5202/live.mp3
 #EXTINF:-1 Radio1 - Paks
 http://icast.connectmedia.hu/5222/live.mp3
 #EXTINF:-1 Radiobrand
 http://radiobrand.es:8084/
-#EXTINF:-1 radiocafé 98
-https://radio.radiocafe98.hu/radiocafe98_192k
-#EXTINF:-1 radiocafé 98.0. - Van barátod.
-https://radio.ch3.hu:8050/cafe98.mp3
+#EXTINF:-1 radiocafé 98.0
+http://193.201.191.68:8080/radiocafe98_192k
 #EXTINF:-1 RadiOzora
 http://trance.out.airtime.pro:8000/trance_a
 #EXTINF:-1 RadiOzora Chill
 http://chill.out.airtime.pro:8000/chill_a
+#EXTINF:-1 RadiOzora Trance
+https://trance.out.airtime.pro/trance_a
+#EXTINF:-1 Retro Rádió
+https://icast.connectmedia.hu/5001/live.mp3
 #EXTINF:-1 retro radio
 https://icast.connectmedia.hu/5002/live.mp3
 #EXTINF:-1 retro radio
 https://icast.connectmedia.hu/5001/live.mp3
 #EXTINF:-1 Retro rádió 
 https://icast.connectmedia.hu/5001/live.mp3
-#EXTINF:-1 Rise FM
-http://risefm1.stereoplayer.hu:8080/risefm_hq
-#EXTINF:-1 risefm
-http://188.165.11.30:8080/risefm_rnb_hq
-#EXTINF:-1 risefm classik
-http://188.165.11.30:8080/risefm_classic_hq
-#EXTINF:-1 Risefm deep
-https://stream1.virtualisan.net/prx/8080/risefm_deephouse_hq
-#EXTINF:-1 risefm deep
-https://stream1.virtualisan.net/prx/8080/risefm_deephouse_hq
-#EXTINF:-1 risefm hithouse
-http://188.165.11.30:8080/risefm_hithouse_lq
+#EXTINF:-1 River
+https://webradio.ev2.hu:10010/river.mp3
+#EXTINF:-1 ROCK FM: 103.9
+https://icast.connectmedia.hu/5301/live.mp3/
 #EXTINF:-1 Rock Paradicsom
 http://stream1.virtualisan.net:6590/live.mp3
 #EXTINF:-1 Rocker Rádió
-http://rockerradio.online/live.mp3.m3u
+https://rockerradio.online/live.mp3
+#EXTINF:-1 Roxy Radio
+https://s2.audiostream.hu/roxy_192k
 #EXTINF:-1 Roxy Rádió
-https://radioroxy.hu/stream_192k
+https://s2.audiostream.hu/roxy_192k
 #EXTINF:-1 Sárvár Rádió
 https://stream.42netmedia.com:8443/sarvar
-#EXTINF:-1 Sirius Rádió
-http://siriusradio.hu:8500/relay_911
+#EXTINF:-1 Shine FM Radio
+https://s01.diazol.hu:10042/stream/
 #EXTINF:-1 Sláger FM
 http://92.61.114.159:7812/slagerfm256.mp3
 #EXTINF:-1 Sola Rádió
 http://188.165.11.30:7000/live.mp3
 #EXTINF:-1 Spirit FM
-https://s02.diazol.hu:10052/spweb1.mp3
+http://s01.diazol.hu:10050/spweb1.mp3
 #EXTINF:-1 Super DJ Radio
 http://s03.diazol.hu:35150/live
 #EXTINF:-1 superdj radio
 http://stream.diazol.hu:35150/stream
 #EXTINF:-1 SuperDj Radio
 http://stream.diazol.hu:35150/autodj
+#EXTINF:-1 Szakcsi rádió
+https://mr-stream.connectmedia.hu/4691/mr9.mp3
 #EXTINF:-1 Szent István Rádió
 http://online.szentistvanradio.hu:7000/adas
 #EXTINF:-1 Szent Korona Rádió
 http://radio.szentkoronaradio.com:8048/
-#EXTINF:-1 SzüNet Rádió
-http://92.61.114.191:1101/listen.mp3
 #EXTINF:-1 Táska Rádió
 http://live.taskaradio.com:7070/stream.nsv#.mp3
+#EXTINF:-1 Tempomax Rádió
+http://94.23.169.250:2060/live.mp3
 #EXTINF:-1 Tilos Rádió
 http://stream.tilos.hu/tilos
-#EXTINF:-1 Tilos Rádió - Jazz is dead?
-http://stream.tilos.hu/jazzisdead
+#EXTINF:-1 Tilos Radio
+https://stream.tilos.hu/tilos_128.mp3
+#EXTINF:-1 Tilos Rádió
+http://stream.tilos.hu/tilos
 #EXTINF:-1 Tilos Rádió 32 kbit/sec
 http://stream.tilos.hu/tilos_32.mp3
 #EXTINF:-1 Tilos Rádió FM 90.3
 http://stream.tilos.hu/tilos_128.mp3
+#EXTINF:-1 TOP FM max
+http://topfm.hu/media/max_mp3.m3u
+#EXTINF:-1 Trend FM
+https://radio.trendfm.hu/trendfm_192k
 #EXTINF:-1 Trió FM
 http://92.119.123.141:9090/stream
 #EXTINF:-1 Vörösmarty Rádió
-http://217.13.100.100:8000/vorosmarty_mid.mp3
+https://cloudfront41.lexanetwork.com:7604/livestream.mp3
+#EXTINF:-1 XTRadio
+https://xtrad.io/high.mp3
+#EXTINF:-1 Youventus Rádió
+http://s2.audiostream.hu/juventus_192k
+#EXTINF:-1 YOUVENTUS RÁDIÓ
+https://s2.audiostream.hu/juventus_192k
 #EXTINF:-1 Zugrádió
 http://zuglofm.netregator.hu:7812/zuglofm128.mp3.m3u

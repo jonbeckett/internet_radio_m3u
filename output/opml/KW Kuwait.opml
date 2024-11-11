@@ -4,16 +4,16 @@
 <title>Internet Radio Stations for KW Kuwait</title>
 </head>
 <body>
-<outline text="Quran Radio راديو القرآن - Abdulbasit Abdulsamad - عبدالباسط عبدالصمد" title="Quran Radio راديو القرآن - Abdulbasit Abdulsamad - عبدالباسط عبدالصمد" type="rss" url="https://radio.naza.io/listen/abdulbasit/radio.mp3" />
-<outline text="Quran Radio راديو القرآن - Abdulrahman Alsudais - عبدالرحمن السديس" title="Quran Radio راديو القرآن - Abdulrahman Alsudais - عبدالرحمن السديس" type="rss" url="https://radio.naza.io/listen/sudais/radio.mp3" />
-<outline text="Quran Radio راديو القرآن - Ali Al-Hudhaifi - علي الحذيفي" title="Quran Radio راديو القرآن - Ali Al-Hudhaifi - علي الحذيفي" type="rss" url="https://radio.naza.io/listen/alhuthaifi/radio.mp3" />
-<outline text="Quran Radio راديو القرآن - Kuwait الكويت" title="Quran Radio راديو القرآن - Kuwait الكويت" type="rss" url="https://radio.naza.io/listen/quran_radio/radio.mp3" />
-<outline text="Quran Radio راديو القرآن - Maher Al Mueaqly - ماهر المعيقلي" title="Quran Radio راديو القرآن - Maher Al Mueaqly - ماهر المعيقلي" type="rss" url="https://radio.naza.io/listen/maher/radio.mp3" />
-<outline text="Quran Radio راديو القرآن - Mishary Alafasy - مشاري العفاسي" title="Quran Radio راديو القرآن - Mishary Alafasy - مشاري العفاسي" type="rss" url="https://radio.naza.io/listen/mishary/radio.mp3" />
-<outline text="Quran Radio راديو القرآن - Mohammad Refat محمد رفعت" title="Quran Radio راديو القرآن - Mohammad Refat محمد رفعت" type="rss" url="https://radio.naza.io/listen/refaat/radio.mp3" />
-<outline text="Quran Radio راديو القرآن - Saud Al-Shuraim سعود الشريم" title="Quran Radio راديو القرآن - Saud Al-Shuraim سعود الشريم" type="rss" url="https://radio.naza.io/listen/alshuraim/radio.mp3" />
-<outline text="Quran Radio راديو القرآن - Yasser AlDosari - ياسر الدوسري" title="Quran Radio راديو القرآن - Yasser AlDosari - ياسر الدوسري" type="rss" url="https://radio.naza.io/listen/yaser/radio.mp3" />
-<outline text="Quran Recitation by Sheikh Abdulbasit" title="Quran Recitation by Sheikh Abdulbasit" type="rss" url="https://server03.quran.com.kw:7000/*.mp3" />
+<outline text="OFW Radio" title="OFW Radio" type="rss" url="https://s3.voscast.com:7711/live" />
+<outline text="Quran Radio راديو القرآن - Abdulbasit Abdulsamad - عبدالباسط عبدالصمد" title="Quran Radio راديو القرآن - Abdulbasit Abdulsamad - عبدالباسط عبدالصمد" type="rss" url="https://radio.mp3islam.com/listen/abdulbasit/radio.mp3" />
+<outline text="Quran Radio راديو القرآن - Abdulrahman Alsudais - عبدالرحمن السديس" title="Quran Radio راديو القرآن - Abdulrahman Alsudais - عبدالرحمن السديس" type="rss" url="https://radio.mp3islam.com/listen/sudais/radio.mp3" />
+<outline text="Quran Radio راديو القرآن - Ali Alhuthaifi - علي الحذيفي" title="Quran Radio راديو القرآن - Ali Alhuthaifi - علي الحذيفي" type="rss" url="https://radio.mp3islam.com/listen/alhuthaifi/radio.mp3" />
+<outline text="Quran Radio راديو القرآن - Kuwait الكويت" title="Quran Radio راديو القرآن - Kuwait الكويت" type="rss" url="https://radio.mp3islam.com/listen/quran_radio/radio.mp3" />
+<outline text="Quran Radio راديو القرآن - Maher Al Mueaqly - ماهر المعيقلي" title="Quran Radio راديو القرآن - Maher Al Mueaqly - ماهر المعيقلي" type="rss" url="https://radio.mp3islam.com/listen/maher/radio.mp3" />
+<outline text="Quran Radio راديو القرآن - Mishary Alafasy - مشاري العفاسي" title="Quran Radio راديو القرآن - Mishary Alafasy - مشاري العفاسي" type="rss" url="https://radio.mp3islam.com/listen/mishary/radio.mp3" />
+<outline text="Quran Radio راديو القرآن - Mohammad Refat محمد رفعت" title="Quran Radio راديو القرآن - Mohammad Refat محمد رفعت" type="rss" url="https://radio.mp3islam.com/listen/refaat/radio.mp3" />
+<outline text="Quran Radio راديو القرآن - Saud Al-Shuraim سعود الشريم" title="Quran Radio راديو القرآن - Saud Al-Shuraim سعود الشريم" type="rss" url="https://radio.mp3islam.com/listen/alshuraim/radio.mp3" />
+<outline text="Quran Radio راديو القرآن - Yasser AlDosari - ياسر الدوسري" title="Quran Radio راديو القرآن - Yasser AlDosari - ياسر الدوسري" type="rss" url="https://radio.mp3islam.com/listen/yaser/radio.mp3" />
 <outline text="اذاعة القرآن الكريم" title="اذاعة القرآن الكريم" type="rss" url="http://stream.radiojar.com/0tpy1h0kxtzuv" />
 <outline text="الكويت - البرنامج الثاني" title="الكويت - البرنامج الثاني" type="rss" url="https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3" />
 <outline text="تفسير بن عثيمين رحمه الله" title="تفسير بن عثيمين رحمه الله" type="rss" url="https://qurango.net/radio/tafseer" />

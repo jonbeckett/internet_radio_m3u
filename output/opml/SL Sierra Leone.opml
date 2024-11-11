@@ -4,7 +4,9 @@
 <title>Internet Radio Stations for SL Sierra Leone</title>
 </head>
 <body>
+<outline text="Choice FM 93.3" title="Choice FM 93.3" type="rss" url="http://stream.zeno.fm/ct0gvk9149puv" />
 <outline text="RADIO BINKONGOH" title="RADIO BINKONGOH" type="rss" url="http://cressida.shoutca.st:8079/" />
 <outline text="Sierra Network Radio" title="Sierra Network Radio" type="rss" url="http://45.79.181.148:8004/" />
+<outline text="Voice of Salone Radio" title="Voice of Salone Radio" type="rss" url="https://a1.asurahosting.com:8160/radio.mp3" />
 </body>
 </opml>

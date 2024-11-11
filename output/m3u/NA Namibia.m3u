@@ -1,5 +1,9 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations for NA Namibia
+#EXTINF:-1 Afrika-Boom
+https://stream.radio.co/se53fee01d/listen
+#EXTINF:-1 Code Zero Radio
+https://streaming.live365.com/a95159
 #EXTINF:-1 Hitradio Namibia
 https://s37.derstream.net/hitradio-namibia.mp3
 #EXTINF:-1 Kosmos 94.1

@@ -4,6 +4,8 @@
 <title>Internet Radio Stations for KN Saint Kitts And Nevis</title>
 </head>
 <body>
+<outline text="2020 Vision Radio" title="2020 Vision Radio" type="rss" url="http://perseus.shoutca.st:8218/" />
 <outline text="Sugar City 90.3 FM" title="Sugar City 90.3 FM" type="rss" url="http://104.131.13.48:8000/radio.mp3" />
+<outline text="ZIZ Radio" title="ZIZ Radio" type="rss" url="http://media.slactech.com:8014/stream" />
 </body>
 </opml>

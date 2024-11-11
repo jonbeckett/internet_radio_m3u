@@ -4,9 +4,8 @@
 <title>Internet Radio Stations for AO Angola</title>
 </head>
 <body>
-<outline text="Kaji FM" title="Kaji FM" type="rss" url="https://s07.maxcast.com.br:8022/live" />
+<outline text="Absolute country " title="Absolute country " type="rss" url="http://strm112.1.fm/acountry_mobile_mp3" />
 <outline text="LAC Luanda Antena Comercial (95.5 MHz FM, Luanda)" title="LAC Luanda Antena Comercial (95.5 MHz FM, Luanda)" type="rss" url="http://radios.vpn.sapo.pt/AO/radio14.mp3" />
-<outline text="Powermix FM" title="Powermix FM" type="rss" url="https://cast.iplayradio.net/radio/9500/stream" />
 <outline text="Radio Escola 88.5 FM" title="Radio Escola 88.5 FM" type="rss" url="http://radios.vpn.sapo.pt/AO/radio1.mp3" />
 <outline text="Rádio Fé Angola" title="Rádio Fé Angola" type="rss" url="http://stream.zeno.fm/gsndh1xvczetv" />
 <outline text="Radio Mais 99.1" title="Radio Mais 99.1" type="rss" url="http://radios.vpn.sapo.pt/AO/radio10.mp3" />

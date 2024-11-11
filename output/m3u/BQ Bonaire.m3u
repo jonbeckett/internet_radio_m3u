@@ -2,13 +2,21 @@
 #PLAYLIST:Internet Radio Stations for BQ Bonaire
 #EXTINF:-1 Bon FM 102.7  Riscado
 http://bonfm5.primcast.com:6482/
+#EXTINF:-1 h
+http://radio2.sikhnet.com:8037/live
 #EXTINF:-1 Live99 FM - Kralendijk
 http://162.244.80.220:8000/stream.mp3
+#EXTINF:-1 Mega Hit FM
+http://megaspice.primcast.com:5216/listen.pls?sid=1
 #EXTINF:-1 Mega Hit FM 101.1
 http://megaspice.primcast.com:5216/
+#EXTINF:-1 Non Stop Hits Alex FM
+https://radioalexfm.stream.laut.fm/radioalexfm?ref=web-app&start_time=1709718045653
 #EXTINF:-1 Radio Transmundial Bonaire 800 Khz
 https://cdn.instream.audio/:9050/stream
 #EXTINF:-1 RTV Purmerend
 http://stream.zxp.nl:8000/radiopurmerend_bb
+#EXTINF:-1 TROPICAL SPICE RADIO
+https://auds1.intacs.com/tropicalspiceradio
 #EXTINF:-1 Voz di Bonaire 94.7 - Riscado
 http://159.203.190.86:8304/stream.mp3

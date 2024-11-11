@@ -2,16 +2,12 @@
 #PLAYLIST:Internet Radio Stations for PL Poland
 #EXTINF:-1 	Polskie Radio Bialystok
 http://stream4.nadaje.com:15476/radiobialystok
+#EXTINF:-1  RADIO WIELKOPOLSKA
+http://217.182.76.63:8000/webstream
 #EXTINF:-1  Radio ZET Chilli 
 https://ch.cdn.eurozet.pl/chi-net.mp3
 #EXTINF:-1  super nova trzebnica
 http://ic1.smcdn.pl/1510-1.mp3
-#EXTINF:-1 4Fun Dance TV
-http://85.14.116.58:8001/4fundance.m3u
-#EXTINF:-1 4Fun Kids TV
-http://85.14.116.58:8001/4funkids.m3u
-#EXTINF:-1 4FunTV
-http://85.14.116.58:8001/4fun.m3u
 #EXTINF:-1 4Music
 https://s1.slotex.pl/shoutcast/7102/stream
 #EXTINF:-1 Akademickie Radio Centrum UMCS
@@ -24,12 +20,16 @@ http://stream.radioluz.pl:8000/luz_hifi.mp3
 http://stream.radioluz.pl:8000/luz_hifi.mp3
 #EXTINF:-1 Aniol Beskidów
 http://media.aniolbeskidow.pl:22000/listen.pls?sid=1
+#EXTINF:-1 Anty Radio
+https://an.cdn.eurozet.pl/ant-web.mp3?t=1713710188361
 #EXTINF:-1 Antyradio
 https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5
 #EXTINF:-1 Antyradio Classic Rock
 https://an01.cdn.eurozet.pl/ANTCLA.mp3?redirected=01
 #EXTINF:-1 Antyradio Covers
 http://an.cdn.eurozet.pl/ANTCOV.mp3
+#EXTINF:-1 Antyradio Greatest
+https://an02.cdn.eurozet.pl/ANTGRE.mp3
 #EXTINF:-1 Antyradio Hard
 https://an05.cdn.eurozet.pl/ANTHAR.mp3
 #EXTINF:-1 Antyradio Made In Poland
@@ -38,30 +38,34 @@ https://an04.cdn.eurozet.pl/ANTPOL.mp3?t=1668748669557?redirected=04
 http://an.cdn.eurozet.pl/ANTMAK.mp3
 #EXTINF:-1 Antyradio Unplugged
 https://an05.cdn.eurozet.pl/ANTUNP.mp3
+#EXTINF:-1 Antyradio Warszawa
+https://an.cdn.eurozet.pl/ant-web.mp3?t=1703697029993
+#EXTINF:-1 Ap Music
+http://s3.slotex.pl:7008/stream
 #EXTINF:-1 AWANGARDA.FM
 https://stream.zeno.fm/mf9ewmbuaq8uv
-#EXTINF:-1 BEST Radio (128kbps)
+#EXTINF:-1 BayerFM
+https://streaming.radio5.com.pl:8888/bayerfm
+#EXTINF:-1 BEST Radio (128Kbps)
 http://stream.radiobest.eu:8000/128
-#EXTINF:-1 BEST Radio (192kbps)
+#EXTINF:-1 BEST Radio (192Kbps)
 http://stream.radiobest.eu:8000/192
-#EXTINF:-1 BEZPIECZNA PODRÓŻ 
-http://4stream.pl:18546/stream
-#EXTINF:-1 Bezpieczna podroz
-http://4stream.pl:18546/
-#EXTINF:-1 Blue FM
-http://mainstream.radioagora.pl/bluefm.mp3.m3u
+#EXTINF:-1 Bohema Radio
+http://s3.slotex.pl:7262/stream
 #EXTINF:-1 Bonton Chełm
 http://streaming.inten.pl:8022/bonton.mp3
 #EXTINF:-1 Bonton Chełm 2
 http://streaming.inten.pl:8022/bonton.mp3
-#EXTINF:-1 CCM
-http://primary.moodyradiostream.org/radioccm
 #EXTINF:-1 Chilli Zet
 https://ch.cdn.eurozet.pl/chi-net.mp3
 #EXTINF:-1 Chilli ZET Deep
 http://ch02.cdn.eurozet.pl/CHIDEP.mp3
+#EXTINF:-1 Chilli ZET Salon polski
+https://ch03.cdn.eurozet.pl/CHIPOL.mp3
 #EXTINF:-1 ChilliZet Covers
 https://ch01.cdn.eurozet.pl/CHICOV.mp3
+#EXTINF:-1 Chillizet Ladies -om
+https://ch01.cdn.eurozet.pl/CHILAD.mp3?t=1709721264195?redirected=01
 #EXTINF:-1 Chillout Radio
 http://panel.nadaje.com:9004/
 #EXTINF:-1 Chrześcijanin Smooth Jazz
@@ -74,24 +78,30 @@ https://sc.cyberstacja.pl:8000/radio.mp3
 http://s1.slotex.pl:7512/
 #EXTINF:-1 DanisMania DJ Radio
 https://s1.slotex.pl/shoutcast/7512/stream
-#EXTINF:-1 Disco Music FM
-https://s3.slotex.pl/shoutcast/7044/stream
-#EXTINF:-1 Disco Polo Music Polsat TV
-http://85.14.116.58:8001/discopolomusic.m3u
+#EXTINF:-1 Disco Party - Lata 90.
+https://s3.slotex.pl:7170/stream
 #EXTINF:-1 Disco Radio
 http://kiyi.radioca.st:8108/stream
+#EXTINF:-1 DiscoParty.pl - Club
+https://s3.slotex.pl/shoutcast/7354/stream?sid=1
+#EXTINF:-1 DiscoParty.pl - Disco Impreza
+https://s3.slotex.pl/shoutcast/7046/stream?sid=1
+#EXTINF:-1 DiscoParty.pl - Disco Polo
+https://s1.slotex.pl/shoutcast/7432/stream?sid=1
 #EXTINF:-1 DISCOPARTY.PL - Kanał Club
 https://s3.slotex.pl/shoutcast/7354/stream
 #EXTINF:-1 DISCOPARTY.PL - Kanał disco
 https://s1.slotex.pl/shoutcast/7432/stream
+#EXTINF:-1 DiscoParty.pl - Lata 90s
+https://s3.slotex.pl/shoutcast/7170/stream?sid=1
+#EXTINF:-1 DUBSTEP24H 
+https://stream.24dubstep.pl/listen/dubstep24h/live
 #EXTINF:-1 Dwójka
 http://mp3.polskieradio.pl:8902/
 #EXTINF:-1 Eden Fm
 http://s1.slotex.pl:7402/
 #EXTINF:-1 EL-Stacja HQ
 http://radio.el-stacja.pl:8000/elstacja320mp3
-#EXTINF:-1 Emotion Radio
-https://s1.slotex.pl/shoutcast/7930/stream
 #EXTINF:-1 Eska - Białystok
 https://waw.ic.smcdn.pl/2020-1.mp3
 #EXTINF:-1 ESKA - Do Pracy
@@ -104,6 +114,10 @@ https://waw.ic.smcdn.pl/6030-1.mp3
 http://ic1.smcdn.pl/2240-1.mp3
 #EXTINF:-1 ESKA - Summer City
 https://waw.ic.smcdn.pl/6120-1.mp3
+#EXTINF:-1 ESKA 2 KONIN
+http://ic1.smcdn.pl/1530-1.mp3
+#EXTINF:-1 ESKA 2 RZESZÓW 
+http://ic1.smcdn.pl/1240-1.mp3
 #EXTINF:-1 ESKA DO PRACY 
 http://ic1.smcdn.pl/6140-1.mp3
 #EXTINF:-1 ESKA GO
@@ -116,48 +130,50 @@ http://ic1.smcdn.pl/6130-1.mp3
 http://ic1.smcdn.pl/6030-1.mp3
 #EXTINF:-1 Eska Lublin 128
 https://ic2.smcdn.pl/2130-1.mp3
-#EXTINF:-1 Eska Płock
-http://www.emsoft.ct8.pl/inne/time.m3u?id=2250
+#EXTINF:-1 ESKA Ostrzeszów
+https://waw.ic.smcdn.pl/2500-1.mp3
 #EXTINF:-1 ESKA ROCK
 https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK
-#EXTINF:-1 Eska TV
-http://85.14.116.58:8001/eskatv.m3u
-#EXTINF:-1 Eska TV Extra
-http://85.14.116.58:8001/eskatvextra.m3u
+#EXTINF:-1 Eska Szczecin
+http://ic1.smcdn.pl/2260-1.mp3
 #EXTINF:-1 Eska zamość 128
 https://ic2.smcdn.pl/2230-1.mp3
 #EXTINF:-1 Fitness Music
-https://s3.slotex.pl/shoutcast/7060/stream
+https://s3.slotex.pl:7414/stream
 #EXTINF:-1 Folk Radio 
 https://streaming.g-news.pl:8030/fr1
+#EXTINF:-1 FSSPX Radio
+http://radio.fsspx.pl:8000/radio.mp3
 #EXTINF:-1 FTB Flash FM
 https://radioftb.net/flashfm.m3u
-#EXTINF:-1 FutrzakFM
-https://audio.futrzakfm.pl/futrzakfm-128
-#EXTINF:-1 GAZETA CAFE
-http://stream10.radioagora.pl/tuba23-1.mp3
 #EXTINF:-1 Gdynia Radio
 http://51.255.8.139:8064/stream
 #EXTINF:-1 Głos Nadziei
 https://ssl-1.radiohost.pl:9548/index
 #EXTINF:-1 Gra Wrocław
 http://rmfstream2.interia.pl:8000/radio_gra_wroc
-#EXTINF:-1 Halo.Radio
-https://s3.radio.co/s6b9e36d1c/listen
+#EXTINF:-1 Hells FM
+https://s3.slotex.pl:7426/stream
 #EXTINF:-1 Hit Radio
 http://51.255.8.139:9090/stream
+#EXTINF:-1 Hit radio
+http://51.255.8.139:9090/
 #EXTINF:-1 Hitradio
 http://51.255.8.139:9090/stream
+#EXTINF:-1 Hitradio 106.7
+http://46.170.199.85:8000/
+#EXTINF:-1 HitRadio 107.6 Wloclawek
+http://46.170.199.85:8000/
 #EXTINF:-1 Hitradio.pl
 http://51.255.8.139:9090/
 #EXTINF:-1 House of Funk
 https://houseoffunk.eu:8443/live
 #EXTINF:-1 http://zt01.cdn.eurozet.pl/zet-old.mp3?redirected=01
 http://zt01.cdn.eurozet.pl/zet-old.mp3?redirected=01
+#EXTINF:-1 I Love Music
+https://s3.slotex.pl:7150/stream
 #EXTINF:-1 Idź Pod Prąd FM
 http://idzpodprad.out.airtime.pro:8000/idzpodprad_a
-#EXTINF:-1 inne.radio
-https://c34.radioboss.fm:8098/stream?s.mp3
 #EXTINF:-1 Internetowe Radio Mittendrin
 http://s1.slotex.pl:7592/stream
 #EXTINF:-1 InterStacja
@@ -176,12 +192,12 @@ http://4stream.pl:18410/
 http://4stream.pl:18290/
 #EXTINF:-1 Jazzkultura
 http://stream.radio.co/s1136b59f3/listen
+#EXTINF:-1 JEDYNKA 
+http://stream3.polskieradio.pl:8900/
 #EXTINF:-1 Jedynka
 http://mp3.polskieradio.pl:8900/
 #EXTINF:-1 JUMP Radio
 http://radioo.eu:9900/
-#EXTINF:-1 Kacik Rodzinny
-http://sc1.readycast.org:8516/.mp3
 #EXTINF:-1 Kapitał
 https://radiokapitalpl.out.airtime.pro/radiokapitalpl_a
 #EXTINF:-1 Katolickie Radio Diecezji Plockiej
@@ -190,58 +206,72 @@ http://s1.slotex.pl:7760/
 http://62.133.128.18:8040/
 #EXTINF:-1 KChT
 https://www.radioking.com/play/kcht/320404
-#EXTINF:-1 Kino Polska Muzyka
-http://85.14.116.58:8001/kinopolskamuzyka.m3u
 #EXTINF:-1 Konin FM
 http://stream2.technologicznie.net/konin.fm
 #EXTINF:-1 Lagoon FM
 https://s1.slotex.pl/shoutcast/7828/stream
-#EXTINF:-1 LapDanceRadio
-http://80.55.38.154:8099/stream.m3u
 #EXTINF:-1 Leliwa
 https://streaming.g-news.pl/radio/8050/leliwa
 #EXTINF:-1 Lem FM
 http://n08.radiojar.com/2fa0gbhr9bhvv
 #EXTINF:-1 Lem.fm
 https://stream.radiojar.com/2fa0gbhr9bhvv
+#EXTINF:-1 ListekFM
+http://stream10.hosterion.pl:8004/stream
 #EXTINF:-1 LiveATC EPWA Approach, Warszawa
 https://www.liveatc.net/play/epwa_app.pls
 #EXTINF:-1 LiveATC EPWA Tower, Warszawa
 https://www.liveatc.net/play/epwa2.pls
+#EXTINF:-1 Magiczna Zatoka Muzyki
+http://s3.slotex.pl:7224/stream
+#EXTINF:-1 Margaretka FM
+http://s3.slotex.pl:7260/stream
+#EXTINF:-1 Maxi Stacja - 4Fun
+https://s3.slotex.pl:7616/stream
+#EXTINF:-1 MaxiStacja
+https://s3.slotex.pl:7386/stream
+#EXTINF:-1 MaxiStacja - Club
+https://s3.slotex.pl:7482/stream
 #EXTINF:-1 MaxPlay FM
 https://s1.slotex.pl/shoutcast/8880/stream
+#EXTINF:-1 Mazurske Radijo
+https://stream-172.zeno.fm/h6af85mhunhvv
 #EXTINF:-1 Meloradio Acoustic
 https://ml.cdn.eurozet.pl/MELACO.mp3
+#EXTINF:-1 Meloradio Classics -om
+https://ml01.cdn.eurozet.pl/MELCLA.mp3?t=1709720976687?redirected=01
 #EXTINF:-1 Meloradio Delicate
 https://ml06.cdn.eurozet.pl/MELDEL.mp3?redirected=06
 #EXTINF:-1 Meloradio FM
 https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5
+#EXTINF:-1 Meloradio Kielce
+https://ml03.cdn.eurozet.pl/mel-klc.mp3
+#EXTINF:-1 Meloradio Opole
+https://ml02.cdn.eurozet.pl/mel-opl.mp3
+#EXTINF:-1 MELORADIO POZNAŃ 
+http://ml03.cdn.eurozet.pl/mel-poz.mp3
+#EXTINF:-1 Meloradio Premium -om
+https://ml01.cdn.eurozet.pl/MELPRE.mp3?t=1709720712400?redirected=01
+#EXTINF:-1 Meloradio Wrocław
+https://ml02.cdn.eurozet.pl/mel-wro.mp3
 #EXTINF:-1 Metal Live Radio
 https://s7.radiohost.pl:2199/tunein/merz.pls
 #EXTINF:-1 Michałowo FM
-https://s3.slotex.pl/shoutcast/7048/stream
+https://s3.slotex.pl:7048/stream
 #EXTINF:-1 mikrofon w Puszczy Zielonce
 https://zte.heterodyne.eu:8443/mic
 #EXTINF:-1 Minimal Mix Radio
 http://minimalmix.com/minimalmixradio.pls
 #EXTINF:-1 Mirage Space
 http://s0.radiohost.pl:9563/
-#EXTINF:-1 Mittendrin ALT!NEU Radio der deutschen Minderheit
-http://s1.slotex.pl:7430/stream
 #EXTINF:-1 ModFM
 http://radio.modules.pl:8500/listen.pls
-#EXTINF:-1 MojePolskieRadio - Archeologia
-http://stream3.polskieradio.pl:8114/
-#EXTINF:-1 MojePolskieRadio - Ballady
-http://stream3.polskieradio.pl:8074/
+#EXTINF:-1 modules.pl
+http://radio.modules.pl:8500/stream/1
 #EXTINF:-1 MojePolskieRadio - Bohaterowie Naszych Lektur
 http://stream3.polskieradio.pl:8084/
-#EXTINF:-1 MojePolskieRadio - Classic Rock
-http://stream3.polskieradio.pl:8060/
 #EXTINF:-1 MojePolskieRadio - Czworka
 http://stream3.polskieradio.pl:8906/
-#EXTINF:-1 MojePolskieRadio - Genesis
-http://stream3.polskieradio.pl:8174/
 #EXTINF:-1 MojePolskieRadio - Historia najnowsza - Polska
 http://stream3.polskieradio.pl:8082/
 #EXTINF:-1 MojePolskieRadio - Historia Zwiazku Radzieckiego
@@ -250,30 +280,18 @@ http://stream3.polskieradio.pl:8112/
 http://stream3.polskieradio.pl:8900/
 #EXTINF:-1 MojePolskieRadio - Las
 http://stream3.polskieradio.pl:8128/
-#EXTINF:-1 MojePolskieRadio - Mijaja lata zostaja piosenki
-http://stream3.polskieradio.pl:8168/
 #EXTINF:-1 MojePolskieRadio - Nostalgia
 http://stream3.polskieradio.pl:8118/
-#EXTINF:-1 MojePolskieRadio - Pink Floyd
-http://stream3.polskieradio.pl:8070/
-#EXTINF:-1 MojePolskieRadio - Piosenki Niezaleznych
-http://stream3.polskieradio.pl:8178/
 #EXTINF:-1 MojePolskieRadio - PolskieRadio24
 http://stream3.polskieradio.pl:8080/
 #EXTINF:-1 MojePolskieRadio - Potrojne Pasmo Przenoszenia
 http://stream3.polskieradio.pl:8138/
-#EXTINF:-1 MojePolskieRadio - Prog Rock
-http://stream3.polskieradio.pl:8062/
 #EXTINF:-1 MojePolskieRadio - Program alternatywny
 http://stream3.polskieradio.pl:8134/
-#EXTINF:-1 MojePolskieRadio - Przeboje PRL
-http://stream3.polskieradio.pl:8066/
 #EXTINF:-1 MojePolskieRadio - Przezyjmy to jeszcze raz
 http://stream3.polskieradio.pl:8106/
 #EXTINF:-1 MojePolskieRadio - Radio Dzieciom
 http://stream3.polskieradio.pl:8916/
-#EXTINF:-1 MojePolskieRadio - Slynne glosy i wielkie interpretacje
-http://stream3.polskieradio.pl:8160/
 #EXTINF:-1 MojePolskieRadio - Spotkanie z mistrzem
 http://stream3.polskieradio.pl:8104/
 #EXTINF:-1 MojePolskieRadio - Studio Reportazu
@@ -282,41 +300,39 @@ http://stream3.polskieradio.pl:8108/
 http://stream3.polskieradio.pl:8120/
 #EXTINF:-1 MojePolskieRadio - Wieczor odkrywcow
 http://stream3.polskieradio.pl:8102/
-#EXTINF:-1 MojePolskieRadio - Z archiwum Radia Wolna Europa
-http://stream3.polskieradio.pl:8088/
-#EXTINF:-1 MojePolskieRadio - Z dziejow Armii Krajowej
-http://stream3.polskieradio.pl:8054/
 #EXTINF:-1 MojePolskieRadio - Za kulisami bezpieki i partii
 http://stream3.polskieradio.pl:8092/
 #EXTINF:-1 MojePolskieRadio - РАДИО ПОЛЬША
 http://stream3.polskieradio.pl:8914/
-#EXTINF:-1 MTV 00s TV
-http://85.14.116.58:8001/mtv00s.m3u
-#EXTINF:-1 MUZO FM
-http://ic1.smcdn.pl:8000/7380-1.mp3
+#EXTINF:-1 Music Family
+https://s3.slotex.pl:7216/stream
+#EXTINF:-1 Muzyczna Oaza
+https://s3.slotex.pl:7100/stream
 #EXTINF:-1 Muzyczne Radio
-http://stream3.nadaje.com:9900/stream/1
-#EXTINF:-1 Muzyczne Radio - Best of
-https://stream3.nadaje.com:8601/
+http://stream3.technologicznie.net/muzyczne_radio_192.mp3
 #EXTINF:-1 Muzyczne Radio Tesia
 https://s1.slotex.pl/shoutcast/7514/stream
-#EXTINF:-1 Muzyczny przekrecik
-http://s1.supermuza.com:8130/
-#EXTINF:-1 Muzyczny przekręcik
-http://s1.supermuza.com:8130/
+#EXTINF:-1 Muzyczny Beat FM
+http://s3.slotex.pl:7034/stream
 #EXTINF:-1 Muzyka Dwoch Serc
 http://s3.slotex.pl:7272/
+#EXTINF:-1 Nasz Hajmat
+https://s3.slotex.pl:7126/stream
+#EXTINF:-1 Nasze Nowe Radio
+https://s3.slotex.pl:7388/stream
+#EXTINF:-1 Nasze RAdio
+https://s1.slotex.pl:7146/stream
 #EXTINF:-1 Nasze Radio 104,7 FM,Nasze Radio
 https://online.nasze.fm:8443/stream
 #EXTINF:-1 Nasze Radio 92,1 FM... nostalgicznie
 https://online.nasze.fm:9443/stream
-#EXTINF:-1 Nick Music TV 
-http://85.14.116.58:8001/nickmusic.m3u
-#EXTINF:-1 NiUS Radio
-https://nius.out.airtime.pro/nius_a
+#EXTINF:-1 neural radio
+http://cast.magicstreams.gr:9111/stream
 #EXTINF:-1 Nowe Radio
 https://stream.profeto.pl/noweradio.mp3
 #EXTINF:-1 Off Radio Krakow
+http://stream4.nadaje.com:13332/offradiokrakow
+#EXTINF:-1 Offradio Kraków
 http://stream4.nadaje.com:13332/offradiokrakow
 #EXTINF:-1 Pallotti.fm
 http://s1.slotex.pl:7074/stream
@@ -328,34 +344,32 @@ http://sluchaj1.radiopark.biz.pl:8048/
 http://pl01.cdn.eurozet.pl/pla-net.mp3
 #EXTINF:-1 PLUS
 http://plus-gdansk-01.eurozet.pl:8500/
-#EXTINF:-1 Pogoda Wrocław
-https://pl-play.adtonos.com/8102/radio-pogoda-wrocaw?cache=1598128880
-#EXTINF:-1 Polen - Polskie Radio - Archeologia
-http://mp3.polskieradio.pl:8114/
-#EXTINF:-1 Polen - Polskie Radio - Ballady
-http://mp3.polskieradio.pl:8074/
+#EXTINF:-1 Plus Radio  Legnica.FM
+https://player.legnica.fm/listen/radio_plus_legnica/radio256.mp3
 #EXTINF:-1 Polka Jammer Station
 http://199.58.161.66/
-#EXTINF:-1 Polsat Music TV
-http://85.14.116.58:8001/polsatmusic.m3u
+#EXTINF:-1 Polski FM
+https://usa8.fastcast4u.com/proxy/live?mp=/1
 #EXTINF:-1 Polskie Radio - Czwórka
 http://stream3.polskieradio.pl:8906/stream
 #EXTINF:-1 Polskie Radio 24
 http://stream3.polskieradio.pl:8080/.mp3
-#EXTINF:-1 Polskie Radio Bajki Samograjki
-http://stream3.polskieradio.pl:8052/stream
 #EXTINF:-1 Polskie Radio Bialystok
 http://stream4.nadaje.com:15476/radiobialystok
 #EXTINF:-1 Polskie Radio Białystok
 http://stream4.nadaje.com:15476/radiobialystok
 #EXTINF:-1 Polskie Radio Dla Zagranicy
 http://stream3.polskieradio.pl:8908/
+#EXTINF:-1 Polskie Radio Gdańsk
+http://stream.task.gda.pl:8000/rg1
 #EXTINF:-1 Polskie Radio Jedynka
 http://mp3.polskieradio.pl:8900/.mp3
 #EXTINF:-1 Polskie Radio Katowice
 http://stream4.nadaje.com:9212/radiokatowice
 #EXTINF:-1 Polskie Radio Kierowców
 http://stream3.polskieradio.pl:8918/
+#EXTINF:-1 Polskie Radio Kosmos
+http://mp3.polskieradio.pl:8008/
 #EXTINF:-1 Polskie Radio LAS
 http://mp3.polskieradio.pl:8128/
 #EXTINF:-1 Polskie Radio Poznań
@@ -366,12 +380,20 @@ http://mp3.polskieradio.pl:8900/
 http://stream2.nadaje.com:11140/rdc
 #EXTINF:-1 Polskie Radio Szczecin 92FM
 http://stream4.nadaje.com:11986/prs
-#EXTINF:-1 Power TV
-http://85.14.116.58:8001/powertv.m3u
-#EXTINF:-1 PR - Pink Floyd
-http://mp3.polskieradio.pl:8070/
+#EXTINF:-1 Positive Sounds
+http://s3.slotex.pl:7012/stream
+#EXTINF:-1 Pozytywnie i w Rytmie
+https://stream4.vigormultimedia.com:48204/
+#EXTINF:-1 PR KIEROWCÓW 
+http://stream3.polskieradio.pl:8918/
+#EXTINF:-1 PR NOSTALGIA
+http://stream3.polskieradio.pl:8118/
+#EXTINF:-1 PR TRÓJKA 
+http://mp3.polskieradio.pl:8904/.mp3
 #EXTINF:-1 Pro-Radio
 http://www.proradio.pl/listen.pls
+#EXTINF:-1 Profeto.pl FM
+http://151.80.24.114/stream.mp3
 #EXTINF:-1 Program Pierwszy Polskiego Radia
 http://mp3.polskieradio.pl:8900/
 #EXTINF:-1 Proradio
@@ -380,22 +402,34 @@ http://radiointernetowe.net:7802/
 https://s3.slotex.pl/shoutcast/7042/stream
 #EXTINF:-1 Punkowe Radio Underground
 http://s1.slotex.pl:7604/
+#EXTINF:-1 Radar FM
+http://s3.slotex.pl:7326/stream
 #EXTINF:-1 Radia Zet 
 http://zet-net-01.cdn.eurozet.pl:8400/
 #EXTINF:-1 radio
 https://c16.radioboss.fm:18014/stream
+#EXTINF:-1 Radio * 100 *
+http://stream.zeno.fm/sgzg9sfq1zhvv
+#EXTINF:-1 Radio 1.7
+https://emisja.radio17.pl/stream
 #EXTINF:-1 Radio 40plus Forty Plus
 https://s1.slotex.pl/shoutcast/7178/stream
 #EXTINF:-1 Radio 5
 https://streaming.radio5.com.pl:8888/radio5suwalki
 #EXTINF:-1 Radio 7
+https://stream.radio7.pl/
+#EXTINF:-1 Radio 7
 http://137.74.5.240:443/stream.mp3
 #EXTINF:-1 radio 7 mlawa
 http://137.74.5.240:443/
+#EXTINF:-1 Radio 7 Poland
+https://stream.radio7.pl/
 #EXTINF:-1 Radio 90
 http://streams.radio90.pl:8000/radio90_128kbps_stereo.mp3
 #EXTINF:-1 Radio Afera
 http://radio.afera.com.pl/afera128.mp3
+#EXTINF:-1 Radio Afera 98,6 MHz
+https://radio.afera.com.pl/afera128.mp3?no_cache=0.982752767360271
 #EXTINF:-1 Radio Ain Karim Skomielna Czarna
 https://stream.profeto.pl/radioainkarim.mp3
 #EXTINF:-1 Radio AKADERA
@@ -406,42 +440,40 @@ http://s1.slotex.pl:7122/
 https://proxima.shoutca.st/tunein/frradioq.pls
 #EXTINF:-1 RADIO ALEX/RMF ON
 http://195.150.20.7/radio_alex
+#EXTINF:-1 Radio Andrychow
+https://s1.slotex.pl/shoutcast/7424/stream?sid=1
 #EXTINF:-1 Radio Anime24
 http://91.232.4.33:7028/
 #EXTINF:-1 Radio Arkadia
 https://s1.slotex.pl/shoutcast/7238/stream
-#EXTINF:-1 Radio Awangarda
-https://s1.slotex.pl/shoutcast/7870/stream
+#EXTINF:-1 Radio Armageddon
+https://ssl-1.radiohost.pl:11608/
 #EXTINF:-1 Radio Bahary
 https://s1.slotex.pl/shoutcast/7838/stream
 #EXTINF:-1 Radio Baobab
 http://stream.radiobaobab.pl:8000/radiobaobab.mp3
-#EXTINF:-1 Radio BEST
-https://s3.slotex.pl/shoutcast/7136/stream?sid=1
-#EXTINF:-1 Radio Best
-http://s3.slotex.pl:7136/
 #EXTINF:-1 RADIO BEZPIECZNA PODRÓŻ 
 https://ssl-1.radiohost.pl:9344/live
+#EXTINF:-1 Radio Bezpieczna Podroz
+https://ssl-1.radiohost.pl:9162/stream
 #EXTINF:-1 Radio Biedrzychowice
 http://195.164.158.230:9070/stream
 #EXTINF:-1 Radio BIGBBS
 http://91.121.91.156:8000/
-#EXTINF:-1 Radio Black Pearl
-https://s1.slotex.pl/shoutcast/7738/stream
 #EXTINF:-1 Radio Blisko Tatr
 https://s1.slotex.pl/shoutcast/7442/stream
-#EXTINF:-1 Radio BlueMoon
-https://s3.slotex.pl/shoutcast/7014/stream
 #EXTINF:-1 Radio Bogoria
 http://s6.radiohost.pl:8888/
 #EXTINF:-1 Radio Bogoria New
 http://s6.radiohost.pl:8888/
 #EXTINF:-1 Radio BonTon
 https://streaming.inten.pl:8020/bonton.mp3
+#EXTINF:-1 Radio Borowiaczek
+http://s3.slotex.pl:7228/stream
 #EXTINF:-1 Radio Brylant
-http://s1.slotex.pl:7212/
-#EXTINF:-1 Radio Brylantowe
-https://s1.slotex.pl/shoutcast/7758/stream
+https://s1.slotex.pl:7212/stream
+#EXTINF:-1 Radio CCM
+https://streaming.live365.com/a16565
 #EXTINF:-1 Radio Centrum
 http://shot4.inten.pl:8888/rcfm.mp3.m3u
 #EXTINF:-1 Radio Centrum Lublin
@@ -452,26 +484,20 @@ http://62.93.41.27:8000/stream/1
 http://stream3.polskieradio.pl:8910/
 #EXTINF:-1 Radio Chrystusa Króla
 http://4stream.pl:18044/
-#EXTINF:-1 Radio Chrzescijanin Biblia
-http://s1.slotex.pl:7116/
-#EXTINF:-1 Radio Crazy Hits
-https://s1.slotex.pl/shoutcast/7622/stream
 #EXTINF:-1 Radio Danielka
 http://s3.slotex.pl:7088/
-#EXTINF:-1 Radio Dimash
-https://samcloud.spacial.com/API/listen?sid=125052&rid=262397&f=mp3,any%20&br=128000,any&m=m3u
 #EXTINF:-1 Radio Disco Party - Club
 https://s3.slotex.pl/shoutcast/7354/stream
 #EXTINF:-1 Radio Disco Party - Disco Impreza
 https://s3.slotex.pl/shoutcast/7046/stream
 #EXTINF:-1 Radio Disco Party - Disco Polo
 https://s1.slotex.pl/shoutcast/7432/stream
-#EXTINF:-1 Radio Disco Polo non stop FM
-https://s3.slotex.pl/shoutcast/7496/stream?Sid=1
 #EXTINF:-1 Radio Disco-Dance
 https://radiodd.cloud/radio/8000/radio.mp3
-#EXTINF:-1 Radio dla Dorosłych 
-http://s3.slotex.pl:7586/
+#EXTINF:-1 Radio DJ Patryś
+https://radio.pejpal.cloud/stream
+#EXTINF:-1 Radio dla Ciebie
+https://stream2.nadaje.com:11141/rdc
 #EXTINF:-1 Radio Duch
 https://s1.slotex.pl/shoutcast/7174/stream
 #EXTINF:-1 Radio Dwójka (MP3)
@@ -490,30 +516,50 @@ http://194.181.177.253:8000/
 http://emkielce.pl:8000/
 #EXTINF:-1 Radio Emaus
 http://stream.radioemaus.pl:8000/oggstream
+#EXTINF:-1 Radio Eska - Wrocław
+http://ic2.smcdn.pl/2180-1.mp3
 #EXTINF:-1 Radio Eska Kraków
 http://ic1.smcdn.pl/2070-1.mp3
+#EXTINF:-1 Radio Eska Opole
+https://waw.ic.smcdn.pl/2120-1.mp3
 #EXTINF:-1 Radio Eska Warszawa
-http://waw.ic.smcdn.pl/2380-1.mp3
+https://waw.ic.smcdn.pl/2380-1.mp3
+#EXTINF:-1 Radio Eska Wrocław
+http://ic2.smcdn.pl/2180-1.mp3
 #EXTINF:-1 Radio FAMA
 http://stream2.nadaje.com:8076/
 #EXTINF:-1 Radio Fama Slupsk
 http://stream3.nadaje.com:9024/listen.pls?sid=1
+#EXTINF:-1 Radio Fest 100.2 FM
+https://play.radiofest.pl:8443/fest
 #EXTINF:-1 Radio FIAT
 http://stream2.nadaje.com:8056/
 #EXTINF:-1 Radio Forever
 http://s1.slotex.pl:7134/
 #EXTINF:-1 Radio Forte
 http://s1.slotex.pl:7856/
+#EXTINF:-1 Radio Freee
+https://streaming.radio.lublin.pl:8843/radiofreee?ver=122186
+#EXTINF:-1 Radio FTB - Club
+http://radioftb.net/club.m3u
+#EXTINF:-1 Radio FTB - DISCO POLO
+https://radioftb.net/disco.m3u
 #EXTINF:-1 Radio FTB Club
 http://radioftb.net/club.m3u
 #EXTINF:-1 Radio FTB Disco Polo
 https://radioftb.net/disco.m3u
 #EXTINF:-1 Radio FTB Retro DJ
 http://radioftb.net/retrodj_ftb.m3u
-#EXTINF:-1 RADIO FTM
-http://s1.slotex.pl:7792/
+#EXTINF:-1 Radio FTB Trance
+https://radioftb.net/trance.m3u
+#EXTINF:-1 Radio FTM
+https://s1.slotex.pl:7792/stream
+#EXTINF:-1 Radio GaMa
+http://s3.slotex.pl:7232/stream
 #EXTINF:-1 Radio Gdansk
 http://stream.task.gda.pl:8000/rg1
+#EXTINF:-1 Radio Gdańsk REGIONY DAB2
+https://stream.task.gda.pl:8443/rg4
 #EXTINF:-1 Radio Glos
 http://87.204.92.180:8000/
 #EXTINF:-1 Radio Głos Pelplin
@@ -522,22 +568,28 @@ http://87.204.92.180:8000/
 http://stream3.nadaje.com:8012/listen.pls
 #EXTINF:-1 Radio Gold Live
 http://s1.slotex.pl:7062/
-#EXTINF:-1 Radio Góralskie
-https://s3.slotex.pl/shoutcast/7398/stream
+#EXTINF:-1 Radio Gold Mix
+https://s3.slotex.pl:7378/stream
+#EXTINF:-1 Radio Gold Star
+http://s1.slotex.pl:7270/stream
 #EXTINF:-1 Radio Gra Torun
 http://31.192.216.7:8000/radio_gra
+#EXTINF:-1 Radio GRA Torun
+https://rs103-krk.rmfstream.pl/radio_gra
 #EXTINF:-1 Radio Gra Wroclaw
 http://rmfstream2.interia.pl:8000/radio_gra
 #EXTINF:-1 Radio Guardian
 https://s1.slotex.pl/shoutcast/7508/stream
 #EXTINF:-1 Radio Horyzont
-http://s1.slotex.pl:7328/stream/1/
-#EXTINF:-1 Radio i
-http://185.127.121.97:8005/stream/1
+http://s1.slotex.pl:7328/
+#EXTINF:-1 Radio I
+https://ice2.radioi.pl:8443/stream
 #EXTINF:-1 Radio Imperium
 https://stream.radioimperium.pl:8443/stream
 #EXTINF:-1 Radio Imperium Gliwice
 http://91.193.208.8:8000/
+#EXTINF:-1 Radio Index
+https://www.wzielonej.pl/player/?pl=vlc&c=Index
 #EXTINF:-1 Radio Italo4you
 http://s6.radiohost.pl:8080/
 #EXTINF:-1 Radio Italo4you 256kbps
@@ -556,8 +608,12 @@ http://online.radiojasnagora.pl:8000/rjg
 http://streams.radiojura.com.pl:8000/jura_128kbps_stereo.mp3
 #EXTINF:-1 Radio Jutrzenka
 http://sluchaj.radiojutrzenka.waw.pl:12854/test
+#EXTINF:-1 Radio Kącik Rodzinny
+https://s3.slotex.pl:7374/stream
 #EXTINF:-1 Radio Kampus
 http://193.0.98.66:8005/
+#EXTINF:-1 Radio Kampus 97,1 FM
+https://stream.radiokampus.fm/kampus
 #EXTINF:-1 Radio Kapitał
 https://radiokapitalpl.out.airtime.pro/radiokapitalpl_a
 #EXTINF:-1 Radio Karolinka
@@ -582,6 +638,8 @@ http://stream3.nadaje.com:9116/radiokrakow
 http://stream3.nadaje.com:9128/radiokrakow
 #EXTINF:-1 Radio Kraków Kultura
 https://stream4.nadaje.com:9777/RKKultura
+#EXTINF:-1 Radio Krupski Młyn
+http://s3.slotex.pl:7346/stream
 #EXTINF:-1 Radio Kujawy
 http://radio.kujawy.info:9940/
 #EXTINF:-1 Radio Kuropatwa
@@ -589,21 +647,37 @@ http://stream.radiojar.com/ypspphhxfm8uv
 #EXTINF:-1 Radio LagoonFm
 http://s1.slotex.pl:7828/
 #EXTINF:-1 Radio Leliwa
-http://streaming.g-news.pl:8050/leliwa.m3u
-#EXTINF:-1 Radio Lemko
-http://shoutcast.com.pl:7990/
+https://streaming.g-news.pl:8050/leliwa?1605899747
+#EXTINF:-1 Radio Light Motiv
+http://s3.slotex.pl:7226/stream
 #EXTINF:-1 Radio Logos
 http://panel.nadaje.com:11058/
 #EXTINF:-1 Radio Lublin
 https://streaming.radio.lublin.pl:8843/128k
 #EXTINF:-1 Radio Łódź
 http://217.113.224.171/RadioLodz-1.mp3
+#EXTINF:-1 Radio Magic Dance
+http://s1.slotex.pl:7686/stream
+#EXTINF:-1 Radio MagMa
+https://s3.slotex.pl:7180/stream
 #EXTINF:-1 Radio Malbork
 http://stream3.nadaje.com:9022/
+#EXTINF:-1 Radio Max Hit Polska
+http://s3.slotex.pl:7370/stream
 #EXTINF:-1 Radio Mbox
 https://s1.slotex.pl/shoutcast/7462/stream
+#EXTINF:-1 Radio Mbox - Club
+https://s3.slotex.pl:7204/stream
+#EXTINF:-1 Radio Mbox - Disco Polo
+http://s3.slotex.pl:7222/stream
+#EXTINF:-1 Radio Mbox - Gold Hits
+http://s3.slotex.pl:7276/stream
+#EXTINF:-1 Radio Mbox - Polska Muzyka
+https://s3.slotex.pl:7072/stream
 #EXTINF:-1 Radio Melody Express
 https://s1.slotex.pl/shoutcast/7588/stream
+#EXTINF:-1 Radio Miłosierdzie
+https://fastcast4u.com/player/milosierdzie/?pl=winamp&c=0
 #EXTINF:-1 Radio Mirage - Euro Dance
 http://s0.radiohost.pl:9569/
 #EXTINF:-1 Radio Mirage - Italo Dance
@@ -618,12 +692,16 @@ http://91.232.4.33:7214/Stream1
 https://ssl-1.radiohost.pl:9563/stream?ver=987766
 #EXTINF:-1 Radio Mirage Prywatka
 http://91.232.4.33:7214/
+#EXTINF:-1 Radio Moc
+https://www.4stream.pl/stream/18312
 #EXTINF:-1 Radio Moni Raj
 https://s1.slotex.pl/shoutcast/7646/stream
-#EXTINF:-1 Radio Mordor
-http://51.255.8.139:10712/stream
-#EXTINF:-1 Radio Muzyczny Beat FM
-https://s3.slotex.pl/shoutcast/7034/stream
+#EXTINF:-1 Radio Muzyczny Zakątek
+http://s3.slotex.pl:7336/stream
+#EXTINF:-1 Radio Muzyka Dwoch Serc
+http://s3.slotex.pl:7272/stream
+#EXTINF:-1 Radio Na Stoku
+https://sluchaj.link:5443/nastoku
 #EXTINF:-1 Radio Na Tak
 http://c30.radioboss.fm/playlist/615/stream.m3u
 #EXTINF:-1 Radio Nakło
@@ -636,30 +714,40 @@ http://88.199.169.10:7600/rn.mp3
 https://s1.slotex.pl/shoutcast/7488/stream
 #EXTINF:-1 Radio Nowinki
 http://nowinki.pk.edu.pl:8000/nowinki
+#EXTINF:-1 Radio Nowy Świat
+https://go-audio.toya.net.pl/63214
 #EXTINF:-1 Radio Nowy Świat 256k
 https://go-audio.toya.net.pl/63214
 #EXTINF:-1 Radio Ocean Dusz
 http://s1.slotex.pl:7022/
-#EXTINF:-1 Radio Odzew
-https://s3.slotex.pl/shoutcast/7468/stream
+#EXTINF:-1 Radio OIOM
+http://s3.slotex.pl:7240/stream
 #EXTINF:-1 Radio Olsztyn
 http://213.73.25.178:7066/
 #EXTINF:-1 Radio One Planet
 https://s1.slotex.pl/shoutcast/7624/stream
 #EXTINF:-1 Radio Opatów
 http://stream2.nadaje.com:11144/stream
+#EXTINF:-1 Radio Opole 1
+http://193.47.151.4:9000/ro1mp3.m3u
 #EXTINF:-1 Radio Opole 2
 http://193.47.151.4:8045/1
 #EXTINF:-1 radio orbit
 https://streams.radio.co/sd1bcd1376/listen#.mp3
 #EXTINF:-1 Radio Orbit
 https://s1.slotex.pl/shoutcast/7390/stream
+#EXTINF:-1 Radio Orthodoxia
+https://stream.orthodoxia.pl/stream192.mp3
 #EXTINF:-1 Radio Ostrowiec 95.2 FM
 http://s1.slotex.pl:7050/stream/1/?type=http
+#EXTINF:-1 Radio Palotti FM
+https://s1.slotex.pl:7074/stream
 #EXTINF:-1 Radio Parada 96.00 fm
 http://stream4.nadaje.com:15274/live
 #EXTINF:-1 Radio Park FM
 http://sluchaj.radiopark.com.pl:8048/
+#EXTINF:-1 Radio Park Fm
+https://radiopark.fm/sluchaj/park_winamp.m3u
 #EXTINF:-1 Radio Party - Kanał Główny
 https://s2.radioparty.pl:8015/stream?nocache=4171
 #EXTINF:-1 Radio Pasja
@@ -688,50 +776,64 @@ http://91.232.4.33:8102/stream2
 http://91.232.4.33:8049/stream2
 #EXTINF:-1 Radio Pasja Warszawa
 http://91.232.4.33:8049/listen.pls?sid=2
-#EXTINF:-1 Radio Pasta LPS
-https://polysix.pl/radio-pasta
+#EXTINF:-1 Radio Pasta KLPS
+https://polysix.pl/radio-pasta.mp3
 #EXTINF:-1 Radio Paweł
 https://s3.slotex.pl/shoutcast/7024/stream
 #EXTINF:-1 Radio Piekary
 https://stream.radiopiekary.pl/
+#EXTINF:-1 Radio Pielgrzym - pieśni po polsku
+http://shoutcast.com.pl:9444/
 #EXTINF:-1 Radio Pielgrzym English
 http://shoutcast.com.pl:9448/
 #EXTINF:-1 Radio Pielgrzym Kazania
 http://radiointernetowe.net:9450/
 #EXTINF:-1 Radio PiK
 http://stream.radiopik.pl:9004/
+#EXTINF:-1 Radio Piłeczka
+http://s3.slotex.pl:7244/stream
 #EXTINF:-1 RADIO PLUS 
 http://ic1.smcdn.pl/4990-1.mp3
-#EXTINF:-1 Radio Plus
-https://pl02.cdn.eurozet.pl/plu-waw.mp3?redirected=02
 #EXTINF:-1 radio plus
 http://plus-warszawa-01.eurozet.pl:8500/listen.pls
 #EXTINF:-1 Radio Plus 106.1 Kraków
 https://waw.ic.smcdn.pl/4070-1.mp3
+#EXTINF:-1 Radio Plus Bydgoszcz
+https://pl.cdn.eurozet.pl/plu-bdg.mp3
+#EXTINF:-1 Radio Plus Gdansk
+https://pl05.cdn.eurozet.pl/plu-gdn.mp3
 #EXTINF:-1 Radio Plus Krakow
 https://ic2.smcdn.pl/4070-1.mp3
 #EXTINF:-1 Radio Plus Warszawa
 https://pl.cdn.eurozet.pl/plu-waw.mp3
 #EXTINF:-1 Radio Płońsk
 http://stream.radioplonsk.pl:9360/
+#EXTINF:-1 Radio Pogoda
+https://radiostream.pl/tuba140-1.mp3
+#EXTINF:-1 Radio Pogoda Gdańsk
+http://radiostream.pl/tuba145-1.mp3
 #EXTINF:-1 Radio Pogoda Poznań
 http://stream10.radioagora.pl/tuba138-1.mp3.m3u
-#EXTINF:-1 Radio Pozytywne FM
-https://s1.slotex.pl/shoutcast/7976/stream
-#EXTINF:-1 Radio Prestige
-https://s3.slotex.pl/shoutcast/7524/stream?nocache=1625577136
+#EXTINF:-1 Radio Polfan
+https://s3.slotex.pl:7194/
+#EXTINF:-1 Radio Praga
+https://stream12.hosterion.pl/stream/radiopragapl/stream
+#EXTINF:-1 Radio Prestige 
+https://s3.slotex.pl/shoutcast/7076/stream?sid=1
 #EXTINF:-1 Radio Profeto
 https://stream.profeto.pl/stream.mp3
 #EXTINF:-1 Radio Puzzle
 http://s1.slotex.pl:7572/
-#EXTINF:-1 Radio Q
-http://37.130.30.166:8020/stream.mp3
 #EXTINF:-1 Radio RAM
 http://stream4.nadaje.com:9220/ram
 #EXTINF:-1 Radio RAM (MP3)
 http://stream4.nadaje.com:9220/ram
 #EXTINF:-1 Radio RDN Małopolska
 https://stream1.dabcom.pl/rdn_mpl
+#EXTINF:-1 Radio Relax
+http://s1.slotex.pl:7614/stream
+#EXTINF:-1 Radio Reset Obywatelski
+https://eu4.fastcast4u.com/proxy/radioreset?mp=/1
 #EXTINF:-1 Radio RM80
 http://91.232.4.33:9011/stream
 #EXTINF:-1 Radio RMF Classic
@@ -742,20 +844,20 @@ http://www.rmfon.pl/n/rmffm.pls
 http://195.150.20.7/rmf_fm
 #EXTINF:-1 Radio Rodzina
 http://sluchaj.radiorodzina.pl/RadioRodzinaWroclawLIVE.mp3
+#EXTINF:-1 Radio Róża Miłości
+http://s3.slotex.pl:7338/stream
 #EXTINF:-1 Radio Różaniec
 http://radio2.rozaniec.info:5696/listen.pls?sid=1
 #EXTINF:-1 RADIO RTO TRANCE
 http://s3.slotex.pl:7056/
-#EXTINF:-1 Radio Rumcajs
-http://sc1.readycast.org:8546/
 #EXTINF:-1 Radio Rzeszów
 https://streaming.g-news.pl:8040/rzeszow
 #EXTINF:-1 Radio Safira
 https://stream12.hosterion.pl/stream/safira
 #EXTINF:-1 Radio Safira Kanoe
 http://stream.zeno.fm/fxvq8uqcvuhvv
-#EXTINF:-1 Radio Savage
-https://s1.slotex.pl/shoutcast/7322/stream
+#EXTINF:-1 Radio SAR - Studencka Agencja Radiowa
+https://stream.radiosar.pl/hdmain.mp3
 #EXTINF:-1 Radio Savana
 https://s1.slotex.pl/shoutcast/7434/stream
 #EXTINF:-1 Radio Sekret
@@ -764,14 +866,16 @@ https://s1.slotex.pl/shoutcast/7556/stream
 https://ssl-1.radiohost.pl:10700/stream
 #EXTINF:-1 Radio Silesia
 http://s1.slotex.pl:7926/
+#EXTINF:-1 Radio Silesia 96.2 FM
+https://s1.slotex.pl/shoutcast/7926/stream?sid=1
+#EXTINF:-1 Radio Silesia FM
+https://s1.slotex.pl/shoutcast/7926/stream?sid=1
 #EXTINF:-1 Radio Slask
 https://s1.slotex.pl:7022/stream
 #EXTINF:-1 Radio Slupsk
 http://91.232.4.33:8240/stream
 #EXTINF:-1 Radio Snake
-https://s1.slotex.pl/shoutcast/7654/stream
-#EXTINF:-1 Radio Solo 
-https://s1.slotex.pl/shoutcast/7364/stream
+http://s1.slotex.pl:7654/stream
 #EXTINF:-1 Radio Spin
 http://s01.radiospin.pl:8080/listen.pls
 #EXTINF:-1 Radio Śpioch
@@ -784,14 +888,18 @@ http://s1.slotex.pl:7138/
 http://51.77.59.65:8100/stream.mp3
 #EXTINF:-1 Radio Start
 https://s1.slotex.pl/shoutcast/7644/stream
+#EXTINF:-1 Radio Sto
+http://s3.slotex.pl:7278/stream
 #EXTINF:-1 Radio Strefa FM
 http://play.strefa.fm:8000/strefa.mp3
+#EXTINF:-1 Radio Strefa Muzy
+https://radiosm.pl:8000/radio.mp3
+#EXTINF:-1 Radio Styl FM
+https://s3.slotex.pl:7196/stream
 #EXTINF:-1 Radio SUD
 http://stream2.nadaje.com:8012/
-#EXTINF:-1 RADIO SUMMERPARTY
-http://4stream.pl:18156/
-#EXTINF:-1 Radio Swiatowid
-https://s1.slotex.pl/shoutcast/7006/stream
+#EXTINF:-1 Radio Super FM 97,5 FM - Szczecin
+https://stream.super.fm:8443/superfm.mp3?1703660705890
 #EXTINF:-1 Radio Świnoujście
 http://185.243.52.116:8010/stream
 #EXTINF:-1 Radio Szczecin (128K MP3)
@@ -802,38 +910,48 @@ https://stream3.nadaje.com:8201/szczecinfm
 http://stream3.nadaje.com:8200/szczecinfm.m3u
 #EXTINF:-1 RADIO SZKOCJA
 http://s1.slotex.pl:7254/
-#EXTINF:-1 Radio Szok Party
-https://s1.slotex.pl/shoutcast/7128/stream
 #EXTINF:-1 Radio TCZEW
 http://195.191.180.5:8000/live
+#EXTINF:-1 Radio ThomCarst
+http://s3.slotex.pl:7248/stream
 #EXTINF:-1 RADIO TON PL
 http://s1.slotex.pl:7310/
 #EXTINF:-1 Radio TOP80
 https://top80.pl:8000/listen.mp3
-#EXTINF:-1 RADIO TORUŃ 
-http://4stream.pl:18264/
+#EXTINF:-1 Radio TOP80 - gra PiloNet [top80.pl Italo Disco]
+https://top80.pl:8000/listen.mp3
+#EXTINF:-1 Radio TopCzat
+http://s3.slotex.pl:7010/stream
 #EXTINF:-1 Radio TPI
 https://s1.slotex.pl/shoutcast/7632/stream
 #EXTINF:-1 Radio Underground
 http://s1.slotex.pl:7604/
 #EXTINF:-1 Radio UWM FM
 http://213.184.18.156:8000/
-#EXTINF:-1 Radio Vegas
-http://s1.slotex.pl:7106/
 #EXTINF:-1 Radio Via Rzeszów
 http://62.133.128.18:8040/
 #EXTINF:-1 Radio Warmii i Mazur
 https://rostr1.radioolsztyn.pl:8843/RWiM
 #EXTINF:-1 Radio Warszawa 106.2
 http://streaming01.technologicznie.net:8765/radio_warszawa.mp3
+#EXTINF:-1 Radio Warszawa 106.2 FM
+https://stream2.technologicznie.net/radio_warszawa.mp3
 #EXTINF:-1 RADIO WARTA
 http://s1.slotex.pl:7446/
+#EXTINF:-1 Radio Weekend FM
+http://188.125.128.15:8000/weekendfm_256kbs.mp3
 #EXTINF:-1 Radio Wesole Slonzoki
 http://s1.radiohost.pl:8126/
 #EXTINF:-1 Radio Wesołe Slonzoki 
 http://51.255.8.139:8380/stream
+#EXTINF:-1 Radio Wiatraczek
+https://s3.slotex.pl:7082/stream
+#EXTINF:-1 RADIO WIELKOPOLSKA
+http://217.182.76.63:8000/webstream
 #EXTINF:-1 Radio Wielkopolska
 http://217.182.76.63:8000/webstream
+#EXTINF:-1 Radio WNET
+https://media.wnet.fm/wnet.fm
 #EXTINF:-1 Radio Wnet
 http://audio.radiownet.pl:8000/stream
 #EXTINF:-1 Radio Wroclaw
@@ -842,30 +960,38 @@ http://stream4.nadaje.com:9240/prw
 http://stream4.nadaje.com:9230/rwkultura
 #EXTINF:-1 RADIO ZAWIERCIE 
 https://ssl-1.radiohost.pl:9078/live
-#EXTINF:-1 Radio Zet
-http://www.emsoft.ct8.pl/inne/zet.m3u
 #EXTINF:-1 Radio ZET
-https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5
+https://zt01.cdn.eurozet.pl/zet-net.mp3?redirected=01
 #EXTINF:-1 Radio Zet
 http://zet-net-01.cdn.eurozet.pl:8400/
 #EXTINF:-1 Radio ZET - 2000
 https://zt04.cdn.eurozet.pl/ZET200.mp3
-#EXTINF:-1 Radio Zlote Przeboje
-https://pl2-play.adtonos.com/zote-przeboje
+#EXTINF:-1 Radio ZET 128
+https://n-11-21.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5
+#EXTINF:-1 Radio ZET 128 Kbps
+https://zt02.cdn.eurozet.pl/zet-old.mp3
+#EXTINF:-1 Radio Zet Love -om
+https://zt06.cdn.eurozet.pl/ZETLOV.mp3?t=1709719922445?redirected=06
+#EXTINF:-1 Radio Zet na Rower -om
+https://zt06.cdn.eurozet.pl/ZETNAR.mp3?t=1709720397160?redirected=06
 #EXTINF:-1 Radio Zlote Przeboje Wroclaw
 https://radiostream.pl/tuba8940-1.mp3
-#EXTINF:-1 RADIO ZŁOTE PRZEBOJE
-https://pl2-play.adtonos.com/zote-przeboje
+#EXTINF:-1 radio złote przeboje
+http://radiostream.pl/tuba8928-1.mp3
 #EXTINF:-1 Radio Złote Przeboje Białystok
 https://radiostream.pl/tuba8900-1.mp3?cache=1647512038
 #EXTINF:-1 Radio Złote Przeboje Wrocław
 https://radiostream.pl/tuba9-1.mp3
+#EXTINF:-1 Radio Zmysłowe
+https://s3.slotex.pl:7160/stream
 #EXTINF:-1 Radio Znin FM
 http://stream4.nadaje.com:8052/
 #EXTINF:-1 Radio40plus
 http://s1.slotex.pl:7178/listen.xtl?sid=1
 #EXTINF:-1 Radio7 Mława
 https://radio7.pl/listen.m3u
+#EXTINF:-1 RadioFEST
+https://play.radiofest.pl:8443/fest
 #EXTINF:-1 RadioJazz.fm
 https://radiojazz.out.airtime.pro/radiojazz_a
 #EXTINF:-1 radiokultura.pl
@@ -888,8 +1014,6 @@ https://c16.radioboss.fm:18014/stream
 https://c16.radioboss.fm/stream/14
 #EXTINF:-1 radiospacja
 https://rdsp.out.airtime.pro/rdsp_a
-#EXTINF:-1 Radiospacja
-https://s4.radio.co/s8c7d5e4e1/listen
 #EXTINF:-1 RMC - RADIO MUZYKA CZLOWIEK
 http://s1.slotex.pl:7030/stream/
 #EXTINF:-1 rmf
@@ -910,14 +1034,14 @@ http://www.rmfon.pl/n/80sdisco.pls
 http://www.rmfon.pl/n/90sdance.pls
 #EXTINF:-1 Rmf Ballady
 http://www.rmfon.pl/n/ballady.pls
-#EXTINF:-1 RMF Bravo
-http://www.rmfon.pl/n/bravo.pls
 #EXTINF:-1 RMF Chillout
 http://www.rmfon.pl/n/chillout.pls
 #EXTINF:-1 RMF Classic
 http://rmfstream1.interia.pl:8000/rmf_classic
 #EXTINF:-1 RMF Classic Rock
 https://rs201-krk.rmfstream.pl/rmf_classic_rock
+#EXTINF:-1 RMF Classic+
+https://plus.rmfclassic.pl/plus/s/i/plus-premium?t=1b66085994f8-402b9c84a9b3-77990a
 #EXTINF:-1 RMF Club
 http://www.rmfon.pl/n/club.pls
 #EXTINF:-1 RMF Dance
@@ -930,6 +1054,8 @@ http://www.rmfon.pl/n/discopolo.pls
 http://195.150.20.7/rmf_fitness_f
 #EXTINF:-1 RMF FM
 http://195.150.20.242:8000/rmf_fm
+#EXTINF:-1 RMF FM 128 Kbps
+https://rs101-krk.rmfstream.pl/rmf_fm
 #EXTINF:-1 RMF Francais
 http://www.rmfon.pl/n/francais.pls
 #EXTINF:-1 RMF Funk
@@ -942,6 +1068,8 @@ http://195.150.20.243:8000/rmf_gamemusic
 http://www.rmfon.pl/n/gold.pls
 #EXTINF:-1 RMF Latino
 http://www.rmfon.pl/n/latino.pls
+#EXTINF:-1 RMF MAXX Hop bęc"
+http://195.150.20.244/rmf_hop_bec
 #EXTINF:-1 RMF MAXX Podlasie
 https://rs101-krk.rmfstream.pl/rmf_maxxx_lom
 #EXTINF:-1 RMF Maxx Włocławek
@@ -954,12 +1082,18 @@ http://rs6-krk2.rmfstream.pl/rmf_maxxx_kie
 http://rs6-krk2.rmfstream.pl/rmf_maxxx_ksn
 #EXTINF:-1 RMF MAXXX Mazowsze
 http://www.rmfon.pl/n/rmf_maxxx_cie.pls
+#EXTINF:-1 RMF MAXXX Szczecin
+http://217.74.72.10/rmf_maxxx_szc
 #EXTINF:-1 RMF Muzyka Klasyczna
 http://www.rmfon.pl/n/klasyczna.pls
+#EXTINF:-1 RMF Muzyka_Filmowa
+http://www.miastomuzyki.pl/n/rmffilmowa.pls
 #EXTINF:-1 RMF Najwieksze Polskie Przeboje
 http://www.rmfon.pl/n/npp.pls
 #EXTINF:-1 RMF Party
 http://www.rmfon.pl/n/party.pls
+#EXTINF:-1 RMF PIOSENKA FILMOWA
+http://217.74.72.10/rmf_piosenka_filmowa
 #EXTINF:-1 RMF Piosenka Filmowa
 http://www.rmfon.pl/n/rmfpiosenkafilmowa.pls
 #EXTINF:-1 RMF Piosenka literacka
@@ -968,6 +1102,8 @@ http://www.rmfon.pl/n/piosenkaliteracka.pls
 http://www.rmfon.pl/n/rmfpobudka.pls
 #EXTINF:-1 RMF Polska prywatka
 http://www.rmfon.pl/n/polskaprywatka.pls
+#EXTINF:-1 RMF Polski Hip Hop
+http://217.74.72.10/rmf_trend_sounds
 #EXTINF:-1 RMF Polski Rock
 http://195.150.20.9/rmf_polski_rock
 #EXTINF:-1 RMF Relaks
@@ -976,14 +1112,18 @@ http://www.rmfon.pl/n/relaks.pls
 http://www.rmfon.pl/n/sloneczneprzeboje.pls
 #EXTINF:-1 RMF Smooth jazz
 http://www.rmfon.pl/n/smoothjazz.pls
-#EXTINF:-1 RMF Studencka impreza
-http://www.rmfon.pl/n/studenckaimpreza.pls
 #EXTINF:-1 RMF Styl
 http://www.rmfon.pl/n/styl.pls
 #EXTINF:-1 Rmf Szanty
 http://www.rmfon.pl/n/szanty.pls
+#EXTINF:-1 RMF TOP 30 DANCE
+http://195.150.20.244/rmf_top_5_dance
 #EXTINF:-1 RMF Top 30 dance
 http://www.rmfon.pl/n/top5dance.pls
+#EXTINF:-1 RMF TOP 30 PL
+http://195.150.20.244/rmf_top_5_pl
+#EXTINF:-1 RMF TOP 30 POP
+http://195.150.20.245/rmf_top_5_pop
 #EXTINF:-1 RMF TOP4
 https://rs102-krk-cyfronet.rmfstream.pl/rmf_top4
 #EXTINF:-1 RMF24
@@ -994,14 +1134,30 @@ http://195.150.20.242:8000/rmf_classic
 http://www.rmfon.pl/n/rmfmaxxx.pls
 #EXTINF:-1 RMI  - Euro Disco
 https://cast1.torontocast.com:1335/stream
+#EXTINF:-1 RMI - Euro Disco
+https://cast1.torontocast.com:1335/stream
+#EXTINF:-1 RMI - Euro disco
+https://cast1.torontocast.com:1335/stream
+#EXTINF:-1 RMI - Euro Disco
+https://cast1.torontocast.com:1335/stream
+#EXTINF:-1 RMI - Italo Disco Classic
+https://cast1.torontocast.com:1165/stream
 #EXTINF:-1 RMI - Italo Disco New Generation
 https://cast1.torontocast.com:1315/stream
 #EXTINF:-1 RMI-Italo Disco Classic
 https://cast1.torontocast.com:1165/stream
+#EXTINF:-1 Rock Radio - Kraków
+http://radiostream.pl/tuba9000-1.mp3
+#EXTINF:-1 Rock Radio Klasyka Rocka
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ROCK.mp3
+#EXTINF:-1 Rockserwis FM
+https://radio.rockserwis.fm/live
 #EXTINF:-1 Rockserwis.fm
 http://radio.rockserwis.fm/live
 #EXTINF:-1 Romantic Music
 http://s1.slotex.pl:7392/
+#EXTINF:-1 Rozglosnia Blyskawica
+http://s1.slotex.pl:7266/stream
 #EXTINF:-1 Rozgłośnia Błyskawica
 https://s1.slotex.pl/shoutcast/7266/stream
 #EXTINF:-1 rp
@@ -1016,14 +1172,10 @@ http://s1.slotex.pl:7294/
 https://bcast.vigormultimedia.com:48888/sjcompl320mp3
 #EXTINF:-1 SoundFM
 http://s1.slotex.pl:7494/
-#EXTINF:-1 Stacja Mikrofonia
-https://s1.slotex.pl/shoutcast/7458/stream
-#EXTINF:-1 Stars TV
-http://85.14.116.58:8001/starstv.m3u
 #EXTINF:-1 Strefa FM
 http://play.strefa.fm:8000/strefa.mp3
-#EXTINF:-1 Super FM
-http://stream.super.fm:8000/superfm.mp3
+#EXTINF:-1 Studio Kolobrzeg
+https://ssl-1.radiohost.pl:11578/stream?type=https&nocache=1700543980605
 #EXTINF:-1 Super FM 97.5
 https://stream.super.fm:8443/superfm.mp3?1697692156303
 #EXTINF:-1 SUPER NOWA RZESZÓW 
@@ -1036,8 +1188,12 @@ http://ic1.smcdn.pl/1170-1.mp3
 http://ic1.smcdn.pl/1480-1.mp3
 #EXTINF:-1 supernova Kielce
 http://ic1.smcdn.pl/1050-1.mp3
+#EXTINF:-1 Supernova Party
+https://ic2.smcdn.pl/6160-1.mp3#Supernova_Party
 #EXTINF:-1 SuperNova Rock
 https://waw.ic.smcdn.pl/6090-1.mp3
+#EXTINF:-1 Supernova Super 13
+https://ic2.smcdn.pl/6230-1.mp3#Supernova_Party
 #EXTINF:-1 supernova Szczecin
 http://ic1.smcdn.pl/1260-1.mp3
 #EXTINF:-1 supernova Wrocław
@@ -1046,6 +1202,8 @@ http://ic1.smcdn.pl/1180-1.mp3
 http://ic1.smcdn.pl/1530-1.mp3
 #EXTINF:-1 TobiFM
 https://s1.slotex.pl/shoutcast/7822/stream
+#EXTINF:-1 TOK   Muzyka
+http://stream10.radioagora.pl/ytBTynyvd3e.mp3
 #EXTINF:-1 TOK FM
 https://radiostream.pl/tuba10-1.mp3#TOK_FM
 #EXTINF:-1 TokFM
@@ -1058,18 +1216,18 @@ http://mp3.polskieradio.pl:8904/
 http://stream3.polskieradio.pl:8904/
 #EXTINF:-1 Trójka mp3
 http://mp3.polskieradio.pl:8904/
-#EXTINF:-1 Truckers FM Polska
-https://s1.slotex.pl/shoutcast/7176/stream
 #EXTINF:-1 Twoja polska stacja
 https://twojapolskastacja.pl/sluchaj/tps_winamp.m3u
-#EXTINF:-1 TWR Impuls
-https://s1.slotex.pl/shoutcast/7504/stream
-#EXTINF:-1 TyfloRadio
-http://radio.tyflopodcast.net:8000/stream.mp3
+#EXTINF:-1 Tyflo radio
+http://radio.tyflopodcast.net:8000/listen.pls
 #EXTINF:-1 U-RADIO TRANCE
 http://stream.zeno.fm/n8yr1d9g9whvv
 #EXTINF:-1 UJOT FM
 https://stream.ujot.fm/
+#EXTINF:-1 Ultra-max
+https://ssl-1.radiohost.pl:9111/stream
+#EXTINF:-1 VMM Player
+https://stream3.vigormultimedia.com:48251/
 #EXTINF:-1 VOX FM
 http://www.emsoft.ct8.pl/inne/time.m3u?id=3990
 #EXTINF:-1 VOX FM 128
@@ -1086,6 +1244,8 @@ http://ic1.smcdn.pl/6180-1.mp3
 http://ic1.smcdn.pl/6020-1.mp3
 #EXTINF:-1 Wasze Radio FM
 https://sluchaj.link:5443/wasze
+#EXTINF:-1 Wesoła 43
+http://s1.slotex.pl:7650/stream
 #EXTINF:-1 Wesołe Slonzoki 
 http://51.255.8.139:8380/stream
 #EXTINF:-1 Wieczor-odkrywcow
@@ -1096,15 +1256,27 @@ http://217.182.76.63:8000/webstream
 https://media.wnet.fm/wnet.fm
 #EXTINF:-1 WNET.fm
 https://media.wnet.fm/wnet.fm
+#EXTINF:-1 Zaebista Imprezka
+http://s1.slotex.pl:7722/stream
 #EXTINF:-1 Zamek Nadaje
 http://uksoutha.streaming.broadcast.radio:15190/zameknadaje
+#EXTINF:-1 Zet 90s
+https://zt02.cdn.eurozet.pl/ZET090.mp3
 #EXTINF:-1 ZET DANCE 
 http://pl01.cdn.eurozet.pl/ZETDAN.mp3
-#EXTINF:-1 ZET Hits
-http://zethit-02.cdn.eurozet.pl:8428/
-#EXTINF:-1 ZET Kids
-http://zetkid-02.cdn.eurozet.pl:8434/
-#EXTINF:-1 Zet Radio
-http://www.emsoft.ct8.pl/inne/zet.m3u
+#EXTINF:-1 ZET Impreza
+https://zt.cdn.eurozet.pl/ZETPAR.mp3
+#EXTINF:-1 ZET Latino
+https://ch.cdn.eurozet.pl/ZETLTN.mp3
+#EXTINF:-1 ZET Na Swieta
+https://zt.cdn.eurozet.pl/ZETSWI.mp3
+#EXTINF:-1 ZET Po Polsku
+https://zt.cdn.eurozet.pl/ZETPL1.mp3
+#EXTINF:-1 ZET Pop Rock
+https://zt.cdn.eurozet.pl/ZETPRK.mp3
+#EXTINF:-1 ZET Same Hity
+https://zt.cdn.eurozet.pl/ZETHIT.mp3
+#EXTINF:-1 Zloteprzeboje
+https://radiostream.pl/tuba8904-1.mp3
 #EXTINF:-1 Złote Przeboje Poznań
 http://radiostream.pl/tuba8926-1.mp3

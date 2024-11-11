@@ -1,5 +1,7 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations for NE The Niger
+#EXTINF:-1 Radio BLAU Leipzig (trocken 320kbps)
+http://icecast.radioblau.de:8000/blau_320_dry
 #EXTINF:-1 Radio Dallol 92.8 Dogondoutchi
 https://stream.zeno.fm/orv3efzpotytv
 #EXTINF:-1 Radio Farah

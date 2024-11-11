@@ -1,8 +1,10 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations for KY The Cayman Islands
+#EXTINF:-1 Island FM - The Rhythm Of Cayman
+https://iriefm-hurleysmedia.radioca.st/stream?_=912521
 #EXTINF:-1 Paradise Radio
 https://www.radiostreamcast.com/listen/paradise_radio/radio.mp3
-#EXTINF:-1 Star 92.7 FM
-https://intertemp-gecko.radioca.st/stream
+#EXTINF:-1 Z99 - Cayman Islands
+https://z99-hurleysmedia.radioca.st/stream
 #EXTINF:-1 Z99 Grand Cayman
 https://z99-hurleysmedia.radioca.st/stream

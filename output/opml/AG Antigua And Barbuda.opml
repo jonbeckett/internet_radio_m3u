@@ -5,6 +5,11 @@
 </head>
 <body>
 <outline text="Antigua Observer Radio 91.1 St. John&apos;s" title="Antigua Observer Radio 91.1 St. John&apos;s" type="rss" url="http://s8.voscast.com:8176/" />
+<outline text="DNECA Anglican Radio" title="DNECA Anglican Radio" type="rss" url="http://64.18.108.237:1300/broadwave.mp3?src=1" />
+<outline text="Flava FM 100.7" title="Flava FM 100.7" type="rss" url="http://167.114.11.80:5322/stream/" />
+<outline text="Healthy Choice FM" title="Healthy Choice FM" type="rss" url="https://www.liveradio.es/http://ic.streann.com:8000/hcfm" />
+<outline text="Radio La Senda Antigua" title="Radio La Senda Antigua" type="rss" url="https://play10.tikast.com/proxy/lasenda?mp=/stream" />
+<outline text="Vibz FM" title="Vibz FM" type="rss" url="https://testvibz-silcomwireless.radioca.st/stream.mp3" />
 <outline text="Zoom Radio 95.7 St. John&apos;s" title="Zoom Radio 95.7 St. John&apos;s" type="rss" url="http://108.178.13.122:8170/" />
 </body>
 </opml>

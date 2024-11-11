@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations for FK The Falkland Islands Malvinas
 #EXTINF:-1 Falklands Radio
-http://streaming.broadcastradio.com:8330/flklnd
+https://streaming.broadcastradio.com:8332/flklnd?1721893143541=
 #EXTINF:-1 Falklands Radio 530 Stanley
 https://streaming.broadcastradio.com:8332/flklnd

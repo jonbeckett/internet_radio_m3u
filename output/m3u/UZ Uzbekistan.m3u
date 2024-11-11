@@ -1,5 +1,9 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations for UZ Uzbekistan
+#EXTINF:-1 Islom.uz
+https://radio.islom.uz/islomuz
+#EXTINF:-1 Mars Fm Uzbekistan
+https://stream-161.zeno.fm/ugzz955srnhvv
 #EXTINF:-1 Oriat Dono
 http://194.5.152.248:8000/dono
 #EXTINF:-1 Radio Ozodlik Uzbek

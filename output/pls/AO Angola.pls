@@ -1,20 +1,20 @@
 [playlist]
-File1=https://s07.maxcast.com.br:8022/live
-Title1=Kaji FM
+File1=http://strm112.1.fm/acountry_mobile_mp3
+Title1=Absolute country 
 File2=http://radios.vpn.sapo.pt/AO/radio14.mp3
 Title2=LAC Luanda Antena Comercial (95.5 MHz FM, Luanda)
-File3=https://cast.iplayradio.net/radio/9500/stream
-Title3=Powermix FM
-File4=http://radios.vpn.sapo.pt/AO/radio1.mp3
-Title4=Radio Escola 88.5 FM
-File5=http://stream.zeno.fm/gsndh1xvczetv
-Title5=Rádio Fé Angola
-File6=http://radios.vpn.sapo.pt/AO/radio10.mp3
-Title6=Radio Mais 99.1
-File7=https://centova87.instainternet.com/proxy/mfm?mp=/stream
-Title7=Rádio MFM Angola
-File8=https://radios.vpn.sapo.pt/AO/radio12.mp3
-Title8=Radio N'Gola Yetu
+File3=http://radios.vpn.sapo.pt/AO/radio1.mp3
+Title3=Radio Escola 88.5 FM
+File4=http://stream.zeno.fm/gsndh1xvczetv
+Title4=Rádio Fé Angola
+File5=http://radios.vpn.sapo.pt/AO/radio10.mp3
+Title5=Radio Mais 99.1
+File6=https://centova87.instainternet.com/proxy/mfm?mp=/stream
+Title6=Rádio MFM Angola
+File7=https://radios.vpn.sapo.pt/AO/radio12.mp3
+Title7=Radio N'Gola Yetu
+File8=https://radios.vpn.sapo.pt/AO/radio4.mp3
+Title8=Radio Romantica
 File9=https://radios.vpn.sapo.pt/AO/radio7.mp3
 Title9=Radio Sem Anestesia
 File10=http://radios.vpn.sapo.pt/AO/radio2.mp3

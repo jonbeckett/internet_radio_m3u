@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations for AD Andorra
-#EXTINF:-1 Proxima FM 94.6 Andorra la Vella
-http://91.187.93.115:8000/
-#EXTINF:-1 Ràdio Valira
-http://91.187.93.115:8020/stream/1
+#EXTINF:-1 Radio Polignano Web
+https://sp3.server89.com:7018/
+#EXTINF:-1 RadioSoleLuna
+https://cast3.server89.com/radio/8040/radio.mp3

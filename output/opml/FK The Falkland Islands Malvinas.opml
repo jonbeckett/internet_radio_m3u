@@ -4,7 +4,7 @@
 <title>Internet Radio Stations for FK The Falkland Islands Malvinas</title>
 </head>
 <body>
-<outline text="Falklands Radio" title="Falklands Radio" type="rss" url="http://streaming.broadcastradio.com:8330/flklnd" />
+<outline text="Falklands Radio" title="Falklands Radio" type="rss" url="https://streaming.broadcastradio.com:8332/flklnd?1721893143541=" />
 <outline text="Falklands Radio 530 Stanley" title="Falklands Radio 530 Stanley" type="rss" url="https://streaming.broadcastradio.com:8332/flklnd" />
 </body>
 </opml>

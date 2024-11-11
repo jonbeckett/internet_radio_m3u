@@ -4,6 +4,21 @@
 <title>Internet Radio Stations for MO Macao</title>
 </head>
 <body>
+<outline text="101.1 BIG HEART FM" title="101.1 BIG HEART FM" type="rss" url="http://162.220.162.10:8011/stream" />
+<outline text="91.5 HIT FM MACAU (成都）" title="91.5 HIT FM MACAU (成都）" type="rss" url="http://lhttp.qingting.fm/live/15318703/64k.mp3" />
+<outline text="Asia FM 106.9" title="Asia FM 106.9" type="rss" url="https://lhttp.qingting.fm/live/20071/64k.mp3" />
+<outline text="Channel [V] International" title="Channel [V] International" type="rss" url="https://listen.radioking.com/radio/453221/stream/508076" />
+<outline text="CityFM Macau - 90.5 FM" title="CityFM Macau - 90.5 FM" type="rss" url="https://lhttp.qtfm.cn/live/20500153/64k.mp3" />
+<outline text="Lotus FM Macau HD - 97.4 FM" title="Lotus FM Macau HD - 97.4 FM" type="rss" url="https://lhttp.qtfm.cn/live/20533/64k.mp3" />
+<outline text="Lotus Macau Radio - 1062 AM" title="Lotus Macau Radio - 1062 AM" type="rss" url="https://lhttp.qtfm.cn/live/20133/64k.mp3" />
+<outline text="M80 Radio Macau - 107.1 FM" title="M80 Radio Macau - 107.1 FM" type="rss" url="https://stream-icy.bauermedia.pt/m80.mp3" />
+<outline text="Rádio de notícias de Guangzhou - 96.2 FM" title="Rádio de notícias de Guangzhou - 96.2 FM" type="rss" url="https://radios2.justweb.pt/8008/stream" />
 <outline text="RADIO MARIA MACAU" title="RADIO MARIA MACAU" type="rss" url="http://dreamsiteradiocp2.com:8038/stream" />
+<outline text="Radio Top 80 Macau 強電台 - 89.9 FM" title="Radio Top 80 Macau 強電台 - 89.9 FM" type="rss" url="http://live.top80.fm:8086/" />
+<outline text="Radio Veritas Asia 1044 AM" title="Radio Veritas Asia 1044 AM" type="rss" url="http://icecast.eradioportal.com:8000/radyo-veritas-846" />
+<outline text="Record FM 100.3 Macau" title="Record FM 100.3 Macau" type="rss" url="https://nl.digitalrm.pt:8028/stream" />
+<outline text="Romance Radio 95.5 FM" title="Romance Radio 95.5 FM" type="rss" url="http://162.220.162.10:8011/stream" />
+<outline text="RTP Macau - 97.1 FM" title="RTP Macau - 97.1 FM" type="rss" url="https://radiocast.rtp.pt/antena1madeira80a.mp3" />
+<outline text="YW City Radio - Macau 954 AM" title="YW City Radio - Macau 954 AM" type="rss" url="https://lhttp.qingting.fm/live/1259/64k.mp3?app_id=web" />
 </body>
 </opml>

@@ -2,12 +2,8 @@
 #PLAYLIST:Internet Radio Stations for ZM Zambia
 #EXTINF:-1 5fm Radio Zambia
 http://ca9.rcast.net:8014/stream.mp3
-#EXTINF:-1 Chikuni Community Radio Station
-https://chikunir.radioca.st/stream
 #EXTINF:-1 Energy Broadcst Accouant
 https://sv2.famcast.co.za/proxy/energyfm?mp=/stream
-#EXTINF:-1 Flava (Kitwe)
-http://s2.voscast.com:9304/
 #EXTINF:-1 Hot FM 87.7
 http://s2.yesstreaming.net:7091/stream?type=.mp3%2F%3Bstream.mp3&_=1
 #EXTINF:-1 Sun Fm Zambia

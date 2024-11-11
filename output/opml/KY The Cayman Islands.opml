@@ -4,8 +4,9 @@
 <title>Internet Radio Stations for KY The Cayman Islands</title>
 </head>
 <body>
+<outline text="Island FM - The Rhythm Of Cayman" title="Island FM - The Rhythm Of Cayman" type="rss" url="https://iriefm-hurleysmedia.radioca.st/stream?_=912521" />
 <outline text="Paradise Radio" title="Paradise Radio" type="rss" url="https://www.radiostreamcast.com/listen/paradise_radio/radio.mp3" />
-<outline text="Star 92.7 FM" title="Star 92.7 FM" type="rss" url="https://intertemp-gecko.radioca.st/stream" />
+<outline text="Z99 - Cayman Islands" title="Z99 - Cayman Islands" type="rss" url="https://z99-hurleysmedia.radioca.st/stream" />
 <outline text="Z99 Grand Cayman" title="Z99 Grand Cayman" type="rss" url="https://z99-hurleysmedia.radioca.st/stream" />
 </body>
 </opml>

@@ -12,6 +12,8 @@ https://usa19.fastcast4u.com/adeem
 http://cdn.nrjaudio.fm/audio1/lb/1/mp3_128.mp3
 #EXTINF:-1 Al Bal Radio
 https://albal-lbnet2.radioca.st/stream
+#EXTINF:-1 Anghamy
+https://radio.avazfarsi.com:8010/radio.mp3
 #EXTINF:-1 Beirut Nights
 http://beirutnights.com/live.m3u
 #EXTINF:-1 Beirut Nights Radio (AAC)
@@ -30,31 +32,43 @@ http://andromeda.shoutca.st:8192/
 http://andromeda.shoutca.st:8192/stream.mp3
 #EXTINF:-1 M Radio Lebanon
 https://stream.zeno.fm/nuf630msh98uv
+#EXTINF:-1 montcarlo
+https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3
 #EXTINF:-1 Naim Halawe
 https://streamer.radio.co/sf2fa6ce9d/listen
 #EXTINF:-1 Nidaa FM
 http://nidaa.fm:8811/stream.mp3
+#EXTINF:-1 Radio Liban
+https://media2.streambrothers.com:2020/stream/8194
 #EXTINF:-1 Radio Liban Libre
 https://edge.mixlr.com/channel/qtqeb
 #EXTINF:-1 radio maria arabic
 http://dreamsiteradiocp4.com:8014/stream
 #EXTINF:-1 radio maria arbic
 http://dreamsiteradiocp4.com:8014/stream
-#EXTINF:-1 Sawt Achaab
-http://vps1.osina.cloud:9320/
+#EXTINF:-1 Radio Rama
+https://radiorama-lbnet2.radioca.st/rama
+#EXTINF:-1 sancta maria radio 
+http://streaming.radio.co/sa7e0251a2/listen
+#EXTINF:-1 Santa Maria radio
+http://streaming.radio.co/sa7e0251a2/listen
 #EXTINF:-1 Sawt El Ghad - FM 96.7
 https://l3.itworkscdn.net/itwaudio/9030/stream/
 #EXTINF:-1 Sawt El Mada
 http://audiostreaming.itworkscdn.com:9018/stream
-#EXTINF:-1 Sawt El Noujoum
-http://s25.myradiostream.com:15298/listen.mp3
-#EXTINF:-1 Sawt el Noujoum
-http://s25.myradiostream.com:15298/listen.mp3
 #EXTINF:-1 Virgin Radio Lebanon
 https://stream.zeno.fm/dwxw3p9vea0uv
 #EXTINF:-1 Virgin Radio Lebanon Stars
 https://stream.zeno.fm/h66yxnapga0uv
+#EXTINF:-1 voice of charity 
+http://cassini.shoutca.st:9496/xstream
 #EXTINF:-1 voice of Grace
 https://securestreams5.reliastream.com:1820/l
 #EXTINF:-1 Voice of Lebanon (Sawtlebnan) Radio
 https://l3.itworkscdn.net/itwaudio/9054/stream
+#EXTINF:-1 ذكريات
+https://stream.zeno.fm/ctmapun6ot5vv
+#EXTINF:-1 رحبانيات
+https://stream.zeno.fm/4g8xck48kfhvv
+#EXTINF:-1 فيروز
+https://stream.zeno.fm/9vrahqqfuuhvv

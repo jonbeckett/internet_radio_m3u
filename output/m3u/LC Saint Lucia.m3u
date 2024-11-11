@@ -4,9 +4,13 @@
 http://auds2.intacs.com/caribbeanhotfm
 #EXTINF:-1 Caribbean KISS FM 105.5 Castries
 http://auds2.intacs.com/caribbeankissfm
-#EXTINF:-1 RelaxingJazz
-http://77.68.84.201/stream/3/
+#EXTINF:-1 Power 97.9
+https://usa10.fastcast4u.com/power979fm
+#EXTINF:-1 REV-UP SLU
+https://caribspy.com/proxy/revupslu/stream
 #EXTINF:-1 RFI 102.1 FM
 http://167.114.131.90:5908/
+#EXTINF:-1 Sky FM 93.1
+https://caribspy.com/proxy/skyfm931/stream/?type=http&nocache=107036
 #EXTINF:-1 Vibe Radio 100.9 & 92.9 Vigie
 http://45.79.186.124/proxy/vyberadio?mp=/stream

@@ -6,12 +6,15 @@
 <body>
 <outline text="100 HITŲ" title="100 HITŲ" type="rss" url="https://transliacija.relaxfm.lt/100-hitu" />
 <outline text="Beveik Radijas" title="Beveik Radijas" type="rss" url="https://azura.shoutca.st/radio/8420/radio.mp3" />
+<outline text="Cold Tear Radio" title="Cold Tear Radio" type="rss" url="https://radio.rad10x.com/listen/coldtear/coldtear.mp3" />
 <outline text="Easy FM" title="Easy FM" type="rss" url="https://netradio.ziniur.lt/easyfm.mp3" />
 <outline text="European Hit Radio" title="European Hit Radio" type="rss" url="http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-european-hit-radio.pls" />
 <outline text="EXTRA FM" title="EXTRA FM" type="rss" url="http://82.135.234.195:8000/extrafm.mp3" />
+<outline text="Extra FM" title="Extra FM" type="rss" url="http://82.135.234.195:8000/extrafm.mp3" />
+<outline text="Fred Film Radio-24 lietuvių kalba" title="Fred Film Radio-24 lietuvių kalba" type="rss" url="https://s10.webradio-hosting.com/proxy/fredradiolt/stream" />
 <outline text="Geras FM" title="Geras FM" type="rss" url="http://82.135.234.195:8000/gerasfm.mp3.m3u" />
 <outline text="Gold FM" title="Gold FM" type="rss" url="http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-gold-fm.pls" />
-<outline text="Kapsai" title="Kapsai" type="rss" url="http://91.211.246.42:8000/Kapsai" />
+<outline text="Kapsai" title="Kapsai" type="rss" url="http://91.211.246.42:8000/Kapsai-HD" />
 <outline text="Kelyje" title="Kelyje" type="rss" url="http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-kelyje-klaipeda.pls" />
 <outline text="Kelyje " title="Kelyje " type="rss" url="http://82.135.234.195:8000/kelyje_kaunas.mp3" />
 <outline text="Kelyje Kaunas" title="Kelyje Kaunas" type="rss" url="http://82.135.234.195:8000/kelyje_kaunas.mp3" />
@@ -26,27 +29,32 @@
 <outline text="MANO FM" title="MANO FM" type="rss" url="http://klausyk.manofm.lt:8000/Icecast2" />
 <outline text="Mano FM" title="Mano FM" type="rss" url="http://klausyk.manofm.lt:8000/Icecast2" />
 <outline text="MANO FM LT" title="MANO FM LT" type="rss" url="http://stream.manofm.lt/listen?" />
-<outline text="Mantra Radio" title="Mantra Radio" type="rss" url="http://stream.mantraradio.eu:14041/stream" />
 <outline text="Marijos radijas" title="Marijos radijas" type="rss" url="http://stream.marijosradijas.lt:8001/marijosradijas.mp3" />
-<outline text="Mazeikiai FM" title="Mazeikiai FM" type="rss" url="http://91.211.246.42:8000/Mazeikiai-HD" />
+<outline text="Mazeikiai FM" title="Mazeikiai FM" type="rss" url="http://91.211.246.42:8000/Mazeikiai" />
 <outline text="Mažeikių Aidas" title="Mažeikių Aidas" type="rss" url="http://maidas.kli.lt:8000/admin.mp3" />
 <outline text="Palanga Street Radio" title="Palanga Street Radio" type="rss" url="https://stream.palanga.live:8443/palanga128.mp3" />
 <outline text="Play Radio" title="Play Radio" type="rss" url="https://n08.radiojar.com/d9cm273ystzuv" />
 <outline text="Pūkas [190 kbps MP3]" title="Pūkas [190 kbps MP3]" type="rss" url="http://82.135.234.195:8000/pukas.mp3.m3u" />
 <outline text="Pūkas 2 [190 kbps MP3]" title="Pūkas 2 [190 kbps MP3]" type="rss" url="http://82.135.234.195:8000/pukas2.mp3.m3u" />
+<outline text="Pulsas" title="Pulsas" type="rss" url="https://pulsas.lt/stream" />
+<outline text="Radijo stotis Lietus" title="Radijo stotis Lietus" type="rss" url="https://radio.m-1.fm/LIETUS" />
+<outline text="Radio Fiesta" title="Radio Fiesta" type="rss" url="https://stream2.radiofiesta.lt/rfs128.mp3" />
 <outline text="RADIO R" title="RADIO R" type="rss" url="https://stream1.rusradio.lt/rrb128.mp3" />
+<outline text="RADIO R Energy" title="RADIO R Energy" type="rss" url="https://listen.radioking.com/radio/624415/stream/686599" />
+<outline text="Radio stotis Laluna" title="Radio stotis Laluna" type="rss" url="https://radio.m-1.fm/laluna/mp3" />
 <outline text="Radiocentras" title="Radiocentras" type="rss" url="https://stream2.rc.lt/rc128.mp3" />
-<outline text="RADUGA " title="RADUGA " type="rss" url="https://radio.m-1.fm/raduga/high" />
 <outline text="Relax FM 100 HITU" title="Relax FM 100 HITU" type="rss" url="https://listen.radioking.com/radio/483860/stream/561907" />
 <outline text="RELAX FM Lietuva" title="RELAX FM Lietuva" type="rss" url="https://stream1.relaxfm.lt/relaxfm128.mp3" />
 <outline text="Relax FM Sentimental" title="Relax FM Sentimental" type="rss" url="https://listen.radioking.com/radio/506872/stream/564496" />
 <outline text="Rock FM" title="Rock FM" type="rss" url="https://stream2.rockfm.lt/crf128.mp3" />
 <outline text="Rock radio" title="Rock radio" type="rss" url="https://cast2.my-control-panel.com/proxy/vladas/stream" />
 <outline text="Rock Radio" title="Rock Radio" type="rss" url="http://65.21.202.84:8026/stream" />
+<outline text="Sol fm" title="Sol fm" type="rss" url="http://radiosolfm.bounceme.net:8002/solfm" />
 <outline text="Start FM 94.2 MHz Vilnius [MP3]" title="Start FM 94.2 MHz Vilnius [MP3]" type="rss" url="http://eteris.startfm.lt/startfm.mp3" />
 <outline text="Super FM" title="Super FM" type="rss" url="http://82.140.131.217:8000/superfm.mp3" />
 <outline text="Tau" title="Tau" type="rss" url="http://radijas.tau.lt:8000/stream" />
 <outline text="Tauragės radijas" title="Tauragės radijas" type="rss" url="http://stream.tauragesradijas.lt:8000/tr1.m3u" />
+<outline text="Tauragės Radijas 98.2 FM" title="Tauragės Radijas 98.2 FM" type="rss" url="http://stream.tauragesradijas.lt:8000/tr1" />
 <outline text="Upso radijas " title="Upso radijas " type="rss" url="http://185.5.52.50:8000/upsas_320" />
 <outline text="Vaikų radijas" title="Vaikų radijas" type="rss" url="http://88.119.151.74:8001/vaikuradijas" />
 <outline text="XFM Radijas" title="XFM Radijas" type="rss" url="http://88.119.151.74:8001/xfm" />
@@ -55,6 +63,7 @@
 <outline text="Žinių radijas [64 kbps MP3]" title="Žinių radijas [64 kbps MP3]" type="rss" url="http://netradio.ziniur.lt/ziniur_64.mp3" />
 <outline text="ZIP FM" title="ZIP FM" type="rss" url="https://stream1.zipfm.lt/zipfm128.mp3" />
 <outline text="ZipFM" title="ZipFM" type="rss" url="https://stream2.zipfm.lt/zipfm128.mp3" />
-<outline text="Радио Лента" title="Радио Лента" type="rss" url="https://stream01.the-broadcasters.online/radiolenta_mp3" />
+<outline text="Радио Лента stream 2" title="Радио Лента stream 2" type="rss" url="https://streaming.broadcastrd.com/audio/radio-lenta.mp3" />
+<outline text="Радио Сигнал" title="Радио Сигнал" type="rss" url="https://streaming.broadcastrd.com/audio/radio-singnal.mp3" />
 </body>
 </opml>

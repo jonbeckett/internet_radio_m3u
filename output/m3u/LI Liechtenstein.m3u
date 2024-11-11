@@ -1,0 +1,4 @@
+#EXTM3U
+#PLAYLIST:Internet Radio Stations for LI Liechtenstein
+#EXTINF:-1 Radio Liechtenstein
+http://live.radiol.li:8000/live

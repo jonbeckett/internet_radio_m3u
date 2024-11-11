@@ -1,5 +1,7 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations for MM Myanmar
+#EXTINF:-1 Cherry FM
+https://cherry.akiyaresearch.com:444/stream/89/
 #EXTINF:-1 DWG Radio Bumese
 http://server32349.streamplus.de/?type=http&#038nocache=227
 #EXTINF:-1 MandalayFM

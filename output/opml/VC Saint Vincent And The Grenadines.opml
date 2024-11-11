@@ -4,6 +4,7 @@
 <title>Internet Radio Stations for VC Saint Vincent And The Grenadines</title>
 </head>
 <body>
+<outline text="BDS NICE RADIO SVG" title="BDS NICE RADIO SVG" type="rss" url="http://us1.carihost.com:8380/stream" />
 <outline text="Reggae141" title="Reggae141" type="rss" url="http://hestia2.cdnstream.com/1301_128" />
 <outline text="Star FM 98.3 &amp; 104.7 Kingstown" title="Star FM 98.3 &amp; 104.7 Kingstown" type="rss" url="http://starradio.serverroom.net:6688/" />
 <outline text="We FM 99.9 Kingstown" title="We FM 99.9 Kingstown" type="rss" url="http://mountain2.serverroom.net:6266/" />

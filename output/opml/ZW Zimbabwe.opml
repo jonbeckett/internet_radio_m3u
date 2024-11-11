@@ -4,7 +4,6 @@
 <title>Internet Radio Stations for ZW Zimbabwe</title>
 </head>
 <body>
-<outline text="Khulumani FM" title="Khulumani FM" type="rss" url="http://197.221.250.170:88/broadwavehigh.mp3" />
-<outline text="Zimbabwe Khulumani Radio" title="Zimbabwe Khulumani Radio" type="rss" url="http://197.221.250.170:88/broadwavehigh.mp3?src=1" />
+<outline text="Nehanda Radio" title="Nehanda Radio" type="rss" url="https://eu4.fastcast4u.com/proxy/lancguma?mp=/1" />
 </body>
 </opml>

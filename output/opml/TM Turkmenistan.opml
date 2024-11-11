@@ -4,6 +4,12 @@
 <title>Internet Radio Stations for TM Turkmenistan</title>
 </head>
 <body>
+<outline text="Hayatmix" title="Hayatmix" type="rss" url="http://hayatmix.net/yayin.mp3/" />
+<outline text="Radio Çar Tarapdan" title="Radio Çar Tarapdan" type="rss" url="https://radio.telecom.tm:8020/radio.mp3" />
+<outline text="Radio Miras" title="Radio Miras" type="rss" url="https://radio.telecom.tm:8030/radio.mp3" />
+<outline text="Radio Owaz" title="Radio Owaz" type="rss" url="https://radio.telecom.tm:8000/radio.mp3" />
+<outline text="Radio Watan" title="Radio Watan" type="rss" url="https://radio.telecom.tm:8010/radio.mp3" />
+<outline text="The Holy Quran  by Sheikh Mahmoud Al-Husari" title="The Holy Quran  by Sheikh Mahmoud Al-Husari" type="rss" url="https://qurango.net/radio/mahmoud_khalil_alhussary_warsh" />
 <outline text="النهج الواضح " title="النهج الواضح " type="rss" url="https://node33.obviousapproach.com:9000/stream" />
 </body>
 </opml>

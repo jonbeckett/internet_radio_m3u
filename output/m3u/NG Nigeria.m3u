@@ -1,52 +1,112 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations for NG Nigeria
+#EXTINF:-1 94.5 – BRTV Borno Radio, Maiduguri
+https://stream.zeno.fm/px5k346357zuv
+#EXTINF:-1 95.5 – Boss FM
+https://edge.mixlr.com/channel/oeltj
+#EXTINF:-1 99.1 – Odenigbo FM, Obosi
+https://stream.zeno.fm/rx197cbviawvv
 #EXTINF:-1 9jastar
 http://eu4.fastcast4u.com:5026/stream
-#EXTINF:-1 Albarka Radio
-https://eu8.fastcast4u.com/proxy/albarkafm?mp=/1
+#EXTINF:-1 Adamimogo FM
+http://stream.zeno.fm/sywy4vua6zhvv
+#EXTINF:-1 Afrobeats Gospel Radio
+https://stream.zeno.fm/zyd9stmdlnlvv
 #EXTINF:-1 Awoko Radio
 http://node-05.zeno.fm/tqq99en94v8uv
-#EXTINF:-1 BOX : Afrofusion Naija
-https://play.streamafrica.net/afrofusionnaija
+#EXTINF:-1 Bond 92.9 FM
+https://go.webgateready.com/bondfm
+#EXTINF:-1 BOSS 98.9 FM
+https://ec1.everestcast.host:4795/stream
 #EXTINF:-1 BRC Radio Bauchi
 https://tinyurl.com/mr36pvc8
-#EXTINF:-1 Dominion Mandate Radio
-https://listen.radioking.com/radio/287098/stream/348040?listening-from-radio-garden=1691710113
+#EXTINF:-1 Buzz FM Aba – 89.7 FM
+https://edge.mixlr.com/channel/qytfx
+#EXTINF:-1 Dream Center Internet Radio
+https://admin.dciradio.org/radio/8010/radio.mp3
+#EXTINF:-1 Enugu Love FM
+https://stream13.shoutcastsolutions.com/proxy/enugulovefm?mp=/stream.mp3
+#EXTINF:-1 Enyimba FM
+https://ec1.everestcast.host:4625/stream
+#EXTINF:-1 FAD FM
+https://radio.gotright.net/listen/fadfm/radio.mp3
 #EXTINF:-1 Fahimta Radio
 https://cutt.ly/v49jJkV
+#EXTINF:-1 FRCN - Radio Nigeria 
+https://radiohq.radioca.st//'
 #EXTINF:-1 GanGan Radio
 https://stream.zeno.fm/9reuhyz8up8uv
+#EXTINF:-1 Godfrey Okoye University Radio 106.9fm
+https://us5new.listen2myradio.com:2199/stream.php?port=8178
 #EXTINF:-1 Gospotainment Radio
 https://radio.gotright.net/radio/8000/radio.mp3
+#EXTINF:-1 Grace 95.5 FM
+http://s3.voscast.com:10436/stream
+#EXTINF:-1 Green Radio Uganda
+https://servidor17-1.brlogic.com:7940/live?source=12124
 #EXTINF:-1 HOD RADIO
 https://servidor21.brlogic.com:7766/live
 #EXTINF:-1 Inform Me Radio
 http://stream.zeno.fm/ta1fke6sz1zuv
+#EXTINF:-1 KCity Radio
+https://radio.gotright.net/radio/8010/radio.mp3
+#EXTINF:-1 LagosJump Radio
+https://radio.lagosjumpradio.com/listen/lagosjump_radio/radio.mp3
+#EXTINF:-1 Legend FM
+https://ec1.everestcast.host:4815/stream
 #EXTINF:-1 MajorFM
 http://stream.zeno.fm/pkza99xshkhvv
+#EXTINF:-1 Metro 97.7 FM
+https://go.webgateready.com/metrofm
 #EXTINF:-1 METRO FM LAGOS
 https://go.webgateready.com/metrofm/radio.mp3
 #EXTINF:-1 Nagari Radio
 http://stream.zeno.fm/287z97ksdg8uv
+#EXTINF:-1 NCBN Abuja
+https://stream.zeno.fm/1zur4ycs6x8uv
+#EXTINF:-1 Nigerian Gospel Music Radio (MP3)
+http://stream.zeno.fm/3fmqr74a7f8uv
+#EXTINF:-1 Nishadi radio online
+https://stream.zeno.fm/cm3s6305kg8uv
+#EXTINF:-1 Obong Radio
+https://stream.zeno.fm/vlssnjcwkisvv
+#EXTINF:-1 Odenigbo FM
+https://stream.zeno.fm/rx197cbviawvv
 #EXTINF:-1 Panache Fm 
 https://bit.ly/3nLxepv
-#EXTINF:-1 Port Harcourt Love FM
-https://stream13.shoutcastsolutions.com/proxy/phlovefm?mp=/stream.mp3
+#EXTINF:-1 Radio 103.5 FM
+https://go.webgateready.com/radioonefm
 #EXTINF:-1 Radio East
 http://stream.zeno.fm/7f4w4us5wp8uv
-#EXTINF:-1 RADIO NIGERIA 
-https://radionghq.radioca.st//'
+#EXTINF:-1 Radio One FM 103.5 Lagos
+https://www.go.webgateready.com/radioonefm
 #EXTINF:-1 RadioTiwa
 https://stream.zeno.fm/tvqvamkwe5zuv.m3u
+#EXTINF:-1 Rapid FM 96.5 Umuahia
+https://stream13.shoutcastsolutions.com/proxy/rapidfm965?mp=/stream
 #EXTINF:-1 RFI Haoussa
 http://live02.rfi.fr/rfihaoussa-96k.mp3
-#EXTINF:-1 Smooth FM Live
-http://smoothlive.smooth981.fm:8000/smoothlivefm128
-#EXTINF:-1 Super FM Benin
-https://radio.superfm963.com/proxy/superfmbenin/stream
-#EXTINF:-1 SUPER FM Ijebu Ode
-https://radio.superfm963.com/proxy/superfm2/stream
+#EXTINF:-1 Rose FM
+http://ec1.everestcast.host:4730/stream
+#EXTINF:-1 Splash FM 105.5
+https://edge.mixlr.com/channel/cfeki
+#EXTINF:-1 Splash FM Abeokuta
+https://stream.zeno.fm/m9x6zr5trp8uv
+#EXTINF:-1 Sunshine FM 104.5 MHz Potiskum
+https://stream.zeno.fm/cu2e39ra0chvv
 #EXTINF:-1 The Today Africa Radio 
 http://stream.zeno.fm/e66eb3qmg48uv
+#EXTINF:-1 Unilag Radio
+https://stream.zeno.fm/w68a71f8568uv
+#EXTINF:-1 URBAN RADIO ENUGU
+https://edge.mixlr.com/channel/cfldr
 #EXTINF:-1 Usaku FM 90.5
 https://eu8.fastcast4u.com/proxy/usakufm?mp=/1
+#EXTINF:-1 WiGRadio
+http://stream-152.zeno.fm/k4w8hv26nzzuv?zs=9e7U8mPaSMyi2Nnt_ivOqA
+#EXTINF:-1 YDI Radio
+https://s9.voscast.com:9079/stream
+#EXTINF:-1 YES 101.7 FM
+https://stream.zenolive.com/kqgbf9g3mfhvv
+#EXTINF:-1 Yes FM 101.7
+https://stream.zeno.fm/kqgbf9g3mfhvv

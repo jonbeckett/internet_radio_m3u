@@ -5,9 +5,6 @@
 </head>
 <body>
 <outline text="Dfm rtv int160k" title="Dfm rtv int160k" type="rss" url="http://dfm.nu/DFM_RTV_INT_1.m3u" />
-<outline text="Kalaallit Nunaata Radioa (KNR) Nuuk (16 kbps MP3)" title="Kalaallit Nunaata Radioa (KNR) Nuuk (16 kbps MP3)" type="rss" url="https://i2.cdn.jetstre.am:8000/sz=knr=audio16" />
-<outline text="Kalaallit Nunaata Radioa (KNR) Nuuk (192 kbps MP3)" title="Kalaallit Nunaata Radioa (KNR) Nuuk (192 kbps MP3)" type="rss" url="https://i2.cdn.jetstre.am:8000/sz=knr=audio192" />
-<outline text="Kalaallit Nunaata Radioa (KNR) Nuuk (24 kbps MP3)" title="Kalaallit Nunaata Radioa (KNR) Nuuk (24 kbps MP3)" type="rss" url="https://i1.cdn.jetstre.am:8000/sz=knr=audio24" />
 <outline text="Kalaallit Nunaata Radioa KNR 90.3 Nuuk" title="Kalaallit Nunaata Radioa KNR 90.3 Nuuk" type="rss" url="http://knr.gl/radiolivestream" />
 <outline text="KNR Radio, Nuuk, 192 kbit/s Stereo" title="KNR Radio, Nuuk, 192 kbit/s Stereo" type="rss" url="https://knr.gl/radiolivestream" />
 <outline text="Nanoq FM" title="Nanoq FM" type="rss" url="http://getnanoq.retro-radio.dk/Nanoq-TX-1" />

@@ -4,13 +4,14 @@
 <title>Internet Radio Stations for CH Switzerland</title>
 </head>
 <body>
+<outline text=" A Fine Jazz Gumbo Radio " title=" A Fine Jazz Gumbo Radio " type="rss" url="https://streaming.smartradio.ch:9502/stream" />
 <outline text=". Al quran radio " title=". Al quran radio " type="rss" url="https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&amp;rj-tok=AAABhdgGORQA-2acfyF3_4WY2g" />
 <outline text="1.FM - A List 80s" title="1.FM - A List 80s" type="rss" url="http://strm112.1.fm/back280s_mobile_mp3" />
-<outline text="1.FM - Absolute 70&apos;s Pop Radio" title="1.FM - Absolute 70&apos;s Pop Radio" type="rss" url="http://sc-70s.1.fm:8658/" />
+<outline text="1.FM - Absolute 70&apos;s Pop Radio" title="1.FM - Absolute 70&apos;s Pop Radio" type="rss" url="http://strm112.1.fm/70s_mobile_mp3" />
 <outline text="1.FM - Absolute 90s Party Zone Radio" title="1.FM - Absolute 90s Party Zone Radio" type="rss" url="http://strm112.1.fm/partyzone90s_mobile_mp3" />
 <outline text="1.FM - Absolute Country Hits Radio" title="1.FM - Absolute Country Hits Radio" type="rss" url="http://strm112.1.fm/acountry_mobile_mp3" />
 <outline text="1.FM - Absolute Pop Latino Radio" title="1.FM - Absolute Pop Latino Radio" type="rss" url="http://strm112.1.fm/latino_mobile_mp3" />
-<outline text="1.FM - Absolute TOP 40 Radio" title="1.FM - Absolute TOP 40 Radio" type="rss" url="http://sc-t40.1.fm:7016/" />
+<outline text="1.FM - Absolute TOP 40 Radio" title="1.FM - Absolute TOP 40 Radio" type="rss" url="http://strm112.1.fm/top40_mobile_mp3" />
 <outline text="1.FM - Absolute Trance (Euro) Radio" title="1.FM - Absolute Trance (Euro) Radio" type="rss" url="http://strm112.1.fm/trance_mobile_mp3" />
 <outline text="1.FM - Acappella Radio" title="1.FM - Acappella Radio" type="rss" url="http://strm112.1.fm/acpl_mobile_mp3" />
 <outline text="1.FM - Adore Jazz Radio" title="1.FM - Adore Jazz Radio" type="rss" url="http://strm112.1.fm/ajazz_mobile_mp3" />
@@ -18,7 +19,6 @@
 <outline text="1.FM - Afterbeat Electronica Radio" title="1.FM - Afterbeat Electronica Radio" type="rss" url="http://strm112.1.fm/electronica_mobile_mp3" />
 <outline text="1.FM - All Euro 80&apos;s Radio" title="1.FM - All Euro 80&apos;s Radio" type="rss" url="http://strm112.1.fm/80s_90s_mobile_mp3" />
 <outline text="1.FM - All Times &amp; Urban Gospel Radio" title="1.FM - All Times &amp; Urban Gospel Radio" type="rss" url="http://strm112.1.fm/gospel_mobile_mp3" />
-<outline text="1.FM - All Times Hits" title="1.FM - All Times Hits" type="rss" url="http://185.33.21.111/allmixedup_mobile_mp3" />
 <outline text="1.FM - Alternative Rock X Hits Radio" title="1.FM - Alternative Rock X Hits Radio" type="rss" url="http://strm112.1.fm/x_mobile_mp3" />
 <outline text="1.FM - Always-Christmas Radio" title="1.FM - Always-Christmas Radio" type="rss" url="http://strm112.1.fm/christmas_mobile_mp3" />
 <outline text="1.FM - Ambient Psychill" title="1.FM - Ambient Psychill" type="rss" url="http://strm112.1.fm/ambientpsy_mobile_mp3" />
@@ -58,6 +58,7 @@
 <outline text="1.FM - Movie Soundtrack" title="1.FM - Movie Soundtrack" type="rss" url="http://strm112.1.fm/moviesoundtracks_mobile_mp3" />
 <outline text="1.FM - MPB Hits Radio" title="1.FM - MPB Hits Radio" type="rss" url="http://strm112.1.fm/mpb_mobile_mp3" />
 <outline text="1.FM - Otto&apos;s Baroque Music Radio" title="1.FM - Otto&apos;s Baroque Music Radio" type="rss" url="http://strm112.1.fm/baroque_mobile_mp3" />
+<outline text="1.FM - Otto&apos;s Opera House" title="1.FM - Otto&apos;s Opera House" type="rss" url="http://strm112.1.fm/opera_mobile_mp3" />
 <outline text="1.FM - Otto&apos;s Opera House Music Radio" title="1.FM - Otto&apos;s Opera House Music Radio" type="rss" url="http://strm112.1.fm/opera_mobile_mp3" />
 <outline text="1.FM - Radio Gaia" title="1.FM - Radio Gaia" type="rss" url="http://strm112.1.fm/radiogaia_mobile_mp3" />
 <outline text="1.FM - ReggaeTrade Radio" title="1.FM - ReggaeTrade Radio" type="rss" url="http://strm112.1.fm/reggae_mobile_mp3" />
@@ -70,6 +71,7 @@
 <outline text="1.FM - Sunshine" title="1.FM - Sunshine" type="rss" url="https://strm112.1.fm/allmixedup_mobile_mp3?" />
 <outline text="1.FM - Top Fiesta Radio" title="1.FM - Top Fiesta Radio" type="rss" url="http://strm112.1.fm/spanishparty_mobile_mp3" />
 <outline text="1.FM - Total Hits En Español Radio" title="1.FM - Total Hits En Español Radio" type="rss" url="http://strm112.1.fm/spanishtophits_mobile_mp3" />
+<outline text="1.FM Absolute 90&apos;s Radio" title="1.FM Absolute 90&apos;s Radio" type="rss" url="https://strm112.1.fm/90s_mobile_mp3" />
 <outline text="1.fm Back To The 50&apos;s " title="1.fm Back To The 50&apos;s " type="rss" url="https://strm112.1.fm/60s_70s_mobile_mp3?" />
 <outline text="1.FM Beloved Ballads" title="1.FM Beloved Ballads" type="rss" url="https://strm112.1.fm/onelive_mobile_mp3?" />
 <outline text="1.FM Essential Classical" title="1.FM Essential Classical" type="rss" url="http://strm112.1.fm/polskafm_mobile_mp3" />
@@ -79,31 +81,36 @@
 <outline text="1.fm Otto&apos;s Baroque music" title="1.fm Otto&apos;s Baroque music" type="rss" url="http://strm112.1.fm/baroque_mobile_aac" />
 <outline text="1.fm Otto&apos;s Classical music" title="1.fm Otto&apos;s Classical music" type="rss" url="https://strm112.1.fm/classical_mobile_aac" />
 <outline text="1.fm Otto&apos;s Classical music (http/mp3)" title="1.fm Otto&apos;s Classical music (http/mp3)" type="rss" url="http://strm112.1.fm/classical_mobile_mp3" />
+<outline text="1.FM Reggae" title="1.FM Reggae" type="rss" url="http://strm112.1.fm/reggae_mobile_mp3" />
 <outline text="1.fm top rap" title="1.fm top rap" type="rss" url="https://strm112.1.fm/jamz_mobile_mp3?aw_0_req.gdpr=true&amp;listenerid=bc625eb7aaf609dd3942dc610e46ed40&amp;awparams=companionAds%3Atrue" />
+<outline text="20minuten.radio DAB+ (GOAT Radio)" title="20minuten.radio DAB+ (GOAT Radio)" type="rss" url="https://www.digris.ch/stream/897a2939-b6db-42c6-8760-28908bcf8b25" />
+<outline text="80ies dot radio" title="80ies dot radio" type="rss" url="https://stream.radiojar.com/6cbvkaa1mrruv?1643199882" />
 <outline text="80s Forever - We Keep The 80s Alive" title="80s Forever - We Keep The 80s Alive" type="rss" url="http://azuracast.ssl-stream.com/radio/8050/256.mp3" />
-<outline text="A Fine Jazz Gumbo Radio" title="A Fine Jazz Gumbo Radio" type="rss" url="https://streaming.smartradio.ch:9502/stream" />
+<outline text="Adonia-KidsRadio" title="Adonia-KidsRadio" type="rss" url="http://puma.streemlion.com:1930/stream" />
+<outline text="aebisland" title="aebisland" type="rss" url="https://aebisland.ice.infomaniak.ch/aebisland-128.mp3" />
 <outline text="Ahuga laut.fm" title="Ahuga laut.fm" type="rss" url="http://stream.laut.fm/ahuga" />
-<outline text="ALEX FM EDM" title="ALEX FM EDM" type="rss" url="https://stream.radiostreamserver.de/listen/alexfm/edm.mp3" />
 <outline text="Ambi Nature Radio" title="Ambi Nature Radio" type="rss" url="https://nature-rex.radioca.st/stream" />
 <outline text="Arc Musique" title="Arc Musique" type="rss" url="https://arcmusique.ice.infomaniak.ch/arcmusique-128.mp3" />
 <outline text="Audioasyl" title="Audioasyl" type="rss" url="http://stream.audioasyl.net:8000/audioasyl" />
+<outline text="Back2Noize Radio" title="Back2Noize Radio" type="rss" url="https://securestreams4.autopo.st:1558/Back2Noize" />
 <outline text="Barix Radio" title="Barix Radio" type="rss" url="http://barix.streamguys.net/barix_hi.m3u" />
-<outline text="Basspistol Libre Radio" title="Basspistol Libre Radio" type="rss" url="https://radio.basspistol.com/radio.mp3" />
-<outline text="Bibelradio" title="Bibelradio" type="rss" url="http://rs1.stream24.org:8690/stream" />
-<outline text="bibelradio AT-NT deutsch" title="bibelradio AT-NT deutsch" type="rss" url="http://rs1.stream24.org:8690/stream" />
-<outline text="bibelradio NT deutsch" title="bibelradio NT deutsch" type="rss" url="https://radio1.stream24.net:9160/stream" />
-<outline text="Bibelradio NT Psalmen" title="Bibelradio NT Psalmen" type="rss" url="http://rs1.stream24.org:9160/stream" />
-<outline text="Bless Radio" title="Bless Radio" type="rss" url="https://streaming12.elitecomunicacion.es:8106/stream" />
+<outline text="Basspistol Radio" title="Basspistol Radio" type="rss" url="https://radio.basspistol.com/radio.mp3" />
+<outline text="Brazilian Birds Radio" title="Brazilian Birds Radio" type="rss" url="https://strm112.1.fm/brazilianbirds_mobile_mp3" />
 <outline text="Break Radio" title="Break Radio" type="rss" url="https://breakradio.ice.infomaniak.ch/breakradio-192.mp3" />
 <outline text="BurningStation.com" title="BurningStation.com" type="rss" url="https://server1.streamserver-unlimited.de:2199/tunein/iu245.pls" />
 <outline text="Christmas Radio" title="Christmas Radio" type="rss" url="http://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3" />
+<outline text="Christmas Radio FM" title="Christmas Radio FM" type="rss" url="https://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3" />
+<outline text="Classic | Radio Swiss" title="Classic | Radio Swiss" type="rss" url="https://stream.srg-ssr.ch/m/rsc_de/mp3_128" />
+<outline text="Classic Rock" title="Classic Rock" type="rss" url="https://chmedia.streamabc.net/79-classicrock-mp3-192-6577748?sABC=655o94o7%230%239906209q5qoq5po487r1668p80q43331%23qverp&amp;aw_0_1st.playerid=direc&amp;amsparams=playerid:direcskey:1700500663" />
 <outline text="Country Radio Switzerland (CRS)" title="Country Radio Switzerland (CRS)" type="rss" url="http://stream.countryradio.ch/crs-128.mp3" />
-<outline text="DJ AM Radio" title="DJ AM Radio" type="rss" url="http://ledjamradio.ice.infomaniak.ch/ledjamradio.mp3" />
+<outline text="DIKS ДИКС " title="DIKS ДИКС " type="rss" url="https://icecast.correctiv.net/sacharow" />
+<outline text="Dream Sequence" title="Dream Sequence" type="rss" url="https://www.radioking.com/play/dream-sequence/508976" />
 <outline text="driftFM" title="driftFM" type="rss" url="https://s4.radio.co/s5729f2e59/listen" />
 <outline text="Electro Radio" title="Electro Radio" type="rss" url="https://www.electroradio.fm/stream.m3u" />
 <outline text="Electrons Libres" title="Electrons Libres" type="rss" url="https://api.radioking.io/radio/427889/listen.m3u" />
 <outline text="electroradio.fm" title="electroradio.fm" type="rss" url="http://n05.radiojar.com/fkyxx4q35k0uv" />
 <outline text="Energy Basel (NRJ)" title="Energy Basel (NRJ)" type="rss" url="https://energybasel.ice.infomaniak.ch/energybasel-high.mp3" />
+<outline text="Energy Bern" title="Energy Bern" type="rss" url="https://energybern.ice.infomaniak.ch/energybern-high.mp3" />
 <outline text="Energy Bern (NRJ)" title="Energy Bern (NRJ)" type="rss" url="http://broadcast.infomaniak.ch/energybern-high.mp3" />
 <outline text="Energy Blick Trendz" title="Energy Blick Trendz" type="rss" url="http://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3" />
 <outline text="Energy Luzern" title="Energy Luzern" type="rss" url="https://energyluzern.ice.infomaniak.ch/energyluzern-high.mp3" />
@@ -117,7 +124,6 @@
 <outline text="Global Sport  - Vaud" title="Global Sport  - Vaud" type="rss" url="http://live9.avf.ch:8000/globalfmdabvd" />
 <outline text="Global Sport - Genève" title="Global Sport - Genève" type="rss" url="http://live9.avf.ch:8000/globalfmdabge" />
 <outline text="Global Sport - Suisse" title="Global Sport - Suisse" type="rss" url="http://live9.avf.ch:8000/globalfm160" />
-<outline text="Global Sport NFBJ" title="Global Sport NFBJ" type="rss" url="http://live9.avf.ch:8000/globalfmdabne" />
 <outline text="Gnu Radio - Metal FM" title="Gnu Radio - Metal FM" type="rss" url="https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=61s83r32%230%2389nqs1p1q8rrq2q126260sp7877or6oo%23fgernzf.syhksz.qr&amp;amsparams=playerid:streams.fluxfm.deskey:1643658802" />
 <outline text="Gorilla.fm" title="Gorilla.fm" type="rss" url="https://strm112.1.fm/gorillafm_mobile_mp3" />
 <outline text="Gottes Radio" title="Gottes Radio" type="rss" url="http://stream.laut.fm/gottesradio.m3u" />
@@ -126,17 +132,23 @@
 <outline text="ip music 320" title="ip music 320" type="rss" url="http://live7.avf.ch:8000/ipmusic320" />
 <outline text="IP Music Slow" title="IP Music Slow" type="rss" url="http://live7.avf.ch:8000/ipmusicslow256" />
 <outline text="JAMES FM" title="JAMES FM" type="rss" url="https://jamesfm.ice.infomaniak.ch/jamesfm.mp3" />
+<outline text="Jazz | Radio Swiss" title="Jazz | Radio Swiss" type="rss" url="https://stream.srg-ssr.ch/m/rsj/mp3_128" />
 <outline text="Jazz Radio" title="Jazz Radio" type="rss" url="http://broadcast.infomaniak.ch/jazzlounge-high.mp3" />
-<outline text="Jukebox - Kreuzberg Swiss" title="Jukebox - Kreuzberg Swiss" type="rss" url="https://kreuzbergswiss.sp.radio.fm/stream" />
+<outline text="Jukebox - Nonstop Music," title="Jukebox - Nonstop Music," type="rss" url="https://kreuzbergswiss.sp.radio.fm/stream" />
 <outline text="Kanal Bethesda" title="Kanal Bethesda" type="rss" url="http://162.13.25.174/a2dd2q0kb" />
-<outline text="Kanal K" title="Kanal K" type="rss" url="https://play.kanalk.ch/kanalk/mp3-192/webstream" />
+<outline text="Kanal K" title="Kanal K" type="rss" url="https://play.kanalk.ch/kanalk/mp3-192/webseite" />
+<outline text="kanalk" title="kanalk" type="rss" url="https://play.kanalk.ch/kanalk/mp3-192/" />
+<outline text="Kiss Collector Radio" title="Kiss Collector Radio" type="rss" url="https://dr2101.ice.infomaniak.ch/dr2101.mp3" />
 <outline text="Kontrafunk" title="Kontrafunk" type="rss" url="https://s5.radio.co/sca4082ebb/listen" />
 <outline text="Kontrafunk (MP3 192)" title="Kontrafunk (MP3 192)" type="rss" url="https://stream.kontrafunk.radio/listen/kontrafunk/radio.mp3" />
+<outline text="Kontrafunk News" title="Kontrafunk News" type="rss" url="https://stream.kontrafunk.radio/listen/kontrafunk/radio.mp3" />
 <outline text="KTFM / Global Sport" title="KTFM / Global Sport" type="rss" url="http://live9.avf.ch:8000/globalfmdabge" />
+<outline text="KTfm Geneva - THE BEST OF 70&apos;S AND 80&apos;S" title="KTfm Geneva - THE BEST OF 70&apos;S AND 80&apos;S" type="rss" url="https://ktfm.ice.infomaniak.ch/ktfm-high.mp3" />
 <outline text="LFM" title="LFM" type="rss" url="http://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3" />
 <outline text="Lounge Radio" title="Lounge Radio" type="rss" url="http://de1.streamhosting.ch/" />
 <outline text="lounge-radio.com" title="lounge-radio.com" type="rss" url="https://fr1.streamhosting.ch/lounge128.mp3" />
-<outline text="Melody Vintage forever" title="Melody Vintage forever" type="rss" url="https://str0.creacast.com/melody2" />
+<outline text="Loungemain Radio Jazz-Chill-Funk" title="Loungemain Radio Jazz-Chill-Funk" type="rss" url="http://185.238.128.191:8002/live" />
+<outline text="M La Radio" title="M La Radio" type="rss" url="https://mlaradio.ice.infomaniak.ch/mlaradio.mp3" />
 <outline text="Musikwälle" title="Musikwälle" type="rss" url="https://stream.srg-ssr.ch/drsmw/mp3_128.m3u" />
 <outline text="my105 - All The Hits" title="my105 - All The Hits" type="rss" url="http://stream01.my105.ch/my105allthehits.mp3" />
 <outline text="my105 - Charts" title="my105 - Charts" type="rss" url="http://stream01.my105.ch/my105charts.mp3" />
@@ -154,79 +166,83 @@
 <outline text="my105 - Ritmo Latino" title="my105 - Ritmo Latino" type="rss" url="http://stream01.my105.ch/my105ritmolatino.mp3" />
 <outline text="my105 - Rock" title="my105 - Rock" type="rss" url="http://stream01.my105.ch/my105rock.mp3" />
 <outline text="my105 - The Battle" title="my105 - The Battle" type="rss" url="http://stream01.my105.ch/my105thebattle.mp3" />
-<outline text="neo1" title="neo1" type="rss" url="http://stream-02.neo1.ch/neo1" />
+<outline text="my105 X-MAS" title="my105 X-MAS" type="rss" url="https://stream01.my105.ch/my105xmas.mp3" />
+<outline text="Neo1" title="Neo1" type="rss" url="https://neo1.ice.infomaniak.ch/neo1.mp3" />
 <outline text="New Clear Radio" title="New Clear Radio" type="rss" url="http://live.ncradio.fm/320" />
 <outline text="NRJ Léman 103,6 FM" title="NRJ Léman 103,6 FM" type="rss" url="http://cdn.nrjaudio.fm/audio1/ch/50001/mp3_128.mp3" />
 <outline text="One FM" title="One FM" type="rss" url="http://onefm.ice.infomaniak.ch/onefm-high.mp3" />
 <outline text="One FM 2000s" title="One FM 2000s" type="rss" url="https://webradio0009.ice.infomaniak.ch/webradio0009-128.mp3" />
 <outline text="One FM 90s" title="One FM 90s" type="rss" url="https://webradio0006.ice.infomaniak.ch/webradio0006-128.mp3" />
 <outline text="One FM New-Hits" title="One FM New-Hits" type="rss" url="https://webradio0001.ice.infomaniak.ch/webradio0001-128.mp3" />
-<outline text="Open Broadcast" title="Open Broadcast" type="rss" url="https://www.openbroadcast.org/stream/openbroadcast" />
+<outline text="Open Broadcast" title="Open Broadcast" type="rss" url="https://www.digris.ch/stream/092210ed-4eb4-483b-814f-21df6ecb1352" />
+<outline text="open broadcast radio" title="open broadcast radio" type="rss" url="http://stream.openbroadcast.ch/320.mp3" />
 <outline text="Option Musique" title="Option Musique" type="rss" url="http://stream.srg-ssr.ch/m/option-musique/mp3_128" />
 <outline text="Pineapple Juice" title="Pineapple Juice" type="rss" url="http://stream.laut.fm/pineapplejuice" />
 <outline text="Pineapplejuice" title="Pineapplejuice" type="rss" url="http://stream.laut.fm/pineapplejuice" />
 <outline text="Piratenradio" title="Piratenradio" type="rss" url="http://piratenradioch.ice.infomaniak.ch/piratenradioch-128.mp3" />
 <outline text="Planet Ambi HD" title="Planet Ambi HD" type="rss" url="http://philae.shoutca.st:9019/stream" />
+<outline text="Pop | Radio Swiss" title="Pop | Radio Swiss" type="rss" url="https://stream.srg-ssr.ch/m/rsp/mp3_128" />
 <outline text="Powerup Radio" title="Powerup Radio" type="rss" url="http://stream.powerup.ch/powerupradio-192.mp3" />
-<outline text="Public Domain Classical" title="Public Domain Classical" type="rss" url="http://relay.publicdomainproject.org/classical.mp3.m3u" />
-<outline text="Public Domain Classical (CH) 128k mp3" title="Public Domain Classical (CH) 128k mp3" type="rss" url="http://relay.publicdomainradio.org/classical.mp3" />
-<outline text="Public Domain Classical Radio" title="Public Domain Classical Radio" type="rss" url="http://relay.publicdomainradio.org/classical.mp3" />
-<outline text="Public Domain Jazz" title="Public Domain Jazz" type="rss" url="http://relay.publicdomainproject.org/jazz_swing.mp3.m3u" />
-<outline text="Public Domain Jazz Radio" title="Public Domain Jazz Radio" type="rss" url="http://relay.publicdomainradio.org/jazz_swing.mp3" />
+<outline text="publicdomainproject   classic" title="publicdomainproject   classic" type="rss" url="http://relay.publicdomainproject.org/classical.mp3" />
+<outline text="publicdomainproject  swing jazz" title="publicdomainproject  swing jazz" type="rss" url="http://relay.publicdomainradio.org/jazz_swing.mp3" />
 <outline text="R102" title="R102" type="rss" url="http://94.23.66.155:9334/listen.pls" />
 <outline text="RaBe Radio Bern Switzerland" title="RaBe Radio Bern Switzerland" type="rss" url="http://stream.rabe.ch:8000/livestream/rabe-mid.mp3" />
 <outline text="Radio 1" title="Radio 1" type="rss" url="http://stream.radio1.ch/128k.m3u" />
 <outline text="Radio 1 - FM 93.6" title="Radio 1 - FM 93.6" type="rss" url="https://stream.radio1.ch/128k" />
+<outline text="Radio 24" title="Radio 24" type="rss" url="https://stream.streambase.ch/radio24/mp3-192/direct/" />
 <outline text="Radio 32" title="Radio 32" type="rss" url="https://stream.streambase.ch/radio32/mp3-192/chmedia-today-web" />
 <outline text="Radio 32 Goldies" title="Radio 32 Goldies" type="rss" url="https://stream.streambase.ch/r32goldies/mp3-192/direct/" />
 <outline text="Radio 3FACH" title="Radio 3FACH" type="rss" url="http://stream01.3fach.ch:8001/live" />
-<outline text="Radio 906" title="Radio 906" type="rss" url="https://ice43.fluidstream.net/906_network.mp3" />
+<outline text="Radio Alperose" title="Radio Alperose" type="rss" url="https://saurus.streampanel.net/hgcntkxz?mp=/stream&amp;1730122676941" />
 <outline text="Radio Argovia" title="Radio Argovia" type="rss" url="https://stream.streambase.ch/argovia/mp3-192/radiobrowser/" />
 <outline text="RADIO ARGOVIA" title="RADIO ARGOVIA" type="rss" url="https://stream.streambase.ch/argovia/mp3-192/direct/" />
 <outline text="Radio Argovia" title="Radio Argovia" type="rss" url="https://stream.streambase.ch/argovia/mp3-192/direct/" />
 <outline text="Radio Argovia Classic Rock" title="Radio Argovia Classic Rock" type="rss" url="https://stream.streambase.ch/crock/mp3-192/radiobrowser/" />
 <outline text="Radio Basilisk" title="Radio Basilisk" type="rss" url="http://radiobasilisk-64.ice.infomaniak.ch/radiobasilisk-64-128-2.mp3" />
-<outline text="Radio Beo" title="Radio Beo" type="rss" url="https://radiobeo2.mp3.green.ch/beo.mp3" />
 <outline text="Radio BeO" title="Radio BeO" type="rss" url="http://stream11.radiobeo.ch:8000/radiobeo.mp3" />
+<outline text="Radio Bern RaBe 95.6" title="Radio Bern RaBe 95.6" type="rss" url="https://stream.rabe.ch/livestream/rabe-mid.mp3?_=1" />
 <outline text="RADIO BERN1" title="RADIO BERN1" type="rss" url="https://stream.streambase.ch/radiobern1/mp3-192/direct/" />
-<outline text="Radio Blitz" title="Radio Blitz" type="rss" url="http://server9932.streamplus.de:27100/listen.pls?sid=1" />
 <outline text="Radio Bollwerk" title="Radio Bollwerk" type="rss" url="https://radiobollwerk.out.airtime.pro/radiobollwerk_a" />
-<outline text="Radio Central" title="Radio Central" type="rss" url="https://stream.streambase.ch/rcentral/mp3-192/direct/" />
+<outline text="Radio Central" title="Radio Central" type="rss" url="https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/1723615196409_33800762" />
 <outline text="Radio Chablais" title="Radio Chablais" type="rss" url="http://radiochablais.ice.infomaniak.ch/radiochablais-high.mp3" />
 <outline text="Radio Chablais - 100% Français" title="Radio Chablais - 100% Français" type="rss" url="http://stream.radiochablais.ch/chablais-100francais.mp3" />
+<outline text="Radio Cité Genève" title="Radio Cité Genève" type="rss" url="https://radiocite.ice.infomaniak.ch/radiocite128.mp3" />
 <outline text="Radio Drachenblut" title="Radio Drachenblut" type="rss" url="http://radio-drachenblut.ch:8000/stream/3/" />
+<outline text="Radio Eviva" title="Radio Eviva" type="rss" url="https://stream.streambase.ch/reviva/mp3-192/direct/" />
 <outline text="Radio FM1" title="Radio FM1" type="rss" url="https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499o8o6%230%230016or1p1r381r4485n244q3016qs660%23qverpg&amp;aw_0_1st.playerid=direct&amp;amsparams=playerid:directskey:1687795894" />
 <outline text="RADIO FM1" title="RADIO FM1" type="rss" url="https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499oos8%230%230016or1p1r381r4485n244q3016qs660%23qverpg&amp;aw_0_1st.playerid=direct&amp;amsparams=playerid:directskey:1687796728" />
 <outline text="Radio Freundesdienst Deutsch" title="Radio Freundesdienst Deutsch" type="rss" url="http://radiofd.ice.infomaniak.ch/radiofd.mp3" />
 <outline text="Radio Freundesdienst Schweiz" title="Radio Freundesdienst Schweiz" type="rss" url="http://radiofdch.ice.infomaniak.ch/radiofdch.mp3" />
+<outline text="Radio Fribourg" title="Radio Fribourg" type="rss" url="https://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3" />
 <outline text="Radio Gloria" title="Radio Gloria" type="rss" url="https://ch-be06-ice.dmd2streaming.com/radiogloria_lo" />
-<outline text="Radio grenzenlos" title="Radio grenzenlos" type="rss" url="http://stream.grenzenlos.ch/" />
+<outline text="Radio grenzenlos,Radio grenzenlos [Test SPCast]" title="Radio grenzenlos,Radio grenzenlos [Test SPCast]" type="rss" url="http://stream.grenzenlos.ch/" />
+<outline text="Radio Grischa" title="Radio Grischa" type="rss" url="https://somedia-1.streaming.deliver.media/radiogrischa_mp3_128?suffix0=RSO" />
 <outline text="Radio Gugelhopf" title="Radio Gugelhopf" type="rss" url="http://uk3.internet-radio.com:8113/stream" />
-<outline text="Radio Gwendalyn" title="Radio Gwendalyn" type="rss" url="http://stream.radiogwen.ch:8000/radiogwen.m3u" />
-<outline text="Radio Henri Dès" title="Radio Henri Dès" type="rss" url="http://18213.live.streamtheworld.com/SP_R2329710.mp3?tdsdk=js-2.9&amp;swm=false&amp;pname=TDSdk&amp;pversion=2.9&amp;banners=none&amp;burst-time=15&amp;sbmid=bb4cb637-ff81-4dac-bc86-bc67d7e7b872" />
-<outline text="Radio Kaiseregg" title="Radio Kaiseregg" type="rss" url="http://kaiseregg.ice.infomaniak.ch/stream128k.mp3" />
+<outline text="Radio Henri Dès" title="Radio Henri Dès" type="rss" url="http://18093.live.streamtheworld.com/SP_R2329710.mp3?tdsdk=js-2.9&amp;swm=false&amp;pname=TDSdk&amp;pversion=2.9&amp;banners=none&amp;burst-time=15&amp;sbmid=f7b4e9d1-2af7-4d58-8805-4b85dce7674d" />
 <outline text="Radio Lac" title="Radio Lac" type="rss" url="https://radiolac.ice.infomaniak.ch/radiolac-high.mp3" />
+<outline text="Radio LAC" title="Radio LAC" type="rss" url="https://radiolac.ice.infomaniak.ch/radiolac-high.mp3" />
 <outline text="Radio LoRa" title="Radio LoRa" type="rss" url="https://livestream.lora.ch/lora.mp3" />
 <outline text="Radio LoRa 97.5" title="Radio LoRa 97.5" type="rss" url="https://livestream.lora.ch/lora.mp3" />
 <outline text="Radio Maria Schweiz" title="Radio Maria Schweiz" type="rss" url="http://streaming2.elitecomunicacion.es:9000/radiomaria_lo" />
 <outline text="Radio Maria Switzerland" title="Radio Maria Switzerland" type="rss" url="http://dreamsiteradiocp.com:8020/stream" />
 <outline text="Radio Maxxima" title="Radio Maxxima" type="rss" url="https://maxxima.mine.nu/maxxima.mp3" />
 <outline text="Radio Melody" title="Radio Melody" type="rss" url="https://chmedia.streamabc.net/79-rm-mp3-192-7754268?sABC=64726ssr%230%23565o8622n9638n515p1pqq82pnq6q099%23zlghare&amp;aw_0_1st.playerid=mytuner&amp;amsparams=playerid:mytunerskey:1685221374" />
+<outline text="Radio Melody Schweiz" title="Radio Melody Schweiz" type="rss" url="https://stream.streambase.ch/rm/mp3-192/mytuner/" />
 <outline text="Radio Merak" title="Radio Merak" type="rss" url="http://79.143.187.96:8092/" />
 <outline text="Radio Morcote International" title="Radio Morcote International" type="rss" url="http://streaming.radiomorcoteinternational.com:8000/" />
-<outline text="Radio Munot" title="Radio Munot" type="rss" url="http://streaming.swisstxt.ch/m/radiomunot/mp3_128" />
 <outline text="Radio Neue Hoffnung" title="Radio Neue Hoffnung" type="rss" url="https://stream.mnr.ch/rnh-mp3" />
+<outline text="Radio Niesen" title="Radio Niesen" type="rss" url="https://login.streamplus.de/app.php/streamserver/public/31677.m3u" />
 <outline text="Radio Onyx" title="Radio Onyx" type="rss" url="http://nr4.newradio.it:9432/listen.pls" />
 <outline text="Radio Ouistiti" title="Radio Ouistiti" type="rss" url="http://radioouistiti2.ice.infomaniak.ch/radioouistiti-high.mp3" />
-<outline text="Radio Pilatus" title="Radio Pilatus" type="rss" url="https://stream.streambase.ch/radiopilatus/mp3-192/chmedia/" />
-<outline text="Radio QFM" title="Radio QFM" type="rss" url="https://stream.qfm.network:8443/stream" />
+<outline text="Radio Pilatus" title="Radio Pilatus" type="rss" url="https://stream.streambase.ch/radiopilatus/mp3-192/direct/" />
 <outline text="Radio R" title="Radio R" type="rss" url="http://radior.ice.infomaniak.ch/radior-128.mp3" />
 <outline text="Radio Radius (mp3)" title="Radio Radius (mp3)" type="rss" url="http://relay.radio.ethz.ch/sender.mp3.m3u" />
+<outline text="Radio Rasa Schaffhausen" title="Radio Rasa Schaffhausen" type="rss" url="https://radio.upstream-cloud.ch/radiorasa-128.mp3" />
 <outline text="Radio Rocket" title="Radio Rocket" type="rss" url="https://i9.streams.ovh/sc/radioroc/stream" />
 <outline text="RADIO ROTATION" title="RADIO ROTATION" type="rss" url="http://stream.laut.fm/radio-rotation" />
+<outline text="Radio Rotblau " title="Radio Rotblau " type="rss" url="https://rotblaustream.ch:8443/live" />
 <outline text="Radio Rumantsch" title="Radio Rumantsch" type="rss" url="http://stream.srg-ssr.ch/m/rr/mp3_128" />
-<outline text="Radio s" title="Radio s" type="rss" url="http://radio-s.feste-ip.net:8000/" />
-<outline text="Radio S KSF" title="Radio S KSF" type="rss" url="https://bienemobil.feste-ip.net/stream.mp3" />
+<outline text="Radio S" title="Radio S" type="rss" url="https://stream.radio-s.ch/stream" />
 <outline text="Radio SRF 1 Regionaljournal Aargau, Solothurn" title="Radio SRF 1 Regionaljournal Aargau, Solothurn" type="rss" url="http://stream.srg-ssr.ch/m/regi_ag_so/mp3_128" />
 <outline text="Radio SRF 1 Regionaljournal Basel, Baselland" title="Radio SRF 1 Regionaljournal Basel, Baselland" type="rss" url="http://stream.srg-ssr.ch/m/regi_bs_bl/mp3_128" />
 <outline text="Radio SRF 1 Regionaljournal Bern, Freiburg, Wallis" title="Radio SRF 1 Regionaljournal Bern, Freiburg, Wallis" type="rss" url="http://stream.srg-ssr.ch/m/regi_be_fr_vs/mp3_128" />
@@ -237,28 +253,29 @@
 <outline text="Radio SRF 2 Kultur" title="Radio SRF 2 Kultur" type="rss" url="http://stream.srg-ssr.ch/drs2/mp3_128.m3u" />
 <outline text="Radio SRF Musikwelle" title="Radio SRF Musikwelle" type="rss" url="https://stream.srg-ssr.ch/drsmw/mp3_128.m3u" />
 <outline text="Radio SRF Virus - Indie Rock" title="Radio SRF Virus - Indie Rock" type="rss" url="http://streaming.swisstxt.ch/m/drsvirus/mp3_128" />
+<outline text="Radio Stadtfilter (DAB+)" title="Radio Stadtfilter (DAB+)" type="rss" url="https://www.digris.ch/stream/8a1a42f0-3f59-4113-b544-aad9275d34a7" />
 <outline text="Radio Stadtfilter Winterthur" title="Radio Stadtfilter Winterthur" type="rss" url="http://stream.stadtfilter.net:8406/stadtfilter.mp3" />
-<outline text="Radio Südostschweiz" title="Radio Südostschweiz" type="rss" url="http://streaming.swisstxt.ch/m/grischa/mp3_128" />
+<outline text="Radio Südostschweiz" title="Radio Südostschweiz" type="rss" url="https://somedia-1.streaming.deliver.media/rso_mp3_128?suffix0=RSO" />
 <outline text="Radio Suisse Classique" title="Radio Suisse Classique" type="rss" url="http://www.surfmusik.de/m3u/station/radio-suisse-classique,16403.m3u" />
 <outline text="Radio Summernight" title="Radio Summernight" type="rss" url="https://stream.laut.fm/radiosummernight" />
 <outline text="Radio Svizzera Classica" title="Radio Svizzera Classica" type="rss" url="http://stream.srg-ssr.ch/m/rsc_it/mp3_128" />
-<outline text="Radio Swiss Classic" title="Radio Swiss Classic" type="rss" url="http://stream.srg-ssr.ch/m/rsc_it/mp3_128" />
+<outline text="Radio Swiss Classic" title="Radio Swiss Classic" type="rss" url="http://stream.srg-ssr.ch/m/rsc_de/mp3_128" />
 <outline text="Radio Swiss Classic German" title="Radio Swiss Classic German" type="rss" url="http://stream.srg-ssr.ch/m/rsc_de/mp3_128" />
 <outline text="RADIO SWISS CLASSICA ITALIA" title="RADIO SWISS CLASSICA ITALIA" type="rss" url="https://stream.srg-ssr.ch/rsc_it/mp3_128.m3u" />
 <outline text="Radio Swiss Jazz" title="Radio Swiss Jazz" type="rss" url="http://stream.srg-ssr.ch/m/rsj/mp3_128" />
-<outline text="Radio Swiss Pop" title="Radio Swiss Pop" type="rss" url="http://stream.srg-ssr.ch/m/rsp/mp3_128" />
+<outline text="Radio Swiss Pop" title="Radio Swiss Pop" type="rss" url="https://stream.srg-ssr.ch/rsp/mp3_128.m3u" />
 <outline text="Radio Tell" title="Radio Tell" type="rss" url="http://stream.radiotell.ch/radiotell.mp3" />
+<outline text="RADIO TFM" title="RADIO TFM" type="rss" url="https://radiotfm.ice.infomaniak.ch/radiotfm-128.mp3" />
 <outline text="Radio Top Two" title="Radio Top Two" type="rss" url="http://77.109.144.109:8000/twosrp128" />
 <outline text="Radio Vihor" title="Radio Vihor" type="rss" url="https://r.name.ba:7500/" />
 <outline text="Radio X Basel (MP3 Stream)" title="Radio X Basel (MP3 Stream)" type="rss" url="http://mp3.radiox.ch:8000/standard.mp3.m3u" />
 <outline text="Radio Zuerisee" title="Radio Zuerisee" type="rss" url="http://mp3.radio.ch/radiozuerisee128k" />
-<outline text="Radio Zürisee" title="Radio Zürisee" type="rss" url="http://mp3.radio.ch/radiozuerisee128k" />
+<outline text="Radio Zürisee" title="Radio Zürisee" type="rss" url="https://mp3.radio.ch/radiozuerisee256k" />
 <outline text="Radio-Drachenblut" title="Radio-Drachenblut" type="rss" url="https://radio-drachenblut.ch/stream.m3u" />
 <outline text="Radio1" title="Radio1" type="rss" url="http://stream.radio1.ch/128k.m3u" />
 <outline text="Radio1.ch" title="Radio1.ch" type="rss" url="https://stream.radio1.ch/128k" />
 <outline text="Radio15.ch" title="Radio15.ch" type="rss" url="http://radio15.ice.infomaniak.ch/radio15-192kbps.mp3?fbclid=IwAR1RgI4qFLCInWkcBZBlod__-7UXEufqWJJl2BnOT1s_xnkTuUQg8BG4avc" />
 <outline text="Radio24" title="Radio24" type="rss" url="https://stream.streambase.ch/radio24/mp3-192/direct/" />
-<outline text="Radio3i" title="Radio3i" type="rss" url="http://radio3i.ice.infomaniak.ch/radio3i-128.mp3" />
 <outline text="Radio4TNG" title="Radio4TNG" type="rss" url="http://radio4tng.ice.infomaniak.ch/radio4tng-live-web.mp3" />
 <outline text="RadioFr. Freiburg" title="RadioFr. Freiburg" type="rss" url="http://radiofreiburg.ice.infomaniak.ch/radiofreiburg-high.mp3" />
 <outline text="RadioFr. Fribourg" title="RadioFr. Fribourg" type="rss" url="http://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3" />
@@ -266,21 +283,21 @@
 <outline text="RADIONET+" title="RADIONET+" type="rss" url="https://radionetplus.ice.infomaniak.ch/radionetplus-high.mp3" />
 <outline text="Radiopolis" title="Radiopolis" type="rss" url="http://rs01.swissnwx.ch:20080/stream" />
 <outline text="RadioPolis" title="RadioPolis" type="rss" url="http://rs01.swissnwx.ch:20080/stream" />
+<outline text="RadioSouvenir.com" title="RadioSouvenir.com" type="rss" url="http://www.radiosouvenir.com/radio.m3u" />
 <outline text="Radioswiss " title="Radioswiss " type="rss" url="http://stream.laut.fm/radioswiss" />
 <outline text="RFJ" title="RFJ" type="rss" url="https://rfj.ice.infomaniak.ch/rfj-high.mp3" />
 <outline text="Rhône FM" title="Rhône FM" type="rss" url="http://rhonefm.ice.infomaniak.ch/rhonefm-high.mp3" />
 <outline text="RJB" title="RJB" type="rss" url="https://rjb.ice.infomaniak.ch/rjb-high.mp3" />
 <outline text="Rock The Blues" title="Rock The Blues" type="rss" url="http://stream.laut.fm/rock-the-blues" />
 <outline text="Rock the Blues" title="Rock the Blues" type="rss" url="http://stream.laut.fm/rock-the-blues" />
+<outline text="Rockstar Radio" title="Rockstar Radio" type="rss" url="https://dr2101.ice.infomaniak.ch/dr2102.mp3" />
+<outline text="ROCKSTATION" title="ROCKSTATION" type="rss" url="https://radio2.stream24.net:8130/live.mp3" />
 <outline text="ROCKSTATION&apos;s Broadcast" title="ROCKSTATION&apos;s Broadcast" type="rss" url="http://radio2.stream24.net:8130/live.mp3" />
 <outline text="Rouge FM 90s" title="Rouge FM 90s" type="rss" url="http://rouge-90.ice.infomaniak.ch/rouge-90-128.mp3" />
 <outline text="Rouge FM Latino" title="Rouge FM Latino" type="rss" url="http://rouge-latino.ice.infomaniak.ch/rouge-latino-128.mp3" />
 <outline text="Rouge FM Lounge" title="Rouge FM Lounge" type="rss" url="http://rougefm.ice.infomaniak.ch/rougefm-high.mp3" />
 <outline text="Rouge FM Suisse" title="Rouge FM Suisse" type="rss" url="http://rouge-suisse.ice.infomaniak.ch/rouge-suisse-128.mp3" />
 <outline text="Rouge Reggae" title="Rouge Reggae" type="rss" url="http://rouge-reggae.ice.infomaniak.ch/rouge-reggae-128.mp3" />
-<outline text="rro - Müsig pur" title="rro - Müsig pur" type="rss" url="http://streams.rro.ch/muesigpur.mp3" />
-<outline text="rro - Swiss Melody" title="rro - Swiss Melody" type="rss" url="https://streams.rro.ch/swissmelody.mp3" />
-<outline text="rro - wallisher geschichte" title="rro - wallisher geschichte" type="rss" url="http://streams.rro.ch/event.mp3" />
 <outline text="RSI Rete Due" title="RSI Rete Due" type="rss" url="http://stream.srg-ssr.ch/m/retedue/mp3_128" />
 <outline text="RSI Rete Tre" title="RSI Rete Tre" type="rss" url="http://stream.srg-ssr.ch/m/retetre/mp3_128" />
 <outline text="RSI Rete Uno" title="RSI Rete Uno" type="rss" url="http://stream.srg-ssr.ch/m/reteuno/mp3_128" />
@@ -289,7 +306,9 @@
 <outline text="RTS Espace 2" title="RTS Espace 2" type="rss" url="http://stream.srg-ssr.ch/espace-2/mp3_128.m3u" />
 <outline text="RTS La Première" title="RTS La Première" type="rss" url="http://stream.srg-ssr.ch/m/la-1ere/mp3_128" />
 <outline text="RTS Option Musique" title="RTS Option Musique" type="rss" url="http://stream.srg-ssr.ch/option-musique/mp3_128.m3u" />
+<outline text="Rundfunk FM" title="Rundfunk FM" type="rss" url="http://rundfunk.ice.infomaniak.ch/rundfunk-192.mp3" />
 <outline text="Skuizz Hits 90s-00s" title="Skuizz Hits 90s-00s" type="rss" url="https://traxx024.ice.infomaniak.ch/traxx024-1.mp3" />
+<outline text="Soul Club Radio" title="Soul Club Radio" type="rss" url="https://a1.asurahosting.com:8430/radio.mp3" />
 <outline text="Spoon Radio" title="Spoon Radio" type="rss" url="http://spoonradio.ice.infomaniak.ch/spoonradio-hd" />
 <outline text="SRF 1" title="SRF 1" type="rss" url="http://stream.srg-ssr.ch/m/drs1/mp3_128" />
 <outline text="SRF 2" title="SRF 2" type="rss" url="http://stream.srg-ssr.ch/drs2/mp3_128.m3u" />
@@ -297,14 +316,12 @@
 <outline text="SRF 4 News" title="SRF 4 News" type="rss" url="http://stream.srg-ssr.ch/m/drs4news/mp3_128" />
 <outline text="SRF Musikwelle" title="SRF Musikwelle" type="rss" url="http://stream.srg-ssr.ch/drsmw/mp3_128.m3u" />
 <outline text="SRF Virus" title="SRF Virus" type="rss" url="http://stream.srg-ssr.ch/drsvirus/mp3_128.m3u" />
-<outline text="Sunradio - Best international Music" title="Sunradio - Best international Music" type="rss" url="http://www.sunradio.ch/livestream.m3u" />
+<outline text="Sunshine Radio (Switzerland)" title="Sunshine Radio (Switzerland)" type="rss" url="https://stream.streambase.ch/rsunshine/mp3-192/chmedia-radio-web/1699795900047_8633080" />
 <outline text="SWISS GROOVE" title="SWISS GROOVE" type="rss" url="https://relay2.swissgroove.ch/" />
 <outline text="Swiss Groove" title="Swiss Groove" type="rss" url="https://relay1.swissgroove.ch/" />
-<outline text="Swiss Melody" title="Swiss Melody" type="rss" url="http://streams.rro.ch/swissmelody.mp3" />
+<outline text="Swiss Jazz Room" title="Swiss Jazz Room" type="rss" url="https://stream.srg-ssr.ch/m/rsj/mp3_128" />
 <outline text="SWISSCLASSICA ITALIA" title="SWISSCLASSICA ITALIA" type="rss" url="https://stream.srg-ssr.ch/rsc_it/mp3_128.m3u" />
 <outline text="SwissGroove" title="SwissGroove" type="rss" url="http://158.69.74.203/" />
-<outline text="Swissradio.ch Classical" title="Swissradio.ch Classical" type="rss" url="http://relay.publicdomainproject.org/classical.mp3" />
-<outline text="Swissradio.ch Jazz &amp; Swing" title="Swissradio.ch Jazz &amp; Swing" type="rss" url="http://relay.publicdomainproject.org/jazz_swing.mp3" />
 <outline text="toxic.fm" title="toxic.fm" type="rss" url="http://toxicfm.ice.infomaniak.ch/toxicfm-128" />
 <outline text="Traxx FM - Ambient" title="Traxx FM - Ambient" type="rss" url="http://traxx011.ice.infomaniak.ch/traxx011-low.mp3" />
 <outline text="Traxx FM - Classic" title="Traxx FM - Classic" type="rss" url="http://traxx012.ice.infomaniak.ch/traxx012-low.mp3" />
@@ -331,7 +348,6 @@
 <outline text="Truehouse Chill" title="Truehouse Chill" type="rss" url="http://www.truehouse.net/chill.m3u" />
 <outline text="URBN Radio" title="URBN Radio" type="rss" url="https://dr2101.ice.infomaniak.ch/dr2103.mp3" />
 <outline text="UZIC.CH :: TECHNO - MINIMAL" title="UZIC.CH :: TECHNO - MINIMAL" type="rss" url="http://stream.uzic.ch:9010/" />
-<outline text="Varmusic" title="Varmusic" type="rss" url="https://listen.radioking.com/radio/449177/stream/508205" />
 <outline text="Vertical Radio" title="Vertical Radio" type="rss" url="http://verticalradio.ice.infomaniak.ch/verticalradio-128.mp3" />
 <outline text="Vibración Latina" title="Vibración Latina" type="rss" url="http://vibration.stream2net.eu:8410/stream/1" />
 <outline text="Vibration 108" title="Vibration 108" type="rss" url="http://vibration108-high.ice.infomaniak.ch/vibration108-high.mp3" />
@@ -343,10 +359,13 @@
 <outline text="Vibration Vintage" title="Vibration Vintage" type="rss" url="http://vibrationvintage-high.ice.infomaniak.ch/vibration-vintage.mp3" />
 <outline text="Vibration Zen Relax" title="Vibration Zen Relax" type="rss" url="http://vibration.stream2net.eu:8220/stream/1" />
 <outline text="Vintage Radio" title="Vintage Radio" type="rss" url="https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3" />
+<outline text="Vintageradio.ch" title="Vintageradio.ch" type="rss" url="https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3" />
 <outline text="Virgin Radio Switzerland" title="Virgin Radio Switzerland" type="rss" url="https://stream.streambase.ch/vrock/mp3-192/direct/" />
+<outline text="VirginRadio" title="VirginRadio" type="rss" url="https://stream.streambase.ch/vrock/mp3-192/direct/" />
 <outline text="VOXINOX" title="VOXINOX" type="rss" url="http://voxinox.ice.infomaniak.ch/voxinox-128" />
 <outline text="WALTS WELT" title="WALTS WELT" type="rss" url="https://waltswelt.out.airtime.pro/waltswelt_a?_ga=2.33964516.474222732.1669644968-446937151.1669306237" />
 <outline text="World Radio Switzerland" title="World Radio Switzerland" type="rss" url="https://uksouth.streaming.broadcast.radio:10290/wrs" />
+<outline text="WRS &quot;Swiss Radio in English&quot;" title="WRS &quot;Swiss Radio in English&quot;" type="rss" url="https://uksouth.streaming.broadcast.radio:10290/wrs?_=443217" />
 <outline text="ஊரி தமிழ் வானொலி URI TAMIL RADIO" title="ஊரி தமிழ் வானொலி URI TAMIL RADIO" type="rss" url="http://stream.zenolive.com/u8nt64f6sfeuv" />
 </body>
 </opml>

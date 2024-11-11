@@ -4,13 +4,10 @@
 <title>Internet Radio Stations for IS Iceland</title>
 </head>
 <body>
-<outline text="Flashback 60&apos;s Online - Reykjavik" title="Flashback 60&apos;s Online - Reykjavik" type="rss" url="http://radio.is:443/60flashback" />
-<outline text="Flashback 80&apos;s 101.5 Reykjavik" title="Flashback 80&apos;s 101.5 Reykjavik" type="rss" url="http://www.radio.is:443/80flashback" />
-<outline text="Flashback 90&apos;s Online Reykjavik" title="Flashback 90&apos;s Online Reykjavik" type="rss" url="http://www.radio.is:443/90flashback" />
-<outline text="Flashback 91.9 Reykjavik" title="Flashback 91.9 Reykjavik" type="rss" url="http://www.radio.is:443/flashback" />
-<outline text="Kannin FM 100.5 &quot;K100&quot; Reykjavik" title="Kannin FM 100.5 &quot;K100&quot; Reykjavik" type="rss" url="http://www.radio.is:443/kaninnmobile" />
+<outline text="Cathedral 13" title="Cathedral 13" type="rss" url="http://listen.shoutcast.com/cathedralxiii" />
+<outline text="Fred Film Radio-26 Íslenska" title="Fred Film Radio-26 Íslenska" type="rss" url="https://s10.webradio-hosting.com/proxy/fredradiois/stream" />
+<outline text="K 100" title="K 100" type="rss" url="https://ice-11.spilarinn.is/kaninnmobile" />
 <outline text="Radio Bodun 105.5 Reykjavik" title="Radio Bodun 105.5 Reykjavik" type="rss" url="http://radio.bodun.is:8000/stream" />
-<outline text="Retro FM 89.5" title="Retro FM 89.5" type="rss" url="http://www.radio.is:443/retromobile" />
 <outline text="Trolli FM 103.7 Siglufjordu" title="Trolli FM 103.7 Siglufjordu" type="rss" url="http://live.trolli.is:8200/" />
 <outline text="Útvarp Saga" title="Útvarp Saga" type="rss" url="https://stream.utvarpsaga.is/Hljodver" />
 </body>

@@ -5,19 +5,25 @@
 </head>
 <body>
 <outline text="CAWtv" title="CAWtv" type="rss" url="https://stream.zeno.fm/m8aakwyw9u8uv" />
+<outline text="Clasica 101.9FM" title="Clasica 101.9FM" type="rss" url="http://streaming.clasicafm.com.ni:8050/clasica.mp3" />
 <outline text="Estéreo Romance" title="Estéreo Romance" type="rss" url="https://stereoromance.radioca.st/streams/128kbps.m3u" />
+<outline text="Fiesta Latina 89.1 FM" title="Fiesta Latina 89.1 FM" type="rss" url="https://radios.solumedia.com/6596/stream" />
 <outline text="La Nueva Radio | Nicaragua" title="La Nueva Radio | Nicaragua" type="rss" url="https://stream.zenolive.com/axr92qawesmtv" />
 <outline text="La Voz del Norte" title="La Voz del Norte" type="rss" url="https://stream.zeno.fm/cbd1wweamzzuv" />
 <outline text="Masaya Rebelde" title="Masaya Rebelde" type="rss" url="https://stream.zeno.fm/bhutktvbfv8uv" />
 <outline text="Radio Católica de Nicaragua" title="Radio Católica de Nicaragua" type="rss" url="http://198.27.68.65:8555/listen.pls?sid=1" />
 <outline text="Radio Comunidad" title="Radio Comunidad" type="rss" url="https://stream.zeno.fm/q70e6btc2d0uv" />
 <outline text="Radio Estrella del Mar" title="Radio Estrella del Mar" type="rss" url="https://streamer.radio.co/sd5242d0b6/listen" />
+<outline text="RADIO FABULOSA 99.3 FM" title="RADIO FABULOSA 99.3 FM" type="rss" url="https://eu1-sonic.serverse.com/8008/stream" />
 <outline text="Radio Hermanos" title="Radio Hermanos" type="rss" url="https://stream.zenolive.com/vq7z0a3u7mruv" />
+<outline text="Radio Juan Pablo Segundo 97.7 fm" title="Radio Juan Pablo Segundo 97.7 fm" type="rss" url="https://dc2.serverse.com:8040/stream" />
 <outline text="RADIO MARIA NICARAGUA" title="RADIO MARIA NICARAGUA" type="rss" url="http://dreamsiteradiocp4.com:8048/stream" />
+<outline text="Radio Nicaragua" title="Radio Nicaragua" type="rss" url="https://online.radionicaragua.com.ni/stream.mp3" />
 <outline text="Radio República" title="Radio República" type="rss" url="https://stream.zeno.fm/3kruxu5a9s8uv" />
 <outline text="Radio Sendas FM" title="Radio Sendas FM" type="rss" url="http://74.91.125.187:8028/listen.pls?sid=1" />
 <outline text="Radio Vandalica Nicaragua" title="Radio Vandalica Nicaragua" type="rss" url="https://stream.zeno.fm/caq3fwn1fnruv" />
 <outline text="Rock FM 105.5" title="Rock FM 105.5" type="rss" url="https://securestream.us/radio/8050/radio.mp3" />
+<outline text="Stereo Beso 94.5 FM" title="Stereo Beso 94.5 FM" type="rss" url="https://a9.asurahosting.com:7140/" />
 <outline text="Union Nacional Patriotica" title="Union Nacional Patriotica" type="rss" url="https://stream.zeno.fm/ap6umv11pzzuv" />
 </body>
 </opml>

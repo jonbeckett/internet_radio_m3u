@@ -18,6 +18,12 @@ https://shoutcast.finestfm.fi/stream/1/:80/stream
 http://www.happyu.ee/streaming/happyu.m3u
 #EXTINF:-1 Hard FM Estonia
 http://s5.radio.co/s69e02764f/listen
+#EXTINF:-1 Hitmix Estonia
+https://stream.hitmix.ee:8443/HIT_320
+#EXTINF:-1 Kaguraadio
+https://locomanoco.vlevelscdn.net/radio/kaguraadio.stream/playlist.m3u8
+#EXTINF:-1 Kiss FM
+https://stream.skymedia.ee/live/KISS
 #EXTINF:-1 KlaRa Jazz
 https://icecast.err.ee/klarajazz.mp3
 #EXTINF:-1 KlaRa Klassika
@@ -26,8 +32,6 @@ https://icecast.err.ee/klaraklassika.mp3
 https://icecast.err.ee/klaranostalgia.mp3
 #EXTINF:-1 Kuma FM 101.0
 http://5.39.16.62:8004/tre
-#EXTINF:-1 Nõmmeraadio
-http://149.210.138.12:8000/nommeraadio
 #EXTINF:-1 NRJ Tallinn
 https://edge03.cdn.bitflip.ee:8888/NRJ
 #EXTINF:-1 Pereraadio Kuressaare
@@ -44,10 +48,16 @@ http://icecast.err.ee/raadio2korge.mp3.m3u
 http://icecast.err.ee/raadio2korge.mp3
 #EXTINF:-1 Raadio 7
 https://edge05.cdn.bitflip.ee:8888/R7
+#EXTINF:-1 Raadio Kadi
+https://edge06.cdn.bitflip.ee:8888/kadi
 #EXTINF:-1 Raadio Kuku
 https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_high.mp3
+#EXTINF:-1 Raadio KUKU
+http://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_low.mp3
 #EXTINF:-1 Raadio Tallinn
 http://icecast.err.ee/raadiotallinn.mp3?type=.mp3/stream.mp3
+#EXTINF:-1 Radio Azathoth Revival
+https://cast4.asurahosting.com/proxy/aadu/stream
 #EXTINF:-1 Radio Eli
 http://icecast.pereraadio.ee:8000/RadioEli
 #EXTINF:-1 Retro FM Estonia
@@ -66,8 +76,8 @@ https://stream.skymedia.ee/live/SKY
 http://media.uunox.net:8888/listen.pls
 #EXTINF:-1 SSS-Radio
 http://217.146.76.112:8000/sss-radio
-#EXTINF:-1 Tartu Family Radio
-http://worker.pereraadio.ee:8000/
+#EXTINF:-1 Tagatuba FM
+https://sp.streams.ovh/8012/stream
 #EXTINF:-1 Tartu Pereraadio
 http://bee.pereraadio.ee:8000/
 #EXTINF:-1 Tre Raadio Kesk-Eesti
@@ -87,6 +97,6 @@ http://sc2.treraadio.ee/viru-tre
 #EXTINF:-1 VIKERRAADIO
 http://icecast.err.ee/vikerraadiokorge.mp3
 #EXTINF:-1 Vikerraadio
-http://icecast.err.ee/vikerraadio.mp3.m3u
-#EXTINF:-1 Võmba FM
-https://c4.radioboss.fm:18123/stream.m3u
+http://icecast.err.ee/vikerraadio.mp3
+#EXTINF:-1 Семейное Радио Эли. Тарту 1035 КГц
+http://icecast.pereraadio.ee:8000/RadioEli

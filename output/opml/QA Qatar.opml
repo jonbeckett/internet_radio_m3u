@@ -4,10 +4,12 @@
 <title>Internet Radio Stations for QA Qatar</title>
 </head>
 <body>
-<outline text=". Islam call " title=". Islam call " type="rss" url="https://n0c.radiojar.com/59096z743d0uv?rj-ttl=5&amp;rj-tok=AAABhd07tHIAJ2GRl2KNynaKow" />
 <outline text=". القارئ محمد أيوب " title=". القارئ محمد أيوب " type="rss" url="https://qurango.net/radio/mohammed_ayyub" />
 <outline text=".. مختصر التفسير " title=".. مختصر التفسير " type="rss" url="https://qurango.net/radio/mukhtasartafsir" />
-<outline text="Qabayan Radio 94.3 FM" title="Qabayan Radio 94.3 FM" type="rss" url="http://c2.radioboss.fm:8478/live" />
+<outline text="Dagher_" title="Dagher_" type="rss" url="https://stream.zeno.fm/iafq9jbztjluv" />
+<outline text="Qabayan Radio 94.3 FM" title="Qabayan Radio 94.3 FM" type="rss" url="https://c2.radioboss.fm:18478/stream" />
+<outline text="Radio Olive 106.3 - Jiyo Bindass" title="Radio Olive 106.3 - Jiyo Bindass" type="rss" url="https://22733.live.streamtheworld.com/OLIVE1063.mp3" />
+<outline text="SUNO 91.7" title="SUNO 91.7" type="rss" url="https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3" />
 <outline text="Suno Malayalam FM" title="Suno Malayalam FM" type="rss" url="https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3" />
 <outline text="إذاعة طريق السلف
 

@@ -2,22 +2,34 @@
 #PLAYLIST:Internet Radio Stations for PY Paraguay
 #EXTINF:-1 100% Reggaeton Radio
 https://stream-148.zeno.fm/qmhf2yd9dm0uv
+#EXTINF:-1 1140am Central Radio
+https://stream.zeno.fm/blkeeuikomhvv
 #EXTINF:-1 Cáritas AM 680
 http://200.1.201.244:8000/680AM
+#EXTINF:-1 CFA Radio
+https://rds3.desdeparaguay.net:8002/cfa
 #EXTINF:-1 Mix radio Sandro cd.s 
 http://stream.zeno.fm/n6pcbk423rhvv
 #EXTINF:-1 Radio ABC Cardinal 730 AM
 http://sc.abc.com.py:8000/stream
+#EXTINF:-1 Radio ABC FM 98.5
+http://200.3.249.91:8000/abcradio/fm.mp3
+#EXTINF:-1 Radio Capital 101.7 FM
+http://ic2489.c1788.fastserv.com/stream
+#EXTINF:-1 RADIO DRAC REMIX MUSIC FM 
+https://stream.zeno.fm/qtbt6vqrta0uv
 #EXTINF:-1 RADIO EXITOS DE AYER
 http://stream.zeno.fm/hvnh6d5uebruv
-#EXTINF:-1 Radio Luz 101.5 FM
-http://167.114.116.223:9960/stream.nsv
 #EXTINF:-1 RADIO MARIA PARAGUAY
 http://dreamsiteradiocp.com:8090/stream
-#EXTINF:-1 Radio Nacional de Paraguay 95.1 FM
-http://audio2.radionacional.gov.py:8084/951fm
 #EXTINF:-1 Radio Nacional del Paraguay 920 AM
 http://audio.radionacional.gov.py:8085/920
+#EXTINF:-1 Radio OBEDIRA Online
+https://s17.ssl-stream.com/proxy/obedira?mp=/live
+#EXTINF:-1 Radio Paz de Dios
+http://stream.zeno.fm/t3enydk3z98uv
+#EXTINF:-1 Radio Pop 93.3 FM
+http://rps1.radiopop.com.py:8000/stream
 #EXTINF:-1 Radio Siete 107.7 FM
 https://rss1.siete.com.py:9433/stream
 #EXTINF:-1 Radio Tu Voz
@@ -26,3 +38,5 @@ https://radiotuvoz.online/listen/radio_tu_voz_/radio.mp3
 http://stream.zeno.fm/z07vyxbqz8quv
 #EXTINF:-1 Radio ZP-30, La Voz del Chaco Paraguayo Stream
 http://184.154.43.106:8019/stream
+#EXTINF:-1 super radio
+https://c32.radioboss.fm:8139/stream

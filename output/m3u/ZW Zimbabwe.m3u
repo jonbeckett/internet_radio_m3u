@@ -1,6 +1,4 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations for ZW Zimbabwe
-#EXTINF:-1 Khulumani FM
-http://197.221.250.170:88/broadwavehigh.mp3
-#EXTINF:-1 Zimbabwe Khulumani Radio
-http://197.221.250.170:88/broadwavehigh.mp3?src=1
+#EXTINF:-1 Nehanda Radio
+https://eu4.fastcast4u.com/proxy/lancguma?mp=/1

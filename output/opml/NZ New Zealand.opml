@@ -7,17 +7,18 @@
 <outline text="100,3FM South Canterbury" title="100,3FM South Canterbury" type="rss" url="http://uk4-vn.mixstream.net:8066/stream/1/" />
 <outline text="2XS FM Palmerston North" title="2XS FM Palmerston North" type="rss" url="http://125.236.204.178:8001/listen.mp3" />
 <outline text="8K.NZ" title="8K.NZ" type="rss" url="http://radio8k.out.airtime.pro:8000/radio8k_a.m3u" />
+<outline text="8K.NZ || Christchurch, NZ" title="8K.NZ || Christchurch, NZ" type="rss" url="http://radio8k.out.airtime.pro:8000/radio8k_a" />
+<outline text="91.2 Oamaru FM" title="91.2 Oamaru FM" type="rss" url="https://usa1-vn.mixstream.net/8096/listen.mp3" />
 <outline text="95BFM" title="95BFM" type="rss" url="https://streams.95bfm.com/stream95" />
-<outline text="Andhow fm" title="Andhow fm" type="rss" url="https://us4.internet-radio.com/proxy/andhowfm?mp=/stream" />
-<outline text="Auckland 80s" title="Auckland 80s" type="rss" url="https://streamer.radio.co/s81fc850fd/listen" />
+<outline text="95bFM " title="95bFM " type="rss" url="https://streams.95bfm.com/stream95" />
+<outline text="Arrow FM" title="Arrow FM" type="rss" url="https://live.accessmedia.nz/ArrowFM.stream/playlist.m3u8" />
+<outline text="Arrow FM 92.7" title="Arrow FM 92.7" type="rss" url="https://live.accessmedia.nz/ArrowFM.stream/playlist.m3u8" />
 <outline text="Bay FM 100.7" title="Bay FM 100.7" type="rss" url="https://s38.myradiostream.com:8876/?listening-from-radio-garden=1686796930" />
 <outline text="BeachFM 106.3" title="BeachFM 106.3" type="rss" url="http://s8.myradiostream.com:58408/" />
-<outline text="Beagle Radio 88.1FM" title="Beagle Radio 88.1FM" type="rss" url="https://secure1.reliastream.com/beagleradio/stream" />
-<outline text="Beagle Radio Live" title="Beagle Radio Live" type="rss" url="https://secure1.reliastream.com/beagleradio/stream" />
 <outline text="Big River FM" title="Big River FM" type="rss" url="http://bigriver.broadcast.co.nz/bigriverfm.mp3" />
-<outline text="Calvary Radio NZ" title="Calvary Radio NZ" type="rss" url="https://s1.voscast.com:11363/live?_=994563" />
+<outline text="Bollybop" title="Bollybop" type="rss" url="https://s3.radio.co/s2f19d44d0/listen" />
+<outline text="Chopper FM Southland 87.6" title="Chopper FM Southland 87.6" type="rss" url="https://s1.voscast.com:11235/stream" />
 <outline text="Coast Access Radio MP3" title="Coast Access Radio MP3" type="rss" url="https://live.accessmedia.nz/Coast.stream/playlist.m3u8" />
-<outline text="Coast FM 96.5 Westport - New Zealand" title="Coast FM 96.5 Westport - New Zealand" type="rss" url="http://37.59.37.6:12364/nocache=1625478274?0.931107896726214" />
 <outline text="Compass FM" title="Compass FM" type="rss" url="http://stream.compassfm.org.nz:8000/Compass_FM_104.9" />
 <outline text="Cool Blue Taupo" title="Cool Blue Taupo" type="rss" url="http://falcon.shoutca.st:8166/stream" />
 <outline text="Country Radio Invercargill 105.2FM" title="Country Radio Invercargill 105.2FM" type="rss" url="http://countryradio2.no-ip.org:8000/" />
@@ -28,88 +29,92 @@
 <outline text="Easy 80s" title="Easy 80s" type="rss" url="http://procyon.shoutca.st:8032/" />
 <outline text="Galaxy 107 FM  Kawerau" title="Galaxy 107 FM  Kawerau" type="rss" url="http://s39.myradiostream.com:14858/listen.mp3" />
 <outline text="Gone Country" title="Gone Country" type="rss" url="https://usa10.fastcast4u.com:6010/?type=http&amp;nocache=1676417570" />
+<outline text="Heads FM Mangawhai 106.4" title="Heads FM Mangawhai 106.4" type="rss" url="https://headsfm.radioca.st/stream" />
 <outline text="https://badradio.nz/ - 24/7 PHONK" title="https://badradio.nz/ - 24/7 PHONK" type="rss" url="https://s2.radio.co/s2b2b68744/listen" />
 <outline text="Hutt Radio 88.3FM" title="Hutt Radio 88.3FM" type="rss" url="https://stream.zeno.fm/argf5n7rbrruv" />
+<outline text="jakemusic" title="jakemusic" type="rss" url="https://camera.jakebriggs.com/jakemusic" />
+<outline text="Jazz Cafe" title="Jazz Cafe" type="rss" url="http://radio.wanderingsheep.tv:8000/jazzcafe" />
 <outline text="KAOS Blenheim NZ" title="KAOS Blenheim NZ" type="rss" url="http://74.91.125.187:8068/stream" />
+<outline text="Kiwi Folk Radio" title="Kiwi Folk Radio" type="rss" url="https://streamer.radio.co/sde527a41e/listen" />
 <outline text="KIX FM" title="KIX FM" type="rss" url="https://stream.kixfm.co.nz:8178/stream" />
+<outline text="Lake FM Taupo" title="Lake FM Taupo" type="rss" url="https://lakefm-gecko.radioca.st/stream" />
 <outline text="LibertyNZ on The Wireless" title="LibertyNZ on The Wireless" type="rss" url="https://stream.zeno.fm/lamr6x1fxrruv.pls" />
 <outline text="LifeFM" title="LifeFM" type="rss" url="http://rhema-radio.streamguys1.com/rhema-lifefm.mp3" />
 <outline text="MAD FM Auckland 106.7" title="MAD FM Auckland 106.7" type="rss" url="https://madfm-gecko.radioca.st/stream" />
-<outline text="Magic Muzik Madness" title="Magic Muzik Madness" type="rss" url="https://eu10.fastcast4u.com/3mfm" />
+<outline text="metalradio.co.nz" title="metalradio.co.nz" type="rss" url="http://curiosity.shoutca.st:9073/stream" />
 <outline text="MFM Te Reo O Te Iwi" title="MFM Te Reo O Te Iwi" type="rss" url="https://stream-150.zeno.fm/utfkkxfawp8uv?zs=K14ATu12TS2dc8uy0OiMBw" />
+<outline text="MIX FM Wellington" title="MIX FM Wellington" type="rss" url="https://stream.mixfm.nz/" />
 <outline text="Mountainside FM" title="Mountainside FM" type="rss" url="http://stream.nrgkits.co.nz:5000/mountainside" />
 <outline text="Mouthfull Radio" title="Mouthfull Radio" type="rss" url="https://mouthfull-radio.radiocult.fm/stream" />
 <outline text="MPR Manawatu People&apos;s Radio" title="MPR Manawatu People&apos;s Radio" type="rss" url="https://live.accessmedia.nz/MPR.stream/playlist.m3u8" />
 <outline text="Mushroom Escape" title="Mushroom Escape" type="rss" url="https://cast3.my-control-panel.com/proxy/jonatha1/escape?1664781783632" />
 <outline text="Mushroom FM" title="Mushroom FM" type="rss" url="https://www.mushroomfm.com/media/listen.pls" />
-<outline text="Nelson Community Radio 88.1FM" title="Nelson Community Radio 88.1FM" type="rss" url="https://crnz.net:8000/?type=http&amp;nocache=6" />
-<outline text="Nelson Community Radio Station 88.1 FM - New Zealand" title="Nelson Community Radio Station 88.1 FM - New Zealand" type="rss" url="https://crnz.net:8000/?type=http&amp;nocache=6" />
-<outline text="New Zealand Net Radio" title="New Zealand Net Radio" type="rss" url="http://www.nznetradio.net.nz:8000/stream.mp3" />
 <outline text="Niu FM" title="Niu FM" type="rss" url="https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFM.mp3?dist=onlineradiobox" />
-<outline text="Nui FM Taupo" title="Nui FM Taupo" type="rss" url="https://nuifmjac-gecko.radioca.st/index" />
 <outline text="Oamaru Heritage Radio" title="Oamaru Heritage Radio" type="rss" url="http://202.9.116.204:8000/ohrweb" />
 <outline text="OAR 105.4FM Dunedin" title="OAR 105.4FM Dunedin" type="rss" url="https://live.accessmedia.nz/Otago.stream/playlist.m3u8" />
 <outline text="One Christian Radio" title="One Christian Radio" type="rss" url="https://radio.wanderingsheep.net:33001/onechristianradio" />
 <outline text="Paekakariki" title="Paekakariki" type="rss" url="http://icecast.groundtruth.co.nz:8000/paekakfm.mp3.m3u" />
+<outline text="Plains FM 96.9" title="Plains FM 96.9" type="rss" url="https://live.accessmedia.nz/plains.stream/playlist.m3u8" />
 <outline text="Positively Morrinsville 87.7FM" title="Positively Morrinsville 87.7FM" type="rss" url="https://c16.radioboss.fm:8262/stream?1652324863134" />
 <outline text="Power Hit FM 87.8 - Christchurch, NZ" title="Power Hit FM 87.8 - Christchurch, NZ" type="rss" url="http://listen.powerhitfm.co.nz:16100/stream" />
+<outline text="RadiJohan" title="RadiJohan" type="rss" url="http://69.30.214.54:13740/?type=http&amp;nocache=1708209708?0.5747864581171453" />
 <outline text="Radio - X" title="Radio - X" type="rss" url="https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC65_SC?dist=onlineradiobox" />
 <outline text="Radio A - Nelson NZ" title="Radio A - Nelson NZ" type="rss" url="https://listen.radioking.com/radio/106324/stream/145267" />
 <outline text="Radio Bay FM 100.7" title="Radio Bay FM 100.7" type="rss" url="https://s38.myradiostream.com:8876/?listening-from-radio-garden=1686969300" />
+<outline text="Radio Bolly Bop" title="Radio Bolly Bop" type="rss" url="http://s3.radio.co/s2f19d44d0/listen" />
+<outline text="Radio Bollybop" title="Radio Bollybop" type="rss" url="https://s3.radio.co/s2f19d44d0/listen" />
 <outline text="Radio Central" title="Radio Central" type="rss" url="https://stream.radioapp.co.nz/radiocentral" />
-<outline text="Radio Dannevirke" title="Radio Dannevirke" type="rss" url="http://radiodvke.ddns.net:8000/stream" />
 <outline text="Radio Hawkes Bay" title="Radio Hawkes Bay" type="rss" url="https://live.accessmedia.nz/Kidnappers.stream/playlist.m3u8" />
 <outline text="Radio Hydra" title="Radio Hydra" type="rss" url="https://streaming.radio.co/sed9109681/listen" />
 <outline text="Radio New Zealand National" title="Radio New Zealand National" type="rss" url="http://radionz-ice.streamguys.com/national.mp3" />
-<outline text="Radio One 91FM in Dunedin" title="Radio One 91FM in Dunedin" type="rss" url="http://stream.r1.co.nz:8090/r1-high.mp3" />
+<outline text="Radio one 91 fm " title="Radio one 91 fm " type="rss" url="https://play.r1.co.nz/live" />
+<outline text="Radio One 91FM" title="Radio One 91FM" type="rss" url="https://play.r1.co.nz/live" />
 <outline text="Radio Planeta 107.7" title="Radio Planeta 107.7" type="rss" url="http://radionz-ice.streamguys.com/national.mp3" />
 <outline text="Radio Redwood" title="Radio Redwood" type="rss" url="http://123.255.61.226:8020/?type=http&amp;nocache=76646" />
-<outline text="Radio Rock FM" title="Radio Rock FM" type="rss" url="http://www.radiorockfm.co.nz:8000/listenlive" />
 <outline text="Radio Samoa 1593am" title="Radio Samoa 1593am" type="rss" url="http://radiosamoa.stream.broadcast.co.nz:8000/rsamoa48k" />
+<outline text="Radio Sangeet Masti" title="Radio Sangeet Masti" type="rss" url="https://servidor19-4.brlogic.com:7304/live?source=website" />
 <outline text="Radio Spice (Auckland, New Zealand)" title="Radio Spice (Auckland, New Zealand)" type="rss" url="http://stream9.broadcast.co.nz:8000/radiospicewebsiteaudio.mp3" />
 <outline text="Radio Te Aroha 88FM" title="Radio Te Aroha 88FM" type="rss" url="https://c2.radioboss.fm:18440/stream" />
-<outline text="Radio Woodville" title="Radio Woodville" type="rss" url="http://103.146.193.211:88/broadwave.mp3" />
 <outline text="Radioactive.FM 88.6" title="Radioactive.FM 88.6" type="rss" url="https://radio123-gecko.radioca.st/radioactivefm" />
 <outline text="Radiowave NZ" title="Radiowave NZ" type="rss" url="https://listen.radioking.com/radio/106324/stream/145267" />
-<outline text="Rag-FM 107.7 Raglan" title="Rag-FM 107.7 Raglan" type="rss" url="https://ssl.shoutcaststreaming.us:8138/" />
+<outline text="Raglan Community Radio" title="Raglan Community Radio" type="rss" url="http://222.154.255.152:88/broadwave.mp3" />
 <outline text="RDU" title="RDU" type="rss" url="https://rdu985fm-gecko.radioca.st/stream" />
+<outline text="RDU 98.5FM" title="RDU 98.5FM" type="rss" url="https://rdu985fm-gecko.radioca.st/listen.pls?sid=1" />
 <outline text="Rhema" title="Rhema" type="rss" url="http://rhema-radio.streamguys1.com/rhema.mp3" />
-<outline text="RNZ - Radio New Zealand - In Parliament" title="RNZ - Radio New Zealand - In Parliament" type="rss" url="http://radionz-ice.streamguys.com/parliament.mp3" />
 <outline text="RNZ - Radio New Zealand Classic" title="RNZ - Radio New Zealand Classic" type="rss" url="http://radionz-ice.streamguys.com/concert.mp3" />
 <outline text="RNZ - Radio New Zealand International" title="RNZ - Radio New Zealand International" type="rss" url="http://radionz-ice.streamguys.com/international.mp3" />
-<outline text="RNZ AM Network" title="RNZ AM Network" type="rss" url="http://radionz-ice.streamguys.com/parliament.mp3" />
 <outline text="RNZ Concert" title="RNZ Concert" type="rss" url="http://radionz-ice.streamguys.com/concert.mp3" />
 <outline text="RNZ National" title="RNZ National" type="rss" url="http://radionz-ice.streamguys.com/national.mp3" />
 <outline text="RNZ Pacific" title="RNZ Pacific" type="rss" url="http://radionz-ice.streamguys.com/international.mp3" />
 <outline text="RNZ Parliament" title="RNZ Parliament" type="rss" url="http://radionz-ice.streamguys.com/parliament.mp3" />
 <outline text="Rush FM" title="Rush FM" type="rss" url="http://rushbroadcasting.serverroom.us:5204/" />
 <outline text="sleep radio" title="sleep radio" type="rss" url="http://65.109.81.84:9851/stream" />
-<outline text="Sleep Radio" title="Sleep Radio" type="rss" url="https://cast4.asurahosting.com:2199/tunein/sleeprad.pls" />
+<outline text="Sleep Radio" title="Sleep Radio" type="rss" url="https://cast4.my-control-panel.com/proxy/sleeprad/stream?1721309187745" />
 <outline text="Smash 107FM" title="Smash 107FM" type="rss" url="https://s19.myradiostream.com/:18892/?type=http&amp;nocache=1653124007?0.30724640509725076" />
+<outline text="Sounds Vagrant Radio" title="Sounds Vagrant Radio" type="rss" url="https://admin.soundsvagrant.live/listen/sounds_vagrant/high.mp3" />
 <outline text="Star" title="Star" type="rss" url="http://rhema-radio.streamguys1.com/rhema-star.mp3" />
 <outline text="Sub FM" title="Sub FM" type="rss" url="https://fmsub.radioca.st/stream?type=http&amp;nocache=140" />
-<outline text="The Cheese" title="The Cheese" type="rss" url="http://thecheese.ddns.net:8000/" />
+<outline text="Tama-Ohi" title="Tama-Ohi" type="rss" url="https://stream-162.zeno.fm/y4xnq17q068uv?zs=4tbvGUD1TfaydzO62IwtcQ" />
+<outline text="The Cheese" title="The Cheese" type="rss" url="https://station.thecheese.co.nz/listen/the_cheese/128.mp3" />
 <outline text="The Flea FM 88.2" title="The Flea FM 88.2" type="rss" url="http://49.50.246.42:8020/listen.pls" />
 <outline text="The Generator" title="The Generator" type="rss" url="https://s1.myradiostream.com/:14268/?type=http&amp;nocache=1608640718?0.7458407789862892" />
 <outline text="The Generator FM" title="The Generator FM" type="rss" url="https://s1.myradiostream.com/14268/stream/1/" />
-<outline text="The Hawk FM" title="The Hawk FM" type="rss" url="http://s45.myradiostream.com:19816/" />
 <outline text="The Most Fm" title="The Most Fm" type="rss" url="http://gordon.mostfm.com:8000/high.m3u" />
 <outline text="The Most FM 104.4" title="The Most FM 104.4" type="rss" url="http://gordon.mostfm.com:8000/high" />
-<outline text="The Pulse NZ" title="The Pulse NZ" type="rss" url="http://173.255.253.156:8000/pulse" />
+<outline text="The Pits FM 107.7" title="The Pits FM 107.7" type="rss" url="https://s1.voscast.com:11221/stream" />
+<outline text="The Studio 88.1FM Dunedin" title="The Studio 88.1FM Dunedin" type="rss" url="http://s23.myradiostream.com/:16100/listen.mp3" />
 <outline text="The Wireless (Today&apos;s Best Country)" title="The Wireless (Today&apos;s Best Country)" type="rss" url="https://stream.zeno.fm/lamr6x1fxrruv" />
+<outline text="Tiri 2" title="Tiri 2" type="rss" url="https://servidor34-4.brlogic.com:7138/live?source=website" />
 <outline text="TLC Radio Northland" title="TLC Radio Northland" type="rss" url="http://203.118.136.79:88/broadwave.mp3" />
 <outline text="Total FM Dunedin 107.3" title="Total FM Dunedin 107.3" type="rss" url="http://listen.totalfm.nz:8000/stream" />
-<outline text="True Light 87.8FM" title="True Light 87.8FM" type="rss" url="http://stream.truelightfm.co.nz:8000/mp3" />
-<outline text="True Light FM" title="True Light FM" type="rss" url="http://stream.truelightfm.co.nz:8000/mp3" />
 <outline text="UP FM 107.5" title="UP FM 107.5" type="rss" url="https://stream.upfm.live/radio/8000/radio.mp3" />
 <outline text="Waiheke Radio 88.3" title="Waiheke Radio 88.3" type="rss" url="https://s47.myradiostream.com:9962/listen" />
-<outline text="Waiheke Wireless Meditate" title="Waiheke Wireless Meditate" type="rss" url="http://66.70.249.70:5654/stream" />
 <outline text="Wandering Sheep Radio - Christian Smooth Jazz" title="Wandering Sheep Radio - Christian Smooth Jazz" type="rss" url="http://radio.wanderingsheep.tv:8021/christianjazz" />
 <outline text="Wandering Sheep Radio - Hope Alive" title="Wandering Sheep Radio - Hope Alive" type="rss" url="http://radio.wanderingsheep.tv:8012/hopealive" />
 <outline text="Wandering Sheep Radio - Jazz Cafe" title="Wandering Sheep Radio - Jazz Cafe" type="rss" url="http://radio.wanderingsheep.tv:8000/jazzcafe" />
 <outline text="WCR 87.6 FM" title="WCR 87.6 FM" type="rss" url="http://stream2.nrgkits.co.nz:5000/wcrfm" />
 <outline text="Wellington Access Radio" title="Wellington Access Radio" type="rss" url="https://live.accessmedia.nz/Wellington.stream/playlist.m3u8" />
-<outline text="West FM Swing Radio" title="West FM Swing Radio" type="rss" url="http://dledgar.dyndns.org:8000/westfm" />
+<outline text="West FM Swing Radio" title="West FM Swing Radio" type="rss" url="http://westfm.freeddns.org:8000/westfm" />
 <outline text="XS80s" title="XS80s" type="rss" url="http://s1.myradiostream.com:12508/listen.mp3" />
 <outline text="ZFM Global" title="ZFM Global" type="rss" url="http://nebula.shoutca.st:8545/stream/1/" />
 <outline text="新西兰华人之声AM936新超凡" title="新西兰华人之声AM936新超凡" type="rss" url="http://radio.936.nz:8000/am936" />

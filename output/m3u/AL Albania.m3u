@@ -1,29 +1,39 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations for AL Albania
+#EXTINF:-1 Alfa & Omega Radio
+http://cp13.shoutcheap.com:8094/?1721828214059
 #EXTINF:-1 chili moje
 https://media-ssl.musicradio.com/ChillMP3
 #EXTINF:-1 Chill Radio
 http://eu8.fastcast4u.com/proxy/chillradio?mp=/1
 #EXTINF:-1 City Radio - Tirana 88.0 FM
 https://cp1.sednastream.com/proxy/cityradio?mp=/stream
+#EXTINF:-1 CLUB FM
+https://cp1.sednastream.com/proxy/clubfm?mp=/stream
+#EXTINF:-1 Club FM Kosova
+https://cp1.sednastream.com/proxy/clubfmkosova?mp=/stream
 #EXTINF:-1 Eurostar Radio - Tirana 94.4 FM
 http://radioeurostar.al:9000/stream
 #EXTINF:-1 MCN Radio - Tirana 103.1 FM
 http://46.183.121.48:8000/mcn
+#EXTINF:-1 My Music Radio - Tirana 97.3 FM
+https://live.top-media.al/mmr
+#EXTINF:-1 Paper Radio
+https://business.playfm.al:8160/paperfm
 #EXTINF:-1 Phish Radio
 https://streaming.radio.co/sd71de59b3/listen
 #EXTINF:-1 Play Radio - Tirana 91.1 FM
 http://n0d.radiojar.com/sx7zrht0pg0uv
 #EXTINF:-1 Play Radio Albania
 http://stream.radiojar.com/sx7zrht0pg0uv
+#EXTINF:-1 PLAY RADIO ALBANIA
+https://stream.radiojar.com/sx7zrht0pg0uv
 #EXTINF:-1 Radio burimi
 https://stream-156.zeno.fm/vzp9uf0u3ehvv?zs=Jubk5XJHTEC2zFWm3mOTfA
 #EXTINF:-1 Radio Club FM - Tirana 100.4 MHz
 https://cp1.sednastream.com/proxy/clubfm?mp=/stream
 #EXTINF:-1 Radio DJ
 https://radio.albaniaradiodj.al/stream
-#EXTINF:-1 Radio DJ - Tirana 98.2 FM
-https://antena.albaniadigitalradio.al/radiodj
 #EXTINF:-1 Radio Kontakt - Tirana 89.3 FM
 http://84.20.83.24:88/broadwavehigh.mp3?src=1
 #EXTINF:-1 Radio Ora News
@@ -40,9 +50,13 @@ http://79.106.48.2:8000/radiotirana1
 https://stream.zeno.fm/0smrlmhdbxuuv
 #EXTINF:-1 Raduo-BLLACA
 https://stream.zeno.fm/0smrlmhdbxuuv
+#EXTINF:-1 Sophie Caffe Radio
+https://sophiecafferadio.live/sophie.mp3
 #EXTINF:-1 Tirana Jazz Radio
-http://live.tiranajazzradio.com:8000/stream
+https://live.tiranajazzradio.com:8443/stream
 #EXTINF:-1 Top Albania Radio - Tirana 100 .0 FM
 https://live.topgold.al/tar
 #EXTINF:-1 Top Albanian Radio
 https://live.top-media.al/tar
+#EXTINF:-1 Top Gold Radio - Tirana 100.8 FM
+https://live.topgold.al/topgold

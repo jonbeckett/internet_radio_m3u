@@ -5,9 +5,13 @@
 </head>
 <body>
 <outline text="Konect Radio" title="Konect Radio" type="rss" url="https://listen.radioking.com/radio/129973/stream/169819" />
+<outline text="Le passage du chat blanc" title="Le passage du chat blanc" type="rss" url="https://play.radioking.io/wa-ho" />
 <outline text="louange radio " title="louange radio " type="rss" url="https://radio13.pro-fhi.net:19079/" />
+<outline text="Love Hit Reunion " title="Love Hit Reunion " type="rss" url="https://stream.zeno.fm/wcfjkonehdlvv.mp3" />
+<outline text="NRJ Réunion" title="NRJ Réunion" type="rss" url="https://scdn.nrjaudio.fm/fr_re/55759/mp3_128.mp3?cdn_path=adswizz_lbs9&amp;adws_out_2" />
 <outline text="NRJ Réunion 100,0 FM" title="NRJ Réunion 100,0 FM" type="rss" url="http://cdn.nrjaudio.fm/adwz1/fr_re/55759/mp3_128.mp3" />
 <outline text="Radio Babouk" title="Radio Babouk" type="rss" url="https://listen.radioking.com/radio/244351/stream/288496" />
 <outline text="Réunion La 1ère" title="Réunion La 1ère" type="rss" url="https://reunion.ice.infomaniak.ch/reunion-128.mp3" />
+<outline text="Réunion la 1ère (La1er)" title="Réunion la 1ère (La1er)" type="rss" url="https://reunion.ice.infomaniak.ch/reunion-128.mp3" />
 </body>
 </opml>

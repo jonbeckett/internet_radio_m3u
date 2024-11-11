@@ -5,6 +5,8 @@
 </head>
 <body>
 <outline text="Grandes Clássicos da Música Moçambicana " title="Grandes Clássicos da Música Moçambicana " type="rss" url="https://stream.zeno.fm/bm29ouxe0hrtv" />
+<outline text="Rádio Cidade - Beira 105.2 FM" title="Rádio Cidade - Beira 105.2 FM" type="rss" url="https://node.stream-africa.com:8443/RadioCidadeBeira" />
 <outline text="Rádio Moçambique Antena Nacional" title="Rádio Moçambique Antena Nacional" type="rss" url="https://node.stream-africa.com:8443/AntenaNacional" />
+<outline text="Super FM 101.9" title="Super FM 101.9" type="rss" url="http://41.223.153.14:8000/stream/1" />
 </body>
 </opml>

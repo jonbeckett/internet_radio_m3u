@@ -6,7 +6,6 @@
 <body>
 <outline text=". إذاعة ماهر المعيقلي " title=". إذاعة ماهر المعيقلي " type="rss" url="https://backup.qurango.net/radio/maher" />
 <outline text="..مختصر التفسير " title="..مختصر التفسير " type="rss" url="https://qurango.net/radio/mukhtasartafsir" />
-<outline text=".Nidaa Islam " title=".Nidaa Islam " type="rss" url="https://n0c.radiojar.com/59096z743d0uv?rj-ttl=5&amp;rj-tok=AAABhd07tHIAJ2GRl2KNynaKow" />
 <outline text=".القارئ محمد أيوب " title=".القارئ محمد أيوب " type="rss" url="https://qurango.net/radio/mohammed_ayyub" />
 <outline text=".صور من حياة الصحابة" title=".صور من حياة الصحابة" type="rss" url="https://qurango.net/radio/sahabah" />
 <outline text=".مختصر السيرة " title=".مختصر السيرة " type="rss" url="https://qurango.net/radio/almukhtasar_fi_alsiyra" />
@@ -16,31 +15,33 @@
 <outline text="al quran radio " title="al quran radio " type="rss" url="https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&amp;rj-tok=AAABhdgGORQA-2acfyF3_4WY2g" />
 <outline text="Alger Chaine 3" title="Alger Chaine 3" type="rss" url="https://webradio.tda.dz/Chaine3_64K.mp3" />
 <outline text="Antinea Radio" title="Antinea Radio" type="rss" url="https://listen.radioking.com/radio/6640/stream/347" />
-<outline text="Ballad" title="Ballad" type="rss" url="https://radiodzair.net:8300/" />
 <outline text="beautiful recitation " title="beautiful recitation " type="rss" url="https://qurango.net/radio/salma" />
 <outline text="Beur FM" title="Beur FM" type="rss" url="https://beurfm.ice.infomaniak.ch/beurfm-high.mp3" />
 <outline text="chaine 1" title="chaine 1" type="rss" url="https://webradio.tda.dz/Chaine1_64K.mp3" />
 <outline text="Chaine 1" title="Chaine 1" type="rss" url="https://webradio.tda.dz/Chaine1_64K.mp3" />
 <outline text="Chaine 3" title="Chaine 3" type="rss" url="https://webradio.tda.dz/Chaine3_64K.mp3" />
+<outline text="Chane1" title="Chane1" type="rss" url="https://webradio.tda.dz/Chaine1_64K.mp3" />
+<outline text="CHLEF" title="CHLEF" type="rss" url="https://webradio.tda.dz/Chlef_64K.mp3" />
+<outline text="CORAN ALGERIA" title="CORAN ALGERIA" type="rss" url="https://webradio.tda.dz/Coran_64K.mp3" />
+<outline text="CULTURE " title="CULTURE " type="rss" url="https://webradio.tda.dz/Culture_64K.mp3" />
+<outline text="curan saudi" title="curan saudi" type="rss" url="http://stream.radiojar.com/0tpy1h0kxtzuv" />
 <outline text="El Bahdja" title="El Bahdja" type="rss" url="https://webradio.tda.dz/ElBahdja_64K.mp3" />
 <outline text="el bahdja fm" title="el bahdja fm" type="rss" url="http://webradio.tda.dz:8001/ElBahdja_64K.mp3" />
+<outline text="el_bahdja" title="el_bahdja" type="rss" url="https://webradio.tda.dz/ElBahdja_64K.mp3" />
 <outline text="France Maghreb 2" title="France Maghreb 2" type="rss" url="https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3" />
 <outline text="ghardaia" title="ghardaia" type="rss" url="https://webradio.tda.dz/Ghardaia_64K.mp3" />
+<outline text="GHELIZAN" title="GHELIZAN" type="rss" url="https://webradio.tda.dz/Relizan_64K.mp3" />
 <outline text="GhorbaDz" title="GhorbaDz" type="rss" url="https://stream-150.zeno.fm/y9rchc1djgavv?zs=bcPxFTkWTZOhirTC49uQiQ" />
 <outline text="Hits 1 Algérie" title="Hits 1 Algérie" type="rss" url="https://radio12.pro-fhi.net/listen/whmnrlow/stream" />
 <outline text="Hits1 Algérie" title="Hits1 Algérie" type="rss" url="https://player.mc.hits1radio.com/" />
-<outline text="Jil FM" title="Jil FM" type="rss" url="https://webradio.tda.dz/Jeunesse_64K.mp3" />
 <outline text="jil Fm dz" title="jil Fm dz" type="rss" url="https://webradio.tda.dz/Jeunesse_64K.mp3" />
-<outline text="JiL fm HD" title="JiL fm HD" type="rss" url="https://webradio.tda.dz/Jeunesse_64K.mp3" />
 <outline text="JOW Radio" title="JOW Radio" type="rss" url="https://str0.creacast.com/jowradio" />
 <outline text="Jow Radio" title="Jow Radio" type="rss" url="https://ice.creacast.com/jowradio" />
-<outline text="medradio" title="medradio" type="rss" url="https://streamer.eagrpservices.com/audio/medradio.mp3" />
-<outline text="MfM HD" title="MfM HD" type="rss" url="https://streamer.eagrpservices.com/audio/mfmradio.ogg" />
+<outline text="ORAN" title="ORAN" type="rss" url="https://webradio.tda.dz/Oran_64K.mp3" />
 <outline text="Radio Algérienne Chaine 3" title="Radio Algérienne Chaine 3" type="rss" url="https://webradio.tda.dz/Chaine3_64K.mp3" />
 <outline text="Radio Bichou" title="Radio Bichou" type="rss" url="https://ice.creacast.com/jowradio-rai" />
 <outline text="Radio Blida (7h-20h)" title="Radio Blida (7h-20h)" type="rss" url="https://webradio.tda.dz/Blida_64K.mp3" />
 <outline text="Radio Boumerdes (7h-20h)" title="Radio Boumerdes (7h-20h)" type="rss" url="https://webradio.tda.dz/Boumerdes_64K.mp3" />
-<outline text="Radio Culture" title="Radio Culture" type="rss" url="https://webradio.tda.dz/Culture_64K.mp3" />
 <outline text="Radio Dzaïr" title="Radio Dzaïr" type="rss" url="https://radiodzair.net:8000/dzair?shoutcast" />
 <outline text="Radio Dzair" title="Radio Dzair" type="rss" url="https://radiodzair.net:8000/dzair?shoutcast" />
 <outline text="Radio Dzair Andaloussia" title="Radio Dzair Andaloussia" type="rss" url="https://radiodzair.net:8020/andaloussia?shoutcast" />
@@ -50,11 +51,11 @@
 <outline text="Radio Dzair Raina" title="Radio Dzair Raina" type="rss" url="https://radiodzair.net:8060/raina?shoutcast" />
 <outline text="Radio Dzair Sahara" title="Radio Dzair Sahara" type="rss" url="https://radiodzair.net:8040/sahara?shoutcast" />
 <outline text="Radio internationale" title="Radio internationale" type="rss" url="https://webradio.tda.dz/Internationale_64K.mp3" />
-<outline text="Radio M" title="Radio M" type="rss" url="https://listen.radioking.com/radio/540956/stream/599777" />
 <outline text="Radio Soummam" title="Radio Soummam" type="rss" url="https://webradio.tda.dz/Bejaia_64K.mp3" />
 <outline text="Radio Tipaza (7h-20h)" title="Radio Tipaza (7h-20h)" type="rss" url="https://webradio.tda.dz/Tipaza_64K.mp3" />
+<outline text="SIDIBELABES" title="SIDIBELABES" type="rss" url="https://webradio.tda.dz/SidiBelabes_64K.mp3" />
 <outline text="sleep" title="sleep" type="rss" url="http://65.109.81.84:9851/stream" />
-<outline text="solei" title="solei" type="rss" url="http://radiosoleil.ice.infomaniak.ch/radiosoleil-128.mp3" />
+<outline text="ygg" title="ygg" type="rss" url="http://online.svitle.org:6728/kids.128.mp3" />
 <outline text="Zaman FM" title="Zaman FM" type="rss" url="https://webradio.tda.dz/Zamen_64K.mp3" />
 <outline text="إذاعة البهجة" title="إذاعة البهجة" type="rss" url="https://webradio.tda.dz/ElBahdja_64K.mp3" />
 <outline text="إذاعة الجزائر الدولية" title="إذاعة الجزائر الدولية" type="rss" url="https://webradio.tda.dz/Internationale_64K.mp3" />

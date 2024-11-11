@@ -1,68 +1,98 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations for BO Bolivia
+#EXTINF:-1 Ciudad Radio 101.5 FM
+https://emiteradio.com/proxy/monteroradio?mp=/stream
+#EXTINF:-1 Clásica 100.3 FM
+https://ares.disfrutaenlared.com:10992/stream
 #EXTINF:-1 Coral FM 96.7 La del Sabor
 https://stream.zeno.fm/7yetzvv8sm0uv
-#EXTINF:-1 Dosis Diaria Bolivia Online
-https://stream.dosisdiariabolivia.com/radio/8000/live
+#EXTINF:-1 Cristo Viene La Red
+https://stream20.usastreams.com:7000/stream
+#EXTINF:-1 Diana D 102.1 FM
+https://cesarradio.realserver.es/listen/diana_d_/radio.mp3
+#EXTINF:-1 El Deber Radio 103.3 FM
+https://cast.az-streamingserver.com/proxy/grupoeld?mp=/stream
 #EXTINF:-1 El Derribador Radio
 http://sc10.conectarhosting.com/proxy/derribadorradio/
 #EXTINF:-1 El Fin del Silencio
 https://servidor24-1.brlogic.com:7302/live
-#EXTINF:-1 Estrella 93.1 FM
-http://200.58.82.171:8000/
+#EXTINF:-1 Eres Radio 98.5 FM
+https://sp5.servidorrprivado.com/8789/stream
+#EXTINF:-1 Fm La Paz 96.7
+https://spanel.gcomstreaming.com/8018/stream
+#EXTINF:-1 Hit 105.7 FM
+https://stream-175.zeno.fm/u7ixfizasppvv?zs=hOeDNX_iSJaUUl90gnwQfQ
 #EXTINF:-1 HUG - RADIO FOX STYLE
 http://stream.zeno.fm/leyjhheodeutv
-#EXTINF:-1 MEGATRON MIX
-http://stream.zeno.fm/rw67aty148quv.pls
+#EXTINF:-1 INOLVIDABLE BOLIVIA
+https://zoyradio.online:8020/inolvidablebolivia.mp3
+#EXTINF:-1 Maritima fm
+https://spanel.gcomstreaming.com/8004/stream
+#EXTINF:-1 Oxígeno 107.5 FM
+https://stream-160.zeno.fm/up7we7qvsg0uv?zs=gjBe9XCDQEOMJM1x8F8W1A
+#EXTINF:-1 Quechua FM
+https://stream-174.zeno.fm/e78z1h3drd0uv?zs=ikWueaMmSDeduBx58DWGtQ
 #EXTINF:-1 Radio "Cumbia 90s"
 https://emiteradio.com/proxy/cumbia90s?mp=/stream
+#EXTINF:-1 Radio Aymara
+http://stream.zeno.fm/du0x9skxum0uv
 #EXTINF:-1 RADIO BEAT FOX
 http://stream.zeno.fm/0966xr1y8p8uv
 #EXTINF:-1 Radio Calacoto
 https://stream.zeno.fm/z73xx5qm8rhvv
 #EXTINF:-1 Radio Chacaltaya
-http://stream.servionbolivia.red:9364/stream
+https://cast6.asurahosting.com/proxy/irfradio/stream
+#EXTINF:-1 Radio Continental 99.7 FM
+https://stream-154.zeno.fm/bdnz2z7rnwzuv?zs=E1YbP0AVR4KD_2mbCSafsQ
 #EXTINF:-1 Radio Cumbia 90s
 https://emiteradio.com/proxy/cumbia90s?mp=/stream
-#EXTINF:-1 Radio Exito Bolivia
-http://stream.servionbolivia.red:9458/
-#EXTINF:-1 Radio Fides
-https://usa7.fastcast4u.com/proxy/grflores?mp=/1
+#EXTINF:-1 Radio Estrella 93.1 FM
+https://cesarradio.realserver.es/listen/lne_93.1/radio.mp3
 #EXTINF:-1 Radio Fides Cbba
 http://149.56.175.167:5654/
 #EXTINF:-1 Radio Fides Cochabamba
 https://usa14.fastcast4u.com/proxy/gfloresc?mp=/1
+#EXTINF:-1 Radio Fides Cochabamba 94.9 FM
+http://usa14.fastcast4u.com:5654/stream
+#EXTINF:-1 Radio Fides La Paz
+https://usa15.fastcast4u.com/proxy/grflor04?mp=/1
 #EXTINF:-1 Radio Folklorica Uyuni
 https://emiteradio.com/proxy/uyuni?mp=/stream
 #EXTINF:-1 RADIO FOX STYLE
 http://stream.zeno.fm/leyjhheodeutv
-#EXTINF:-1 Radio Gente 
-https://server1.fex.red:8366/stream
 #EXTINF:-1 Radio Gigante Bolivia
 https://cloudstream2032.conectarhosting.com:7311/
 #EXTINF:-1 Radio Illimani - Red Patria Nueva
 https://rponline.presidencia.gob.bo/stream
-#EXTINF:-1 Radio Kantuta Digital
-http://eu2.serviaudio.com:23128/stream
 #EXTINF:-1 RADIO MARIA BOLIVIA
 http://dreamsiteradiocp4.com:8022/stream
+#EXTINF:-1 Radio Nueva Sur
+https://stream.zeno.fm/48k4akftus8uv
+#EXTINF:-1 Radio Oldies - Red Uyuni
+https://emiteradio.com/proxy/clasicosingles?mp=/stream
 #EXTINF:-1 Radio Panamericana
 http://stream.zeno.fm/pnwpbyfambruv
-#EXTINF:-1 Radio Pando
-http://quasar.shoutca.st:8748/
 #EXTINF:-1 Radio Play
 https://emiteradio.com/proxy/playradio?mp=/stream
-#EXTINF:-1 Radio Qhana
-https://emiteradio.com/proxy/khana?mp=/stream
+#EXTINF:-1 Radio Play Unica
+https://stream.zeno.fm/zcb3usgnc0hvv
+#EXTINF:-1 Radio Pop - Red Uyuni
+https://emiteradio.com/proxy/boliviapop?mp=/stream
+#EXTINF:-1 Radio Potencia Dinámica 95.8 FM
+https://stream-174.zeno.fm/k0pzxa1u1f8uv?zs=gU6PWbIXRUyu8V5zLdjTRg
+#EXTINF:-1 Radio Tropical de Tarija
+https://stream.rcast.net/63337
 #EXTINF:-1 Radio Wiracocha 
-http://stream.zeno.fm/aolajq0hkttvv
-#EXTINF:-1 Red Uyuni: Clásicos en Inglés U 2
-https://emiteradio.com/proxy/clasicosingles?mp=/stream
+https://stream.zeno.fm/rtui1p0xscetv
 #EXTINF:-1 Red Uyuni: Radio Recuerdos
 https://emiteradio.com/proxy/uyuni2?mp=/stream
 #EXTINF:-1 rplay
 https://emiteradio.com/proxy/playradio?mp=/stream
+#EXTINF:-1 Tuti internacional (cliza)
+https://stream.zeno.fm/nplf6hpufi5uv
+#EXTINF:-1 Vocera De La Vega
+https://stream.zeno.fm/yx76pfk5feruv
 #EXTINF:-1 Zoy Milton
-https://icepool.silvacast.com/GAYFM.mp3
+https://213.199.42.66:8000/zoymilton.mp3
 #EXTINF:-1 ZoyTV RADIO
 https://icepool.silvacast.com/GAYFM.mp3

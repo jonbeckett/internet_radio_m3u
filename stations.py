@@ -40,11 +40,11 @@ def create_countries_csv_file(countries):
     for country in countries:
       countries_file.write("\"" + country[0] + "\",\"" + country[1] + "\"\n")
 
-
 def create_countries_txt_file(countries):
   with open('output/countries.txt', 'w', encoding='utf-8') as countries_file:
     for country in countries:
       countries_file.write(country[0] + " " + country[1] + "\n")
+
 
 
 def create_m3u_file(country_code, country_name, stations):
@@ -85,6 +85,15 @@ def create_opml_file(country_code, country_name, stations):
         last_name = s['name']
     opml_file.write("</body>\n</opml>\n")
 
+def create_csv_file(country_code, country_name, stations):
+  with open('output/csv/' + generate_filename(country_code,country_name) + '.csv', 'w', encoding='utf-8') as csv_file:
+    csv_file.write("\"Name\",\"URL\"\n")
+    last_name = ""
+    for s in stations:
+      if (s['name'] != last_name) and (s['lastcheckok'] == 1) and (s['countrycode'].upper() == country[0]) and (s['codec'] == 'MP3'):
+        csv_file.write("\"" + s['name'].replace("\"","\"\"") + "\",\"" + clean_url(s['url']) + "\"\n")
+        last_name = s['name']
+
 
 def create_html_file(countries, stations):
   with open('output/internet_radio_stations.htm', 'w', encoding='utf-8') as html_file:
@@ -115,6 +124,16 @@ def create_html_file(countries, stations):
       html_file.write("</ul>\n")
     html_file.write("</body>\n</html>\n")
 
+def create_csv_file_all(countries, stations):
+  with open('output/internet_radio_stations.csv', 'w', encoding='utf-8') as csv_file:
+    csv_file.write("\"Name\",\"URL\",\"Country\"\n")
+    for country in countries:
+      last_name = ""
+      for s in stations:
+        if (s['name'] != last_name) and (s['lastcheckok'] == 1) and (s['countrycode'].upper() == country[0]) and (s['codec'] == 'MP3'):
+          csv_file.write("\"" + s['name'].replace("\"","\"\"") + "\",\"" + clean_url(s['url']) + "\",\"" + s['country'].replace("\"","\"\"") + "\"\n")
+        last_name = s['name']
+
 
 print("Reading stations...")
 stations = read_stations()
@@ -134,6 +153,12 @@ create_html_file(countries, stations)
 
 print("Creating mu3, pls and opml files for each country...")
 for country in countries:
+  print(" - " + country[0])
   create_m3u_file(country[0], country[1], stations)
   create_pls_file(country[0], country[1], stations)
   create_opml_file(country[0], country[1], stations)
+  create_csv_file(country[0], country[1], stations)
+  
+
+print("Creating CSV file of all stations")
+create_csv_file_all(countries,stations)

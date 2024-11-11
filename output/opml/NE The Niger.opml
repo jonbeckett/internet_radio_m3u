@@ -4,6 +4,7 @@
 <title>Internet Radio Stations for NE The Niger</title>
 </head>
 <body>
+<outline text="Radio BLAU Leipzig (trocken 320kbps)" title="Radio BLAU Leipzig (trocken 320kbps)" type="rss" url="http://icecast.radioblau.de:8000/blau_320_dry" />
 <outline text="Radio Dallol 92.8 Dogondoutchi" title="Radio Dallol 92.8 Dogondoutchi" type="rss" url="https://stream.zeno.fm/orv3efzpotytv" />
 <outline text="Radio Farah" title="Radio Farah" type="rss" url="https://stream.zeno.fm/f9zacil8jwgtv" />
 <outline text="Radio Garkuwa 107 Maradi" title="Radio Garkuwa 107 Maradi" type="rss" url="https://stream.zeno.fm/x0a1r1qu1nhvv" />

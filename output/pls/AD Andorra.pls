@@ -1,6 +1,6 @@
 [playlist]
-File1=http://91.187.93.115:8000/
-Title1=Proxima FM 94.6 Andorra la Vella
-File2=http://91.187.93.115:8020/stream/1
-Title2=Ràdio Valira
+File1=https://sp3.server89.com:7018/
+Title1=Radio Polignano Web
+File2=https://cast3.server89.com/radio/8040/radio.mp3
+Title2=RadioSoleLuna
 NumberOfEntries=2

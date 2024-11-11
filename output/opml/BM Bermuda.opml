@@ -4,6 +4,7 @@
 <title>Internet Radio Stations for BM Bermuda</title>
 </head>
 <body>
+<outline text="Dr Dick&apos;s Dub Shack" title="Dr Dick&apos;s Dub Shack" type="rss" url="http://streamer.radio.co/s0635c8b0d/listen.m3u" />
 <outline text="dr_dick&apos;s dub shack" title="dr_dick&apos;s dub shack" type="rss" url="https://streamer.radio.co/s0635c8b0d/listen" />
 <outline text="Dr. Dick’s Dub Shack" title="Dr. Dick’s Dub Shack" type="rss" url="http://streamer.radio.co/s0635c8b0d/listen?fbclid=IwAR16t5mC5UFT9Fp8pbWe0dvYn9VEI3FYJTogE5AJtUF3G1dJi38lwLgD9as" />
 <outline text="Inspire 105.1" title="Inspire 105.1" type="rss" url="http://us1.internet-radio.com:8008/live" />

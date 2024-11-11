@@ -1,4 +1,34 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations for MO Macao
+#EXTINF:-1 101.1 BIG HEART FM
+http://162.220.162.10:8011/stream
+#EXTINF:-1 91.5 HIT FM MACAU (成都）
+http://lhttp.qingting.fm/live/15318703/64k.mp3
+#EXTINF:-1 Asia FM 106.9
+https://lhttp.qingting.fm/live/20071/64k.mp3
+#EXTINF:-1 Channel [V] International
+https://listen.radioking.com/radio/453221/stream/508076
+#EXTINF:-1 CityFM Macau - 90.5 FM
+https://lhttp.qtfm.cn/live/20500153/64k.mp3
+#EXTINF:-1 Lotus FM Macau HD - 97.4 FM
+https://lhttp.qtfm.cn/live/20533/64k.mp3
+#EXTINF:-1 Lotus Macau Radio - 1062 AM
+https://lhttp.qtfm.cn/live/20133/64k.mp3
+#EXTINF:-1 M80 Radio Macau - 107.1 FM
+https://stream-icy.bauermedia.pt/m80.mp3
+#EXTINF:-1 Rádio de notícias de Guangzhou - 96.2 FM
+https://radios2.justweb.pt/8008/stream
 #EXTINF:-1 RADIO MARIA MACAU
 http://dreamsiteradiocp2.com:8038/stream
+#EXTINF:-1 Radio Top 80 Macau 強電台 - 89.9 FM
+http://live.top80.fm:8086/
+#EXTINF:-1 Radio Veritas Asia 1044 AM
+http://icecast.eradioportal.com:8000/radyo-veritas-846
+#EXTINF:-1 Record FM 100.3 Macau
+https://nl.digitalrm.pt:8028/stream
+#EXTINF:-1 Romance Radio 95.5 FM
+http://162.220.162.10:8011/stream
+#EXTINF:-1 RTP Macau - 97.1 FM
+https://radiocast.rtp.pt/antena1madeira80a.mp3
+#EXTINF:-1 YW City Radio - Macau 954 AM
+https://lhttp.qingting.fm/live/1259/64k.mp3?app_id=web

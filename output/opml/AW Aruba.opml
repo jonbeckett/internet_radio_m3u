@@ -4,11 +4,13 @@
 <title>Internet Radio Stations for AW Aruba</title>
 </head>
 <body>
+<outline text="Canal90 FM" title="Canal90 FM" type="rss" url="https://stream.canal90.fm/live" />
 <outline text="Fresh FM 104.3 Oranjestad" title="Fresh FM 104.3 Oranjestad" type="rss" url="http://www.fresharuba.com:8006/" />
 <outline text="Fresh Fm Aruba" title="Fresh Fm Aruba" type="rss" url="http://fresharuba.com:8006/streamaudio.mp3?hash=1688155532122" />
 <outline text="freshFM Aruba" title="freshFM Aruba" type="rss" url="http://fresharuba.com:8006/streamaudio.mp3" />
-<outline text="Hits 100 Aruba" title="Hits 100 Aruba" type="rss" url="https://audio-edge-es6pf.mia.g.radiomast.io/f4b2dcfb-399c-4650-a64a-e4fb5b32717e" />
 <outline text="Magic 96.5 - Oranjestad" title="Magic 96.5 - Oranjestad" type="rss" url="http://158.69.114.190:8072/" />
+<outline text="Magic FM Aruba" title="Magic FM Aruba" type="rss" url="https://s5.nexuscast.com:8072/listen.pls?sid=1" />
+<outline text="Top95 FM" title="Top95 FM" type="rss" url="http://198.245.51.58:10995/topfm?type=.mp3" />
 <outline text="yhju" title="yhju" type="rss" url="http://52.0.120.216:8000/stream/4/" />
 </body>
 </opml>

@@ -1,4 +1,6 @@
 #EXTM3U
 #PLAYLIST:Internet Radio Stations for FJ Fiji
+#EXTINF:-1 Legend fm 
+http://stream.fijivillage.com/navtarang
 #EXTINF:-1 Viti FM
 https://stream.fijivillage.com/vitifm

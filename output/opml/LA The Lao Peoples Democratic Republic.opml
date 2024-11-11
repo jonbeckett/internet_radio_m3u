@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for LA The Lao Peoples Democratic Republic</title>
+</head>
+<body>
+<outline text="Lao National Radio 103.7" title="Lao National Radio 103.7" type="rss" url="https://radio.lnr.org.la/fm103" />
+<outline text="Lao National Radio 94.3" title="Lao National Radio 94.3" type="rss" url="https://radio.lnr.org.la/fm94" />
+<outline text="Lao National Radio AM" title="Lao National Radio AM" type="rss" url="https://radio.lnr.org.la/am" />
+</body>
+</opml>

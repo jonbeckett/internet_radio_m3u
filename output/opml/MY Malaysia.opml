@@ -4,17 +4,86 @@
 <title>Internet Radio Stations for MY Malaysia</title>
 </head>
 <body>
-<outline text="Ai FM" title="Ai FM" type="rss" url="https://23683.live.streamtheworld.com/AI_FM_SC" />
+<outline text="Alam MayaFM" title="Alam MayaFM" type="rss" url="http://192.99.8.192:3142/" />
+<outline text="ALL FM [91.9]" title="ALL FM [91.9]" type="rss" url="https://stream.zeno.fm/srrbpsu3tbdvv" />
+<outline text="ANAstation" title="ANAstation" type="rss" url="https://stream.zeno.fm/tf79rp6qg48uv" />
+<outline text="Aqfad Radio" title="Aqfad Radio" type="rss" url="https://stream.zeno.fm/92t6ctpayf9uv" />
+<outline text="Asyik FM" title="Asyik FM" type="rss" url="http://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FM.mp3" />
 <outline text="BFM 89.9" title="BFM 89.9" type="rss" url="http://playerservices.streamtheworld.com/api/livestream-redirect/BFM.mp3" />
-<outline text="GegarFmv2" title="GegarFmv2" type="rss" url="http://51.79.240.13:8000/" />
+<outline text="Big Cow FM" title="Big Cow FM" type="rss" url="http://onairnow.ddns.net:8000/chinese.mp3" />
+<outline text="Bintang FM" title="Bintang FM" type="rss" url="https://stream.zeno.fm/1p0tmcfqq68uv" />
+<outline text="BS studio" title="BS studio" type="rss" url="https://stream.zeno.fm/5pk8bbxvn0hvv" />
+<outline text="Camfrog FM" title="Camfrog FM" type="rss" url="https://stream.zeno.fm/38c4912nh98uv" />
+<outline text="CHEMOR FM" title="CHEMOR FM" type="rss" url="https://stream.zeno.fm/ph46tt5v7k0uv" />
+<outline text="CHEMOR FM 80&apos; 90&apos;" title="CHEMOR FM 80&apos; 90&apos;" type="rss" url="https://stream.zeno.fm/23zbrwsr8k0uv" />
+<outline text="CHEMOR FM DANGDUTMANIA" title="CHEMOR FM DANGDUTMANIA" type="rss" url="https://stream.zeno.fm/07wm0kur8k0uv" />
+<outline text="DJ DUGEM " title="DJ DUGEM " type="rss" url="https://stream.zeno.fm/ooaqxeogpfdvv" />
+<outline text="Dzaahin_Sufiyya FM" title="Dzaahin_Sufiyya FM" type="rss" url="https://stream.zeno.fm/86q608zf368uv" />
+<outline text="FAKHRULNOIR FM" title="FAKHRULNOIR FM" type="rss" url="https://stream.zeno.fm/z53ycf1iwhnvv" />
+<outline text="Gegar Net Radio" title="Gegar Net Radio" type="rss" url="http://178.33.135.244/proxy/gegarnetradio?mp=/stream" />
+<outline text="Gemersik FM" title="Gemersik FM" type="rss" url="http://gemersikfm.iradio.work:8000/" />
+<outline text="Gold" title="Gold" type="rss" url="https://ss1.audiorama.com.mx:6584/https://radiomalaysia.net/gold-fm.html" />
+<outline text="Hashtag One Radio" title="Hashtag One Radio" type="rss" url="https://stream.zeno.fm/p9zhhf6gachvv" />
+<outline text="Havoc FM" title="Havoc FM" type="rss" url="http://nebula.shoutca.st:8098/stream" />
+<outline text="Impian FM" title="Impian FM" type="rss" url="http://167.114.131.90:6156/stream/1/" />
+<outline text="Indix Radio" title="Indix Radio" type="rss" url="https://stream.zeno.fm/6zn34uq35bhvv" />
+<outline text="IRAMA FM" title="IRAMA FM" type="rss" url="https://stream.zeno.fm/969trb91afhvv" />
 <outline text="Jazz Lounge" title="Jazz Lounge" type="rss" url="http://eu8.fastcast4u.com:5068/" />
+<outline text="JEI FM" title="JEI FM" type="rss" url="https://usa3.fastcast4u.com/proxy/jeifm?mp=/1" />
 <outline text="Jei FM Klang Tamil Radio" title="Jei FM Klang Tamil Radio" type="rss" url="https://usa3.fastcast4u.com/proxy/jeifm?mp=/1" />
 <outline text="KCFM Radio" title="KCFM Radio" type="rss" url="http://www.kcfm.org:8000/stream" />
+<outline text="KDimensifm" title="KDimensifm" type="rss" url="https://stream.zeno.fm/vfenq4seprhvv" />
+<outline text="Keningau FM" title="Keningau FM" type="rss" url="http://playerservices.streamtheworld.com/api/livestream-redirect/KENINGAU_FM.mp3" />
 <outline text="Klasik FM 101,1 MHz" title="Klasik FM 101,1 MHz" type="rss" url="http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIK.mp3" />
+<outline text="Kuala Sentul Di Hati FM" title="Kuala Sentul Di Hati FM" type="rss" url="http://51.79.219.202:8000/stream" />
+<outline text="Langkawi FM" title="Langkawi FM" type="rss" url="http://playerservices.streamtheworld.com/api/livestream-redirect/LANGKAWI_FM.mp3" />
+<outline text="Lejen FM" title="Lejen FM" type="rss" url="https://stream.zeno.fm/nez002cetv8uv" />
 <outline text="LTFM Radio" title="LTFM Radio" type="rss" url="http://live.ltfmonline.com:8000/stream" />
+<outline text="LTR FM Radio Music" title="LTR FM Radio Music" type="rss" url="https://stream.zeno.fm/p1ddt1trwchvv" />
+<outline text="Maulana FM" title="Maulana FM" type="rss" url="https://stream.zeno.fm/078u1m3gf0hvv" />
+<outline text="Melayu FM" title="Melayu FM" type="rss" url="https://stream.zeno.fm/27umg0rw808uv" />
+<outline text="Melayu Klasik" title="Melayu Klasik" type="rss" url="https://stream.zeno.fm/4s44thh7yf9uv" />
+<outline text="Mentari FM" title="Mentari FM" type="rss" url="https://stream.zeno.fm/4xt6t6qr538uv" />
+<outline text="Miaradio" title="Miaradio" type="rss" url="https://stream.zeno.fm/ndh0amsgnrhvv" />
+<outline text="MIB radio" title="MIB radio" type="rss" url="https://stream.zeno.fm/bm557kzmr18uv" />
+<outline text="Miri FM" title="Miri FM" type="rss" url="http://playerservices.streamtheworld.com/api/livestream-redirect/MIRI_FM.mp3" />
+<outline text="My Kampus Radio" title="My Kampus Radio" type="rss" url="https://usa10.fastcast4u.com/voicespl" />
+<outline text="My world Radio" title="My world Radio" type="rss" url="https://stream-55.zeno.fm/67wn5waq64zuv" />
+<outline text="MyFriends Station" title="MyFriends Station" type="rss" url="https://cast3.asurahosting.com/proxy/myfriend/stream" />
+<outline text="Nadi FM" title="Nadi FM" type="rss" url="https://stream.zeno.fm/73lqmdegbwbuv" />
+<outline text="Naluri FM" title="Naluri FM" type="rss" url="https://stream.zeno.fm/a7wz5xvyfs8uv" />
 <outline text="Nasional FM 88,5 MHz" title="Nasional FM 88,5 MHz" type="rss" url="http://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FM.mp3" />
-<outline text="RAKITA" title="RAKITA" type="rss" url="https://23743.live.streamtheworld.com/RAKITA_SC" />
+<outline text="PBN Radio Nurani" title="PBN Radio Nurani" type="rss" url="https://stream.zeno.fm/2uyfsr25sm0uv" />
+<outline text="PilotDarat FM" title="PilotDarat FM" type="rss" url="https://stream.zeno.fm/nb6rd9ck9hhvv" />
+<outline text="Radio " title="Radio " type="rss" url="http://ssl.geckohost.nz:9191/autodj" />
+<outline text="Radio Klate Kito" title="Radio Klate Kito" type="rss" url="http://s6.voscast.com:9748/" />
+<outline text="Radio MAB" title="Radio MAB" type="rss" url="https://stream.zeno.fm/qb5q7a3r8k0uv" />
+<outline text="Radio Maya Online" title="Radio Maya Online" type="rss" url="http://s1.cmesolution.my:5266/" />
+<outline text="RCCT.online" title="RCCT.online" type="rss" url="https://rcct.online/radio/8000/128mp3" />
+<outline text="Repair Segala" title="Repair Segala" type="rss" url="https://stream.zeno.fm/0245ew03ekhvv" />
+<outline text="RJM Online " title="RJM Online " type="rss" url="https://stream.zeno.fm/2vbsscvr3nhvv" />
+<outline text="Rock Kapak" title="Rock Kapak" type="rss" url="https://stream.zeno.fm/sf5sbjnsjituv" />
+<outline text="Rock Rock Kapak" title="Rock Rock Kapak" type="rss" url="https://stream.zeno.fm/q6xy0didftcvv" />
+<outline text="Salam FM" title="Salam FM" type="rss" url="https://stream.zeno.fm/3dy9yfydm48uv" />
+<outline text="Sarkis FM" title="Sarkis FM" type="rss" url="https://stream.zeno.fm/7hzpv91tzv8uv" />
+<outline text="Sembangsemalaysia.fm" title="Sembangsemalaysia.fm" type="rss" url="https://stream.zeno.fm/ykhsnd30ynhvv" />
+<outline text="Shaycool Raya" title="Shaycool Raya" type="rss" url="https://stream.zeno.fm/v161cx7e8s8uv" />
 <outline text="SkyChatzFM" title="SkyChatzFM" type="rss" url="http://java.skychatz.org:8080/stream/1" />
+<outline text="Slow Rock 90&apos;" title="Slow Rock 90&apos;" type="rss" url="https://stream.zeno.fm/hiut6cwfoneuv" />
+<outline text="SORAfm" title="SORAfm" type="rss" url="https://a9.asurahosting.com:7460/radio.mp3" />
+<outline text="Soup FM" title="Soup FM" type="rss" url="http://usa7.fastcast4u.com:8808/soupfm" />
+<outline text="Srikinta FM" title="Srikinta FM" type="rss" url="https://stream.zeno.fm/hqcknw4enkhvv" />
+<outline text="Stay.FM" title="Stay.FM" type="rss" url="https://stayfm.com:8443/archive" />
+<outline text="Syok FM" title="Syok FM" type="rss" url="https://stream.zeno.fm/993m1qbrtbruv" />
+<outline text="Terompah FM" title="Terompah FM" type="rss" url="https://stream.zeno.fm/0dfe83u4ya0uv" />
+<outline text="TMM2 FM" title="TMM2 FM" type="rss" url="https://stream.zeno.fm/mq0pxfsf0chvv" />
+<outline text="WAI FM Bidayuh" title="WAI FM Bidayuh" type="rss" url="http://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_BK.mp3" />
+<outline text="WAI FM IBAN" title="WAI FM IBAN" type="rss" url="http://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_IBAN.mp3" />
+<outline text="Wheelerz Net Radio" title="Wheelerz Net Radio" type="rss" url="http://167.114.131.90:5448/stream/" />
+<outline text="WPL RC FM " title="WPL RC FM " type="rss" url="https://stream.zeno.fm/khxsbm9nxk8uv" />
+<outline text="Xcited FM" title="Xcited FM" type="rss" url="https://stream.zeno.fm/mnau6k172rhvv" />
+<outline text="ZENO FM - ESFM1019 好歌放送！精彩不断！" title="ZENO FM - ESFM1019 好歌放送！精彩不断！" type="rss" url="https://stream.zeno.fm/2bps7eetqfhvv" />
+<outline text="Zetya FM" title="Zetya FM" type="rss" url="https://stream.zeno.fm/atem3gb7srhvv" />
 <outline text="اذاعة القرآن الكريم" title="اذاعة القرآن الكريم" type="rss" url="http://stream.radiojar.com/0tpy1h0kxtzuv" />
 </body>
 </opml>

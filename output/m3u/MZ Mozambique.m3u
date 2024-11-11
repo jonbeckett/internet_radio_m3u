@@ -2,5 +2,9 @@
 #PLAYLIST:Internet Radio Stations for MZ Mozambique
 #EXTINF:-1 Grandes Clássicos da Música Moçambicana 
 https://stream.zeno.fm/bm29ouxe0hrtv
+#EXTINF:-1 Rádio Cidade - Beira 105.2 FM
+https://node.stream-africa.com:8443/RadioCidadeBeira
 #EXTINF:-1 Rádio Moçambique Antena Nacional
 https://node.stream-africa.com:8443/AntenaNacional
+#EXTINF:-1 Super FM 101.9
+http://41.223.153.14:8000/stream/1

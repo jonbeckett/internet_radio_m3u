@@ -5,12 +5,19 @@
 </head>
 <body>
 <outline text=" Mooz Dance TV - Sunet ONLINE by RomaniaRadio.ro" title=" Mooz Dance TV - Sunet ONLINE by RomaniaRadio.ro" type="rss" url="http://109.103.178.66:8018/listen.pls" />
-<outline text="247 FM Exotic" title="247 FM Exotic" type="rss" url="http://exotic.radio247international.com:9810/stream.mp3" />
-<outline text="90s 3NeRgY" title="90s 3NeRgY" type="rss" url="https://s11.ssl-stream.com/ssl/90s_energy?mp=/stream" />
-<outline text="90s 3NeRgY&amp;ReMiX" title="90s 3NeRgY&amp;ReMiX" type="rss" url="http://s11.ssl-stream.com:8084/live" />
+<outline text="A-Tentat" title="A-Tentat" type="rss" url="http://54.39.28.158:8066/" />
+<outline text="Accent Oltenia" title="Accent Oltenia" type="rss" url="http://86.122.157.14:8900/" />
+<outline text="Activ România" title="Activ România" type="rss" url="https://stream.zeno.fm/72xsfrg0bfhvv" />
+<outline text="Acustic Radio" title="Acustic Radio" type="rss" url="https://stream.zeno.fm/xmgnc6mcwnhvv" />
+<outline text="Ade FM" title="Ade FM" type="rss" url="https://stream.zeno.fm/nqjp3rems2rvv" />
+<outline text="Ade FM Radio" title="Ade FM Radio" type="rss" url="https://stream.zeno.fm/rshamge8mgntv" />
+<outline text="Ady picyu" title="Ady picyu" type="rss" url="https://stream.zeno.fm/s5pkvvbd9e9uv" />
+<outline text="Aeroport Radio" title="Aeroport Radio" type="rss" url="http://89.39.189.23:8000/stream" />
+<outline text="Agape Radio" title="Agape Radio" type="rss" url="https://stream.zeno.fm/s38pdt9h268uv" />
 <outline text="Agnus Rádió" title="Agnus Rádió" type="rss" url="http://radio2.tirek.hu:8000/agnusradio" />
 <outline text="Alien Club Fantasy" title="Alien Club Fantasy" type="rss" url="http://radio.club-fantasy-hub.ro:8000/" />
 <outline text="Alt FM" title="Alt FM" type="rss" url="http://asculta.radiocnm.ro:8002/live" />
+<outline text="Ambiento" title="Ambiento" type="rss" url="https://ambiento-adradio.radioca.st/128" />
 <outline text="Antena satelor" title="Antena satelor" type="rss" url="http://89.238.227.6:8042/" />
 <outline text="Aripi Spre Cer Popular" title="Aripi Spre Cer Popular" type="rss" url="https://popular.stream.aripisprecer.ro/radio.mp3" />
 <outline text="ascultă-Radio Levi" title="ascultă-Radio Levi" type="rss" url="http://audio.radioleviro.bisericilive.com/radioleviro.mp3" />
@@ -20,32 +27,34 @@
 <outline text="Biblia Audio - Radio Calea Spre Cer" title="Biblia Audio - Radio Calea Spre Cer" type="rss" url="https://panel.radiocaleasprecer.com/radio/8010/radio.mp3" />
 <outline text="BigFM Deva" title="BigFM Deva" type="rss" url="http://82.208.143.10:8000/" />
 <outline text="Bistrița FM 92.6" title="Bistrița FM 92.6" type="rss" url="https://audio-edge-cmc51.fra.h.radiomast.io/66f238bb-8b61-4196-a8c3-28aea07235e8" />
-<outline text="Bitter Sweet Music" title="Bitter Sweet Music" type="rss" url="https://sonicssl.namehost.ro/8520/stream" />
+<outline text="Blaj Radio" title="Blaj Radio" type="rss" url="https://ssl.asculta.live:8016/" />
+<outline text="Blues Radio" title="Blues Radio" type="rss" url="http://stream.zeno.fm/bpn1hy0h6ehvv.m3u" />
+<outline text="BUG Mafia" title="BUG Mafia" type="rss" url="https://stream-153.zeno.fm/x3626gvvsf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4MzYyNmd2dnNmOXV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InRBU2NXVkZDUWZHTkpWLUgySjdxa3ciLCJpYXQiOjE3MTU4MjkwNDIsImV4cCI6MTcxNTgyOTEwMn0.FEyU-KKrVHVgpMYMNw3sAdunkbEeCRtxphRRFVPnPDw" />
 <outline text="Capital FM - Dance" title="Capital FM - Dance" type="rss" url="https://ssl.omegahost.ro:8020/stream" />
+<outline text="Capital FM - Manele" title="Capital FM - Manele" type="rss" url="http://manele.capitalfm.ro:8020/" />
+<outline text="Chill FM" title="Chill FM" type="rss" url="https://edge126.rcs-rds.ro/profm/chillfm.mp3?1712405207687" />
 <outline text="Chill FM Romania" title="Chill FM Romania" type="rss" url="http://edge126.rdsnet.ro:84/profm/chillfm.mp3" />
 <outline text="City Fm 98.3" title="City Fm 98.3" type="rss" url="https://mscp1.gazduireradio.ro:1270/stream" />
 <outline text="City Rádió" title="City Rádió" type="rss" url="http://live.city-radio.ro:8800/" />
 <outline text="City Radio Romania" title="City Radio Romania" type="rss" url="http://live.city-radio.ro:8800/" />
-<outline text="ClubMix" title="ClubMix" type="rss" url="http://live.radioclubmix.ro:9999/" />
 <outline text="Cool FM" title="Cool FM" type="rss" url="https://live.aftech.ro/radio/8060/radio.mp3" />
-<outline text="Cozy FM" title="Cozy FM" type="rss" url="https://live.cozyfm.ro:8010/live" />
-<outline text="Craiova FM" title="Craiova FM" type="rss" url="http://live.craiovafm.ro:9964/stream" />
 <outline text="Cross One Radio" title="Cross One Radio" type="rss" url="https://lb01.bpstream.com:8630/" />
 <outline text="Dance Effect Radio" title="Dance Effect Radio" type="rss" url="http://asculta.danceeffect.ro:3333/" />
 <outline text="Dance FM" title="Dance FM" type="rss" url="http://edge126.rdsnet.ro:84/profm/dancefm.mp3" />
 <outline text="Dance FM 89.5 Bucharest" title="Dance FM 89.5 Bucharest" type="rss" url="http://edge126.rdsnet.ro:84/profm/dancefm.mp3" />
+<outline text="dancefmRomania" title="dancefmRomania" type="rss" url="http://edge126.rdsnet.ro:84/profm/dancefm.mp3" />
 <outline text="Dark Edge Radio" title="Dark Edge Radio" type="rss" url="http://stream.darkedge.ro:8000/" />
 <outline text="DeeaRadio" title="DeeaRadio" type="rss" url="http://live.radiodeea.ro:8090/listen.pls" />
 <outline text="Deep House Radio - Bucharest Romania" title="Deep House Radio - Bucharest Romania" type="rss" url="http://live.dancemusic.ro:7000/listen.pls?sid=1" />
+<outline text="DejaVuMusic" title="DejaVuMusic" type="rss" url="https://stream.zeno.fm/mdupctf7zxhvv" />
 <outline text="Digi FM" title="Digi FM" type="rss" url="https://edge76.rcs-rds.ro/digifm/digifm.mp3" />
 <outline text="DIGI FM" title="DIGI FM" type="rss" url="http://edge76.rdsnet.ro:84/digifm/digifm.mp3" />
 <outline text="Digi24FM" title="Digi24FM" type="rss" url="https://edge76.rcs-rds.ro/digifm/digi24fm.mp3" />
-<outline text="Distracție Online Manele" title="Distracție Online Manele" type="rss" url="https://asculta.ascultatare.ro:9030/stream" />
-<outline text="Distracție Online Petrecere " title="Distracție Online Petrecere " type="rss" url="https://radio.ascultatare.ro:9520/stream" />
 <outline text="DJ Radio Romania" title="DJ Radio Romania" type="rss" url="https://stream.djradio.ro/radio/8000/stream.mp3" />
 <outline text="Doina" title="Doina" type="rss" url="http://89.43.138.116:8000/radiodoina.mp3" />
 <outline text="Doxologia" title="Doxologia" type="rss" url="https://doxologia.ro/radio/radio_doxologia.pls" />
 <outline text="Dux Radio" title="Dux Radio" type="rss" url="https://radio.duxradio.ro:8002/stream" />
+<outline text="e-teatru Radio Romania" title="e-teatru Radio Romania" type="rss" url="http://stream2.srr.ro:8078/eteatru.mp3" />
 <outline text="EBS | Alternative" title="EBS | Alternative" type="rss" url="https://azura.ebsmedia.ro/listen/alternative/alternative128.mp3" />
 <outline text="EBS | Blues" title="EBS | Blues" type="rss" url="https://azura.ebsmedia.ro/listen/blues/blues128.mp3" />
 <outline text="EBS | Classical" title="EBS | Classical" type="rss" url="https://azura.ebsmedia.ro/listen/classical/classical128.mp3" />
@@ -59,110 +68,113 @@
 <outline text="EBS | Nouvelle Vague" title="EBS | Nouvelle Vague" type="rss" url="https://azura.ebsmedia.ro/listen/nouvelle/nouvelle128.mp3" />
 <outline text="EBS | Romanian Gold" title="EBS | Romanian Gold" type="rss" url="https://azura.ebsmedia.ro/listen/romaniangold/romaniangold128.mp3" />
 <outline text="EBS | Xmas" title="EBS | Xmas" type="rss" url="https://azura.ebsmedia.ro/listen/xmas/xmas128.mp3" />
-<outline text="EBS Radio" title="EBS Radio" type="rss" url="https://azura.ebsmedia.ro/public/live/playlist.m3u" />
+<outline text="Electric Castle" title="Electric Castle" type="rss" url="https://electriccastle.out.airtime.pro/electriccastle_a" />
+<outline text="EmisiuniRadio.ro" title="EmisiuniRadio.ro" type="rss" url="https://live.pescaramator.ro:7777/stream" />
 <outline text="EnJOY Radio" title="EnJOY Radio" type="rss" url="https://live.enjoyradio.ro/radio/8000/enjoylive.mp3" />
+<outline text="ERCIS FM" title="ERCIS FM" type="rss" url="https://ercislive.enkosoft.com/live" />
 <outline text="Ercis FM" title="Ercis FM" type="rss" url="https://ercislive.enkosoft.com/live" />
 <outline text="Erdély FM" title="Erdély FM" type="rss" url="https://efm.radioca.st/stream" />
+<outline text="Erdélyi Magyar Rádió" title="Erdélyi Magyar Rádió" type="rss" url="https://adas.erdelyimagyarradio.eu:8443/emr" />
 <outline text="eteatru" title="eteatru" type="rss" url="http://stream2.srr.ro:8078/eteatru.mp3" />
-<outline text="Eveniment FM Râmnicu Vâlcea/Pitești 96.9" title="Eveniment FM Râmnicu Vâlcea/Pitești 96.9" type="rss" url="http://212.84.160.187:38099/stream" />
 <outline text="Eveniment FM Sibiu 103.2" title="Eveniment FM Sibiu 103.2" type="rss" url="https://live.gofm.ro:2000/stream/eveniment" />
 <outline text="FM Radio Manele" title="FM Radio Manele" type="rss" url="http://a.fmradiomanele.ro:8054/stream" />
+<outline text="Frăsinești Radio" title="Frăsinești Radio" type="rss" url="https://stream.zeno.fm/mpmilx1n4yuuv" />
 <outline text="Free FM Bucarest" title="Free FM Bucarest" type="rss" url="https://rocafmadrid.radioca.st/" />
 <outline text="Free FM Bucaresti" title="Free FM Bucaresti" type="rss" url="https://rocafmadrid.radioca.st/stream" />
 <outline text="Free FM Rock București" title="Free FM Rock București" type="rss" url="https://freefmrock.radioca.st/stream" />
 <outline text="Fresh FM" title="Fresh FM" type="rss" url="https://radio.onlinehost.ro/listen/freshfm/radio.mp3" />
+<outline text="FUN Radio Romania" title="FUN Radio Romania" type="rss" url="http://online.webcastradio.ro/fun" />
 <outline text="FunFM" title="FunFM" type="rss" url="http://online.funfm.ro:8000/funfm.mp3" />
-<outline text="Fuze Fm" title="Fuze Fm" type="rss" url="https://stream.zeno.fm/kjof2saigcuvv" />
 <outline text="Gherla FM" title="Gherla FM" type="rss" url="http://89.39.189.52:8000/" />
 <outline text="GherlaFM" title="GherlaFM" type="rss" url="http://89.39.189.52:8000/stream" />
 <outline text="goBEACH" title="goBEACH" type="rss" url="https://live.gofm.ro:2000/stream/goBEACH/stream.mp3" />
 <outline text="goCAFE" title="goCAFE" type="rss" url="https://live.gofm.ro:2000/stream/goCAFE/stream.mp3" />
-<outline text="goFM 90,4 FM" title="goFM 90,4 FM" type="rss" url="https://live.gofm.ro:2000/stream/goFM904/stream.mp3" />
+<outline text="goFM" title="goFM" type="rss" url="https://live.gofm.ro:2000/stream/goFMro" />
 <outline text="gofm.ro" title="gofm.ro" type="rss" url="http://live.gofm.ro:9128/" />
 <outline text="goFRESH" title="goFRESH" type="rss" url="https://live.gofm.ro:2000/stream/goFMFRESH/stream.mp3" />
 <outline text="goJAZZ" title="goJAZZ" type="rss" url="https://live.gofm.ro:2020/stream/goJAZZ" />
 <outline text="goLOUNGE" title="goLOUNGE" type="rss" url="http://fr1.streamhosting.ch/lounge128.mp3" />
-<outline text="goREBEL" title="goREBEL" type="rss" url="https://live.gofm.ro:2000/stream/goREBEL/stream.mp3" />
 <outline text="goROCK" title="goROCK" type="rss" url="https://live.gofm.ro:2020/stream/goROCK" />
 <outline text="goSPACE" title="goSPACE" type="rss" url="https://live.gofm.ro:2000/stream/goSPACE/stream.mp3" />
 <outline text="Half Is Enough" title="Half Is Enough" type="rss" url="http://centauri.shoutca.st:8322/stream" />
 <outline text="Hangos Rádió" title="Hangos Rádió" type="rss" url="https://stream.zeno.fm/mv62tmd8wp8uv.aac" />
+<outline text="HIT FM Alba" title="HIT FM Alba" type="rss" url="https://s3.myradiostream.com/4404/listen.mp3" />
+<outline text="HIT FM Brasov" title="HIT FM Brasov" type="rss" url="https://s25.myradiostream.com/:16434/listen.mp3?nocache=1719549990" />
 <outline text="HIT! FM" title="HIT! FM" type="rss" url="http://s3.myradiostream.com:4404/" />
 <outline text="https://live.reintregirea.ro" title="https://live.reintregirea.ro" type="rss" url="https://live.reintregirea.ro/" />
 <outline text="Impact FM" title="Impact FM" type="rss" url="http://109.166.241.233:8500/" />
-<outline text="Jazz FM Romania" title="Jazz FM Romania" type="rss" url="https://s4.radio.co/s1e25bf273/listen" />
+<outline text="intens" title="intens" type="rss" url="http://live.radiointens.ro:8070/stream" />
+<outline text="Jurnal FM" title="Jurnal FM" type="rss" url="https://ssl.radios.show:7009/stream" />
 <outline text="Kolozsvári Rádió" title="Kolozsvári Rádió" type="rss" url="http://89.238.227.6:8386/listen.pls" />
 <outline text="Korrupt Nostalgic" title="Korrupt Nostalgic" type="rss" url="http://stream.zeno.fm/ow1xlcqo3aatv" />
 <outline text="Lautaru Populara" title="Lautaru Populara" type="rss" url="http://live.radiolautaru.ro:9000/stream.nsv" />
-<outline text="Leordeni Fm" title="Leordeni Fm" type="rss" url="http://ssl.radios.show:8002/" />
-<outline text="Leordeni Fm 106,8" title="Leordeni Fm 106,8" type="rss" url="https://ssl.radios.show/8002/" />
-<outline text="Lépés – Sláger Rádió" title="Lépés – Sláger Rádió" type="rss" url="https://lepesradio.hu/slager.mp3" />
+<outline text="Love Marilena Galați" title="Love Marilena Galați" type="rss" url="https://radio.sonicpanel.ro/8068/stream" />
 <outline text="Mária Rádió Erdély" title="Mária Rádió Erdély" type="rss" url="http://stream.mariaradio.ro:8000/MRE.m3u" />
 <outline text="Marlene Radio" title="Marlene Radio" type="rss" url="https://live.gofm.ro:2000/stream/MARLENERADIO/stream.mp3" />
 <outline text="Marosvásárhelyi Rádió" title="Marosvásárhelyi Rádió" type="rss" url="http://streaming.radiomures.ro:8312/stream.nsv&amp;type=mp3" />
 <outline text="MB Music Radio" title="MB Music Radio" type="rss" url="http://s33.myradiostream.com:16150/" />
 <outline text="Medias fm" title="Medias fm" type="rss" url="http://mediasfm.eushells.ro:8082/stream.nsv" />
 <outline text="Metronom FM" title="Metronom FM" type="rss" url="http://86.123.134.70:8000/metronom" />
-<outline text="MFM Dance 105.7" title="MFM Dance 105.7" type="rss" url="http://munteniafm.servemp3.com:8012/" />
-<outline text="MIX FM" title="MIX FM" type="rss" url="https://securestreams5.autopo.st:1993/player" />
-<outline text="Mood On Music - Deep" title="Mood On Music - Deep" type="rss" url="https://ec2.yesstreaming.net:1860/stream" />
-<outline text="Mood On Music - Tech" title="Mood On Music - Tech" type="rss" url="https://ec2.yesstreaming.net:2135/stream" />
+<outline text="Moinesti FM" title="Moinesti FM" type="rss" url="https://listen.moinestifm.ro/radio.mp3" />
 <outline text="MusicFM" title="MusicFM" type="rss" url="http://edge126.rdsnet.ro:84/profm/music-fm.mp3" />
 <outline text="Napoca FM" title="Napoca FM" type="rss" url="https://streaming.napocalive.ro/napoca-fm" />
+<outline text="Nicecream.fm - Blue" title="Nicecream.fm - Blue" type="rss" url="https://play.nicecream.fm/radio/8020/blue.mp3" />
+<outline text="Nicecream.fm - Green" title="Nicecream.fm - Green" type="rss" url="https://play.nicecream.fm/radio/8010/green.mp3" />
+<outline text="Nicecream.fm - Red" title="Nicecream.fm - Red" type="rss" url="https://play.nicecream.fm/radio/8000/red.mp3" />
 <outline text="Orion FM 91.7" title="Orion FM 91.7" type="rss" url="https://sonic1-rbx.cloud-center.ro/8070/stream" />
 <outline text="Paprika Rádió" title="Paprika Rádió" type="rss" url="http://stream1.paprikaradio.ro:8000/stream" />
 <outline text="Pink Radio" title="Pink Radio" type="rss" url="http://pink.exyuserver.com/stream" />
-<outline text="PlayMusic FM" title="PlayMusic FM" type="rss" url="http://stream.playmusicfm.info:9000/" />
 <outline text="Plusz FM - Margitta" title="Plusz FM - Margitta" type="rss" url="https://stream2.radiotransilvania.ro/Margitta" />
 <outline text="Plusz FM - Nagyvarad" title="Plusz FM - Nagyvarad" type="rss" url="https://stream2.radiotransilvania.ro/Nagyvarad" />
-<outline text="Príma Rádió" title="Príma Rádió" type="rss" url="https://securestreams5.autopo.st:1992/player" />
+<outline text="PluszFM" title="PluszFM" type="rss" url="http://stream2.radiotransilvania.ro:8000/Nagyvarad" />
 <outline text="Pro FM" title="Pro FM" type="rss" url="http://edge126.rdsnet.ro:84/profm/profm.mp3" />
 <outline text="ProB Radio" title="ProB Radio" type="rss" url="http://live.radioprob.ro:8888/stream" />
-<outline text="Profi Rádió" title="Profi Rádió" type="rss" url="http://93.115.175.141:8000/stream" />
+<outline text="Profi Rádió" title="Profi Rádió" type="rss" url="http://93.115.174.139:8000/stream" />
 <outline text="Protm" title="Protm" type="rss" url="http://edge126.rdsnet.ro:84/profm/profm.mp3" />
 <outline text="RADAIO ROMANCE21.ROMANIA" title="RADAIO ROMANCE21.ROMANIA" type="rss" url="https://stream.rcast.net/200392" />
 <outline text="Radio 1 Manele" title="Radio 1 Manele" type="rss" url="http://radio1manele.no-ip.org:8000/" />
+<outline text="radio 1 pitesti " title="radio 1 pitesti " type="rss" url="https://ssl.radios.show/8050/stream" />
 <outline text="Radio 3Net" title="Radio 3Net" type="rss" url="http://media.3netmedia.ro:8000/Live128.m3u" />
 <outline text="Radio 7 Bucuresti Romania" title="Radio 7 Bucuresti Romania" type="rss" url="http://80.86.106.32:8000/radio7.mp3" />
-<outline text="Radio 80" title="Radio 80" type="rss" url="https://live.radio80.ro:8443/s80" />
-<outline text="Radio 90 Hit " title="Radio 90 Hit " type="rss" url="https://live.90hit.ro:8000/listen.mp3" />
 <outline text="Radio A-Tentat " title="Radio A-Tentat " type="rss" url="https://ssl.omegahost.ro/8066/stream" />
-<outline text="Radio Accent" title="Radio Accent" type="rss" url="http://86.122.157.14:8900/" />
-<outline text="Radio Amy" title="Radio Amy" type="rss" url="https://sonic.asculta4you.ro/8004/stream" />
+<outline text="Radio Alpin" title="Radio Alpin" type="rss" url="http://live.radiodeejay.hr:7002/" />
 <outline text="Radio Antena Braşovului" title="Radio Antena Braşovului" type="rss" url="http://streaming.radiomures.ro:8302/listen.pls" />
+<outline text="Radio Antena Satelor" title="Radio Antena Satelor" type="rss" url="http://89.238.227.6:8042/listen.pls" />
 <outline text="Radio Aquila" title="Radio Aquila" type="rss" url="https://s10.webradio-hosting.com/proxy/schrteam/stream" />
 <outline text="Radio Arges" title="Radio Arges" type="rss" url="http://89.39.189.53:8000/listen.pls" />
 <outline text="Radio Armonia Romania" title="Radio Armonia Romania" type="rss" url="http://audio.radioarmoniaro.bisericilive.com/mainradioarmoniaro.mp3.m3u" />
-<outline text="Radio AYS" title="Radio AYS" type="rss" url="http://direct.aystorrent.ro:9000/listen.pls" />
 <outline text="Radio Badita Popular" title="Radio Badita Popular" type="rss" url="http://89.39.189.29:8000/listen.pls" />
-<outline text="Radio Banat FM" title="Radio Banat FM" type="rss" url="http://live.radiobanatfm.com:8002/listen.pls" />
-<outline text="Radio Bandit" title="Radio Bandit" type="rss" url="http://live.radiobandit.ro:8000/" />
-<outline text="Radio Bandit Romania" title="Radio Bandit Romania" type="rss" url="http://live.radiobandit.ro:8000/listen.pls" />
+<outline text="Radio Bandit" title="Radio Bandit" type="rss" url="https://pro.radiobandit.ro/listen/bandit/320.mp3" />
 <outline text="Radio Best Musik" title="Radio Best Musik" type="rss" url="https://live.radiobestmusik.ro:8010/" />
-<outline text="Radio Biserica Romano Catolica Bacau" title="Radio Biserica Romano Catolica Bacau" type="rss" url="http://46.4.14.12:8020/listen.pls" />
-<outline text="Radio Blaj 96.2" title="Radio Blaj 96.2" type="rss" url="https://ssl.radios.show/8016/stream" />
 <outline text="Radio Blue Romania" title="Radio Blue Romania" type="rss" url="https://asculta.muzicaok.de:8002/stream" />
+<outline text="Radio Boom" title="Radio Boom" type="rss" url="https://stream.radioboom.ro:8000/boom256k" />
+<outline text="Radio Boom Energy" title="Radio Boom Energy" type="rss" url="https://stream.radioboom.ro/listen/boom_energy/radio.mp3" />
+<outline text="Radio Boom Gold" title="Radio Boom Gold" type="rss" url="https://stream.radioboom.ro/listen/boom_gold/radio.mp3" />
+<outline text="Radio Boom House Music" title="Radio Boom House Music" type="rss" url="https://stream.radioboom.ro/listen/boom_house_music/radio.mp3" />
+<outline text="Radio Boom Rock" title="Radio Boom Rock" type="rss" url="https://stream.radioboom.ro/listen/boom_rock/radio.mp3" />
 <outline text="Radio Boom Vrancea" title="Radio Boom Vrancea" type="rss" url="http://89.38.8.133:8000/listen.pls" />
 <outline text="Radio Brașov" title="Radio Brașov" type="rss" url="https://live.radiobrasov.ro/stream.mp3?nocache=${Math.random()}" />
 <outline text="Radio Bucovina" title="Radio Bucovina" type="rss" url="http://radiobucovina.ro/live.m3u" />
 <outline text="Radio Bucuresti FM" title="Radio Bucuresti FM" type="rss" url="http://89.238.227.6:8032/stream/1" />
 <outline text="Radio Calea Spre Cer LIVE 24/7" title="Radio Calea Spre Cer LIVE 24/7" type="rss" url="https://panel.radiocaleasprecer.com/radio/8000/radio.mp3" />
+<outline text="Radio Camarad" title="Radio Camarad" type="rss" url="https://93.115.53.53/radio" />
 <outline text="Radio Cartier Romania" title="Radio Cartier Romania" type="rss" url="https://live.radiocartier.eu:8048/stream" />
-<outline text="Radio CEAW" title="Radio CEAW" type="rss" url="https://dl.dropboxusercontent.com/s/scu6zf89qc0wu11/RadioCEAW.mp3" />
 <outline text="Radio Claudia" title="Radio Claudia" type="rss" url="http://ssl.kenhost.ro:8091/listen.pls?sid=1" />
 <outline text="Radio Click Romania" title="Radio Click Romania" type="rss" url="http://live.radioclick.ro:8008/" />
 <outline text="Radio Condor Bucharest" title="Radio Condor Bucharest" type="rss" url="http://www.radiocondor.ro:6303/" />
 <outline text="Radio Constanta FM" title="Radio Constanta FM" type="rss" url="http://89.238.227.6:8332/stream/1" />
+<outline text="Radio Crasna " title="Radio Crasna " type="rss" url="http://ssl.omegahost.ro/8006/stream/" />
 <outline text="Radio Crazy" title="Radio Crazy" type="rss" url="http://live.crazyradio.ro:8024/stream" />
-<outline text="Radio Crisami" title="Radio Crisami" type="rss" url="http://crisami.zapto.org:8130/" />
+<outline text="Radio Cuibul Lupilor Albi" title="Radio Cuibul Lupilor Albi" type="rss" url="https://stream.zeno.fm/7s5mmrtzmuhvv" />
 <outline text="Radio DA" title="Radio DA" type="rss" url="http://n01.radiojar.com/du8khw2d2wzuv" />
-<outline text="Radio Dalya" title="Radio Dalya" type="rss" url="http://server.radiodalya.ro:9999/" />
+<outline text="Radio Dacia Energie" title="Radio Dacia Energie" type="rss" url="https://streaming.napocalive.ro/radio-dacia01" />
+<outline text="Radio Dacia Paradis" title="Radio Dacia Paradis" type="rss" url="https://streaming.napocalive.ro/radio-dacia02" />
+<outline text="Radio Dacia Relax" title="Radio Dacia Relax" type="rss" url="https://streaming.napocalive.ro/radio-dacia03" />
 <outline text="Radio Damici" title="Radio Damici" type="rss" url="http://ssl.radios.show:8004/stream" />
 <outline text="Radio DEEA" title="Radio DEEA" type="rss" url="http://radiocdn.nxthost.com/radio-deea" />
 <outline text="Radio Deep" title="Radio Deep" type="rss" url="http://live.radiodeep.ro:7500/" />
-<outline text="Radio Disco Mix" title="Radio Disco Mix" type="rss" url="https://sonic1-rbx.cloud-center.ro:8002/stream" />
 <outline text="Radio Dobrogea" title="Radio Dobrogea" type="rss" url="http://stream.arhivaradiodobrogea.ro:7000/dobrogea" />
-<outline text="Radio Domeldo Movie" title="Radio Domeldo Movie" type="rss" url="http://cast5.servcast.net:3006/stream" />
+<outline text="Radio Domeldo" title="Radio Domeldo" type="rss" url="https://radiodomeldo.ro/movie" />
 <outline text="Radio Doxologia" title="Radio Doxologia" type="rss" url="https://doxologia.ro/radio/radio_doxologia.pls" />
 <outline text="Radio Doza Manele" title="Radio Doza Manele" type="rss" url="https://manele.radiodoza.eu:8100/listen.pls" />
 <outline text="Radio Doza Urban" title="Radio Doza Urban" type="rss" url="https://stream.zeno.fm/cezx5b1nw98uv.pls" />
@@ -171,94 +183,100 @@
 <outline text="Radio Elim Air" title="Radio Elim Air" type="rss" url="http://91.213.11.102:8011/stream_high" />
 <outline text="Radio Elim Español" title="Radio Elim Español" type="rss" url="http://91.213.11.102:8023/stream_high" />
 <outline text="Radio Elim Plus" title="Radio Elim Plus" type="rss" url="http://91.213.11.102:8003/stream3" />
+<outline text="Radio Energy Cugir" title="Radio Energy Cugir" type="rss" url="https://sonicssl.namehost.ro/8790/stream/" />
 <outline text="Radio Etno Mania" title="Radio Etno Mania" type="rss" url="https://radio.sonicpanel.ro:9300/" />
-<outline text="Radio Filadelfia Romania (Calitate medie)" title="Radio Filadelfia Romania (Calitate medie)" type="rss" url="http://asculta.radiofiladelfia.ro:8000/" />
+<outline text="Radio Extrem Live" title="Radio Extrem Live" type="rss" url="https://www.radio-extrem.com/asculta" />
 <outline text="Radio FIR" title="Radio FIR" type="rss" url="https://sonic1-rbx.cloud-center.ro/8010/stream" />
 <outline text="Radio Flo Manele " title="Radio Flo Manele " type="rss" url="https://live.radioflomanele.ro/8084/stream" />
 <outline text="Radio Folclor" title="Radio Folclor" type="rss" url="https://ssl.omegahost.ro/8092/stream" />
 <outline text="Radio Folclor Buzau" title="Radio Folclor Buzau" type="rss" url="https://live.radiofolclorbuzaufm.ro:8910/stream" />
 <outline text="Radio Folclor Muntenia" title="Radio Folclor Muntenia" type="rss" url="https://live.radiofolclormuntenia.ro:8008/stream" />
-<outline text="Radio Funky Romania" title="Radio Funky Romania" type="rss" url="https://dance.radiofunky.ro/7500/stream" />
 <outline text="Radio FX Net" title="Radio FX Net" type="rss" url="http://asculta.radiofxnet.ro:8458/" />
 <outline text="Rádió Gaga" title="Rádió Gaga" type="rss" url="http://rc.radiogaga.ro:8000/live" />
 <outline text="Radio Gaga" title="Radio Gaga" type="rss" url="http://rc.radiogaga.ro:8000/live" />
-<outline text="Rádió GaGa Csíkszék" title="Rádió GaGa Csíkszék" type="rss" url="https://securestreams6.autopo.st:2449/stream?1677568640" />
-<outline text="Rádió GaGa Gyergyószék" title="Rádió GaGa Gyergyószék" type="rss" url="https://securestreams5.autopo.st:1993/player" />
-<outline text="Rádió GaGa Udvarhelyszék" title="Rádió GaGa Udvarhelyszék" type="rss" url="https://securestreams5.autopo.st:1992/player" />
-<outline text="Radio Gangsta Manele" title="Radio Gangsta Manele" type="rss" url="http://asculta.radiogangsta.ro:8800/listen.pls" />
-<outline text="Radio Gosen" title="Radio Gosen" type="rss" url="http://ascultaradiogosen.no-ip.org:8125/listen.pls" />
+<outline text="Rádió GaGa Csíkszék" title="Rádió GaGa Csíkszék" type="rss" url="https://a3.my-control-panel.com:6700/radio.mp3" />
+<outline text="Rádió GaGa Gyergyószék" title="Rádió GaGa Gyergyószék" type="rss" url="https://a3.my-control-panel.com:6690/radio.mp3" />
+<outline text="Rádió GaGa Háromszék" title="Rádió GaGa Háromszék" type="rss" url="https://a3.my-control-panel.com:6670/radio.mp3" />
+<outline text="Rádió GaGa Marosszék" title="Rádió GaGa Marosszék" type="rss" url="https://a3.my-control-panel.com:6660/radio.mp3?1709995925" />
+<outline text="Rádió GaGa Udvarhelyszék" title="Rádió GaGa Udvarhelyszék" type="rss" url="https://a3.my-control-panel.com:6680/radio.mp3?1709996423" />
+<outline text="Radio Goldies" title="Radio Goldies" type="rss" url="https://s10.streamingcloud.online/stream/13664" />
 <outline text="Radio Greenstone" title="Radio Greenstone" type="rss" url="https://stream.clever-host.ro/8018/stream" />
 <outline text="Radio Greu De Difuzat" title="Radio Greu De Difuzat" type="rss" url="https://greudedifuzat.ro/stream/" />
 <outline text="Radio Hit Fm Manele" title="Radio Hit Fm Manele" type="rss" url="http://asculta.radiohitfm.net:8340/" />
 <outline text="Radio HIT Iasi" title="Radio HIT Iasi" type="rss" url="http://live02.radiohit.ro:8000/hit.mp3" />
 <outline text="Radio Hot Style" title="Radio Hot Style" type="rss" url="http://mp3.radiohot.ro:8000/stream" />
-<outline text="Radio Ideal" title="Radio Ideal" type="rss" url="https://radio.cloud23.eu:8060/stram" />
+<outline text="Radio HY Brăila" title="Radio HY Brăila" type="rss" url="https://asculta.ascultatare.ro:8034/" />
 <outline text="Radio Impuls RO" title="Radio Impuls RO" type="rss" url="https://live.radio-impuls.ro/stream" />
 <outline text="Radio Impuls Romania" title="Radio Impuls Romania" type="rss" url="http://live2.radio-impuls.ro/" />
 <outline text="Radio Intens" title="Radio Intens" type="rss" url="https://www.radiointens.ro/128.pls" />
+<outline text="Radio Iubire" title="Radio Iubire" type="rss" url="http://ssl.radios.show:8026/" />
 <outline text="Radio Kids Romania" title="Radio Kids Romania" type="rss" url="https://asculta.radioromanian.net:10997/" />
+<outline text="Radio Killer Câmpia Turzii" title="Radio Killer Câmpia Turzii" type="rss" url="https://s12.myradiostream.com/17492/listen.mp3" />
+<outline text="Rádió Koko" title="Rádió Koko" type="rss" url="https://radiokoko.ro/live" />
+<outline text="Rádió KoKo" title="Rádió KoKo" type="rss" url="https://az10.yesstreaming.net:8210/radiokoko.mp3" />
+<outline text="Rádio Koko" title="Rádio Koko" type="rss" url="https://az10.yesstreaming.net:8210/radiokoko" />
+<outline text="Rádió Koko" title="Rádió Koko" type="rss" url="https://az10.yesstreaming.net:8210/radiokoko" />
 <outline text="Radio Korrupt Nostalgic" title="Radio Korrupt Nostalgic" type="rss" url="http://stream.zeno.fm/ow1xlcqo3aatv" />
 <outline text="Radio Lăutaru" title="Radio Lăutaru" type="rss" url="http://live.radiolautaru.ro:9000/" />
+<outline text="Radio Liberty Multiplayer Phonk - radiolibertymp.ro" title="Radio Liberty Multiplayer Phonk - radiolibertymp.ro" type="rss" url="https://hs1.radiolibertymp.ro/listen/lmpphonk/stream.mp3" />
+<outline text="Radio Liberty Multiplayer Phonk remix" title="Radio Liberty Multiplayer Phonk remix" type="rss" url="https://hs1.radiolibertymp.ro/listen/lmpphonk/stream.mp3" />
 <outline text="Radio liberty slagare" title="Radio liberty slagare" type="rss" url="http://slagare.radioliberty.ro:1989/" />
 <outline text="Radio Lipova" title="Radio Lipova" type="rss" url="https://securestreams5.autopo.st:1888/listen.pls" />
-<outline text="Radio Live247" title="Radio Live247" type="rss" url="https://stream18.expo-media.eu/listen/live247_ro/radio.mp3" />
 <outline text="Radio Lumina 90.4" title="Radio Lumina 90.4" type="rss" url="http://live.radiolumina.ro/lumina_winamp-hi.m3u" />
 <outline text="RADIO MAGIA INIMII TALE" title="RADIO MAGIA INIMII TALE" type="rss" url="https://radio.cloud23.eu/magiainimiitale" />
-<outline text="Radio Măneciu" title="Radio Măneciu" type="rss" url="https://streamer.radio.co/sa42a07797/listen" />
 <outline text="Radio MANELE" title="Radio MANELE" type="rss" url="https://play.wrhradios.com/8044/stream" />
-<outline text="Radio Manele București " title="Radio Manele București " type="rss" url="http://live.radiomanelebucuresti.ro:9020/" />
 <outline text="Radio Manele FM" title="Radio Manele FM" type="rss" url="http://a.fmradiomanele.ro:8054/" />
 <outline text="RADIO MANELE PETRECERE" title="RADIO MANELE PETRECERE" type="rss" url="https://ssl.servereradio.ro/8123/stream" />
 <outline text="Radio Manele Premium" title="Radio Manele Premium" type="rss" url="http://88.198.70.25:8894/" />
+<outline text="Radio Manele Romania" title="Radio Manele Romania" type="rss" url="http://petrecere.fmradiomanele.ro:8123/stream.nsv" />
 <outline text="Radio Maria" title="Radio Maria" type="rss" url="http://cloudrad.io/radiomariaromania/listen.pls" />
 <outline text="RADIO MARIA ROMANIA" title="RADIO MARIA ROMANIA" type="rss" url="http://dreamsiteradiocp2.com:8002/stream" />
+<outline text="Radio Marketescu Minimal" title="Radio Marketescu Minimal" type="rss" url="https://sonic2-rbx.cloud-center.ro:7022/stream" />
+<outline text="Radio Marketescu Reggae&amp;Trip-Hop" title="Radio Marketescu Reggae&amp;Trip-Hop" type="rss" url="https://s37.radiolize.com/radio/8100/radio.mp3" />
 <outline text="Radio Master One" title="Radio Master One" type="rss" url="http://whsh4u-server.com:11060/autodj" />
 <outline text="Radio Medias" title="Radio Medias" type="rss" url="http://mediasfm.eushells.ro:8082/listen.pls" />
+<outline text="Radio Mioveni" title="Radio Mioveni" type="rss" url="http://argesmioveninr1.radi0.im:8000/stream" />
 <outline text="RADIO MIRAJUL MUZICII" title="RADIO MIRAJUL MUZICII" type="rss" url="http://live.radiomiraj.ro:9952/stream" />
 <outline text="Radio Mynele" title="Radio Mynele" type="rss" url="http://live.radiomynele.ro:8000/" />
 <outline text="Radio Nebunya" title="Radio Nebunya" type="rss" url="http://asculta.radionebunya.ro:7575/" />
-<outline text="Radio Nemesis Traditional" title="Radio Nemesis Traditional" type="rss" url="http://asculta.nemesismedia.ro:8010/stream" />
 <outline text="Radio Noise" title="Radio Noise" type="rss" url="http://live.radionoise.ro:9100/" />
 <outline text="Radio Noise Gold" title="Radio Noise Gold" type="rss" url="https://radio.sonicpanel.ro:9170/" />
 <outline text="Radio Noise Hip-Hop" title="Radio Noise Hip-Hop" type="rss" url="https://radio.sonicpanel.ro:9110/stream" />
 <outline text="Radio Noise Hits" title="Radio Noise Hits" type="rss" url="https://radio.sonicpanel.ro:9140/" />
 <outline text="Radio Noise Party" title="Radio Noise Party" type="rss" url="https://partylive.radionoise.ro:9160/" />
-<outline text="Radio Noise Party " title="Radio Noise Party " type="rss" url="https://asculta.muzicaok.de:9160/stream" />
 <outline text="Radio Noise Retro" title="Radio Noise Retro" type="rss" url="https://radio.sonicpanel.ro:9120/" />
 <outline text="Radio Noise Rock" title="Radio Noise Rock" type="rss" url="https://radio.sonicpanel.ro:9130/" />
+<outline text="Radio Oldies" title="Radio Oldies" type="rss" url="http://live.radiooldies.ro:9200/listen.pls" />
 <outline text="Radio Oldies Romania " title="Radio Oldies Romania " type="rss" url="http://listen.radiooldies.ro:9200/" />
 <outline text="Radio Oltenia Craiova" title="Radio Oltenia Craiova" type="rss" url="http://stream2.srr.ro:8370/listen.pls" />
-<outline text="Radio Omega Romania" title="Radio Omega Romania" type="rss" url="http://86.122.144.238:8100/listen.pls" />
 <outline text="Radio Party București " title="Radio Party București " type="rss" url="http://asculta.radiopartybucuresti.ro:8050/" />
 <outline text="Radio Peniel" title="Radio Peniel" type="rss" url="https://stream.zeno.fm/a26ipyehngytv" />
 <outline text="Radio Petrecăretzu" title="Radio Petrecăretzu" type="rss" url="http://live.radiopetrecaretzu.ro:8383/" />
 <outline text="RADIO Petrecere" title="RADIO Petrecere" type="rss" url="https://ssl.servereradio.ro/8123/stream" />
-<outline text="Radio Poetic" title="Radio Poetic" type="rss" url="https://asculta.muzicaok.de/radiopoetic/stream" />
-<outline text="Radio Popular" title="Radio Popular" type="rss" url="http://livemp3.radiopopular.ro:7777/stream.mp3" />
+<outline text="radio pitesti 1" title="radio pitesti 1" type="rss" url="https://ssl.radios.show/8050/stream" />
 <outline text="Radio Popular (Arhiva) (1)" title="Radio Popular (Arhiva) (1)" type="rss" url="http://web.archive.org/web/20180110095018if_/http://mp3.radiopopular.ro:7777/" />
 <outline text="Radio Prahova" title="Radio Prahova" type="rss" url="https://streamx.rph.ro:8100/relay" />
 <outline text="Radio Pro Manele" title="Radio Pro Manele" type="rss" url="http://radiopromanele.zapto.org:8000/" />
 <outline text="RADIO PRO PARTY" title="RADIO PRO PARTY" type="rss" url="http://asculta.proparty.net:8567/stream" />
-<outline text="Radio Qanon" title="Radio Qanon" type="rss" url="http://89.39.189.40:8000/stream" />
+<outline text="Radio Pro-B" title="Radio Pro-B" type="rss" url="http://live.radioprob.ro:8888/stream" />
 <outline text="Radio Rahanopolis" title="Radio Rahanopolis" type="rss" url="http://86.120.124.101:8000/128" />
 <outline text="Radio Reggaeton" title="Radio Reggaeton" type="rss" url="http://85.120.223.142:8888/stream?icy=https" />
+<outline text="Radio Reîntregirea" title="Radio Reîntregirea" type="rss" url="https://live.reintregirea.ro/" />
 <outline text="Radio Resita" title="Radio Resita" type="rss" url="http://89.238.227.6:8344/listen.pls" />
 <outline text="Radio RFM" title="Radio RFM" type="rss" url="https://shout.realitatea.net:8001/mixt" />
 <outline text="Radio Romance 21" title="Radio Romance 21" type="rss" url="http://live.radioromance21.ro:9950/stream" />
-<outline text="RADIO ROMANCE 21.ETNO" title="RADIO ROMANCE 21.ETNO" type="rss" url="https://sonic.cloud23.eu/8012/stream" />
 <outline text="Radio România 3 Net" title="Radio România 3 Net" type="rss" url="http://media.3netmedia.ro:8000/Live128" />
 <outline text="Radio România 3Net" title="Radio România 3Net" type="rss" url="http://media.3netmedia.ro:8000/Live128" />
-<outline text="Radio Romania Antena Sibiului " title="Radio Romania Antena Sibiului " type="rss" url="http://89.238.227.6:8380/listen.pls" />
 <outline text="Radio România Brașov" title="Radio România Brașov" type="rss" url="http://stream2.srr.ro:8210/" />
 <outline text="Radio România Cluj" title="Radio România Cluj" type="rss" url="http://89.238.227.6:8384/" />
 <outline text="Radio Romania Constanta" title="Radio Romania Constanta" type="rss" url="http://89.238.227.6:8332/listen.pls?sid=1" />
 <outline text="Radio România Cultural" title="Radio România Cultural" type="rss" url="http://stream2.srr.ro:8012/" />
 <outline text="Radio Romania International" title="Radio Romania International" type="rss" url="http://stream2.srr.ro:8052/" />
-<outline text="Radio România Internațional 2" title="Radio România Internațional 2" type="rss" url="https://www.rri.ro/live_stream/rri_mp3_128_2.m3u" />
-<outline text="Radio România Internațional 3" title="Radio România Internațional 3" type="rss" url="https://www.rri.ro/live_stream/rri_mp3_128_3.m3u" />
 <outline text="Radio România Muzical" title="Radio România Muzical" type="rss" url="http://stream2.srr.ro:8022/" />
+<outline text="Radio Romania Muzical" title="Radio Romania Muzical" type="rss" url="http://stream2.srr.ro:8020/listen.pls" />
 <outline text="Radio Romania Targu Mures" title="Radio Romania Targu Mures" type="rss" url="http://streaming.radiomures.ro:8302/listen.pls/stream" />
 <outline text="Radio România Târgu Mureș - Marosvásárhelyi Rádió Románia" title="Radio România Târgu Mureș - Marosvásárhelyi Rádió Románia" type="rss" url="http://streaming.radiomures.ro:8312/listen.pls?sid=1" />
+<outline text="Radio Romania Targu Mures AM" title="Radio Romania Targu Mures AM" type="rss" url="http://streaming.radiomures.ro:8322/" />
 <outline text="Radio Romanian Dance" title="Radio Romanian Dance" type="rss" url="https://asculta.radioromanian.net/8100/stream" />
 <outline text="Radio Romanian Disco" title="Radio Romanian Disco" type="rss" url="https://asculta.radioromanian.net/8700/stream" />
 <outline text="Radio Romanian Gold" title="Radio Romanian Gold" type="rss" url="https://asculta.radioromanian.net/8900/stream" />
@@ -266,71 +284,80 @@
 <outline text="Radio Romanian Manele" title="Radio Romanian Manele" type="rss" url="https://asculta.radioromanian.net/8300/stream" />
 <outline text="Radio Romanian Popular" title="Radio Romanian Popular" type="rss" url="https://asculta.radioromanian.net/8500/stream" />
 <outline text="Radio Romanian Rock" title="Radio Romanian Rock" type="rss" url="https://asculta.radioromanian.net/8800/stream" />
-<outline text="Radio Romantic" title="Radio Romantic" type="rss" url="https://radio-romantic.ro/stream" />
-<outline text="Radio Sistem FM" title="Radio Sistem FM" type="rss" url="https://asculta.ascultatare.ro/8002/stream" />
+<outline text="Radio Romantic" title="Radio Romantic" type="rss" url="http://stream.zeno.fm/72k4a597rs8uv" />
+<outline text="Radio ROT Romania" title="Radio ROT Romania" type="rss" url="http://radiorot.ovh:8000/radio.mp3" />
 <outline text="Radio Sky FM" title="Radio Sky FM" type="rss" url="http://89.43.138.116:8000/radiosky.mp3" />
 <outline text="Radio Space 90" title="Radio Space 90" type="rss" url="http://ingame.go.ro:8003/stream" />
 <outline text="Radio Stres" title="Radio Stres" type="rss" url="http://live.radiostres.com:8402/" />
+<outline text="Radio Super Manele" title="Radio Super Manele" type="rss" url="http://manele.capitalfm.ro:8020/listen.pls" />
 <outline text="Radio T " title="Radio T " type="rss" url="http://82.77.249.68:8000/" />
-<outline text="Radio Taraf" title="Radio Taraf" type="rss" url="https://ddos.radiotaraf.ro/7100/stream" />
+<outline text="Radio Taraf MANELE" title="Radio Taraf MANELE" type="rss" url="http://asculta.radiotaraf.ro:7100/" />
 <outline text="Radio Tequila Dance Romania" title="Radio Tequila Dance Romania" type="rss" url="http://dance.radiotequila.ro:7000/stream.nsv" />
 <outline text="Radio Tequila Hip-Hop" title="Radio Tequila Hip-Hop" type="rss" url="http://necenzurat.radiotequila.ro:7000/" />
 <outline text="Radio Tequila Manele" title="Radio Tequila Manele" type="rss" url="http://live.radiotequila.ro:7000/" />
+<outline text="Radio Tequila Manele Romania" title="Radio Tequila Manele Romania" type="rss" url="https://petrecere.radiotequila.ro/7000/stream" />
 <outline text="Radio Tequila Oldies" title="Radio Tequila Oldies" type="rss" url="https://stream.zeno.fm/5a1utt11fkhvv" />
 <outline text="Radio Tequila Petrecere " title="Radio Tequila Petrecere " type="rss" url="http://petrecere.radiotequila.ro:7000/" />
 <outline text="Radio Terra" title="Radio Terra" type="rss" url="http://188.26.110.59:8000/terra_hq.mp3" />
-<outline text="Radio Terranova" title="Radio Terranova" type="rss" url="https://sonic1-rbx.cloud-center.ro/8026/stream" />
+<outline text="Radio Test" title="Radio Test" type="rss" url="https://hs1.radiolibertymp.ro/listen/lmpchill/stream.mp3?refresh=1700228324588" />
 <outline text="Radio Timișoara" title="Radio Timișoara" type="rss" url="http://89.238.227.6:8354/" />
 <outline text="Radio Top Suceava" title="Radio Top Suceava" type="rss" url="https://live.radiotop.ro/radio/8000/radio.mp3" />
 <outline text="Radio Trandafirul Rosu" title="Radio Trandafirul Rosu" type="rss" url="https://stream-148.zeno.fm/46mdd8ebdchvv?zs=3KOOJiuCTAuEqso88MJ74A" />
-<outline text="Radio Tranquila Manele " title="Radio Tranquila Manele " type="rss" url="https://live.radiotranquila.net:8032/stream" />
 <outline text="Radio Transilvania - Cluj" title="Radio Transilvania - Cluj" type="rss" url="https://stream2.radiotransilvania.ro/Cluj" />
 <outline text="Radio Trib" title="Radio Trib" type="rss" url="https://streams.radio.co/s78f983952/listen" />
-<outline text="Radio Turda" title="Radio Turda" type="rss" url="https://live.aftech.ro/radio/8010/radio.mp3" />
+<outline text="Radio Trinitas 88.5" title="Radio Trinitas 88.5" type="rss" url="https://live.radiotrinitas.ro:8003/stream.nsv" />
 <outline text="Radio Underland" title="Radio Underland" type="rss" url="https://radio.underland.team/radio/8000/radio.mp3" />
 <outline text="Radio Unirea 107.2" title="Radio Unirea 107.2" type="rss" url="http://82.208.158.156:8000/" />
 <outline text="Radio Vacanta" title="Radio Vacanta" type="rss" url="http://89.238.227.6:8330/listen.pls" />
 <outline text="Radio Vacanța - Fresh" title="Radio Vacanța - Fresh" type="rss" url="https://stream4.srr.ro:8443/fresh_rv" />
 <outline text="Radio Vacanța - Gold " title="Radio Vacanța - Gold " type="rss" url="https://stream4.srr.ro:8443/gold_rv" />
+<outline text="Radio Vacanța Nostalgia" title="Radio Vacanța Nostalgia" type="rss" url="https://stream4.srr.ro:8443/nostalgia_rv" />
 <outline text="Radio Veselia Folclor" title="Radio Veselia Folclor" type="rss" url="http://asculta.radioveseliafolclor.com:8232/" />
 <outline text="Radio Vestea Buna" title="Radio Vestea Buna" type="rss" url="http://c34.radioboss.fm:8175/autodj" />
 <outline text="Radio VIP" title="Radio VIP" type="rss" url="http://live1.radiovip.ro:8969/" />
 <outline text="Radio Vocea Evangheliei RVE Sibiu" title="Radio Vocea Evangheliei RVE Sibiu" type="rss" url="https://c13.radioboss.fm:18286/stream" />
 <outline text="Radio Vocea Evangheliei Suceava - RVE" title="Radio Vocea Evangheliei Suceava - RVE" type="rss" url="http://s9.yesstreaming.net:7014/stream" />
 <outline text="Radio Voces Campi" title="Radio Voces Campi" type="rss" url="http://vocescampi.ro:8001/" />
+<outline text="radio Wanda România" title="radio Wanda România" type="rss" url="https://eu1-sonic.serverse.com/ro/stream" />
 <outline text="Radio Xtream" title="Radio Xtream" type="rss" url="https://ssl.radios.show:7008/" />
 <outline text="RadioClick" title="RadioClick" type="rss" url="http://live.radioclick.ro:8008/" />
+<outline text="RadioGaga" title="RadioGaga" type="rss" url="http://rc.radiogaga.ro:8000/live" />
 <outline text="RadioPapuc" title="RadioPapuc" type="rss" url="https://stream.zeno.fm/phcn6lncrj4tv" />
+<outline text="RadioPitesteanuRomania" title="RadioPitesteanuRomania" type="rss" url="https://free.rcast.net/246157" />
 <outline text="RadioReintregirea Alba Iulia" title="RadioReintregirea Alba Iulia" type="rss" url="https://reintregirea.ro/sites/default/files/tema/radio.pls" />
+<outline text="Radioromanian Colinde" title="Radioromanian Colinde" type="rss" url="https://asculta.radioromanian.net/8600/stream" />
 <outline text="Realitatea FM" title="Realitatea FM" type="rss" url="https://shout.realitatea.net:8001/rfmweb" />
-<outline text="Régió Rádió" title="Régió Rádió" type="rss" url="https://live.regioradio.info/listen/" />
+<outline text="Régió Rádió" title="Régió Rádió" type="rss" url="https://stream.regioradio.info:8000/radio.mp3" />
 <outline text="Reintregirea" title="Reintregirea" type="rss" url="https://reintregirea.ro/sites/default/files/tema/radio.pls" />
+<outline text="Replica Radio" title="Replica Radio" type="rss" url="https://securestreams.autopo.st:2490/" />
+<outline text="Replica Radio Rock" title="Replica Radio Rock" type="rss" url="https://securestreams.autopo.st:2496/" />
 <outline text="Retró Rádió Csíkszereda" title="Retró Rádió Csíkszereda" type="rss" url="http://online.radioretro.ro:8002/RetroRadio.mp3" />
-<outline text="RFI România" title="RFI România" type="rss" url="https://asculta.rfi.ro/live.mp3" />
-<outline text="Rock And More" title="Rock And More" type="rss" url="https://cloud.radiosonicpanel.ro/8022/stream" />
+<outline text="Rock Now Radio" title="Rock Now Radio" type="rss" url="https://listen.rocknowradio.ro/" />
 <outline text="Rocker Inside" title="Rocker Inside" type="rss" url="https://cast4.my-control-panel.com/proxy/fountai1/stream" />
-<outline text="Roman FM" title="Roman FM" type="rss" url="https://live.romanfm.ro:8000/rfm" />
+<outline text="ROMÂNIA   e-Teatru" title="ROMÂNIA   e-Teatru" type="rss" url="http://stream2.srr.ro:8078/eteatru.mp3" />
+<outline text="ROMÂNIA   Internațional 1" title="ROMÂNIA   Internațional 1" type="rss" url="http://stream2.srr.ro:8052/" />
 <outline text="România Oltenia-Craiova" title="România Oltenia-Craiova" type="rss" url="http://stream2.srr.ro:8370/stream.mp3" />
-<outline text="România Popular" title="România Popular" type="rss" url="https://asculta.romaniapopular.ro:8080/" />
 <outline text="Sepsi Rádió" title="Sepsi Rádió" type="rss" url="https://stream.sepsiradio.ro:8001/SepsiRadio" />
-<outline text="Social FM" title="Social FM" type="rss" url="http://noasrv.caster.fm:10085/listen.m3u" />
-<outline text="Social FM 96.9" title="Social FM 96.9" type="rss" url="https://noasrv.caster.fm:10085/listen" />
+<outline text="Space FM" title="Space FM" type="rss" url="http://stream.radioparadise.com/world-etc-192" />
 <outline text="Space Fm Dance" title="Space Fm Dance" type="rss" url="https://spacefm.live/radio/8000/spacefm128" />
-<outline text="Squad Radio Florești" title="Squad Radio Florești" type="rss" url="http://109.169.23.124:9447/" />
+<outline text="Statie de radio crestin" title="Statie de radio crestin" type="rss" url="https://sp.totalstreaming.net:8125/" />
 <outline text="Super FM" title="Super FM" type="rss" url="https://live.superfm.ro/stream.mp3" />
 <outline text="Super FM Brasov 93.8" title="Super FM Brasov 93.8" type="rss" url="https://live.superfm.ro/stream.mp3?time=1697692801" />
+<outline text="Super FM Prahova" title="Super FM Prahova" type="rss" url="https://asculta.superfmradio.ro:9720/stream" />
+<outline text="SuperFM Brasov 93.8 FM" title="SuperFM Brasov 93.8 FM" type="rss" url="https://live.superfm.ro/stream.mp3?nocache=0.19023860954617056" />
 <outline text="Supersonic Radio" title="Supersonic Radio" type="rss" url="https://s5.radio.co/s08e5c5875/listen" />
 <outline text="Supravibe Radio " title="Supravibe Radio " type="rss" url="https://supraviberadio-radiohosting.radioca.st/stream" />
 <outline text="Supravibe Radio" title="Supravibe Radio" type="rss" url="https://supraviberadio-radiohosting.radioca.st/stream" />
 <outline text="Sweet FM Romania" title="Sweet FM Romania" type="rss" url="https://live.gofm.ro:2000/stream/SWEET/stream.mp3" />
 <outline text="Szépvíz FM" title="Szépvíz FM" type="rss" url="http://szepvizfm.ro:8000/" />
 <outline text="TRADIȚIONAL / POPULAR - Radio Calea Spre Cer LIVE 24/7" title="TRADIȚIONAL / POPULAR - Radio Calea Spre Cer LIVE 24/7" type="rss" url="https://panel.radiocaleasprecer.com/radio/8020/radio.mp3" />
-<outline text="UNTOLD RADIO" title="UNTOLD RADIO" type="rss" url="https://live-untold.distinct.ro:8001/untold.ogg" />
+<outline text="Traffic Radio" title="Traffic Radio" type="rss" url="https://live.gofm.ro:2000/stream/traficradio" />
+<outline text="TWIST -Radio Trap" title="TWIST -Radio Trap" type="rss" url="https://stream.zeno.fm/9dhe4r7upg8uv" />
+<outline text="TWIST -Radio Ușoară" title="TWIST -Radio Ușoară" type="rss" url="https://stream.zeno.fm/g7uert66bxhvv" />
+<outline text="Unirea Radio" title="Unirea Radio" type="rss" url="http://82.208.158.156:8000/" />
 <outline text="Valori Românești Radio" title="Valori Românești Radio" type="rss" url="https://securestreams6.autopo.st:2250/" />
 <outline text="Vox FM - Székelykeresztúr" title="Vox FM - Székelykeresztúr" type="rss" url="http://stream.voxfm.ro:8000/listen.pls" />
-<outline text="We Radio" title="We Radio" type="rss" url="http://93.115.175.106:8000/player" />
 <outline text="West City Radio" title="West City Radio" type="rss" url="http://live.westcityradio.ro:8000/mp3" />
-<outline text="WhiteHeaven Radio " title="WhiteHeaven Radio " type="rss" url="http://asculta.whiteheaven.ro:7954/" />
-<outline text="YOU FM Romania " title="YOU FM Romania " type="rss" url="https://asculta.muzicaok.de/8034/stream" />
+<outline text="You FM Romania" title="You FM Romania" type="rss" url="https://asculta.muzicaok.de:8034/listen.pls" />
 </body>
 </opml>

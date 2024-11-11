@@ -5,10 +5,14 @@
 </head>
 <body>
 <outline text="Bon FM 102.7  Riscado" title="Bon FM 102.7  Riscado" type="rss" url="http://bonfm5.primcast.com:6482/" />
+<outline text="h" title="h" type="rss" url="http://radio2.sikhnet.com:8037/live" />
 <outline text="Live99 FM - Kralendijk" title="Live99 FM - Kralendijk" type="rss" url="http://162.244.80.220:8000/stream.mp3" />
+<outline text="Mega Hit FM" title="Mega Hit FM" type="rss" url="http://megaspice.primcast.com:5216/listen.pls?sid=1" />
 <outline text="Mega Hit FM 101.1" title="Mega Hit FM 101.1" type="rss" url="http://megaspice.primcast.com:5216/" />
+<outline text="Non Stop Hits Alex FM" title="Non Stop Hits Alex FM" type="rss" url="https://radioalexfm.stream.laut.fm/radioalexfm?ref=web-app&amp;start_time=1709718045653" />
 <outline text="Radio Transmundial Bonaire 800 Khz" title="Radio Transmundial Bonaire 800 Khz" type="rss" url="https://cdn.instream.audio/:9050/stream" />
 <outline text="RTV Purmerend" title="RTV Purmerend" type="rss" url="http://stream.zxp.nl:8000/radiopurmerend_bb" />
+<outline text="TROPICAL SPICE RADIO" title="TROPICAL SPICE RADIO" type="rss" url="https://auds1.intacs.com/tropicalspiceradio" />
 <outline text="Voz di Bonaire 94.7 - Riscado" title="Voz di Bonaire 94.7 - Riscado" type="rss" url="http://159.203.190.86:8304/stream.mp3" />
 </body>
 </opml>

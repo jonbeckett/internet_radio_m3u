@@ -1,0 +1,6 @@
+#EXTM3U
+#PLAYLIST:Internet Radio Stations for ER Eritrea
+#EXTINF:-1 hip hop 
+http://stream.rtlradio.de/rnb/mp3-192/
+#EXTINF:-1 Radio Tigrinya Eritrea
+http://104.7.66.64:8090/home.html?sid=1

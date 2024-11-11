@@ -1,14 +1,18 @@
 [playlist]
-File1=http://www.fresharuba.com:8006/
-Title1=Fresh FM 104.3 Oranjestad
-File2=http://fresharuba.com:8006/streamaudio.mp3?hash=1688155532122
-Title2=Fresh Fm Aruba
-File3=http://fresharuba.com:8006/streamaudio.mp3
-Title3=freshFM Aruba
-File4=https://audio-edge-es6pf.mia.g.radiomast.io/f4b2dcfb-399c-4650-a64a-e4fb5b32717e
-Title4=Hits 100 Aruba
+File1=https://stream.canal90.fm/live
+Title1=Canal90 FM
+File2=http://www.fresharuba.com:8006/
+Title2=Fresh FM 104.3 Oranjestad
+File3=http://fresharuba.com:8006/streamaudio.mp3?hash=1688155532122
+Title3=Fresh Fm Aruba
+File4=http://fresharuba.com:8006/streamaudio.mp3
+Title4=freshFM Aruba
 File5=http://158.69.114.190:8072/
 Title5=Magic 96.5 - Oranjestad
-File6=http://52.0.120.216:8000/stream/4/
-Title6=yhju
-NumberOfEntries=6
+File6=https://s5.nexuscast.com:8072/listen.pls?sid=1
+Title6=Magic FM Aruba
+File7=http://198.245.51.58:10995/topfm?type=.mp3
+Title7=Top95 FM
+File8=http://52.0.120.216:8000/stream/4/
+Title8=yhju
+NumberOfEntries=8

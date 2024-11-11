@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Internet Radio Stations for PG Papua New Guinea</title>
+</head>
+<body>
+<outline text="NauFM" title="NauFM" type="rss" url="https://27163.live.streamtheworld.com/NAUFM.mp3" />
+<outline text="NBC PNG" title="NBC PNG" type="rss" url="https://stream-152.zeno.fm/8dhz9ksa8f0uv?zs=9LzXWOwYTU69VMKXx0FuWA&amp;adtonosListenerId=01HG0J80DVF8MTJ9829WK7SDVF&amp;aw_0_req_lsid=3e71891a2ab3ea7ea8d47bc8231e34b5" />
+<outline text="YumiFM" title="YumiFM" type="rss" url="https://27163.live.streamtheworld.com/YUMIFM.mp3" />
+</body>
+</opml>

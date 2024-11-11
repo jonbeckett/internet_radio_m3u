@@ -4,8 +4,11 @@
 <title>Internet Radio Stations for BS The Bahamas</title>
 </head>
 <body>
+<outline text="96.9 FM GuardianRadio" title="96.9 FM GuardianRadio" type="rss" url="https://radiostreams.streamcomedia.com:8000/969guardianradio" />
+<outline text="96.9FM GuardianRadio" title="96.9FM GuardianRadio" type="rss" url="https://radiostreams.streamcomedia.com:8000/969guardianradio" />
 <outline text="Bahamian or Nuttin" title="Bahamian or Nuttin" type="rss" url="https://s2.reliastream.com/proxy/rumcayme?mp=/stream" />
 <outline text="Bahamianor Nuttin 92.5 FM" title="Bahamianor Nuttin 92.5 FM" type="rss" url="https://s2.reliastream.com/proxy/rumcayme?mp=/stream" />
+<outline text="KLPM88.9FM" title="KLPM88.9FM" type="rss" url="https://s4.radio.co/s440e54fd7/listen" />
 <outline text="LCLHST R1" title="LCLHST R1" type="rss" url="http://s1.radio.lclhst.net:1437/r1" />
 <outline text="LCLHST R2" title="LCLHST R2" type="rss" url="http://s1.radio.lclhst.net:1437/r2" />
 </body>

@@ -4,21 +4,22 @@
 <title>Internet Radio Stations for GH Ghana</title>
 </head>
 <body>
+<outline text="A1-RADIO-1011MHz-Bolgatanga" title="A1-RADIO-1011MHz-Bolgatanga" type="rss" url="https://stream.streamgenial.stream/y77gg1ggeq8uv" />
 <outline text="ADUM RADIO" title="ADUM RADIO" type="rss" url="http://stream.zeno.fm/dmn9atfb7ehvv" />
 <outline text="Akomapa FM" title="Akomapa FM" type="rss" url="http://mounthoreb1.primcast.com:8210/" />
-<outline text="BOX : Afrofusion Gold" title="BOX : Afrofusion Gold" type="rss" url="https://play.streamafrica.net/afrofusiongold" />
-<outline text="BOX Radio - Afrofusion Gold" title="BOX Radio - Afrofusion Gold" type="rss" url="https://ss-edge.joeycast.com/gold.mp3" />
+<outline text="Box Radio: Classical Radio" title="Box Radio: Classical Radio" type="rss" url="https://play.streamafrica.net/classicalradio" />
+<outline text="Box Radio: Dreamscapes" title="Box Radio: Dreamscapes" type="rss" url="https://play.streamafrica.net/dreamscapes" />
+<outline text="Box Radio: Lofi Radio" title="Box Radio: Lofi Radio" type="rss" url="https://play.streamafrica.net/lofiradio" />
+<outline text="Box Radio: Radio Jazz" title="Box Radio: Radio Jazz" type="rss" url="https://play.streamafrica.net/radiojazz" />
 <outline text="ChinaGhana Fm" title="ChinaGhana Fm" type="rss" url="https://stream.zeno.fm/3w43axr9mg0uv" />
 <outline text="citi fm" title="citi fm" type="rss" url="https://citi973fm.radioca.st/index.html:80/stream.mp3" />
 <outline text="Class FM 91.3" title="Class FM 91.3" type="rss" url="https://stream-15.zeno.fm/550swtx03mzuv" />
-<outline text="Ghana Radio" title="Ghana Radio" type="rss" url="https://ghana.ghanalisten.com:2200/stream.mp3" />
+<outline text="GBC Uniiq 95.7 FM " title="GBC Uniiq 95.7 FM " type="rss" url="http://173.249.50.205:8004/" />
 <outline text="GHERLA" title="GHERLA" type="rss" url="http://89.39.189.52:8000/" />
-<outline text="Happy 98.9 FM Ghana" title="Happy 98.9 FM Ghana" type="rss" url="http://happyfm989accra.atunwadigital.streamguys1.com/happyfm989accra" />
-<outline text="Kingsway Radio Ghana" title="Kingsway Radio Ghana" type="rss" url="https://kingsway.ghanalisten.com:4800/stream.mp3" />
+<outline text="Jesus Temple Radio" title="Jesus Temple Radio" type="rss" url="https://mediagh.us:2020/stream/temple" />
 <outline text="Mereshena Radio" title="Mereshena Radio" type="rss" url="http://stream.zeno.fm/gms1ucq58ehvv" />
-<outline text="Okay 107.7 FM" title="Okay 107.7 FM" type="rss" url="http://okayfm.atunwadigital.streamguys1.com/okayfm" />
-<outline text="Onyame Nipa Radio" title="Onyame Nipa Radio" type="rss" url="https://onyamenipa.ghanalisten.com:3200/stream.mp3" />
-<outline text="Oroko Radio" title="Oroko Radio" type="rss" url="https://s5.radio.co/s23b8ada46/listen" />
-<outline text="Sunshine Radio GH" title="Sunshine Radio GH" type="rss" url="https://sunshineradiogh.ghanalisten.com:2800/stream.mp3" />
+<outline text="Onua 95.1 FM" title="Onua 95.1 FM" type="rss" url="http://64.150.176.192:8039/" />
+<outline text="Pluzz FM" title="Pluzz FM" type="rss" url="https://a00.w3-gh.com/a11.mp3" />
+<outline text="Sweet Melodies 94.3 FM" title="Sweet Melodies 94.3 FM" type="rss" url="http://41.190.68.250:8000/stream" />
 </body>
 </opml>

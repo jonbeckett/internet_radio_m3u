@@ -6,13 +6,28 @@
 <body>
 <outline text="Apple FM" title="Apple FM" type="rss" url="http://sc.apple-fm.net:9020/listen.pls" />
 <outline text="Fing Radio" title="Fing Radio" type="rss" url="https://bluesfan.stream.laut.fm/bluesfan?t302=2020-11-06_13-46-59&amp;uuid=28a2f040-51e1-44fe-899f-3519cbd5d4e9" />
+<outline text="FM Belowground" title="FM Belowground" type="rss" url="https://listen.belowground.fm/listen/belowground_fm/radio.mp3" />
+<outline text="Hongkonger Station" title="Hongkonger Station" type="rss" url="https://s4.radio.co/s8adc4c466/listen" />
 <outline text="La French Radio Honk-Kong et Macao" title="La French Radio Honk-Kong et Macao" type="rss" url="https://listen.radioking.com/radio/333865/stream/382282" />
+<outline text="Metro Plus 1044 AM" title="Metro Plus 1044 AM" type="rss" url="http://162.220.162.10:8011/stream" />
 <outline text="Originalradio" title="Originalradio" type="rss" url="https://stream.zeno.fm/rzwzgu0dd8zuv" />
+<outline text="Radio Disney Asia FM 100.7" title="Radio Disney Asia FM 100.7" type="rss" url="https://listen.radioking.com/radio/453221/stream/508076" />
 <outline text="Radio Lantau" title="Radio Lantau" type="rss" url="https://radio.dripfeed.net/listen/radiolantau/radio.mp3" />
 <outline text="RTHK Radio 1" title="RTHK Radio 1" type="rss" url="http://stm1.rthk.hk/radio1" />
 <outline text="RTHK Radio 2" title="RTHK Radio 2" type="rss" url="http://stm2.rthk.hk/radio2" />
-<outline text="RTHK Radio 7 普通话台" title="RTHK Radio 7 普通话台" type="rss" url="http://202.177.192.119/radiopth" />
+<outline text="ZENO FM 良友友音乐频道" title="ZENO FM 良友友音乐频道" type="rss" url="https://stream.zeno.fm/t0v4uvwgc4zuv" />
+<outline text="ZENO FM 良友同行频道" title="ZENO FM 良友同行频道" type="rss" url="https://stream.zeno.fm/2uvcyzjw38ivv" />
+<outline text="中山環保旅遊之聲" title="中山環保旅遊之聲" type="rss" url="https://lhttp.qingting.fm/live/1278/64k.mp3" />
+<outline text="中山綜合廣播" title="中山綜合廣播" type="rss" url="https://lhttp.qingting.fm/live/1277/64k.mp3" />
+<outline text="台山電台" title="台山電台" type="rss" url="https://lhttp-hw.qtfm.cn/live/5022062/64k.mp3" />
 <outline text="夜空傳情" title="夜空傳情" type="rss" url="http://procyon.shoutca.st:8492/listen.mp3" />
+<outline text="大連少兒廣播" title="大連少兒廣播" type="rss" url="https://lhttp.qtfm.cn/live/1084/64k.mp3" />
+<outline text="大連都市之聲廣播" title="大連都市之聲廣播" type="rss" url="https://lhttp-hw.qtfm.cn/live/1086/64k.mp3" />
 <outline text="宗教_良友电台 第一台" title="宗教_良友电台 第一台" type="rss" url="https://listen.729ly.net:8001/ly729_a" />
+<outline text="深圳交通廣播" title="深圳交通廣播" type="rss" url="https://lhttp-hw.qtfm.cn/live/1272/64k.mp3" />
+<outline text="深圳新聞廣播" title="深圳新聞廣播" type="rss" url="http://lhttp.qingting.fm/live/1270/64k.mp3" />
+<outline text="珠海環保經濟廣播" title="珠海環保經濟廣播" type="rss" url="https://lhttp-hw.qtfm.cn/live/1275/64k.mp3" />
+<outline text="珠海綜合廣播" title="珠海綜合廣播" type="rss" url="https://lhttp-hw.qtfm.cn/live/1274/64k.mp3" />
+<outline text="珠海資訊廣播" title="珠海資訊廣播" type="rss" url="https://lhttp-hw.qtfm.cn/live/5021725/64k.mp3" />
 </body>
 </opml>

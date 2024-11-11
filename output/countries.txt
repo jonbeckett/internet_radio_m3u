@@ -3,6 +3,7 @@ AD Andorra
 AE The United Arab Emirates
 AF Afghanistan
 AG Antigua And Barbuda
+AI Anguilla
 AL Albania
 AM Armenia
 AO Angola
@@ -23,19 +24,17 @@ BH Bahrain
 BI Burundi
 BJ Benin
 BM Bermuda
-BN Brunei Darussalam
 BO Bolivia
 BQ Bonaire
 BR Brazil
 BS The Bahamas
-BT Bhutan
 BW Botswana
 BY Belarus
 BZ Belize
 CA Canada
-CC The Cocos Keeling Islands
 CD The Democratic Republic Of The Congo
 CF The Central African Republic
+CG The Congo
 CH Switzerland
 CI Coted Ivoire
 CK The Cook Islands
@@ -57,6 +56,7 @@ DZ Algeria
 EC Ecuador
 EE Estonia
 EG Egypt
+ER Eritrea
 ES Spain
 ET Ethiopia
 FI Finland
@@ -64,7 +64,6 @@ FJ Fiji
 FK The Falkland Islands Malvinas
 FO The Faroe Islands
 FR France
-GA Gabon
 GB The United Kingdom Of Great Britain And Northern Ireland
 GD Grenada
 GE Georgia
@@ -77,7 +76,6 @@ GN Guinea
 GP Guadeloupe
 GQ Equatorial Guinea
 GR Greece
-GS South Georgia And The South Sandwich Islands
 GT Guatemala
 GW Guinea Bissau
 GY Guyana
@@ -100,17 +98,20 @@ JM Jamaica
 JO Jordan
 JP Japan
 KE Kenya
+KG Kyrgyzstan
 KH Cambodia
+KM The Comoros
 KN Saint Kitts And Nevis
 KP The Democratic Peoples Republic Of Korea
 KR The Republic Of Korea
 KW Kuwait
 KY The Cayman Islands
 KZ Kazakhstan
+LA The Lao Peoples Democratic Republic
 LB Lebanon
 LC Saint Lucia
+LI Liechtenstein
 LK Sri Lanka
-LS Lesotho
 LT Lithuania
 LU Luxembourg
 LV Latvia
@@ -126,6 +127,7 @@ MM Myanmar
 MN Mongolia
 MO Macao
 MQ Martinique
+MS Montserrat
 MT Malta
 MU Mauritius
 MW Malawi
@@ -135,7 +137,6 @@ MZ Mozambique
 NA Namibia
 NC New Caledonia
 NE The Niger
-NF Norfolk Island
 NG Nigeria
 NI Nicaragua
 NL The Netherlands
@@ -146,6 +147,7 @@ OM Oman
 PA Panama
 PE Peru
 PF French Polynesia
+PG Papua New Guinea
 PH The Philippines
 PK Pakistan
 PL Poland
@@ -153,6 +155,7 @@ PM Saint Pierre And Miquelon
 PR Puerto Rico
 PS State Of Palestine
 PT Portugal
+PW Palau
 PY Paraguay
 QA Qatar
 RE Reunion
@@ -161,19 +164,18 @@ RS Serbia
 RU The Russian Federation
 RW Rwanda
 SA Saudi Arabia
-SC Seychelles
 SD The Sudan
 SE Sweden
 SG Singapore
 SH Ascension And Tristan Da Cunha Saint Helena
 SI Slovenia
-SJ Svalbard And Jan Mayen
 SK Slovakia
 SL Sierra Leone
 SM San Marino
 SN Senegal
 SO Somalia
 SR Suriname
+SS South Sudan
 ST Sao Tome And Principe
 SV El Salvador
 SY Syrian Arab Republic
@@ -184,12 +186,12 @@ TF The French Southern Territories
 TG Togo
 TH Thailand
 TJ Tajikistan
+TL Timor Leste
 TM Turkmenistan
 TN Tunisia
-TO Tonga
-TR Turkey
+TR Türkiye
 TT Trinidad And Tobago
-TW Taiwan Province Of China
+TW Taiwan, Republic Of China
 TZ United Republic Of Tanzania
 UA Ukraine
 UG Uganda
